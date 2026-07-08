@@ -106,8 +106,19 @@
               </select>
             </label>
             <label class="field">
-              <span>内容类型</span>
+              <span>企业主题</span>
               <select id="sectionSelect"></select>
+            </label>
+            <label class="field">
+              <span>内容类型</span>
+              <select id="enterpriseContentTypeSelect">
+                <option value="">全部类型</option>
+                <option value="enterprise_case">企业案例</option>
+                <option value="product_update">产品更新</option>
+                <option value="technical_practice">技术实践</option>
+                <option value="research_report">研究报告</option>
+                <option value="methodology_evaluation">方法与评估</option>
+              </select>
             </label>
             <label class="field">
               <span>信号等级</span>
@@ -187,7 +198,7 @@
             <div class="list-sort-tools" id="listSortTools" role="group" aria-label="全量列表排序">
               <button class="list-sort-btn active" type="button" data-sort="priority" title="综合来源权重、AI相关度、新鲜度与信号强度">综合</button>
               <button class="list-sort-btn" type="button" data-sort="latest" title="按发布时间或发现时间倒序">最新</button>
-              <button class="list-sort-btn" type="button" data-sort="ai" title="按高相关度信号倒序">高分</button>
+              <button class="list-sort-btn" type="button" data-sort="ai" title="按企业关注度倒序">企业分</button>
               <button class="list-sort-btn" type="button" data-sort="source" title="按来源聚合度整理">来源</button>
             </div>
             <span id="resultCount">0 条</span>
