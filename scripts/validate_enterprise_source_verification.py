@@ -8,7 +8,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-VERIFICATION_PATH = ROOT / "config" / "enterprise_ai_source_verification_batch1.json"
+DEFAULT_VERIFICATION_PATH = ROOT / "config" / "enterprise_ai_source_verification_batch1.json"
 
 ALLOWED_FEED_STATUS = {"verified", "not_found", "invalid", "blocked", "uncertain"}
 ALLOWED_DUPLICATE_RISK = {"none", "low", "medium", "high"}
@@ -18,17 +18,19 @@ ALLOWED_ACCESS_METHOD = {
     "atom",
     "opml",
     "webpage_monitor",
+    "github_release",
     "manual_review",
     "not_recommended",
 }
+ALLOWED_CONTENT_NOISE = {"low", "medium", "high"}
 SENSITIVE_RE = re.compile(
     r"(api[_-]?key|token|cookie|password|passwd|secret|bearer\s+)",
     re.IGNORECASE,
 )
 
 
-def fail(message: str) -> None:
-    print(f"enterprise_ai_source_verification_batch1.json invalid: {message}", file=sys.stderr)
+def fail(path: Path, message: str) -> None:
+    print(f"{path.name} invalid: {message}", file=sys.stderr)
     raise SystemExit(1)
 
 
@@ -44,25 +46,29 @@ def walk_strings(value):
 
 
 def main() -> None:
+    verification_path = Path(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_VERIFICATION_PATH
+    if not verification_path.is_absolute():
+        verification_path = ROOT / verification_path
+
     try:
-        data = json.loads(VERIFICATION_PATH.read_text(encoding="utf-8"))
+        data = json.loads(verification_path.read_text(encoding="utf-8"))
     except FileNotFoundError:
-        fail(f"file not found: {VERIFICATION_PATH}")
+        fail(verification_path, f"file not found: {verification_path}")
     except json.JSONDecodeError as exc:
-        fail(f"JSON parse error: {exc}")
+        fail(verification_path, f"JSON parse error: {exc}")
 
     sources = data.get("sources")
     if not isinstance(sources, list):
-        fail("sources must be a list")
+        fail(verification_path, "sources must be a list")
     if len(sources) != 8:
-        fail(f"sources must contain exactly 8 records, got {len(sources)}")
+        fail(verification_path, f"sources must contain exactly 8 records, got {len(sources)}")
 
     ids = [source.get("id") for source in sources]
     if any(not source_id for source_id in ids):
-        fail("every source must include id")
+        fail(verification_path, "every source must include id")
     duplicates = [source_id for source_id, count in Counter(ids).items() if count > 1]
     if duplicates:
-        fail(f"duplicate ids: {', '.join(sorted(duplicates))}")
+        fail(verification_path, f"duplicate ids: {', '.join(sorted(duplicates))}")
 
     required = {
         "id",
@@ -87,24 +93,33 @@ def main() -> None:
     for source in sources:
         missing = sorted(required - source.keys())
         if missing:
-            fail(f"{source.get('id', '<unknown>')} missing fields: {', '.join(missing)}")
+            fail(
+                verification_path,
+                f"{source.get('id', '<unknown>')} missing fields: {', '.join(missing)}",
+            )
         if source["feed_status"] not in ALLOWED_FEED_STATUS:
-            fail(f"{source['id']} invalid feed_status: {source['feed_status']}")
+            fail(verification_path, f"{source['id']} invalid feed_status: {source['feed_status']}")
         if source["duplicate_risk"] not in ALLOWED_DUPLICATE_RISK:
-            fail(f"{source['id']} invalid duplicate_risk: {source['duplicate_risk']}")
+            fail(
+                verification_path,
+                f"{source['id']} invalid duplicate_risk: {source['duplicate_risk']}",
+            )
         if source["recommended_access_method"] not in ALLOWED_ACCESS_METHOD:
             fail(
+                verification_path,
                 f"{source['id']} invalid recommended_access_method: "
                 f"{source['recommended_access_method']}"
             )
+        if "content_noise" in source and source["content_noise"] not in ALLOWED_CONTENT_NOISE:
+            fail(verification_path, f"{source['id']} invalid content_noise: {source['content_noise']}")
 
     sensitive_hits = sorted({text for text in walk_strings(data) if SENSITIVE_RE.search(text)})
     if sensitive_hits:
-        fail(f"possible sensitive strings found: {sensitive_hits[:3]}")
+        fail(verification_path, f"possible sensitive strings found: {sensitive_hits[:3]}")
 
     status_counts = Counter(source["feed_status"] for source in sources)
     method_counts = Counter(source["recommended_access_method"] for source in sources)
-    print("enterprise_ai_source_verification_batch1.json OK")
+    print(f"{verification_path.name} OK")
     print(f"sources: {len(sources)}")
     print("feed_status:")
     for status, count in sorted(status_counts.items()):
