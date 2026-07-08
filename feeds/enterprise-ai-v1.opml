@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Enterprise AI Radar V1 RSS</title>
+  </head>
+  <body>
+    <outline text="模型与技术平台">
+      <outline
+        text="Azure AI Foundry Blog"
+        title="Azure AI Foundry Blog"
+        type="rss"
+        xmlUrl="https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=azure-ai-foundry-blog"
+        htmlUrl="https://techcommunity.microsoft.com/category/azure-ai-foundry/blog/azure-ai-foundry-blog"
+      />
+    </outline>
+    <outline text="市场拓展与销售">
+      <outline
+        text="Salesforce Blog / Agentforce"
+        title="Salesforce Blog / Agentforce"
+        type="rss"
+        xmlUrl="https://www.salesforce.com/blog/feed/"
+        htmlUrl="https://www.salesforce.com/blog/"
+      />
+    </outline>
+    <outline text="智能客服">
+      <outline
+        text="Intercom AI &amp; ML"
+        title="Intercom AI &amp; ML"
+        type="rss"
+        xmlUrl="https://www.intercom.com/blog/category/ai-ml/feed/"
+        htmlUrl="https://www.intercom.com/blog/category/ai-ml/"
+      />
+    </outline>
+    <outline text="治理与安全">
+      <outline
+        text="OWASP GenAI Security Project"
+        title="OWASP GenAI Security Project"
+        type="rss"
+        xmlUrl="https://genai.owasp.org/feed/"
+        htmlUrl="https://genai.owasp.org/"
+      />
+    </outline>
+  </body>
+</opml>

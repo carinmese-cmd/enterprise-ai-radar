@@ -34,6 +34,21 @@ except ModuleNotFoundError:  # pragma: no cover - direct `python scripts/update_
     from ai_relevance import add_ai_relevance_fields, score_ai_relevance
 
 try:
+    from scripts.enterprise_relevance import (
+        ENTERPRISE_RELEVANCE_THRESHOLD,
+        add_enterprise_relevance_fields,
+        enterprise_headline_score,
+        select_enterprise_headlines,
+    )
+except ModuleNotFoundError:  # pragma: no cover - direct `python scripts/update_news.py`
+    from enterprise_relevance import (
+        ENTERPRISE_RELEVANCE_THRESHOLD,
+        add_enterprise_relevance_fields,
+        enterprise_headline_score,
+        select_enterprise_headlines,
+    )
+
+try:
     import feedparser
 except ModuleNotFoundError:
     feedparser = None
@@ -4948,6 +4963,8 @@ def build_story_record(
     sorted_items = sorted(items, key=source_tier_sort_key)
     primary = choose_primary_story_item(sorted_items, now, window_hours)
     importance = calculate_item_importance(primary, now, window_hours, duplicate_count=len(items))
+    enterprise_score = int(primary.get("enterprise_score") or 0)
+    enterprise_importance_score = enterprise_headline_score(primary, now)
     score = importance["score"]
     category = story_category(score, primary, len(items))
     times = [ts for ts in (event_time(item) for item in sorted_items) if ts]
@@ -4973,6 +4990,13 @@ def build_story_record(
         "importance_score": score,
         "importance_label": importance_label(category),
         "importance_breakdown": importance["breakdown"],
+        "enterprise_score": enterprise_score,
+        "enterprise_importance_score": enterprise_importance_score,
+        "enterprise_primary_topic": primary.get("enterprise_primary_topic"),
+        "enterprise_topics": primary.get("enterprise_topics") or [],
+        "enterprise_content_type": primary.get("enterprise_content_type"),
+        "enterprise_reason": primary.get("enterprise_reason"),
+        "enterprise_is_relevant": primary.get("enterprise_is_relevant"),
         "category": category,
         "reasons": story_reasons(primary, score, len(sorted_items)),
         "earliest_at": iso(min(times)) if times else None,
@@ -4983,6 +5007,14 @@ def build_story_record(
             "url": url,
             "source": primary.get("source"),
             "source_name": primary.get("site_name"),
+            "published_at": primary.get("published_at"),
+            "ai_score": primary.get("ai_score"),
+            "ai_label": primary.get("ai_label"),
+            "enterprise_score": primary.get("enterprise_score"),
+            "enterprise_primary_topic": primary.get("enterprise_primary_topic"),
+            "enterprise_topics": primary.get("enterprise_topics") or [],
+            "enterprise_content_type": primary.get("enterprise_content_type"),
+            "enterprise_reason": primary.get("enterprise_reason"),
         },
     }
 
@@ -5070,7 +5102,11 @@ def story_passes_brief_gate(story: dict[str, Any]) -> bool:
         score = float(story.get("score") or 0)
     except Exception:
         score = 0.0
-    return sources >= 2 or score >= BRIEF_SCORE_GATE
+    try:
+        enterprise_score = int(story.get("enterprise_score") or 0)
+    except Exception:
+        enterprise_score = 0
+    return sources >= 2 or score >= BRIEF_SCORE_GATE or enterprise_score >= ENTERPRISE_RELEVANCE_THRESHOLD
 
 
 def select_diverse_stories(
@@ -5131,7 +5167,82 @@ def build_daily_brief_payload(
     max_items: int = 20,
 ) -> dict[str, Any]:
     gated = [story for story in stories if story_passes_brief_gate(story)]
-    items = select_diverse_stories(gated, max_items)
+    enterprise_candidates = [
+        story for story in gated
+        if int(story.get("enterprise_score") or 0) >= ENTERPRISE_RELEVANCE_THRESHOLD
+        and str(story.get("enterprise_primary_topic") or "") not in {"", "unclassified"}
+    ]
+    if enterprise_candidates:
+        enterprise_candidates.sort(
+            key=lambda story: (
+                int(story.get("enterprise_importance_score") or 0),
+                int(story.get("enterprise_score") or 0),
+                float(story.get("score") or 0),
+                str(story.get("latest_at") or ""),
+            ),
+            reverse=True,
+        )
+        items = []
+        source_counts: dict[str, int] = {}
+        topic_counts: dict[str, int] = {}
+        for strict in (True, False):
+            for story in enterprise_candidates:
+                if len(items) >= min(10, max_items):
+                    break
+                if story in items:
+                    continue
+                source = str(story.get("source") or story.get("source_name") or "")
+                topic = str(story.get("enterprise_primary_topic") or "unclassified")
+                if strict and source_counts.get(source, 0) >= 2:
+                    continue
+                if strict and topic_counts.get(topic, 0) >= 3:
+                    continue
+                source_counts[source] = source_counts.get(source, 0) + 1
+                topic_counts[topic] = topic_counts.get(topic, 0) + 1
+                items.append(story)
+            if len(items) >= min(10, max_items):
+                break
+        required_topics = [
+            "sales_marketing_ai",
+            "intelligent_customer_service",
+            "enterprise_knowledge_rag",
+            "hr_ai",
+        ]
+        top_limit = min(10, max_items)
+        for topic in required_topics:
+            if any(str(story.get("enterprise_primary_topic") or "") == topic for story in items[:top_limit]):
+                continue
+            candidate = next(
+                (
+                    story for story in enterprise_candidates
+                    if str(story.get("enterprise_primary_topic") or "") == topic
+                    and story not in items
+                ),
+                None,
+            )
+            if not candidate:
+                continue
+            insert_at = min(len(items), top_limit - 1)
+            if len(items) < top_limit:
+                items.insert(insert_at, candidate)
+            else:
+                replace_idx = None
+                topic_counts = {
+                    str(story.get("enterprise_primary_topic") or "unclassified"): 0
+                    for story in items[:top_limit]
+                }
+                for story in items[:top_limit]:
+                    key = str(story.get("enterprise_primary_topic") or "unclassified")
+                    topic_counts[key] = topic_counts.get(key, 0) + 1
+                for idx in range(top_limit - 1, -1, -1):
+                    current_topic = str(items[idx].get("enterprise_primary_topic") or "unclassified")
+                    if topic_counts.get(current_topic, 0) > 1:
+                        replace_idx = idx
+                        break
+                if replace_idx is not None:
+                    items[replace_idx] = candidate
+    else:
+        items = select_diverse_stories(gated, max_items)
     return {
         "generated_at": generated_at,
         "window_hours": window_hours,
@@ -5186,6 +5297,7 @@ def build_creator_hot_items(
             str(normalized.get("url") or ""),
         ))
         normalized = add_ai_relevance_fields(normalized)
+        normalized = add_enterprise_relevance_fields(normalized)
         if ai_only and not normalized.get("ai_is_related", is_ai_related_record(normalized)):
             continue
         normalized = add_source_tier_fields(normalized)
@@ -5457,6 +5569,7 @@ def main() -> int:
             ):
                 continue
             normalized = add_ai_relevance_fields(normalized)
+            normalized = add_enterprise_relevance_fields(normalized)
             normalized = add_source_tier_fields(normalized)
             latest_items_all.append(normalized)
 

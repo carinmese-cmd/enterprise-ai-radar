@@ -3,31 +3,31 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI News Radar｜24 小时 AI 更新雷达</title>
+    <title>企业AI落地雷达｜Enterprise AI Implementation Radar</title>
     <meta
       name="description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+      content="聚焦企业AI战略、业务场景、技术选型、实施路径与应用价值。"
     />
     <link rel="canonical" href="https://learnprompt.github.io/ai-news-radar/" />
-    <meta property="og:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <meta property="og:title" content="企业AI落地雷达｜Enterprise AI Implementation Radar" />
     <meta
       property="og:description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+      content="聚焦企业AI战略、业务场景、技术选型、实施路径与应用价值。"
     />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://learnprompt.github.io/ai-news-radar/" />
-    <meta property="og:site_name" content="AI News Radar" />
-    <meta name="application-name" content="AI News Radar" />
+    <meta property="og:site_name" content="企业AI落地雷达" />
+    <meta name="application-name" content="企业AI落地雷达" />
     <meta name="theme-color" content="#f6f6f2" />
     <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-title" content="AI News Radar" />
+    <meta name="apple-mobile-web-app-title" content="企业AI落地雷达" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <meta name="twitter:title" content="企业AI落地雷达｜Enterprise AI Implementation Radar" />
     <meta
       name="twitter:description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+      content="聚焦企业AI战略、业务场景、技术选型、实施路径与应用价值。"
     />
     <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
@@ -40,10 +40,11 @@
       <header class="hero">
         <div class="hero-main">
           <div class="hero-headline">
-            <img class="hero-logo" src="./assets/logo.svg" alt="AI News Radar Logo" />
+            <img class="hero-logo" src="./assets/logo.svg" alt="企业AI落地雷达 Logo" />
             <div>
-              <p class="hero-tag">AI INTELLIGENCE RADAR</p>
-              <h1>AI News Radar</h1>
+              <p class="hero-tag">Enterprise AI Implementation Radar</p>
+              <h1>企业AI落地雷达</h1>
+              <p class="hero-subtitle">聚焦企业AI战略、业务场景、技术选型、实施路径与应用价值。</p>
             </div>
           </div>
         </div>
@@ -64,18 +65,18 @@
         <section class="stats" id="stats"></section>
 
         <section class="section-nav-wrap" aria-label="内容栏目">
-          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
+          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="企业AI主题"></div>
           <div class="section-summary" id="sectionSummary">正在整理栏目...</div>
         </section>
       </header>
 
       <section class="primary-controls">
-        <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" />
-        <div class="mode-hint" id="modeHint">AI强相关</div>
+        <input id="searchInput" type="search" placeholder="搜索企业AI信号 / 来源" />
+        <div class="mode-hint" id="modeHint">企业AI强相关</div>
       </section>
 
       <div class="sticky-summary-bar" aria-label="当前视图摘要">
-        <strong>AI News Radar</strong>
+        <strong>企业AI落地雷达</strong>
         <span id="stickySummaryText">正在整理 24 小时信号...</span>
       </div>
 
@@ -106,8 +107,19 @@
               </select>
             </label>
             <label class="field">
-              <span>内容类型</span>
+              <span>企业主题</span>
               <select id="sectionSelect"></select>
+            </label>
+            <label class="field">
+              <span>内容类型</span>
+              <select id="enterpriseContentTypeSelect">
+                <option value="">全部类型</option>
+                <option value="enterprise_case">企业案例</option>
+                <option value="product_update">产品更新</option>
+                <option value="technical_practice">技术实践</option>
+                <option value="research_report">研究报告</option>
+                <option value="methodology_evaluation">方法与评估</option>
+              </select>
             </label>
             <label class="field">
               <span>信号等级</span>
@@ -127,7 +139,7 @@
             <div class="field">
               <span>AI 相关度</span>
               <div class="mode-switch">
-                <button id="modeAiBtn" class="mode-btn active" type="button">AI强相关</button>
+                <button id="modeAiBtn" class="mode-btn active" type="button">企业AI强相关</button>
                 <button id="modeAllBtn" class="mode-btn" type="button">全量</button>
               </div>
             </div>
@@ -151,8 +163,8 @@
       <section class="bole-picks-wrap" aria-label="今日 Top 3" id="bolePicksWrap">
         <div class="bole-picks-head">
           <div>
-            <p class="section-eyebrow">TODAY'S SIGNALS</p>
-            <h2 id="topStoriesTitle">今日重点信号</h2>
+            <p class="section-eyebrow">TODAY'S FOCUS</p>
+            <h2 id="topStoriesTitle">今日重点</h2>
           </div>
           <div class="bole-head-tools">
             <div class="bole-view-toggle" id="boleViewToggle" hidden>
@@ -164,6 +176,8 @@
         </div>
         <div id="bolePicksList" class="bole-board"></div>
       </section>
+
+      <section class="enterprise-home-sections" id="enterpriseHomeSections" aria-label="企业AI首页栏目"></section>
 
       <section class="waytoagi-wrap">
         <div class="waytoagi-head">
@@ -182,12 +196,12 @@
 
       <section class="list-wrap">
         <div class="list-head">
-          <h2 id="listTitle">全量 AI 情报源</h2>
+          <h2 id="listTitle">完整信号流</h2>
           <div class="list-head-tools">
             <div class="list-sort-tools" id="listSortTools" role="group" aria-label="全量列表排序">
               <button class="list-sort-btn active" type="button" data-sort="priority" title="综合来源权重、AI相关度、新鲜度与信号强度">综合</button>
               <button class="list-sort-btn" type="button" data-sort="latest" title="按发布时间或发现时间倒序">最新</button>
-              <button class="list-sort-btn" type="button" data-sort="ai" title="按高相关度信号倒序">高分</button>
+              <button class="list-sort-btn" type="button" data-sort="ai" title="按企业关注度倒序">企业分</button>
               <button class="list-sort-btn" type="button" data-sort="source" title="按来源聚合度整理">来源</button>
             </div>
             <span id="resultCount">0 条</span>
