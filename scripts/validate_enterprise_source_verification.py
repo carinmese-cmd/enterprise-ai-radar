@@ -23,6 +23,8 @@ ALLOWED_ACCESS_METHOD = {
     "not_recommended",
 }
 ALLOWED_CONTENT_NOISE = {"low", "medium", "high"}
+ALLOWED_UPDATE_FREQUENCY = {"daily", "weekly", "monthly", "irregular", "low_frequency"}
+ALLOWED_TIME_WINDOW_HOURS = {24, 72, 168, 720}
 SENSITIVE_RE = re.compile(
     r"(api[_-]?key|token|cookie|password|passwd|secret|bearer\s+)",
     re.IGNORECASE,
@@ -112,6 +114,25 @@ def main() -> None:
             )
         if "content_noise" in source and source["content_noise"] not in ALLOWED_CONTENT_NOISE:
             fail(verification_path, f"{source['id']} invalid content_noise: {source['content_noise']}")
+        if (
+            "update_frequency" in source
+            and source["update_frequency"] not in ALLOWED_UPDATE_FREQUENCY
+        ):
+            fail(
+                verification_path,
+                f"{source['id']} invalid update_frequency: {source['update_frequency']}",
+            )
+        if (
+            "recommended_time_window_hours" in source
+            and source["recommended_time_window_hours"] not in ALLOWED_TIME_WINDOW_HOURS
+        ):
+            fail(
+                verification_path,
+                f"{source['id']} invalid recommended_time_window_hours: "
+                f"{source['recommended_time_window_hours']}",
+            )
+        if "keep_p0" in source and not isinstance(source["keep_p0"], bool):
+            fail(verification_path, f"{source['id']} keep_p0 must be true or false")
 
     sensitive_hits = sorted({text for text in walk_strings(data) if SENSITIVE_RE.search(text)})
     if sensitive_hits:
