@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T18:58:36.236743Z",
+  "generated_at": "2026-07-08T22:41:10.838481Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_779e86c533da",
@@ -48,18 +48,18 @@
           "published_at": "2026-07-08T08:29:47.091000Z"
         },
         {
-          "id": "578c96b0cc2eed1f1c0b89821a333ea774423925",
+          "id": "68ce452810e6362b607d38a17c0ed8140e7a52d2",
           "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
           "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-08T05:25:35Z"
         }
       ],
       "source_count": 5,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Lobsters (技术社区)",
         "noma.security"
@@ -102,30 +102,30 @@
           "published_at": "2026-07-08T08:29:47.091000Z"
         },
         {
-          "id": "578c96b0cc2eed1f1c0b89821a333ea774423925",
+          "id": "68ce452810e6362b607d38a17c0ed8140e7a52d2",
           "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
           "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-08T05:25:35Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8693,
-      "importance": 0.8693,
-      "importance_score": 0.8693,
+      "score": 0.8612,
+      "importance": 0.8612,
+      "importance_score": 0.8612,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8596,
+        "recency": 0.8147,
         "story_heat": 1.0
       },
       "enterprise_score": 76,
-      "enterprise_importance_score": 77,
+      "enterprise_importance_score": 76,
       "enterprise_primary_topic": "evaluation_governance",
       "enterprise_topics": [
         "evaluation_governance"
@@ -157,6 +157,85 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_04295a4109c6",
+      "title": "Foundry IQ 现已加入 Copilot Studio：将您的企业数据带入每次座席对话中 / Foundry IQ is now in Copilot Studio: Bring your enterprise data to every agent conversation",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/foundry-iq-is-now-in-copilot-studio-bring-your-enterprise-data/ba-p/4534635",
+      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/foundry-iq-is-now-in-copilot-studio-bring-your-enterprise-data/ba-p/4534635",
+      "source": "Azure AI Foundry Blog",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "d486348619a9bcd513f249df8def82365170a999",
+          "title": "Foundry IQ 现已加入 Copilot Studio：将您的企业数据带入每次座席对话中 / Foundry IQ is now in Copilot Studio: Bring your enterprise data to every agent conversation",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/foundry-iq-is-now-in-copilot-studio-bring-your-enterprise-data/ba-p/4534635",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-08T21:24:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Azure AI Foundry Blog"
+      ],
+      "items": [
+        {
+          "id": "d486348619a9bcd513f249df8def82365170a999",
+          "title": "Foundry IQ 现已加入 Copilot Studio：将您的企业数据带入每次座席对话中 / Foundry IQ is now in Copilot Studio: Bring your enterprise data to every agent conversation",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/foundry-iq-is-now-in-copilot-studio-bring-your-enterprise-data/ba-p/4534635",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-08T21:24:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5821,
+      "importance": 0.5821,
+      "importance_score": 0.5821,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9817,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 63,
+      "enterprise_importance_score": 69,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：模型与平台选型",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-08T21:24:32Z",
+      "latest_at": "2026-07-08T21:24:32Z",
+      "primary_item": {
+        "id": "d486348619a9bcd513f249df8def82365170a999",
+        "title": "Foundry IQ 现已加入 Copilot Studio：将您的企业数据带入每次座席对话中 / Foundry IQ is now in Copilot Studio: Bring your enterprise data to every agent conversation",
+        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/foundry-iq-is-now-in-copilot-studio-bring-your-enterprise-data/ba-p/4534635",
+        "source": "Azure AI Foundry Blog",
+        "source_name": "OPML RSS",
+        "published_at": "2026-07-08T21:24:32Z",
+        "ai_score": 0.71,
+        "ai_label": "developer_tool",
+        "enterprise_score": 63,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：模型与平台选型"
       }
     }
   ]
