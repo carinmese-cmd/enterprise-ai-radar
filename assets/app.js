@@ -60,6 +60,7 @@ const sectionSelectEl = document.getElementById("sectionSelect");
 const sourceTypeSelectEl = document.getElementById("sourceTypeSelect");
 const signalLevelSelectEl = document.getElementById("signalLevelSelect");
 const enterpriseContentTypeSelectEl = document.getElementById("enterpriseContentTypeSelect");
+const enterpriseHomeSectionsEl = document.getElementById("enterpriseHomeSections");
 
 const waytoagiWrapEl = document.querySelector(".waytoagi-wrap");
 const waytoagiUpdatedAtEl = document.getElementById("waytoagiUpdatedAt");
@@ -128,6 +129,33 @@ const ENTERPRISE_CONTENT_TYPE_LABELS = {
   general_news: "一般资讯",
 };
 
+const ENTERPRISE_HOME_SECTION_DEFS = [
+  {
+    title: "企业AI落地案例",
+    topics: [],
+    contentTypes: ["enterprise_case"],
+    limit: 4,
+  },
+  {
+    title: "核心业务场景",
+    topics: ["hr_ai", "sales_marketing_ai", "intelligent_customer_service", "enterprise_knowledge_rag"],
+    contentTypes: [],
+    limit: 8,
+  },
+  {
+    title: "模型、平台与技术选型",
+    topics: ["model_platform_selection"],
+    contentTypes: [],
+    limit: 4,
+  },
+  {
+    title: "AI应用评估与治理",
+    topics: ["evaluation_governance"],
+    contentTypes: [],
+    limit: 4,
+  },
+];
+
 const LIST_SORT_DEFS = [
   { id: "priority", label: "综合" },
   { id: "latest", label: "最新" },
@@ -178,7 +206,7 @@ function setStats() {
   ];
   statsEl.setAttribute(
     "aria-label",
-    `过去 24 小时：AI 信号 ${fmtNumber(state.totalAi || items.length)} 条，高优先级 ${fmtNumber(highCount)} 条，精选 ${fmtNumber(curatedCount)} 条，源状态 ${totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常` : "加载中"}`,
+    `过去 24 小时：企业AI信号 ${fmtNumber(state.totalAi || items.length)} 条，高优先级 ${fmtNumber(highCount)} 条，精选 ${fmtNumber(curatedCount)} 条，源状态 ${totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常` : "加载中"}`,
   );
 
   const prefix = document.createElement("div");
@@ -240,7 +268,7 @@ function renderStickySummary() {
     state.signalLevelFilter ? signalLevel : "",
     query ? `搜索“${query}”` : "",
   ].filter(Boolean);
-  const mode = state.mode === "all" ? "全量" : "AI强相关";
+  const mode = state.mode === "all" ? "全量" : "企业AI强相关";
   stickySummaryTextEl.textContent = `${fmtNumber(filteredCount)} 条 · ${mode}${filters.length ? ` · ${filters.join(" · ")}` : ""}`;
 }
 
@@ -302,7 +330,7 @@ function siteRawPoolCount(siteId) {
 }
 
 function sourcePoolMeta(aiCount, rawCount, fallback) {
-  if (rawCount && rawCount !== aiCount) return `AI强相关 · 原始 ${fmtNumber(rawCount)} 条`;
+  if (rawCount && rawCount !== aiCount) return `企业AI强相关 · 原始 ${fmtNumber(rawCount)} 条`;
   return fallback;
 }
 
@@ -373,7 +401,7 @@ function renderCoverageStrip(errorMessage = "") {
   const cards = [
     ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
     ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
-    ["AI强相关", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
+    ["企业AI强相关", `${fmtNumber(state.totalAi)} 条`, "24小时企业AI强相关信号", "signal"],
     ["官方/日报源池", `${fmtNumber(officialCount + newsletterCount)} 条`, "官方节点 + AI Breakfast", "official"],
     ["精选媒体源池", `${fmtNumber(curatedMediaCount)} 条`, "The Decoder / TC / Verge / MTP 等", "signal"],
     ["Builders/X源池", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
@@ -525,7 +553,7 @@ function renderSectionSummary(filteredItems = null) {
   const items = filteredItems || getFilteredItems();
   const highCount = items.filter((item) => isHighPriorityItem(item)).length;
   const sources = new Set(items.map((item) => item.source || item.site_name || item.site_id).filter(Boolean));
-  const modeText = state.mode === "all" ? (state.allDedup ? "全量去重" : "全量原始") : "AI强相关";
+  const modeText = state.mode === "all" ? (state.allDedup ? "全量去重" : "全量原始") : "企业AI强相关";
   const windowText = state.activeSection === "creator" ? `过去 ${fmtNumber(state.creatorWindowDays)} 天 · 热度优先` : "过去 24 小时";
   sectionSummaryEl.textContent = `${windowText} · ${fmtNumber(items.length)} 条${section.id === "hot" ? "" : ` ${section.label}`}信号 · ${fmtNumber(highCount)} 条高优先级 · ${fmtNumber(sources.size)} 个来源 · ${modeText}`;
   renderStickySummary();
@@ -607,7 +635,7 @@ function renderModeSwitch() {
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
   if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
   if (state.mode === "ai") {
-    modeHintEl.textContent = `AI强相关 · ${fmtNumber(state.totalAi)} 条`;
+    modeHintEl.textContent = `企业AI强相关 · ${fmtNumber(state.totalAi)} 条`;
   } else {
     const allCount = state.allDedup
       ? (state.totalAllMode || state.itemsAll.length)
@@ -1879,7 +1907,7 @@ function renderBolePicks() {
     : rankedFallbackRows(filtered).slice(0, defaultLimit);
   const top = rows.slice(0, 3);
   const remainingCount = Math.max(0, rows.length - top.length);
-  if (topStoriesTitleEl) topStoriesTitleEl.textContent = state.activeSection === "hot" ? "今日重点信号" : `${section.label}重点信号`;
+  if (topStoriesTitleEl) topStoriesTitleEl.textContent = state.activeSection === "hot" ? "今日重点" : `${section.label}重点`;
   const storyMeta = usesStories
     ? `展示池：热点 ${fmtNumber(candidateCounts.hot)}/${fmtNumber(candidateCounts.hotTotal)} · 时间线 ${fmtNumber(candidateCounts.timeline)}/${fmtNumber(candidateCounts.timelineTotal)}`
     : `展示池：${fmtNumber(rows.length)} 条`;
@@ -1907,7 +1935,48 @@ function renderBolePicks() {
   if (followup) {
     bolePicksListEl.appendChild(followup);
   }
+  renderEnterpriseHomeSections();
   document.dispatchEvent(new CustomEvent("aiRadar:briefRendered"));
+}
+
+function renderEnterpriseHomeSections() {
+  if (!enterpriseHomeSectionsEl) return;
+  enterpriseHomeSectionsEl.innerHTML = "";
+  const items = modeItems()
+    .filter((item) => item.enterprise_is_relevant && item.enterprise_primary_topic)
+    .sort((a, b) => itemPriorityScore(b) - itemPriorityScore(a) || timelineMs(b) - timelineMs(a));
+  ENTERPRISE_HOME_SECTION_DEFS.forEach((def) => {
+    const section = document.createElement("section");
+    section.className = "source-group enterprise-home-section";
+    const header = document.createElement("header");
+    header.className = "source-group-head";
+    const title = document.createElement("h3");
+    title.textContent = def.title;
+    const matches = items.filter((item) => {
+      const topics = enterpriseTopics(item);
+      const byTopic = !def.topics.length || def.topics.some((topic) => topics.includes(topic));
+      const byType = !def.contentTypes.length || def.contentTypes.includes(item.enterprise_content_type);
+      return byTopic && byType;
+    });
+    const count = document.createElement("span");
+    count.className = "group-summary";
+    count.textContent = `${fmtNumber(matches.length)} 条`;
+    header.append(title, count);
+    section.appendChild(header);
+
+    if (!matches.length) {
+      const empty = document.createElement("div");
+      empty.className = "empty";
+      empty.textContent = "当前信源覆盖不足，后续补充专项信源。";
+      section.appendChild(empty);
+    } else {
+      const list = document.createElement("div");
+      list.className = "source-group-list";
+      matches.slice(0, def.limit).forEach((item) => list.appendChild(renderItemNode(item)));
+      section.appendChild(list);
+    }
+    enterpriseHomeSectionsEl.appendChild(section);
+  });
 }
 
 function rankedClustersForItems(items) {
@@ -2846,6 +2915,12 @@ function renderSourceHealth(errorMessage = "") {
   sourceHealthEl.appendChild(renderSourceHealthSummaryNode(status, errorMessage));
   const detailTarget = sourceHealthDetailsEl || sourceHealthEl;
   detailTarget.appendChild(metricGrid);
+  if (Array.isArray(rss.feeds) && rss.feeds.length) {
+    const rssNames = rss.feeds
+      .map((feed) => feed.feed_title || feed.feed_url)
+      .filter(Boolean);
+    detailTarget.appendChild(renderIssueList("OPML RSS", rssNames));
+  }
   if (state.xAuthorsExpanded && xAuthors.length) {
     detailTarget.appendChild(renderSocialdataAuthorList(xAuthors, socialdataDisplayCount));
   }

@@ -26,6 +26,15 @@ ALLOWED_IMPLEMENTATION_PHASE = {
     "phase_3_manual_report_pool",
 }
 ALLOWED_TIME_WINDOWS = {24, 72, 168, 720}
+EXPECTED_ENABLED_V1 = {
+    "OpenAI News",
+    "Anthropic Newsroom",
+    "Azure AI Foundry Blog",
+    "Salesforce Blog / Agentforce",
+    "Intercom AI & ML",
+    "InfoQ AI",
+    "OWASP GenAI Security Project",
+}
 SENSITIVE_RE = re.compile(
     r"(api[_-]?key|token|cookie|password|passwd|secret|bearer\s+)",
     re.IGNORECASE,
@@ -115,10 +124,15 @@ def main() -> None:
             fail(f"{source['id']} invalid implementation_phase: {phase}")
         if source["time_window_hours"] not in ALLOWED_TIME_WINDOWS:
             fail(f"{source['id']} invalid time_window_hours: {source['time_window_hours']}")
-        if source["enabled_in_v1"] is not False:
-            fail(f"{source['id']} enabled_in_v1 must be false")
+        expected_enabled = source["name"] in EXPECTED_ENABLED_V1
+        if source["enabled_in_v1"] is not expected_enabled:
+            fail(f"{source['id']} enabled_in_v1 must be {str(expected_enabled).lower()}")
         if method in {"rss", "atom"} and not source["verified_feed_url"]:
             fail(f"{source['id']} {method} source must include verified_feed_url")
+
+    enabled_count = sum(1 for source in sources if source["enabled_in_v1"] is True)
+    if enabled_count != len(EXPECTED_ENABLED_V1):
+        fail(f"enabled_in_v1 must be true for exactly {len(EXPECTED_ENABLED_V1)} records")
 
     sensitive_hits = sorted({text for text in walk_strings(access_plan) if SENSITIVE_RE.search(text)})
     if sensitive_hits:

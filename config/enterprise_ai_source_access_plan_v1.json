@@ -15,7 +15,7 @@
       "duplicate_risk": "high",
       "content_noise": "medium",
       "evidence_level": "A",
-      "enabled_in_v1": false,
+      "enabled_in_v1": true,
       "target_section": "??????????",
       "implementation_phase": "phase_1_existing_and_feed",
       "notes": "The public RSS feed is valid and column-matching. The official page returned 403 to the scripted client, so page access should not be used as the primary access path."
@@ -33,7 +33,7 @@
       "duplicate_risk": "high",
       "content_noise": "low",
       "evidence_level": "A",
-      "enabled_in_v1": false,
+      "enabled_in_v1": true,
       "target_section": "??????????",
       "implementation_phase": "phase_1_existing_and_feed",
       "notes": "The page is accessible, but no RSS/Atom rel alternate declaration or public feed link was found in the page HTML during this batch."
@@ -87,7 +87,7 @@
       "duplicate_risk": "low",
       "content_noise": "low",
       "evidence_level": "A",
-      "enabled_in_v1": false,
+      "enabled_in_v1": true,
       "target_section": "??????????",
       "implementation_phase": "phase_1_existing_and_feed",
       "notes": "The page exposes a board RSS link and the feed is valid, public, itemized, and column-matching."
@@ -231,7 +231,7 @@
       "duplicate_risk": "low",
       "content_noise": "medium",
       "evidence_level": "A",
-      "enabled_in_v1": false,
+      "enabled_in_v1": true,
       "target_section": "???????AI",
       "implementation_phase": "phase_1_existing_and_feed",
       "notes": "The official blog page declares an RSS feed and the feed is valid. Recent entries are strongly AI/Agentforce/CRM-heavy, but there are also broad SaaS and small-business posts, so downstream filtering is needed."
@@ -285,7 +285,7 @@
       "duplicate_risk": "low",
       "content_noise": "low",
       "evidence_level": "A",
-      "enabled_in_v1": false,
+      "enabled_in_v1": true,
       "target_section": "????",
       "implementation_phase": "phase_1_existing_and_feed",
       "notes": "The official AI and automation category declares a category RSS feed. The feed is valid and recent entries match customer support AI, sales agents, service agents, knowledge management, and outcome measurement."
@@ -393,7 +393,7 @@
       "duplicate_risk": "high",
       "content_noise": "high",
       "evidence_level": "C",
-      "enabled_in_v1": false,
+      "enabled_in_v1": true,
       "target_section": "??????????",
       "implementation_phase": "phase_1_existing_and_feed",
       "notes": "The existing InfoQ feed is valid and public, but it is a broad site feed rather than a verified /topic/AI feed. Do not add the topic page separately before overlap review."
@@ -429,7 +429,7 @@
       "duplicate_risk": "low",
       "content_noise": "low",
       "evidence_level": "A",
-      "enabled_in_v1": false,
+      "enabled_in_v1": true,
       "target_section": "AI???????",
       "implementation_phase": "phase_1_existing_and_feed",
       "notes": "The official OWASP GenAI Security Project page declares a public RSS feed. The feed is valid and focused on GenAI security, agentic application risks, exploit reports, project updates, and governance resources."
