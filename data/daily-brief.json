@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T10:39:39.278787Z",
+  "generated_at": "2026-07-09T18:13:07.084070Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_04295a4109c6",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8258,
+        "recency": 0.7404,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
-      "enterprise_importance_score": 68,
+      "enterprise_importance_score": 67,
       "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
         "model_platform_selection"
@@ -80,6 +80,85 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：模型与平台选型"
+      }
+    },
+    {
+      "story_id": "story_787cd470dfea",
+      "title": "Asker：一款采用3D交叉验证技术的苏格拉底式AI审计代理",
+      "url": "https://news.ycombinator.com/item?id=48843782",
+      "primary_url": "https://news.ycombinator.com/item?id=48843782",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ec706b884ba55ce7b8fc93369fb03e4d419c4df4",
+          "title": "Asker：一款采用3D交叉验证技术的苏格拉底式AI审计代理",
+          "url": "https://news.ycombinator.com/item?id=48843782",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T10:58:13.803000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "ec706b884ba55ce7b8fc93369fb03e4d419c4df4",
+          "title": "Asker：一款采用3D交叉验证技术的苏格拉底式AI审计代理",
+          "url": "https://news.ycombinator.com/item?id=48843782",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-09T10:58:13.803000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9006,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 62,
+      "enterprise_importance_score": 65,
+      "enterprise_primary_topic": "evaluation_governance",
+      "enterprise_topics": [
+        "evaluation_governance"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：AI应用评估与治理",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-09T10:58:13.803000Z",
+      "latest_at": "2026-07-09T10:58:13.803000Z",
+      "primary_item": {
+        "id": "ec706b884ba55ce7b8fc93369fb03e4d419c4df4",
+        "title": "Asker：一款采用3D交叉验证技术的苏格拉底式AI审计代理",
+        "url": "https://news.ycombinator.com/item?id=48843782",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-07-09T10:58:13.803000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_tech",
+        "enterprise_score": 62,
+        "enterprise_primary_topic": "evaluation_governance",
+        "enterprise_topics": [
+          "evaluation_governance"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：AI应用评估与治理"
       }
     }
   ]
