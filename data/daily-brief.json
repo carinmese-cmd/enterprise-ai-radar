@@ -1,164 +1,8 @@
 {
-  "generated_at": "2026-07-08T22:41:10.838481Z",
+  "generated_at": "2026-07-09T10:39:39.278787Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "items": [
-    {
-      "story_id": "story_779e86c533da",
-      "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "primary_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
-          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T14:37:37.637000Z"
-        },
-        {
-          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T14:04:11Z"
-        },
-        {
-          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
-          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "68ce452810e6362b607d38a17c0ed8140e7a52d2",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T05:25:35Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "noma.security"
-      ],
-      "items": [
-        {
-          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
-          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T14:37:37.637000Z"
-        },
-        {
-          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T14:04:11Z"
-        },
-        {
-          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
-          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "68ce452810e6362b607d38a17c0ed8140e7a52d2",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T05:25:35Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8612,
-      "importance": 0.8612,
-      "importance_score": 0.8612,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8147,
-        "story_heat": 1.0
-      },
-      "enterprise_score": 76,
-      "enterprise_importance_score": 76,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T05:25:35Z",
-      "latest_at": "2026-07-08T14:37:37.637000Z",
-      "primary_item": {
-        "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-        "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT",
-        "published_at": "2026-07-08T08:29:47.091000Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 76,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
-      }
-    },
     {
       "story_id": "story_04295a4109c6",
       "title": "Foundry IQ 现已加入 Copilot Studio：将您的企业数据带入每次座席对话中 / Foundry IQ is now in Copilot Studio: Bring your enterprise data to every agent conversation",
@@ -194,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5821,
-      "importance": 0.5821,
-      "importance_score": 0.5821,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9817,
+        "recency": 0.8258,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
-      "enterprise_importance_score": 69,
+      "enterprise_importance_score": 68,
       "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
         "model_platform_selection"
