@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T10:41:54.294085Z",
+  "generated_at": "2026-07-13T18:06:17.990510Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_dcda45917d79",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8986,
         "story_heat": 0.0
       },
       "enterprise_score": 72,
-      "enterprise_importance_score": 70,
+      "enterprise_importance_score": 69,
       "enterprise_primary_topic": "intelligent_customer_service",
       "enterprise_topics": [
         "intelligent_customer_service"
@@ -80,6 +80,85 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：智能客服"
+      }
+    },
+    {
+      "story_id": "story_af1a56296517",
+      "title": "专家表示，他们只需一个编辑权限就可以在谷歌的人工智能平台上创建一个流氓代理 / Experts say they were able to create a rogue agent in Google’s AI platform with just a single edit permission",
+      "url": "https://www.techradar.com/pro/security/experts-say-they-were-able-to-create-a-rogue-agent-in-googles-ai-platform-with-just-a-single-edit-permission",
+      "primary_url": "https://www.techradar.com/pro/security/experts-say-they-were-able-to-create-a-rogue-agent-in-googles-ai-platform-with-just-a-single-edit-permission",
+      "source": "TechRadar",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "01284008a0274045fcb0b94eb96374440cde73e8",
+          "title": "专家表示，他们只需一个编辑权限就可以在谷歌的人工智能平台上创建一个流氓代理 / Experts say they were able to create a rogue agent in Google’s AI platform with just a single edit permission",
+          "url": "https://www.techradar.com/pro/security/experts-say-they-were-able-to-create-a-rogue-agent-in-googles-ai-platform-with-just-a-single-edit-permission",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T16:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "01284008a0274045fcb0b94eb96374440cde73e8",
+          "title": "专家表示，他们只需一个编辑权限就可以在谷歌的人工智能平台上创建一个流氓代理 / Experts say they were able to create a rogue agent in Google’s AI platform with just a single edit permission",
+          "url": "https://www.techradar.com/pro/security/experts-say-they-were-able-to-create-a-rogue-agent-in-googles-ai-platform-with-just-a-single-edit-permission",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T16:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9712,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 71,
+      "enterprise_importance_score": 69,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-13T16:05:00Z",
+      "latest_at": "2026-07-13T16:05:00Z",
+      "primary_item": {
+        "id": "01284008a0274045fcb0b94eb96374440cde73e8",
+        "title": "专家表示，他们只需一个编辑权限就可以在谷歌的人工智能平台上创建一个流氓代理 / Experts say they were able to create a rogue agent in Google’s AI platform with just a single edit permission",
+        "url": "https://www.techradar.com/pro/security/experts-say-they-were-able-to-create-a-rogue-agent-in-googles-ai-platform-with-just-a-single-edit-permission",
+        "source": "TechRadar",
+        "source_name": "TechURLs",
+        "published_at": "2026-07-13T16:05:00Z",
+        "ai_score": 0.65,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 71,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
       }
     }
   ]
