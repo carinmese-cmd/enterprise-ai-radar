@@ -1,175 +1,85 @@
 {
-  "generated_at": "2026-07-12T22:33:15.400087Z",
+  "generated_at": "2026-07-13T10:41:54.294085Z",
   "window_hours": 24,
   "total_items": 1,
   "items": [
     {
-      "story_id": "story_2df82173bb28",
-      "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-12",
-      "source_name": "WaytoAGI",
+      "story_id": "story_dcda45917d79",
+      "title": "用 Solon AI ReActAgent 落地智能客服工单处理",
+      "url": "https://www.oschina.net/news/471665",
+      "primary_url": "https://www.oschina.net/news/471665",
+      "source": "开源中国 · 热门资讯",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "d133bdd1b1e6b872b9efacecbf1cac68d0dc435b",
-          "title": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T19:57:28.330717Z"
-        },
-        {
-          "id": "dbea5909c66324dccd6557c809604789cab3e158",
-          "title": "常年批量制作淘宝、亚马逊商品图的手工艺商家，这套子母二段式提示词体系可以帮你处理AI篡改产品造型的低效难题。整套框架划分为产品变量、锁定实物细节的母提示词、定义画面用途的子提示词三层结构。 图片一换，变量只改一点点，整套电商视觉就能跟着跑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T19:57:28.330717Z"
-        },
-        {
-          "id": "9e195b60c4529fab4b75186aba85e70421e15d69",
-          "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T19:57:28.330717Z"
-        },
-        {
-          "id": "b2729d8d19d03d8935cddeb97ae95434c4e1b328",
-          "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T19:57:28.330717Z"
-        },
-        {
-          "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
-          "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T15:38:48.295384Z"
-        },
-        {
-          "id": "9b390655dafd542dce2eb4f54ba659155af6b256",
-          "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T15:38:48.295384Z"
+          "id": "ea03a051e0197b45316f64f38a4dc7f418127c6e",
+          "title": "用 Solon AI ReActAgent 落地智能客服工单处理",
+          "url": "https://www.oschina.net/news/471665",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 6,
+      "source_count": 1,
       "source_names": [
-        "社区更新 · 2026-07-12"
+        "开源中国 · 热门资讯"
       ],
       "items": [
         {
-          "id": "d133bdd1b1e6b872b9efacecbf1cac68d0dc435b",
-          "title": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T19:57:28.330717Z"
-        },
-        {
-          "id": "dbea5909c66324dccd6557c809604789cab3e158",
-          "title": "常年批量制作淘宝、亚马逊商品图的手工艺商家，这套子母二段式提示词体系可以帮你处理AI篡改产品造型的低效难题。整套框架划分为产品变量、锁定实物细节的母提示词、定义画面用途的子提示词三层结构。 图片一换，变量只改一点点，整套电商视觉就能跟着跑。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T19:57:28.330717Z"
-        },
-        {
-          "id": "9e195b60c4529fab4b75186aba85e70421e15d69",
-          "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T19:57:28.330717Z"
-        },
-        {
-          "id": "b2729d8d19d03d8935cddeb97ae95434c4e1b328",
-          "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T19:57:28.330717Z"
-        },
-        {
-          "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
-          "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T15:38:48.295384Z"
-        },
-        {
-          "id": "9b390655dafd542dce2eb4f54ba659155af6b256",
-          "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-12T15:38:48.295384Z"
+          "id": "ea03a051e0197b45316f64f38a4dc7f418127c6e",
+          "title": "用 Solon AI ReActAgent 落地智能客服工单处理",
+          "url": "https://www.oschina.net/news/471665",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6792,
-      "importance": 0.6792,
-      "importance_score": 0.6792,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4968,
-        "source_tier": 0.54,
-        "ai_relevance": 0.69,
-        "recency": 0.9632,
-        "story_heat": 1.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "enterprise_score": 100,
-      "enterprise_importance_score": 90,
-      "enterprise_primary_topic": "implementation_path",
+      "enterprise_score": 72,
+      "enterprise_importance_score": 70,
+      "enterprise_primary_topic": "intelligent_customer_service",
       "enterprise_topics": [
-        "implementation_path"
+        "intelligent_customer_service"
       ],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号",
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：智能客服",
       "enterprise_is_relevant": true,
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
-        "multi_source"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-12T15:38:48.295384Z",
-      "latest_at": "2026-07-12T19:57:28.330717Z",
+      "earliest_at": "2026-07-13T10:41:54.294085Z",
+      "latest_at": "2026-07-13T10:41:54.294085Z",
       "primary_item": {
-        "id": "9e195b60c4529fab4b75186aba85e70421e15d69",
-        "title": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-12",
-        "source_name": "WaytoAGI",
-        "published_at": "2026-07-12T19:57:28.330717Z",
-        "ai_score": 0.69,
-        "ai_label": "model_release",
-        "enterprise_score": 100,
-        "enterprise_primary_topic": "implementation_path",
+        "id": "ea03a051e0197b45316f64f38a4dc7f418127c6e",
+        "title": "用 Solon AI ReActAgent 落地智能客服工单处理",
+        "url": "https://www.oschina.net/news/471665",
+        "source": "开源中国 · 热门资讯",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 72,
+        "enterprise_primary_topic": "intelligent_customer_service",
         "enterprise_topics": [
-          "implementation_path"
+          "intelligent_customer_service"
         ],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：智能客服"
       }
     }
   ]
