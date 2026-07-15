@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T07:29:49.476107Z",
+  "generated_at": "2026-07-15T12:07:38.984587Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_a8ed744d1284",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4839,
-      "importance": 0.4839,
-      "importance_score": 0.4839,
+      "score": 0.4746,
+      "importance": 0.4746,
+      "importance_score": 0.4746,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7948,
+        "recency": 0.7434,
         "story_heat": 0.0
       },
       "enterprise_score": 90,
@@ -80,6 +80,85 @@
         ],
         "enterprise_content_type": "technical_practice",
         "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_61ab5aff1218",
+      "title": "美国企业逐渐意识到中国的人工智能模型成本低得多，因此纷纷放弃美国的产品 - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4cc7e07b42994491ade498e2d7ef5ee8d77db083",
+          "title": "美国企业逐渐意识到中国的人工智能模型成本低得多，因此纷纷放弃美国的产品 - Futurism",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T09:27:27.388000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "4cc7e07b42994491ade498e2d7ef5ee8d77db083",
+          "title": "美国企业逐渐意识到中国的人工智能模型成本低得多，因此纷纷放弃美国的产品 - Futurism",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T09:27:27.388000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.514,
+      "importance": 0.514,
+      "importance_score": 0.514,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9622,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 67,
+      "enterprise_importance_score": 67,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-15T09:27:27.388000Z",
+      "latest_at": "2026-07-15T09:27:27.388000Z",
+      "primary_item": {
+        "id": "4cc7e07b42994491ade498e2d7ef5ee8d77db083",
+        "title": "美国企业逐渐意识到中国的人工智能模型成本低得多，因此纷纷放弃美国的产品 - Futurism",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-07-15T09:27:27.388000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 67,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
       }
     }
   ]
