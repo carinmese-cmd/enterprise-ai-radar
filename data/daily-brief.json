@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-07-15T16:55:19.674043Z",
+  "generated_at": "2026-07-15T20:38:18.149974Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
+    {
+      "story_id": "story_5d0f052c1c52",
+      "title": "OpenAI 详细介绍了 GPT-Red，这是一种内部自动化红队模型，可帮助其在更广泛部署之前大规模发现并修复提示注入漏洞 (OpenAI) / OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment (OpenAI)",
+      "url": "https://www.techmeme.com/260715/p45",
+      "primary_url": "https://www.techmeme.com/260715/p45",
+      "source": "Techmeme",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "68babf6b88ed356989d42ad70f6327d129578624",
+          "title": "OpenAI 详细介绍了 GPT-Red，这是一种内部自动化红队模型，可帮助其在更广泛部署之前大规模发现并修复提示注入漏洞 (OpenAI) / OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment (OpenAI)",
+          "url": "https://www.techmeme.com/260715/p45",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T19:35:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Techmeme"
+      ],
+      "items": [
+        {
+          "id": "68babf6b88ed356989d42ad70f6327d129578624",
+          "title": "OpenAI 详细介绍了 GPT-Red，这是一种内部自动化红队模型，可帮助其在更广泛部署之前大规模发现并修复提示注入漏洞 (OpenAI) / OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment (OpenAI)",
+          "url": "https://www.techmeme.com/260715/p45",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T19:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9849,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 69,
+      "enterprise_importance_score": 68,
+      "enterprise_primary_topic": "evaluation_governance",
+      "enterprise_topics": [
+        "evaluation_governance"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-15T19:35:01Z",
+      "latest_at": "2026-07-15T19:35:01Z",
+      "primary_item": {
+        "id": "68babf6b88ed356989d42ad70f6327d129578624",
+        "title": "OpenAI 详细介绍了 GPT-Red，这是一种内部自动化红队模型，可帮助其在更广泛部署之前大规模发现并修复提示注入漏洞 (OpenAI) / OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment (OpenAI)",
+        "url": "https://www.techmeme.com/260715/p45",
+        "source": "Techmeme",
+        "source_name": "TechURLs",
+        "published_at": "2026-07-15T19:35:01Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 69,
+        "enterprise_primary_topic": "evaluation_governance",
+        "enterprise_topics": [
+          "evaluation_governance"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
+      }
+    },
     {
       "story_id": "story_61ab5aff1218",
       "title": "美国企业逐渐意识到中国的人工智能模型成本低得多，因此纷纷放弃美国的产品 - Futurism",
@@ -38,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5024,
-      "importance": 0.5024,
-      "importance_score": 0.5024,
+      "score": 0.494,
+      "importance": 0.494,
+      "importance_score": 0.494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8978,
+        "recency": 0.8509,
         "story_heat": 0.0
       },
       "enterprise_score": 67,
