@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-07-15T20:38:18.149974Z",
+  "generated_at": "2026-07-16T00:11:47.205832Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 3,
   "items": [
+    {
+      "story_id": "story_2ac9497cd907",
+      "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
+      "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+      "primary_url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d49d2529c38c53caf9bcc6c924438dcc3138154",
+          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T19:47:53Z"
+        },
+        {
+          "id": "1e8e86498a3d2afd5dc3e10900ced5496a90f321",
+          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-15T19:47:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9d49d2529c38c53caf9bcc6c924438dcc3138154",
+          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T19:47:53Z"
+        },
+        {
+          "id": "1e8e86498a3d2afd5dc3e10900ced5496a90f321",
+          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类 / OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-15T19:47:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9385,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 76,
+      "enterprise_importance_score": 77,
+      "enterprise_primary_topic": "evaluation_governance",
+      "enterprise_topics": [
+        "evaluation_governance"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T19:47:53Z",
+      "latest_at": "2026-07-15T19:47:53Z",
+      "primary_item": {
+        "id": "9d49d2529c38c53caf9bcc6c924438dcc3138154",
+        "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
+        "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-07-15T19:47:53Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 76,
+        "enterprise_primary_topic": "evaluation_governance",
+        "enterprise_topics": [
+          "evaluation_governance"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
+      }
+    },
     {
       "story_id": "story_5d0f052c1c52",
       "title": "OpenAI 详细介绍了 GPT-Red，这是一种内部自动化红队模型，可帮助其在更广泛部署之前大规模发现并修复提示注入漏洞 (OpenAI) / OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment (OpenAI)",
@@ -38,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9849,
+        "recency": 0.9356,
         "story_heat": 0.0
       },
       "enterprise_score": 69,
@@ -117,19 +217,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.494,
-      "importance": 0.494,
-      "importance_score": 0.494,
+      "score": 0.4863,
+      "importance": 0.4863,
+      "importance_score": 0.4863,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8509,
+        "recency": 0.8083,
         "story_heat": 0.0
       },
       "enterprise_score": 67,
-      "enterprise_importance_score": 67,
+      "enterprise_importance_score": 66,
       "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
         "model_platform_selection"
