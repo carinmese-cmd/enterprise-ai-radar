@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-07-16T07:49:00.651106Z",
+  "generated_at": "2026-07-16T13:05:49.394906Z",
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 4,
   "items": [
+    {
+      "story_id": "story_1d98a2eb9c1a",
+      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+      "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+      "primary_url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
+          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+          "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T09:58:51.914000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
+          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+          "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T09:58:51.914000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.956,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 90,
+      "enterprise_importance_score": 87,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "technical_practice",
+      "enterprise_reason": "主题命中：模型与平台选型；内容类型：技术实践；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T09:58:51.914000Z",
+      "latest_at": "2026-07-16T09:58:51.914000Z",
+      "primary_item": {
+        "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
+        "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+        "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-07-16T09:58:51.914000Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 90,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "technical_practice",
+        "enterprise_reason": "主题命中：模型与平台选型；内容类型：技术实践；包含实施、架构、指标或结果信号"
+      }
+    },
     {
       "story_id": "story_2ac9497cd907",
       "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
@@ -57,19 +136,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8407,
+        "recency": 0.779,
         "story_heat": 0.25
       },
       "enterprise_score": 76,
-      "enterprise_importance_score": 77,
+      "enterprise_importance_score": 76,
       "enterprise_primary_topic": "evaluation_governance",
       "enterprise_topics": [
         "evaluation_governance"
@@ -80,8 +159,7 @@
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T19:47:53Z",
       "latest_at": "2026-07-15T19:47:53Z",
@@ -101,6 +179,104 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_e0b9c1e233a8",
+      "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型 / Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
+      "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
+      "primary_url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "b5b83296342f938266e79527513d791ebdf16fe6",
+          "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型 / Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
+          "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-16T11:46:43Z"
+        },
+        {
+          "id": "29de87c425a19c0eec2760ed1ab75c55ee6e7b58",
+          "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型",
+          "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-16T10:00:27.120000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "b5b83296342f938266e79527513d791ebdf16fe6",
+          "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型 / Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
+          "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-16T11:46:43Z"
+        },
+        {
+          "id": "29de87c425a19c0eec2760ed1ab75c55ee6e7b58",
+          "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型",
+          "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-16T10:00:27.120000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9811,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 70,
+      "enterprise_importance_score": 69,
+      "enterprise_primary_topic": "sales_marketing_ai",
+      "enterprise_topics": [
+        "sales_marketing_ai"
+      ],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "主题命中：市场拓展与销售AI；内容类型：产品更新",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-16T10:00:27.120000Z",
+      "latest_at": "2026-07-16T11:46:43Z",
+      "primary_item": {
+        "id": "b5b83296342f938266e79527513d791ebdf16fe6",
+        "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型 / Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
+        "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News",
+        "published_at": "2026-07-16T11:46:43Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 70,
+        "enterprise_primary_topic": "sales_marketing_ai",
+        "enterprise_topics": [
+          "sales_marketing_ai"
+        ],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "主题命中：市场拓展与销售AI；内容类型：产品更新"
       }
     },
     {
@@ -138,15 +314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4917,
-      "importance": 0.4917,
-      "importance_score": 0.4917,
+      "score": 0.4806,
+      "importance": 0.4806,
+      "importance_score": 0.4806,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8381,
+        "recency": 0.7765,
         "story_heat": 0.0
       },
       "enterprise_score": 69,
@@ -180,85 +356,6 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_61ab5aff1218",
-      "title": "美国企业逐渐意识到中国的人工智能模型成本低得多，因此纷纷放弃美国的产品 - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4cc7e07b42994491ade498e2d7ef5ee8d77db083",
-          "title": "美国企业逐渐意识到中国的人工智能模型成本低得多，因此纷纷放弃美国的产品 - Futurism",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T09:27:27.388000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "4cc7e07b42994491ade498e2d7ef5ee8d77db083",
-          "title": "美国企业逐渐意识到中国的人工智能模型成本低得多，因此纷纷放弃美国的产品 - Futurism",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T09:27:27.388000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4711,
-      "importance": 0.4711,
-      "importance_score": 0.4711,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7241,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 67,
-      "enterprise_importance_score": 66,
-      "enterprise_primary_topic": "model_platform_selection",
-      "enterprise_topics": [
-        "model_platform_selection"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-15T09:27:27.388000Z",
-      "latest_at": "2026-07-15T09:27:27.388000Z",
-      "primary_item": {
-        "id": "4cc7e07b42994491ade498e2d7ef5ee8d77db083",
-        "title": "美国企业逐渐意识到中国的人工智能模型成本低得多，因此纷纷放弃美国的产品 - Futurism",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUVLa0VGY0xrWFVtOG11WmpaVFBkaUM4QWptNENhSEFjdlkyQkZGZUNkNW1qNG16aXVwVHlvRi1Ba3djTHpUYkNIeGluVXZtak1uNThHYmVkWjM5eVZDUWpfeWpxaF9RMGJVWWNGeDhmczhicUFRYzdBbHJXaURCeC1qYW9kVDVZVFNza0dLVkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-07-15T09:27:27.388000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 67,
-        "enterprise_primary_topic": "model_platform_selection",
-        "enterprise_topics": [
-          "model_platform_selection"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
       }
     }
   ]
