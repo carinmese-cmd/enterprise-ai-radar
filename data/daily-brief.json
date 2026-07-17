@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T16:42:32.281603Z",
+  "generated_at": "2026-07-17T20:16:14.097198Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "items": [
     {
       "story_id": "story_c173277eca8e",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5082,
-      "importance": 0.5082,
-      "importance_score": 0.5082,
+      "score": 0.4998,
+      "importance": 0.4998,
+      "importance_score": 0.4998,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9298,
+        "recency": 0.8832,
         "story_heat": 0.0
       },
       "enterprise_score": 70,
@@ -80,85 +80,6 @@
         ],
         "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估"
-      }
-    },
-    {
-      "story_id": "story_a497ee62535c",
-      "title": "随着人工智能取代客户服务以及商店转向特许经营，Verizon 削减了 3,000 个零售岗位 / Verizon cuts 3,000 retail jobs as AI replaces customer service and stores move to franchises",
-      "url": "https://thenextweb.com/news/verizon-3000-retail-layoffs-store-reorganization",
-      "primary_url": "https://thenextweb.com/news/verizon-3000-retail-layoffs-store-reorganization",
-      "source": "The Next Web",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "127d10074c94cf0ee9804ec0a27771c67ae47c0b",
-          "title": "随着人工智能取代客户服务以及商店转向特许经营，Verizon 削减了 3,000 个零售岗位 / Verizon cuts 3,000 retail jobs as AI replaces customer service and stores move to franchises",
-          "url": "https://thenextweb.com/news/verizon-3000-retail-layoffs-store-reorganization",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-16T17:50:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Next Web"
-      ],
-      "items": [
-        {
-          "id": "127d10074c94cf0ee9804ec0a27771c67ae47c0b",
-          "title": "随着人工智能取代客户服务以及商店转向特许经营，Verizon 削减了 3,000 个零售岗位 / Verizon cuts 3,000 retail jobs as AI replaces customer service and stores move to franchises",
-          "url": "https://thenextweb.com/news/verizon-3000-retail-layoffs-store-reorganization",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-16T17:50:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4702,
-      "importance": 0.4702,
-      "importance_score": 0.4702,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7187,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 62,
-      "enterprise_importance_score": 63,
-      "enterprise_primary_topic": "intelligent_customer_service",
-      "enterprise_topics": [
-        "intelligent_customer_service"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：智能客服",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-16T17:50:01Z",
-      "latest_at": "2026-07-16T17:50:01Z",
-      "primary_item": {
-        "id": "127d10074c94cf0ee9804ec0a27771c67ae47c0b",
-        "title": "随着人工智能取代客户服务以及商店转向特许经营，Verizon 削减了 3,000 个零售岗位 / Verizon cuts 3,000 retail jobs as AI replaces customer service and stores move to franchises",
-        "url": "https://thenextweb.com/news/verizon-3000-retail-layoffs-store-reorganization",
-        "source": "The Next Web",
-        "source_name": "TechURLs",
-        "published_at": "2026-07-16T17:50:01Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 62,
-        "enterprise_primary_topic": "intelligent_customer_service",
-        "enterprise_topics": [
-          "intelligent_customer_service"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：智能客服"
       }
     }
   ]
