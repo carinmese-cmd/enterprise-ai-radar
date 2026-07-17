@@ -1,87 +1,8 @@
 {
-  "generated_at": "2026-07-17T07:46:35.299306Z",
+  "generated_at": "2026-07-17T12:01:47.653520Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 3,
   "items": [
-    {
-      "story_id": "story_1d98a2eb9c1a",
-      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
-      "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-      "primary_url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
-          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
-          "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T09:58:51.914000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
-          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
-          "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T09:58:51.914000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.683,
-      "importance": 0.683,
-      "importance_score": 0.683,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.73,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 90,
-      "enterprise_importance_score": 86,
-      "enterprise_primary_topic": "model_platform_selection",
-      "enterprise_topics": [
-        "model_platform_selection"
-      ],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "主题命中：模型与平台选型；内容类型：技术实践；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T09:58:51.914000Z",
-      "latest_at": "2026-07-16T09:58:51.914000Z",
-      "primary_item": {
-        "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
-        "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
-        "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-07-16T09:58:51.914000Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 90,
-        "enterprise_primary_topic": "model_platform_selection",
-        "enterprise_topics": [
-          "model_platform_selection"
-        ],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "主题命中：模型与平台选型；内容类型：技术实践；包含实施、架构、指标或结果信号"
-      }
-    },
     {
       "story_id": "story_9a3bfba7061e",
       "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
@@ -136,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8041,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "enterprise_score": 86,
@@ -159,8 +80,7 @@
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T16:40:48Z",
       "latest_at": "2026-07-16T16:40:48Z",
@@ -183,101 +103,82 @@
       }
     },
     {
-      "story_id": "story_e0b9c1e233a8",
-      "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型 / Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
-      "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
-      "primary_url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
+      "story_id": "story_c173277eca8e",
+      "title": "战魔田默｜从人工智能“时代之问”，到29国签署协定：全球AI治理要防的不只是机器失控",
+      "url": "https://www.huxiu.com/article/4876207.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4876207.html?f=rss",
+      "source": "虎嗅 (Huxiu)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "b5b83296342f938266e79527513d791ebdf16fe6",
-          "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型 / Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
-          "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-16T11:46:43Z"
-        },
-        {
-          "id": "29de87c425a19c0eec2760ed1ab75c55ee6e7b58",
-          "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型",
-          "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-16T10:00:27.120000Z"
+          "id": "df6226dc7c5ed30469095a11ae2032b813c1d11c",
+          "title": "战魔田默｜从人工智能“时代之问”，到29国签署协定：全球AI治理要防的不只是机器失控",
+          "url": "https://www.huxiu.com/article/4876207.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T11:40:19Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "www.ft.com"
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "b5b83296342f938266e79527513d791ebdf16fe6",
-          "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型 / Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
-          "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-16T11:46:43Z"
-        },
-        {
-          "id": "29de87c425a19c0eec2760ed1ab75c55ee6e7b58",
-          "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型",
-          "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-16T10:00:27.120000Z"
+          "id": "df6226dc7c5ed30469095a11ae2032b813c1d11c",
+          "title": "战魔田默｜从人工智能“时代之问”，到29国签署协定：全球AI治理要防的不只是机器失控",
+          "url": "https://www.huxiu.com/article/4876207.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T11:40:19Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5007,
-      "importance": 0.5007,
-      "importance_score": 0.5007,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7492,
-        "story_heat": 0.25
+        "recency": 0.9948,
+        "story_heat": 0.0
       },
       "enterprise_score": 70,
-      "enterprise_importance_score": 67,
-      "enterprise_primary_topic": "sales_marketing_ai",
+      "enterprise_importance_score": 73,
+      "enterprise_primary_topic": "evaluation_governance",
       "enterprise_topics": [
-        "sales_marketing_ai"
+        "evaluation_governance"
       ],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "主题命中：市场拓展与销售AI；内容类型：产品更新",
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估",
       "enterprise_is_relevant": true,
       "category": "watch",
       "reasons": [
-        "multi_source"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-16T10:00:27.120000Z",
-      "latest_at": "2026-07-16T11:46:43Z",
+      "earliest_at": "2026-07-17T11:40:19Z",
+      "latest_at": "2026-07-17T11:40:19Z",
       "primary_item": {
-        "id": "b5b83296342f938266e79527513d791ebdf16fe6",
-        "title": "中国人工智能初创公司Moonshot将推出一款挑战Anthropic领先地位的模型 / Chinese AI startup Moonshot to launch model challenging Anthropic's lead",
-        "url": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News",
-        "published_at": "2026-07-16T11:46:43Z",
+        "id": "df6226dc7c5ed30469095a11ae2032b813c1d11c",
+        "title": "战魔田默｜从人工智能“时代之问”，到29国签署协定：全球AI治理要防的不只是机器失控",
+        "url": "https://www.huxiu.com/article/4876207.html?f=rss",
+        "source": "虎嗅 (Huxiu)",
+        "source_name": "Info Flow",
+        "published_at": "2026-07-17T11:40:19Z",
         "ai_score": 0.65,
-        "ai_label": "model_release",
+        "ai_label": "ai_general",
         "enterprise_score": 70,
-        "enterprise_primary_topic": "sales_marketing_ai",
+        "enterprise_primary_topic": "evaluation_governance",
         "enterprise_topics": [
-          "sales_marketing_ai"
+          "evaluation_governance"
         ],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "主题命中：市场拓展与销售AI；内容类型：产品更新"
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估"
       }
     },
     {
@@ -315,15 +216,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.488,
-      "importance": 0.488,
-      "importance_score": 0.488,
+      "score": 0.4792,
+      "importance": 0.4792,
+      "importance_score": 0.4792,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8176,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
