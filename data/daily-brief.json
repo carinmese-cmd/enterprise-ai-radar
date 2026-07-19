@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T06:48:35.399278Z",
+  "generated_at": "2026-07-19T11:20:36.916793Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "items": [
     {
       "story_id": "story_067f5fafdc3b",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9774,
+        "recency": 0.9154,
         "story_heat": 0.25
       },
       "enterprise_score": 71,
@@ -101,85 +101,6 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：智能客服"
-      }
-    },
-    {
-      "story_id": "story_d5adf4c0a98e",
-      "title": "世界人工智能合作组织在上海成立，全球求解AI治理的“人机边界”",
-      "url": "https://www.huxiu.com/article/4876358.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876358.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "796defe5961195ef826542410f6ebffa897de2a3",
-          "title": "世界人工智能合作组织在上海成立，全球求解AI治理的“人机边界”",
-          "url": "https://www.huxiu.com/article/4876358.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:51:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "796defe5961195ef826542410f6ebffa897de2a3",
-          "title": "世界人工智能合作组织在上海成立，全球求解AI治理的“人机边界”",
-          "url": "https://www.huxiu.com/article/4876358.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:51:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4738,
-      "importance": 0.4738,
-      "importance_score": 0.4738,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7389,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 70,
-      "enterprise_importance_score": 71,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
-      ],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-18T09:51:35Z",
-      "latest_at": "2026-07-18T09:51:35Z",
-      "primary_item": {
-        "id": "796defe5961195ef826542410f6ebffa897de2a3",
-        "title": "世界人工智能合作组织在上海成立，全球求解AI治理的“人机边界”",
-        "url": "https://www.huxiu.com/article/4876358.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow",
-        "published_at": "2026-07-18T09:51:35Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 70,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估"
       }
     }
   ]
