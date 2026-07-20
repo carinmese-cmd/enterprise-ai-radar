@@ -1,8 +1,296 @@
 {
-  "generated_at": "2026-07-20T08:27:02.189992Z",
+  "generated_at": "2026-07-20T15:31:50.588885Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c3556096c82e",
+      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9644,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T13:01:24Z",
+      "latest_at": "2026-07-20T13:01:24Z",
+      "primary_item": {
+        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-07-20T13:01:24Z",
+        "ai_score": 0.87,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_157f79bd67e3",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "primary_url": "https://github.com/Saivineeth147/lora-speedrun",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "631742f38960d2e7cb3c0fd4df9f93be7ccbcd19",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率 / LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T04:24:48Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "631742f38960d2e7cb3c0fd4df9f93be7ccbcd19",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率 / LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T04:24:48Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9551,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T04:24:48Z",
+      "latest_at": "2026-07-20T12:21:09.021000Z",
+      "primary_item": {
+        "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "published_at": "2026-07-20T12:21:09.021000Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c4ff01821c40",
+      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+      "primary_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        },
+        {
+          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        },
+        {
+          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9532,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T12:12:47Z",
+      "latest_at": "2026-07-20T12:12:47Z",
+      "primary_item": {
+        "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+        "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-07-20T12:12:47Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
     {
       "story_id": "story_7fe35170d27a",
       "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
@@ -57,19 +345,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -153,19 +441,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9793,
+        "recency": 0.8842,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "research_report",
@@ -249,19 +537,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8509,
+        "recency": 0.7682,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -326,15 +614,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9364,
+        "recency": 0.8454,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -365,6 +653,81 @@
         "enterprise_topics": [],
         "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_eec8cd6d4207",
+      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "primary_url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9085,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "纯模型跑分或榜单信号降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T08:53:11Z",
+      "latest_at": "2026-07-20T08:53:11Z",
+      "primary_item": {
+        "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT",
+        "published_at": "2026-07-20T08:53:11Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "纯模型跑分或榜单信号降权"
       }
     },
     {
@@ -402,19 +765,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8868,
+        "recency": 0.8006,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 46,
+      "enterprise_importance_score": 45,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "technical_practice",
@@ -422,8 +785,7 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T00:08:00Z",
       "latest_at": "2026-07-20T00:08:00Z",
@@ -440,6 +802,82 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "technical_practice",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_fdabc12803be",
+      "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+      "url": "https://www.aibase.com/news/29725",
+      "primary_url": "https://www.aibase.com/news/29725",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "url": "https://www.aibase.com/news/29725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T15:31:50.588885Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "url": "https://www.aibase.com/news/29725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T15:31:50.588885Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T15:31:50.588885Z",
+      "latest_at": "2026-07-20T15:31:50.588885Z",
+      "primary_item": {
+        "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+        "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+        "url": "https://www.aibase.com/news/29725",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-07-20T15:31:50.588885Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_tech",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -478,19 +916,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9937,
+        "recency": 0.8971,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -498,8 +936,7 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T08:00:45Z",
       "latest_at": "2026-07-20T08:00:45Z",
@@ -516,6 +953,283 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_62426abbf6d5",
+      "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
+      "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
+      "primary_url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
+          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
+          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "字节 Seed：Research Feed（网页内嵌数据）"
+      ],
+      "items": [
+        {
+          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
+          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
+          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7119,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-19T16:00:00Z",
+      "latest_at": "2026-07-19T16:00:00Z",
+      "primary_item": {
+        "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
+        "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
+        "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
+        "source": "字节 Seed：Research Feed（网页内嵌数据）",
+        "source_name": "AI HOT",
+        "published_at": "2026-07-19T16:00:00Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-20",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
+          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:31:50.588885Z"
+        },
+        {
+          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
+          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:31:50.588885Z"
+        },
+        {
+          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
+          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:31:50.588885Z"
+        },
+        {
+          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
+          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        },
+        {
+          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
+          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        },
+        {
+          "id": "36a3d43945170de328b3aa234329e827aee300c4",
+          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        },
+        {
+          "id": "3c2c634094ab1883d2369847a8237615af84da24",
+          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        },
+        {
+          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
+          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        }
+      ],
+      "source_count": 8,
+      "source_names": [
+        "社区更新 · 2026-07-19",
+        "社区更新 · 2026-07-20"
+      ],
+      "items": [
+        {
+          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
+          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:31:50.588885Z"
+        },
+        {
+          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
+          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:31:50.588885Z"
+        },
+        {
+          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
+          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-20T15:31:50.588885Z"
+        },
+        {
+          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
+          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        },
+        {
+          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
+          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        },
+        {
+          "id": "36a3d43945170de328b3aa234329e827aee300c4",
+          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        },
+        {
+          "id": "3c2c634094ab1883d2369847a8237615af84da24",
+          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        },
+        {
+          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
+          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-19T18:09:10.621552Z"
+        }
+      ],
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.715,
+      "importance": 0.715,
+      "importance_score": 0.715,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.54,
+        "ai_relevance": 0.76,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T18:09:10.621552Z",
+      "latest_at": "2026-07-20T15:31:50.588885Z",
+      "primary_item": {
+        "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
+        "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-20",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-07-20T15:31:50.588885Z",
+        "ai_score": 0.76,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -554,19 +1268,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.8196,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 46,
+      "enterprise_importance_score": 45,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "technical_practice",
@@ -574,8 +1288,7 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T01:45:09.765000Z",
       "latest_at": "2026-07-20T01:45:09.765000Z",
@@ -596,56 +1309,56 @@
       }
     },
     {
-      "story_id": "story_62426abbf6d5",
-      "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-      "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-      "primary_url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "source_name": "AI HOT",
+      "story_id": "story_5a4e22d48263",
+      "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+      "url": "https://www.aibase.com/news/29724",
+      "primary_url": "https://www.aibase.com/news/29724",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T16:00:00Z"
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "url": "https://www.aibase.com/news/29724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T15:31:50.588885Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "字节 Seed：Research Feed（网页内嵌数据）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T16:00:00Z"
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "url": "https://www.aibase.com/news/29724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T15:31:50.588885Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7886,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
+      "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
@@ -653,21 +1366,21 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-19T16:00:00Z",
-      "latest_at": "2026-07-19T16:00:00Z",
+      "earliest_at": "2026-07-20T15:31:50.588885Z",
+      "latest_at": "2026-07-20T15:31:50.588885Z",
       "primary_item": {
-        "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-        "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-        "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-        "source": "字节 Seed：Research Feed（网页内嵌数据）",
-        "source_name": "AI HOT",
-        "published_at": "2026-07-19T16:00:00Z",
+        "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+        "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+        "url": "https://www.aibase.com/news/29724",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-07-20T15:31:50.588885Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -706,19 +1419,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -744,156 +1457,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_e9928ad9244d",
-      "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-      "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-      "primary_url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-      "source": "公众号：昆仑万维（天工）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "83952e148349f8569b30edfa9d5867019f64c72d",
-          "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-          "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T12:35:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：昆仑万维（天工）"
-      ],
-      "items": [
-        {
-          "id": "83952e148349f8569b30edfa9d5867019f64c72d",
-          "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-          "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T12:35:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7508,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 45,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T12:35:56Z",
-      "latest_at": "2026-07-19T12:35:56Z",
-      "primary_item": {
-        "id": "83952e148349f8569b30edfa9d5867019f64c72d",
-        "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-        "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-        "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT",
-        "published_at": "2026-07-19T12:35:56Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_fe4e6bee6d5f",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7641,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T13:49:01Z",
-      "latest_at": "2026-07-19T13:49:01Z",
-      "primary_item": {
-        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-        "url": "https://x.com/OpenBMB/status/2078839529591759025",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT",
-        "published_at": "2026-07-19T13:49:01Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -932,19 +1495,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1008,19 +1571,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -1084,19 +1647,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9028,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1118,305 +1681,6 @@
         "published_at": "2026-07-20T08:27:02.189992Z",
         "ai_score": 1.0,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-19",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
-          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        },
-        {
-          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
-          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        },
-        {
-          "id": "36a3d43945170de328b3aa234329e827aee300c4",
-          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        },
-        {
-          "id": "3c2c634094ab1883d2369847a8237615af84da24",
-          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        },
-        {
-          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
-          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-07-19"
-      ],
-      "items": [
-        {
-          "id": "36c3672aa0ac39c9f41f0ab30d1b99e1c7c75e63",
-          "title": "AI发展四年，市场反而开始喊“应用凉了”。作者这篇文章把模型和应用的几轮起落剖析了下：从 Character.ai、GPT-4o、DeepSeek、Manus，到智谱上市和 Openclaw 热潮，资本情绪一直在模型与应用之间剧烈摆动。对创业者来说，真正要守住的是用户价值、真实付费、出海能力和团队的韧性。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        },
-        {
-          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
-          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        },
-        {
-          "id": "36a3d43945170de328b3aa234329e827aee300c4",
-          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        },
-        {
-          "id": "3c2c634094ab1883d2369847a8237615af84da24",
-          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        },
-        {
-          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
-          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:09:10.621552Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6398,
-      "importance": 0.6398,
-      "importance_score": 0.6398,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4752,
-        "source_tier": 0.54,
-        "ai_relevance": 0.66,
-        "recency": 0.8135,
-        "story_heat": 1.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 44,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T18:09:10.621552Z",
-      "latest_at": "2026-07-19T18:09:10.621552Z",
-      "primary_item": {
-        "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
-        "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-19",
-        "source_name": "WaytoAGI",
-        "published_at": "2026-07-19T18:09:10.621552Z",
-        "ai_score": 0.66,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a8cb11b7ec6e",
-      "title": "Google DeepMind发布GenCeption:基于视频生成模型实现多项计算机视觉突破",
-      "url": "https://www.aibase.com/news/29703",
-      "primary_url": "https://www.aibase.com/news/29703",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8b9153df8c01c6a5b8f2e3070b5a7765a86c2030",
-          "title": "Google DeepMind发布GenCeption:基于视频生成模型实现多项计算机视觉突破",
-          "url": "https://www.aibase.com/news/29703",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:27:02.189992Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8b9153df8c01c6a5b8f2e3070b5a7765a86c2030",
-          "title": "Google DeepMind发布GenCeption:基于视频生成模型实现多项计算机视觉突破",
-          "url": "https://www.aibase.com/news/29703",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:27:02.189992Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T08:27:02.189992Z",
-      "latest_at": "2026-07-20T08:27:02.189992Z",
-      "primary_item": {
-        "id": "8b9153df8c01c6a5b8f2e3070b5a7765a86c2030",
-        "title": "Google DeepMind发布GenCeption:基于视频生成模型实现多项计算机视觉突破",
-        "url": "https://www.aibase.com/news/29703",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-07-20T08:27:02.189992Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_ca83112e2431",
-      "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-      "url": "https://www.aibase.com/news/29719",
-      "primary_url": "https://www.aibase.com/news/29719",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "51594d86f3b6390206895dd62809ffa74f137623",
-          "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-          "url": "https://www.aibase.com/news/29719",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:27:02.189992Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "51594d86f3b6390206895dd62809ffa74f137623",
-          "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-          "url": "https://www.aibase.com/news/29719",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:27:02.189992Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T08:27:02.189992Z",
-      "latest_at": "2026-07-20T08:27:02.189992Z",
-      "primary_item": {
-        "id": "51594d86f3b6390206895dd62809ffa74f137623",
-        "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-        "url": "https://www.aibase.com/news/29719",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-07-20T08:27:02.189992Z",
-        "ai_score": 1.0,
-        "ai_label": "agent_workflow",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1516,19 +1780,19 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5578,
+      "importance": 0.5578,
+      "importance_score": 0.5578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8735,
+        "recency": 0.7886,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "research_report",
@@ -1553,195 +1817,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "research_report",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_f3a7c0081493",
-      "title": "克劳德找到了雅可比猜想的一个反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://news.ycombinator.com/item?id=48973869",
-      "primary_url": "https://news.ycombinator.com/item?id=48973869",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "01ef593fb86c7e6b6f13861aea7dff1c9dce381b",
-          "title": "克劳德找到了雅可比猜想的一个反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
-          "url": "https://news.ycombinator.com/item?id=48973869",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T08:16:38.240000Z"
-        },
-        {
-          "id": "fb0696dd041bee5692545372563a191cfc07bbcd",
-          "title": "克劳德找到了雅可比猜想的一个反例 / Claude found a counterexample to the Jacobian Conjecture",
-          "url": "https://news.ycombinator.com/item?id=48973869",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T07:23:27Z"
-        },
-        {
-          "id": "3b828850ef717d1e4aa08247010387f60ad8f8c3",
-          "title": "克劳德·法布尔给出了雅可比猜想的一个反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
-          "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T02:51:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Lobsters (技术社区)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "01ef593fb86c7e6b6f13861aea7dff1c9dce381b",
-          "title": "克劳德找到了雅可比猜想的一个反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
-          "url": "https://news.ycombinator.com/item?id=48973869",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T08:16:38.240000Z"
-        },
-        {
-          "id": "fb0696dd041bee5692545372563a191cfc07bbcd",
-          "title": "克劳德找到了雅可比猜想的一个反例 / Claude found a counterexample to the Jacobian Conjecture",
-          "url": "https://news.ycombinator.com/item?id=48973869",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T07:23:27Z"
-        },
-        {
-          "id": "3b828850ef717d1e4aa08247010387f60ad8f8c3",
-          "title": "克劳德·法布尔给出了雅可比猜想的一个反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
-          "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-20T02:51:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5704,
-      "importance": 0.5704,
-      "importance_score": 0.5704,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9975,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 37,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T02:51:16Z",
-      "latest_at": "2026-07-20T08:16:38.240000Z",
-      "primary_item": {
-        "id": "01ef593fb86c7e6b6f13861aea7dff1c9dce381b",
-        "title": "克劳德找到了雅可比猜想的一个反例 / Claude Fable produced a counterexample to the Jacobian Conjecture",
-        "url": "https://news.ycombinator.com/item?id=48973869",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "published_at": "2026-07-20T08:16:38.240000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_d29a6c3c6768",
-      "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-      "url": "https://www.aibase.com/news/29722",
-      "primary_url": "https://www.aibase.com/news/29722",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "url": "https://www.aibase.com/news/29722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:27:02.189992Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "url": "https://www.aibase.com/news/29722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:27:02.189992Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T08:27:02.189992Z",
-      "latest_at": "2026-07-20T08:27:02.189992Z",
-      "primary_item": {
-        "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-        "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-        "url": "https://www.aibase.com/news/29722",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-07-20T08:27:02.189992Z",
-        "ai_score": 1.0,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
