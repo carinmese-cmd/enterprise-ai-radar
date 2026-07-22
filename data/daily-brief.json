@@ -1,88 +1,8 @@
 {
-  "generated_at": "2026-07-22T15:53:22.920016Z",
+  "generated_at": "2026-07-22T20:24:11.496658Z",
   "window_hours": 24,
   "total_items": 2,
   "items": [
-    {
-      "story_id": "story_2e31341bbc0d",
-      "title": "OpenAI 与 HuggingFace 调查安全事件",
-      "url": "https://x.com/OpenAI/status/2079658951264920020",
-      "primary_url": "https://x.com/OpenAI/status/2079658951264920020",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-          "title": "OpenAI 与 HuggingFace 调查安全事件",
-          "url": "https://x.com/OpenAI/status/2079658951264920020",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-          "title": "OpenAI 与 HuggingFace 调查安全事件",
-          "url": "https://x.com/OpenAI/status/2079658951264920020",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7513,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 92,
-      "enterprise_importance_score": 87,
-      "enterprise_primary_topic": "implementation_path",
-      "enterprise_topics": [
-        "implementation_path"
-      ],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T20:05:06Z",
-      "latest_at": "2026-07-21T20:05:06Z",
-      "primary_item": {
-        "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-        "title": "OpenAI 与 HuggingFace 调查安全事件",
-        "url": "https://x.com/OpenAI/status/2079658951264920020",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT",
-        "published_at": "2026-07-21T20:05:06Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 92,
-        "enterprise_primary_topic": "implementation_path",
-        "enterprise_topics": [
-          "implementation_path"
-        ],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
-      }
-    },
     {
       "story_id": "story_5514f31394e2",
       "title": "OpenAI 和 Hugging Face 解决模型评估期间的安全事件 / OpenAI and Hugging Face address security incident during model evaluation",
@@ -99,18 +19,9 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-21T23:53:33.600000Z"
-        },
-        {
-          "id": "c4bb908a58397dc147a730e4db93c44efae1558d",
-          "title": "OpenAI 与 Hugging Face 合作解决安全事件 / OpenAI and Hugging Face partner to address security incident",
-          "url": "https://news.ycombinator.com/item?id=48997548",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-21T20:22:47.580000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
         "hackernews"
       ],
@@ -123,29 +34,20 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-21T23:53:33.600000Z"
-        },
-        {
-          "id": "c4bb908a58397dc147a730e4db93c44efae1558d",
-          "title": "OpenAI 与 Hugging Face 合作解决安全事件 / OpenAI and Hugging Face partner to address security incident",
-          "url": "https://news.ycombinator.com/item?id=48997548",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-21T20:22:47.580000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.4788,
+      "importance": 0.4788,
+      "importance_score": 0.4788,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.32,
         "ai_relevance": 0.66,
-        "recency": 0.7937,
-        "story_heat": 0.25
+        "recency": 0.7437,
+        "story_heat": 0.0
       },
       "enterprise_score": 85,
       "enterprise_importance_score": 78,
@@ -158,9 +60,9 @@
       "enterprise_is_relevant": true,
       "category": "watch",
       "reasons": [
-        "multi_source"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-21T20:22:47.580000Z",
+      "earliest_at": "2026-07-21T23:53:33.600000Z",
       "latest_at": "2026-07-21T23:53:33.600000Z",
       "primary_item": {
         "id": "6e4cb2295138b8cd3382e705c9e89e5366cdf162",
@@ -178,6 +80,86 @@
         ],
         "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_e8fd0fe4c651",
+      "title": "微软 MagenticLite 模型全面开源",
+      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "primary_url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "source": "X：Microsoft Research (@MSFTResearch)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:57:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Microsoft Research (@MSFTResearch)"
+      ],
+      "items": [
+        {
+          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:57:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9654,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 63,
+      "enterprise_importance_score": 72,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：模型与平台选型",
+      "enterprise_is_relevant": true,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T17:57:57Z",
+      "latest_at": "2026-07-22T17:57:57Z",
+      "primary_item": {
+        "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+        "title": "微软 MagenticLite 模型全面开源",
+        "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+        "source": "X：Microsoft Research (@MSFTResearch)",
+        "source_name": "AI HOT",
+        "published_at": "2026-07-22T17:57:57Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 63,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：模型与平台选型"
       }
     }
   ]
