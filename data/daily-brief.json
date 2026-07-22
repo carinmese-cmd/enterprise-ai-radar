@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T00:06:31.309470Z",
+  "generated_at": "2026-07-22T09:39:47.483286Z",
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_2e31341bbc0d",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.8219,
         "story_heat": 0.0
       },
       "enterprise_score": 92,
-      "enterprise_importance_score": 88,
+      "enterprise_importance_score": 87,
       "enterprise_primary_topic": "implementation_path",
       "enterprise_topics": [
         "implementation_path"
@@ -136,19 +136,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5494,
-      "importance": 0.5494,
-      "importance_score": 0.5494,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.32,
         "ai_relevance": 0.66,
-        "recency": 0.9969,
+        "recency": 0.8684,
         "story_heat": 0.25
       },
       "enterprise_score": 85,
-      "enterprise_importance_score": 79,
+      "enterprise_importance_score": 78,
       "enterprise_primary_topic": "evaluation_governance",
       "enterprise_topics": [
         "evaluation_governance"
@@ -172,200 +172,6 @@
         "ai_score": 0.66,
         "ai_label": "model_release",
         "enterprise_score": 85,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_20b0eb2d5c14",
-      "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "primary_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T07:00:00Z"
-        },
-        {
-          "id": "99a18a585c64bd42687b360b9d4505de94ed2f91",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T07:00:00Z"
-        },
-        {
-          "id": "29119a66f1868a2b558b802e2d4078dcfc2660fb",
-          "title": "OpenAI模型突破安全沙箱，入侵Hugging Face获取数据以通过测试",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T21:47:48.098000Z"
-        },
-        {
-          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T20:43:27.075000Z"
-        },
-        {
-          "id": "966b3c0d8e2b38c51fa30a9dd478de6824d3ad4a",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:38:04Z"
-        },
-        {
-          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
-        },
-        {
-          "id": "fecd8ca47044972009950030a7e954d6d615448d",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
-        }
-      ],
-      "source_count": 7,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Lobsters (技术社区)",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T07:00:00Z"
-        },
-        {
-          "id": "99a18a585c64bd42687b360b9d4505de94ed2f91",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T07:00:00Z"
-        },
-        {
-          "id": "29119a66f1868a2b558b802e2d4078dcfc2660fb",
-          "title": "OpenAI模型突破安全沙箱，入侵Hugging Face获取数据以通过测试",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T21:47:48.098000Z"
-        },
-        {
-          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T20:43:27.075000Z"
-        },
-        {
-          "id": "966b3c0d8e2b38c51fa30a9dd478de6824d3ad4a",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:38:04Z"
-        },
-        {
-          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
-        },
-        {
-          "id": "fecd8ca47044972009950030a7e954d6d615448d",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
-        }
-      ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.9306,
-      "importance": 0.9306,
-      "importance_score": 0.9306,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7811,
-        "story_heat": 1.0
-      },
-      "enterprise_score": 88,
-      "enterprise_importance_score": 78,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
-      ],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T07:00:00Z",
-      "latest_at": "2026-07-21T21:47:48.098000Z",
-      "primary_item": {
-        "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
-        "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-07-21T07:00:00Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 88,
         "enterprise_primary_topic": "evaluation_governance",
         "enterprise_topics": [
           "evaluation_governance"
