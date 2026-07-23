@@ -1,89 +1,8 @@
 {
-  "generated_at": "2026-07-23T09:14:42.706386Z",
+  "generated_at": "2026-07-23T16:03:38.243273Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 4,
   "items": [
-    {
-      "story_id": "story_9cbb1674e4d4",
-      "title": "使用 Azure AI 搜索和 Foundry IQ 为 Copilot Studio 代理奠定基础 / Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ",
-      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
-      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
-      "source": "Azure AI Foundry Blog",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "92e316a6517cba9d417ab6926ce35b9013da511a",
-          "title": "使用 Azure AI 搜索和 Foundry IQ 为 Copilot Studio 代理奠定基础 / Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ",
-          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
-          "source": "Azure AI Foundry Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-22T18:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Azure AI Foundry Blog"
-      ],
-      "items": [
-        {
-          "id": "92e316a6517cba9d417ab6926ce35b9013da511a",
-          "title": "使用 Azure AI 搜索和 Foundry IQ 为 Copilot Studio 代理奠定基础 / Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ",
-          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
-          "source": "Azure AI Foundry Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-22T18:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5498,
-      "importance": 0.5498,
-      "importance_score": 0.5498,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8024,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 68,
-      "enterprise_importance_score": 70,
-      "enterprise_primary_topic": "enterprise_knowledge_rag",
-      "enterprise_topics": [
-        "enterprise_knowledge_rag",
-        "model_platform_selection"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：企业知识库与RAG；命中多个企业业务主题",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-22T18:00:00Z",
-      "latest_at": "2026-07-22T18:00:00Z",
-      "primary_item": {
-        "id": "92e316a6517cba9d417ab6926ce35b9013da511a",
-        "title": "使用 Azure AI 搜索和 Foundry IQ 为 Copilot Studio 代理奠定基础 / Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ",
-        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
-        "source": "Azure AI Foundry Blog",
-        "source_name": "OPML RSS",
-        "published_at": "2026-07-22T18:00:00Z",
-        "ai_score": 0.71,
-        "ai_label": "developer_tool",
-        "enterprise_score": 68,
-        "enterprise_primary_topic": "enterprise_knowledge_rag",
-        "enterprise_topics": [
-          "enterprise_knowledge_rag",
-          "model_platform_selection"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：企业知识库与RAG；命中多个企业业务主题"
-      }
-    },
     {
       "story_id": "story_e8fd0fe4c651",
       "title": "微软 MagenticLite 模型全面开源",
@@ -119,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7214,
+      "importance": 0.7214,
+      "importance_score": 0.7214,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.802,
+        "recency": 0.7268,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
@@ -161,6 +80,245 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：模型与平台选型"
+      }
+    },
+    {
+      "story_id": "story_9cbb1674e4d4",
+      "title": "使用 Azure AI 搜索和 Foundry IQ 为 Copilot Studio 代理奠定基础 / Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
+      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
+      "source": "Azure AI Foundry Blog",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "92e316a6517cba9d417ab6926ce35b9013da511a",
+          "title": "使用 Azure AI 搜索和 Foundry IQ 为 Copilot Studio 代理奠定基础 / Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-22T18:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Azure AI Foundry Blog"
+      ],
+      "items": [
+        {
+          "id": "92e316a6517cba9d417ab6926ce35b9013da511a",
+          "title": "使用 Azure AI 搜索和 Foundry IQ 为 Copilot Studio 代理奠定基础 / Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-22T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.7272,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 68,
+      "enterprise_importance_score": 69,
+      "enterprise_primary_topic": "enterprise_knowledge_rag",
+      "enterprise_topics": [
+        "enterprise_knowledge_rag",
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：企业知识库与RAG；命中多个企业业务主题",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-22T18:00:00Z",
+      "latest_at": "2026-07-22T18:00:00Z",
+      "primary_item": {
+        "id": "92e316a6517cba9d417ab6926ce35b9013da511a",
+        "title": "使用 Azure AI 搜索和 Foundry IQ 为 Copilot Studio 代理奠定基础 / Grounding Copilot Studio Agents with Azure AI Search and Foundry IQ",
+        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/grounding-copilot-studio-agents-with-azure-ai-search-and-foundry/ba-p/4539337",
+        "source": "Azure AI Foundry Blog",
+        "source_name": "OPML RSS",
+        "published_at": "2026-07-22T18:00:00Z",
+        "ai_score": 0.71,
+        "ai_label": "developer_tool",
+        "enterprise_score": 68,
+        "enterprise_primary_topic": "enterprise_knowledge_rag",
+        "enterprise_topics": [
+          "enterprise_knowledge_rag",
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：企业知识库与RAG；命中多个企业业务主题"
+      }
+    },
+    {
+      "story_id": "story_ba93801e4437",
+      "title": "适用于小型企业客户服务的最佳人工智能聊天机器人是什么？ / What are the Best AI Chatbots for Small Business Customer Service?",
+      "url": "https://www.salesforce.com/blog/small-business/best-ai-chatbots-for-small-business-service",
+      "primary_url": "https://www.salesforce.com/blog/small-business/best-ai-chatbots-for-small-business-service",
+      "source": "Salesforce Blog / Agentforce",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "b0da921c0e392e1f31baa291f01e03d7a8dca1f3",
+          "title": "适用于小型企业客户服务的最佳人工智能聊天机器人是什么？ / What are the Best AI Chatbots for Small Business Customer Service?",
+          "url": "https://www.salesforce.com/blog/small-business/best-ai-chatbots-for-small-business-service",
+          "source": "Salesforce Blog / Agentforce",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-23T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Salesforce Blog / Agentforce"
+      ],
+      "items": [
+        {
+          "id": "b0da921c0e392e1f31baa291f01e03d7a8dca1f3",
+          "title": "适用于小型企业客户服务的最佳人工智能聊天机器人是什么？ / What are the Best AI Chatbots for Small Business Customer Service?",
+          "url": "https://www.salesforce.com/blog/small-business/best-ai-chatbots-for-small-business-service",
+          "source": "Salesforce Blog / Agentforce",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-23T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5609,
+      "importance": 0.5609,
+      "importance_score": 0.5609,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9568,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 62,
+      "enterprise_importance_score": 68,
+      "enterprise_primary_topic": "intelligent_customer_service",
+      "enterprise_topics": [
+        "intelligent_customer_service"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：智能客服",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-23T13:00:00Z",
+      "latest_at": "2026-07-23T13:00:00Z",
+      "primary_item": {
+        "id": "b0da921c0e392e1f31baa291f01e03d7a8dca1f3",
+        "title": "适用于小型企业客户服务的最佳人工智能聊天机器人是什么？ / What are the Best AI Chatbots for Small Business Customer Service?",
+        "url": "https://www.salesforce.com/blog/small-business/best-ai-chatbots-for-small-business-service",
+        "source": "Salesforce Blog / Agentforce",
+        "source_name": "OPML RSS",
+        "published_at": "2026-07-23T13:00:00Z",
+        "ai_score": 0.67,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 62,
+        "enterprise_primary_topic": "intelligent_customer_service",
+        "enterprise_topics": [
+          "intelligent_customer_service"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：智能客服"
+      }
+    },
+    {
+      "story_id": "story_bd25454f7218",
+      "title": "Uber 裁员 10% 客户服务团队转而使用人工智能 / Uber lays off 10 percent of its customer service team in favor of using AI",
+      "url": "https://www.engadget.com/2221547/uber-lays-off-10-percent-customer-service-team-ai",
+      "primary_url": "https://www.engadget.com/2221547/uber-lays-off-10-percent-customer-service-team-ai",
+      "source": "Engadget",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "264bc95d25cded40bf9aea9155be4ce6cdde714d",
+          "title": "Uber 裁员 10% 客户服务团队转而使用人工智能 / Uber lays off 10 percent of its customer service team in favor of using AI",
+          "url": "https://www.engadget.com/2221547/uber-lays-off-10-percent-customer-service-team-ai",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T11:44:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Engadget"
+      ],
+      "items": [
+        {
+          "id": "264bc95d25cded40bf9aea9155be4ce6cdde714d",
+          "title": "Uber 裁员 10% 客户服务团队转而使用人工智能 / Uber lays off 10 percent of its customer service team in favor of using AI",
+          "url": "https://www.engadget.com/2221547/uber-lays-off-10-percent-customer-service-team-ai",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T11:44:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5099,
+      "importance": 0.5099,
+      "importance_score": 0.5099,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9396,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 62,
+      "enterprise_importance_score": 65,
+      "enterprise_primary_topic": "intelligent_customer_service",
+      "enterprise_topics": [
+        "intelligent_customer_service"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：智能客服",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-23T11:44:54Z",
+      "latest_at": "2026-07-23T11:44:54Z",
+      "primary_item": {
+        "id": "264bc95d25cded40bf9aea9155be4ce6cdde714d",
+        "title": "Uber 裁员 10% 客户服务团队转而使用人工智能 / Uber lays off 10 percent of its customer service team in favor of using AI",
+        "url": "https://www.engadget.com/2221547/uber-lays-off-10-percent-customer-service-team-ai",
+        "source": "Engadget",
+        "source_name": "TechURLs",
+        "published_at": "2026-07-23T11:44:54Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 62,
+        "enterprise_primary_topic": "intelligent_customer_service",
+        "enterprise_topics": [
+          "intelligent_customer_service"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：智能客服"
       }
     }
   ]
