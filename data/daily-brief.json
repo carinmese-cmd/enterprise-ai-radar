@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T00:13:34.241439Z",
+  "generated_at": "2026-07-24T09:29:32.022209Z",
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 4,
   "items": [
     {
       "story_id": "story_112b4523d36f",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
-      "importance_label": "行业动态",
+      "score": 0.7075,
+      "importance": 0.7075,
+      "importance_score": 0.7075,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8946,
+        "recency": 0.7826,
         "story_heat": 0.0
       },
       "enterprise_score": 82,
-      "enterprise_importance_score": 83,
+      "enterprise_importance_score": 82,
       "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
         "model_platform_selection"
@@ -58,7 +58,7 @@
       "enterprise_content_type": "methodology_evaluation",
       "enterprise_reason": "主题命中：模型与平台选型；内容类型：方法与评估；包含实施、架构、指标或结果信号",
       "enterprise_is_relevant": true,
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
@@ -80,6 +80,86 @@
         ],
         "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "主题命中：模型与平台选型；内容类型：方法与评估；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_9b05d384cd97",
+      "title": "阿里开源0.8B文档解析模型OvisOCR2，端到端方案登顶OmniDocBench",
+      "url": "https://www.aibase.com/news/29866",
+      "primary_url": "https://www.aibase.com/news/29866",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7b7668e3ebe0fd45c05b1a2435301aa0305ab010",
+          "title": "阿里开源0.8B文档解析模型OvisOCR2，端到端方案登顶OmniDocBench",
+          "url": "https://www.aibase.com/news/29866",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T09:29:32.022209Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7b7668e3ebe0fd45c05b1a2435301aa0305ab010",
+          "title": "阿里开源0.8B文档解析模型OvisOCR2，端到端方案登顶OmniDocBench",
+          "url": "https://www.aibase.com/news/29866",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T09:29:32.022209Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 63,
+      "enterprise_importance_score": 72,
+      "enterprise_primary_topic": "enterprise_knowledge_rag",
+      "enterprise_topics": [
+        "enterprise_knowledge_rag"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：企业知识库与RAG",
+      "enterprise_is_relevant": true,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T09:29:32.022209Z",
+      "latest_at": "2026-07-24T09:29:32.022209Z",
+      "primary_item": {
+        "id": "7b7668e3ebe0fd45c05b1a2435301aa0305ab010",
+        "title": "阿里开源0.8B文档解析模型OvisOCR2，端到端方案登顶OmniDocBench",
+        "url": "https://www.aibase.com/news/29866",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-07-24T09:29:32.022209Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 63,
+        "enterprise_primary_topic": "enterprise_knowledge_rag",
+        "enterprise_topics": [
+          "enterprise_knowledge_rag"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：企业知识库与RAG"
       }
     },
     {
@@ -117,15 +197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5226,
+      "importance": 0.5226,
+      "importance_score": 0.5226,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8503,
+        "recency": 0.7438,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
@@ -196,15 +276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4911,
-      "importance": 0.4911,
-      "importance_score": 0.4911,
+      "score": 0.4723,
+      "importance": 0.4723,
+      "importance_score": 0.4723,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8351,
+        "recency": 0.7305,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
