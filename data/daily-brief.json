@@ -1,142 +1,8 @@
 {
-  "generated_at": "2026-07-26T18:57:01.755198Z",
+  "generated_at": "2026-07-26T20:06:02.937002Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_5f284decdfa5",
-      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "primary_url": "https://github.com/slvDev/esp32-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
-          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:06:07.579000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
-          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:06:07.579000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8048,
-        "story_heat": 0.75
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-25T18:59:50Z",
-      "latest_at": "2026-07-26T03:54:52.332000Z",
-      "primary_item": {
-        "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
-        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-        "url": "https://github.com/slvDev/esp32-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT",
-        "published_at": "2026-07-26T03:54:52.332000Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
     {
       "story_id": "story_f8f08a1eac71",
       "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
@@ -191,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9164,
+        "recency": 0.9013,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -287,15 +153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8611,
+        "recency": 0.8469,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -326,6 +192,102 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "primary_url": "https://github.com/slvDev/esp32-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7916,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T03:54:52.332000Z",
+      "latest_at": "2026-07-26T03:54:52.332000Z",
+      "primary_item": {
+        "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
+        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "published_at": "2026-07-26T03:54:52.332000Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -364,19 +326,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.9735,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -459,19 +421,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8242,
+        "recency": 0.8106,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -535,38 +497,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T16:48:06.706863Z"
-        },
-        {
-          "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
-          "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:05:59.166028Z"
-        },
-        {
-          "id": "5613709695b567a2783bb96dd67b4aad3cc1e0c9",
-          "title": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:05:59.166028Z"
-        },
-        {
-          "id": "9bfe739b4d31abcc6e3626ba28819f72e3e0caa1",
-          "title": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:05:59.166028Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 3,
       "source_names": [
-        "社区更新 · 2026-07-25",
         "社区更新 · 2026-07-26"
       ],
       "items": [
@@ -596,47 +530,20 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T16:48:06.706863Z"
-        },
-        {
-          "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
-          "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:05:59.166028Z"
-        },
-        {
-          "id": "5613709695b567a2783bb96dd67b4aad3cc1e0c9",
-          "title": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:05:59.166028Z"
-        },
-        {
-          "id": "9bfe739b4d31abcc6e3626ba28819f72e3e0caa1",
-          "title": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:05:59.166028Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6665,
-      "importance": 0.6665,
-      "importance_score": 0.6665,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6136,
+      "importance": 0.6136,
+      "importance_score": 0.6136,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9852,
-        "story_heat": 1.0
+        "recency": 0.969,
+        "story_heat": 0.5
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 41,
@@ -649,7 +556,7 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T20:05:59.166028Z",
+      "earliest_at": "2026-07-26T16:48:06.706863Z",
       "latest_at": "2026-07-26T17:55:00.465907Z",
       "primary_item": {
         "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
@@ -660,156 +567,6 @@
         "published_at": "2026-07-26T17:55:00.465907Z",
         "ai_score": 0.65,
         "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-      "url": "https://news.ycombinator.com/item?id=49050859",
-      "primary_url": "https://news.ycombinator.com/item?id=49050859",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T04:36:46.464000Z"
-        },
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:24:23.892000Z"
-        },
-        {
-          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T04:36:46.464000Z"
-        },
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:24:23.892000Z"
-        },
-        {
-          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5871,
-      "importance": 0.5871,
-      "importance_score": 0.5871,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.813,
-        "story_heat": 1.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:44:39Z",
-      "latest_at": "2026-07-26T04:36:46.464000Z",
-      "primary_item": {
-        "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-        "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-        "url": "https://news.ycombinator.com/item?id=49050859",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "published_at": "2026-07-26T04:36:46.464000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -844,18 +601,18 @@
           "published_at": "2026-07-26T14:40:27Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "Hacker News · 24h最热",
         "aerospaceglobalnews.com"
       ],
@@ -879,26 +636,26 @@
           "published_at": "2026-07-26T14:40:27Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5651,
-      "importance": 0.5651,
-      "importance_score": 0.5651,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9682,
+        "recency": 0.9523,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1003,15 +760,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5515,
-      "importance": 0.5515,
-      "importance_score": 0.5515,
+      "score": 0.5489,
+      "importance": 0.5489,
+      "importance_score": 0.5489,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.893,
+        "recency": 0.8783,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1034,6 +791,100 @@
         "source": "siepr.stanford.edu",
         "source_name": "Buzzing",
         "published_at": "2026-07-26T11:06:49.887000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_495f7b95d6b8",
+      "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://news.ycombinator.com/item?id=49061015",
+      "primary_url": "https://news.ycombinator.com/item?id=49061015",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://news.ycombinator.com/item?id=49061015",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T19:56:21.857000Z"
+        },
+        {
+          "id": "0e05a478cbb759c9f0ec057b80780a9b8b8ebb05",
+          "title": "Show HN: 一种操作系统，其中难题会自动升级到更强大的模型中 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T18:40:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://news.ycombinator.com/item?id=49061015",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T19:56:21.857000Z"
+        },
+        {
+          "id": "0e05a478cbb759c9f0ec057b80780a9b8b8ebb05",
+          "title": "Show HN: 一种操作系统，其中难题会自动升级到更强大的模型中 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T18:40:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9977,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T18:40:08Z",
+      "latest_at": "2026-07-26T19:56:21.857000Z",
+      "primary_item": {
+        "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+        "title": "Show HN：HART OS – 开源 AI 操作系统，前沿 AI 不需要数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "url": "https://news.ycombinator.com/item?id=49061015",
+        "source": "hackernews",
+        "source_name": "NewsNow",
+        "published_at": "2026-07-26T19:56:21.857000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1070,18 +921,18 @@
           "published_at": "2026-07-26T00:36:11.814000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "blog.cloudflare.com",
         "hackernews"
       ],
@@ -1105,26 +956,26 @@
           "published_at": "2026-07-26T00:36:11.814000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8527,
+        "recency": 0.8386,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1210,19 +1061,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9795,
+        "recency": 0.9634,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1243,6 +1094,99 @@
         "published_at": "2026-07-26T17:30:55.877000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_94d030042966",
+      "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "primary_url": "https://vectoral.com/blog/token-relay-market",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        },
+        {
+          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
+          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        },
+        {
+          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
+          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9328,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T15:17:06Z",
+      "latest_at": "2026-07-26T15:17:06Z",
+      "primary_item": {
+        "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+        "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+        "url": "https://vectoral.com/blog/token-relay-market",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-07-26T15:17:06Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1304,15 +1248,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9245,
+        "recency": 0.9093,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1417,15 +1361,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7539,
+        "recency": 0.7415,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1475,18 +1419,18 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
+          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "huggingface.co"
       ],
       "items": [
@@ -1500,26 +1444,26 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
+          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5162,
+      "importance": 0.5162,
+      "importance_score": 0.5162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8494,
+        "recency": 0.8354,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1605,19 +1549,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9783,
+        "recency": 0.9622,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1638,99 +1582,6 @@
         "published_at": "2026-07-26T17:26:00.714000Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_8ca75aca4ab6",
-      "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-      "url": "https://golfcoursebrowser.com",
-      "primary_url": "https://golfcoursebrowser.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-          "url": "https://golfcoursebrowser.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
-        },
-        {
-          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-          "url": "https://golfcoursebrowser.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-          "url": "https://golfcoursebrowser.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
-        },
-        {
-          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-          "url": "https://golfcoursebrowser.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5075,
-      "importance": 0.5075,
-      "importance_score": 0.5075,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7871,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T02:22:26Z",
-      "latest_at": "2026-07-26T02:22:26Z",
-      "primary_item": {
-        "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
-        "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-        "url": "https://golfcoursebrowser.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-07-26T02:22:26Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1811,15 +1662,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8048,
+        "recency": 0.7916,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1905,15 +1756,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5049,
-      "importance": 0.5049,
-      "importance_score": 0.5049,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7727,
+        "recency": 0.76,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1938,100 +1789,6 @@
         "published_at": null,
         "ai_score": 0.65,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_98671c483284",
-      "title": "Show HN: 《扫雷》光线投射版",
-      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "primary_url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "source": "claude.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-          "title": "Show HN: 《扫雷》光线投射版",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T19:55:34.429000Z"
-        },
-        {
-          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
-          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:39:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.ai"
-      ],
-      "items": [
-        {
-          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-          "title": "Show HN: 《扫雷》光线投射版",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "claude.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T19:55:34.429000Z"
-        },
-        {
-          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
-          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:39:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7171,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:39:12Z",
-      "latest_at": "2026-07-25T19:55:34.429000Z",
-      "primary_item": {
-        "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-        "title": "Show HN: 《扫雷》光线投射版",
-        "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-        "source": "claude.ai",
-        "source_name": "Buzzing",
-        "published_at": "2026-07-25T19:55:34.429000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -2093,15 +1850,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8827,
+        "recency": 0.8682,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -2126,6 +1883,99 @@
         "published_at": "2026-07-26T10:18:47.689000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8ca75aca4ab6",
+      "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com",
+      "primary_url": "https://golfcoursebrowser.com",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
+          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
+          "url": "https://golfcoursebrowser.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T02:22:26Z"
+        },
+        {
+          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
+          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+          "url": "https://golfcoursebrowser.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T02:22:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
+          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
+          "url": "https://golfcoursebrowser.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T02:22:26Z"
+        },
+        {
+          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
+          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+          "url": "https://golfcoursebrowser.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T02:22:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7742,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T02:22:26Z",
+      "latest_at": "2026-07-26T02:22:26Z",
+      "primary_item": {
+        "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
+        "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
+        "url": "https://golfcoursebrowser.com",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-07-26T02:22:26Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
