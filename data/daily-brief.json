@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T17:55:00.465907Z",
+  "generated_at": "2026-07-26T18:57:01.755198Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -39,18 +39,18 @@
           "published_at": "2026-07-25T23:06:07.579000Z"
         },
         {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
           "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
           "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
         "hackernews"
@@ -84,26 +84,26 @@
           "published_at": "2026-07-25T23:06:07.579000Z"
         },
         {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
           "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
           "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.8048,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -191,15 +191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9302,
+        "recency": 0.9164,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -287,15 +287,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8611,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -326,6 +326,82 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_0cc3be6dc7b7",
+      "title": "Suno 推出多项新功能，含MIDI导出等",
+      "url": "https://x.com/suno/status/2081443050312843765",
+      "primary_url": "https://x.com/suno/status/2081443050312843765",
+      "source": "X：Suno (@suno)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+          "title": "Suno 推出多项新功能，含MIDI导出等",
+          "url": "https://x.com/suno/status/2081443050312843765",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T18:14:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Suno (@suno)"
+      ],
+      "items": [
+        {
+          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+          "title": "Suno 推出多项新功能，含MIDI导出等",
+          "url": "https://x.com/suno/status/2081443050312843765",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T18:14:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9898,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T18:14:29Z",
+      "latest_at": "2026-07-26T18:14:29Z",
+      "primary_item": {
+        "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+        "title": "Suno 推出多项新功能，含MIDI导出等",
+        "url": "https://x.com/suno/status/2081443050312843765",
+        "source": "X：Suno (@suno)",
+        "source_name": "AI HOT",
+        "published_at": "2026-07-26T18:14:29Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -383,15 +459,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8366,
+        "recency": 0.8242,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -551,15 +627,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6665,
+      "importance": 0.6665,
+      "importance_score": 0.6665,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9852,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -701,19 +777,19 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5893,
-      "importance": 0.5893,
-      "importance_score": 0.5893,
+      "score": 0.5871,
+      "importance": 0.5871,
+      "importance_score": 0.5871,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8252,
+        "recency": 0.813,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -759,13 +835,13 @@
           "published_at": "2026-07-26T16:42:46.682000Z"
         },
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
+          "id": "c420b97dddbb2bb19ee965c074fa5cb6f4d9e28d",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / London Gatwick has launched a robotic airport parking service",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T14:40:27Z"
         },
         {
           "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
@@ -780,8 +856,8 @@
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "aerospaceglobalnews.com",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "aerospaceglobalnews.com"
       ],
       "items": [
         {
@@ -794,13 +870,13 @@
           "published_at": "2026-07-26T16:42:46.682000Z"
         },
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
+          "id": "c420b97dddbb2bb19ee965c074fa5cb6f4d9e28d",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / London Gatwick has launched a robotic airport parking service",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T14:40:27Z"
         },
         {
           "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
@@ -814,19 +890,19 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5677,
-      "importance": 0.5677,
-      "importance_score": 0.5677,
+      "score": 0.5651,
+      "importance": 0.5651,
+      "importance_score": 0.5651,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9828,
+        "recency": 0.9682,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -927,15 +1003,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
+      "score": 0.5515,
+      "importance": 0.5515,
+      "importance_score": 0.5515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9064,
+        "recency": 0.893,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1040,15 +1116,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5466,
-      "importance": 0.5466,
-      "importance_score": 0.5466,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8527,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1081,111 +1157,92 @@
       }
     },
     {
-      "story_id": "story_7f366388db06",
-      "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "story_id": "story_3c20825102e6",
+      "title": "Show HN: Boffin——面向AI编码代理的资深工程师层",
+      "url": "https://github.com/MicSm/boffin",
+      "primary_url": "https://github.com/MicSm/boffin",
       "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6701328e205a2b0fa38156d13c431358070662ea",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "id": "809f80b2970c5be46cbff3b6445a293d1c5f2c33",
+          "title": "Show HN: Boffin——面向AI编码代理的资深工程师层",
+          "url": "https://github.com/MicSm/boffin",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.690000Z"
+          "published_at": "2026-07-26T17:30:55.877000Z"
         },
         {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T00:36:11.814000Z"
-        },
-        {
-          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T23:32:50Z"
+          "id": "24a9065f0540f35746be5b9d2257def900d10402",
+          "title": "Show HN: Boffin——面向AI编码代理的资深工程师层 / Show HN: Boffin – Staff-engineer layer for AI coding agents",
+          "url": "https://github.com/MicSm/boffin",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T17:28:03Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
+        "Hacker News",
+        "github.com"
       ],
       "items": [
         {
-          "id": "6701328e205a2b0fa38156d13c431358070662ea",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "id": "809f80b2970c5be46cbff3b6445a293d1c5f2c33",
+          "title": "Show HN: Boffin——面向AI编码代理的资深工程师层",
+          "url": "https://github.com/MicSm/boffin",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.690000Z"
+          "published_at": "2026-07-26T17:30:55.877000Z"
         },
         {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T00:36:11.814000Z"
-        },
-        {
-          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T23:32:50Z"
+          "id": "24a9065f0540f35746be5b9d2257def900d10402",
+          "title": "Show HN: Boffin——面向AI编码代理的资深工程师层 / Show HN: Boffin – Staff-engineer layer for AI coding agents",
+          "url": "https://github.com/MicSm/boffin",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T17:28:03Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8169,
-        "story_heat": 0.5
+        "recency": 0.9795,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T23:32:50Z",
-      "latest_at": "2026-07-26T03:54:52.690000Z",
+      "earliest_at": "2026-07-26T17:28:03Z",
+      "latest_at": "2026-07-26T17:30:55.877000Z",
       "primary_item": {
-        "id": "6701328e205a2b0fa38156d13c431358070662ea",
-        "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "id": "809f80b2970c5be46cbff3b6445a293d1c5f2c33",
+        "title": "Show HN: Boffin——面向AI编码代理的资深工程师层",
+        "url": "https://github.com/MicSm/boffin",
         "source": "github.com",
         "source_name": "Buzzing",
-        "published_at": "2026-07-26T03:54:52.690000Z",
+        "published_at": "2026-07-26T17:30:55.877000Z",
         "ai_score": 0.65,
-        "ai_label": "model_release",
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1247,15 +1304,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 0.9245,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1314,18 +1371,18 @@
           "published_at": "2026-07-25T22:24:23.892000Z"
         },
         {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "claude.com",
         "hackernews"
       ],
@@ -1349,26 +1406,26 @@
           "published_at": "2026-07-25T22:24:23.892000Z"
         },
         {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7652,
+        "recency": 0.7539,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1454,15 +1511,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8622,
+        "recency": 0.8494,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1548,15 +1605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.9783,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1641,15 +1698,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
+      "score": 0.5075,
+      "importance": 0.5075,
+      "importance_score": 0.5075,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.799,
+        "recency": 0.7871,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1674,6 +1731,119 @@
         "published_at": "2026-07-26T02:22:26Z",
         "ai_score": 0.65,
         "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7f366388db06",
+      "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:36:11.814000Z"
+        },
+        {
+          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:36:11.814000Z"
+        },
+        {
+          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8048,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T23:32:50Z",
+      "latest_at": "2026-07-26T03:54:52.690000Z",
+      "primary_item": {
+        "id": "6701328e205a2b0fa38156d13c431358070662ea",
+        "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "source": "github.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-07-26T03:54:52.690000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1735,15 +1905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7843,
+        "recency": 0.7727,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1766,100 +1936,6 @@
         "source": "Readhub · AI",
         "source_name": "TopHub",
         "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_79cae2a287d1",
-      "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-      "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-      "primary_url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T10:18:47.689000Z"
-        },
-        {
-          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:03:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T10:18:47.689000Z"
-        },
-        {
-          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
-          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
-          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T10:03:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5271,
-      "importance": 0.5271,
-      "importance_score": 0.5271,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.896,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T10:03:01Z",
-      "latest_at": "2026-07-26T10:18:47.689000Z",
-      "primary_item": {
-        "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
-        "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
-        "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-07-26T10:18:47.689000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1923,15 +1999,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7279,
+        "recency": 0.7171,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1964,68 +2040,68 @@
       }
     },
     {
-      "story_id": "story_8a43a7c831c0",
-      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_79cae2a287d1",
+      "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+      "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+      "primary_url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
+          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T10:18:47.689000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:03:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
+          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T10:18:47.689000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:03:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9647,
+        "recency": 0.8827,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -2039,111 +2115,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:25:44.678000Z",
+      "earliest_at": "2026-07-26T10:03:01Z",
+      "latest_at": "2026-07-26T10:18:47.689000Z",
       "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-        "url": "https://news.ycombinator.com/item?id=49057877",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "published_at": "2026-07-26T15:25:44.678000Z",
+        "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
+        "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+        "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-07-26T10:18:47.689000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a92321595322",
-      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-      "primary_url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Daring Fireball",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7425,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T18:15:12Z",
-      "latest_at": "2026-07-25T21:18:06Z",
-      "primary_item": {
-        "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-        "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-07-25T21:18:06Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
