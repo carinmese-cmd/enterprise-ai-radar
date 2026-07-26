@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T16:48:06.706863Z",
+  "generated_at": "2026-07-26T17:55:00.465907Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,19 +95,19 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8302,
+        "recency": 0.8169,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -191,15 +191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9453,
+        "recency": 0.9302,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -287,15 +287,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8883,
+        "recency": 0.8741,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -383,15 +383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8502,
+        "recency": 0.8366,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -426,88 +426,22 @@
       }
     },
     {
-      "story_id": "story_95e9eaf371da",
-      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-      "url": "https://x.com/elonmusk/status/2081174079969632347",
-      "primary_url": "https://x.com/elonmusk/status/2081174079969632347",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ead983ec445354837fda616f660a0314129158f",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "url": "https://x.com/elonmusk/status/2081174079969632347",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "6ead983ec445354837fda616f660a0314129158f",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "url": "https://x.com/elonmusk/status/2081174079969632347",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7894,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 45,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T00:25:41Z",
-      "latest_at": "2026-07-26T00:25:41Z",
-      "primary_item": {
-        "id": "6ead983ec445354837fda616f660a0314129158f",
-        "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-        "url": "https://x.com/elonmusk/status/2081174079969632347",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT",
-        "published_at": "2026-07-26T00:25:41Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
       "story_id": "story_2df82173bb28",
-      "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
+      "title": "这周GitHub Trending又被 AI Agent 和工程化工具刷屏了，梳理了TOP 17排名的开源项目，适合开发者、AI 产品同学和工具控收藏：从1.9w Star的Agent开源书和92个实验，到长视频实时3D 建图、croc 口令传文件、UI Skills约束AI生成界面，再到Kimi Code、Pi Web、Rust Agent jcode。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-07-26",
       "source_name": "WaytoAGI",
       "sources": [
+        {
+          "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
+          "title": "这周GitHub Trending又被 AI Agent 和工程化工具刷屏了，梳理了TOP 17排名的开源项目，适合开发者、AI 产品同学和工具控收藏：从1.9w Star的Agent开源书和92个实验，到长视频实时3D 建图、croc 口令传文件、UI Skills约束AI生成界面，再到Kimi Code、Pi Web、Rust Agent jcode。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-26T17:55:00.465907Z"
+        },
         {
           "id": "b29739372b4ee3cd716f8fe4f4906a5ef2057a44",
           "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
@@ -552,15 +486,6 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-25T20:05:59.166028Z"
-        },
-        {
-          "id": "b7a0dfde1f5323cfe8388d26212e1a4e832fcc87",
-          "title": "现在很多 Agent Demo 能调用工具、能跑流程，但一接真实业务系统就会暴露硬问题：谁能调用什么、按什么顺序调用、危险操作怎么拦，光靠 prompt 约束很容易失控。腾讯云的这套四层落地架构，为规模化、安全可控的企业Agent落地提供了一个完整可复用的工程模板。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T17:51:06.814400Z"
         }
       ],
       "source_count": 6,
@@ -570,6 +495,15 @@
       ],
       "items": [
         {
+          "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
+          "title": "这周GitHub Trending又被 AI Agent 和工程化工具刷屏了，梳理了TOP 17排名的开源项目，适合开发者、AI 产品同学和工具控收藏：从1.9w Star的Agent开源书和92个实验，到长视频实时3D 建图、croc 口令传文件、UI Skills约束AI生成界面，再到Kimi Code、Pi Web、Rust Agent jcode。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-26T17:55:00.465907Z"
+        },
+        {
           "id": "b29739372b4ee3cd716f8fe4f4906a5ef2057a44",
           "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -613,15 +547,6 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-25T20:05:59.166028Z"
-        },
-        {
-          "id": "b7a0dfde1f5323cfe8388d26212e1a4e832fcc87",
-          "title": "现在很多 Agent Demo 能调用工具、能跑流程，但一接真实业务系统就会暴露硬问题：谁能调用什么、按什么顺序调用、危险操作怎么拦，光靠 prompt 约束很容易失控。腾讯云的这套四层落地架构，为规模化、安全可控的企业Agent落地提供了一个完整可复用的工程模板。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T17:51:06.814400Z"
         }
       ],
       "item_count": 6,
@@ -648,17 +573,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T17:51:06.814400Z",
-      "latest_at": "2026-07-26T16:48:06.706863Z",
+      "earliest_at": "2026-07-25T20:05:59.166028Z",
+      "latest_at": "2026-07-26T17:55:00.465907Z",
       "primary_item": {
-        "id": "b29739372b4ee3cd716f8fe4f4906a5ef2057a44",
-        "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
+        "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
+        "title": "这周GitHub Trending又被 AI Agent 和工程化工具刷屏了，梳理了TOP 17排名的开源项目，适合开发者、AI 产品同学和工具控收藏：从1.9w Star的Agent开源书和92个实验，到长视频实时3D 建图、croc 口令传文件、UI Skills约束AI生成界面，再到Kimi Code、Pi Web、Rust Agent jcode。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-26",
         "source_name": "WaytoAGI",
-        "published_at": "2026-07-26T16:48:06.706863Z",
+        "published_at": "2026-07-26T17:55:00.465907Z",
         "ai_score": 0.65,
-        "ai_label": "model_release",
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -711,18 +636,19 @@
           "published_at": "2026-07-25T19:44:39Z"
         },
         {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
           "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
           "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T19:44:39Z"
         }
       ],
       "source_count": 5,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.debian.org"
       ],
@@ -764,26 +690,26 @@
           "published_at": "2026-07-25T19:44:39Z"
         },
         {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
           "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
           "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T19:44:39Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5917,
-      "importance": 0.5917,
-      "importance_score": 0.5917,
+      "score": 0.5893,
+      "importance": 0.5893,
+      "importance_score": 0.5893,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8386,
+        "recency": 0.8252,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -888,15 +814,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5706,
-      "importance": 0.5706,
-      "importance_score": 0.5706,
+      "score": 0.5677,
+      "importance": 0.5677,
+      "importance_score": 0.5677,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9987,
+        "recency": 0.9828,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1001,15 +927,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5566,
-      "importance": 0.5566,
-      "importance_score": 0.5566,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9211,
+        "recency": 0.9064,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1114,15 +1040,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5491,
-      "importance": 0.5491,
-      "importance_score": 0.5491,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8796,
+        "recency": 0.8655,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1227,19 +1153,19 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8302,
+        "recency": 0.8169,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1321,15 +1247,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9537,
+        "recency": 0.9384,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1434,15 +1360,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7776,
+        "recency": 0.7652,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1528,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8762,
+        "recency": 0.8622,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1569,68 +1495,68 @@
       }
     },
     {
-      "story_id": "story_8a43a7c831c0",
-      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "story_id": "story_8a0d9544ac70",
+      "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://news.ycombinator.com/item?id=49059660",
+      "primary_url": "https://news.ycombinator.com/item?id=49059660",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
+          "published_at": "2026-07-26T17:26:00.714000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:25:44.678000Z"
+          "published_at": "2026-07-26T17:26:00.714000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9804,
+        "recency": 0.993,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1644,17 +1570,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:25:44.678000Z",
+      "earliest_at": "2026-07-26T16:23:56Z",
+      "latest_at": "2026-07-26T17:26:00.714000Z",
       "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-        "url": "https://news.ycombinator.com/item?id=49057877",
+        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+        "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+        "url": "https://news.ycombinator.com/item?id=49059660",
         "source": "hackernews",
         "source_name": "NewsNow",
-        "published_at": "2026-07-26T15:25:44.678000Z",
+        "published_at": "2026-07-26T17:26:00.714000Z",
         "ai_score": 0.65,
-        "ai_label": "ai_general",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1715,15 +1641,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5119,
-      "importance": 0.5119,
-      "importance_score": 0.5119,
+      "score": 0.5096,
+      "importance": 0.5096,
+      "importance_score": 0.5096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8119,
+        "recency": 0.799,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1809,15 +1735,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5093,
-      "importance": 0.5093,
-      "importance_score": 0.5093,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.797,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1903,15 +1829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9106,
+        "recency": 0.896,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1997,15 +1923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.499,
-      "importance": 0.499,
-      "importance_score": 0.499,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7397,
+        "recency": 0.7279,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -2038,68 +1964,68 @@
       }
     },
     {
-      "story_id": "story_840446b01cc7",
-      "title": "一个 OpenAI 模型留下了关于如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-      "url": "https://news.ycombinator.com/item?id=49056808",
-      "primary_url": "https://news.ycombinator.com/item?id=49056808",
+      "story_id": "story_8a43a7c831c0",
+      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "db852b13c90e745506275fffd4b9d1678359c687",
-          "title": "一个 OpenAI 模型留下了关于如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-          "url": "https://news.ycombinator.com/item?id=49056808",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T12:25:24.422000Z"
+          "published_at": "2026-07-26T15:25:44.678000Z"
         },
         {
-          "id": "486cb34a3e752ffc79f805b9453dac1ce9193a4e",
-          "title": "一个 OpenAI 模型留下了关于如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-          "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-26T11:00:54Z"
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "db852b13c90e745506275fffd4b9d1678359c687",
-          "title": "一个 OpenAI 模型留下了关于如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-          "url": "https://news.ycombinator.com/item?id=49056808",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T12:25:24.422000Z"
+          "published_at": "2026-07-26T15:25:44.678000Z"
         },
         {
-          "id": "486cb34a3e752ffc79f805b9453dac1ce9193a4e",
-          "title": "一个 OpenAI 模型留下了关于如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-          "url": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-26T11:00:54Z"
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9387,
+        "recency": 0.9647,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -2113,17 +2039,111 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T11:00:54Z",
-      "latest_at": "2026-07-26T12:25:24.422000Z",
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T15:25:44.678000Z",
       "primary_item": {
-        "id": "db852b13c90e745506275fffd4b9d1678359c687",
-        "title": "一个 OpenAI 模型留下了关于如何逃避收容的注释；我们需要更多细节 / An OpenAI model left notes about how to evade containment; we need more details",
-        "url": "https://news.ycombinator.com/item?id=49056808",
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+        "url": "https://news.ycombinator.com/item?id=49057877",
         "source": "hackernews",
         "source_name": "NewsNow",
-        "published_at": "2026-07-26T12:25:24.422000Z",
+        "published_at": "2026-07-26T15:25:44.678000Z",
         "ai_score": 0.65,
-        "ai_label": "model_release",
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a92321595322",
+      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "primary_url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T21:18:06Z"
+        },
+        {
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Daring Fireball",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T21:18:06Z"
+        },
+        {
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7425,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T18:15:12Z",
+      "latest_at": "2026-07-25T21:18:06Z",
+      "primary_item": {
+        "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+        "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-07-25T21:18:06Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
