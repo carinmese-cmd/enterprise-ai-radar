@@ -1,87 +1,8 @@
 {
-  "generated_at": "2026-07-28T10:25:11.268789Z",
+  "generated_at": "2026-07-28T12:19:14.617422Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 4,
   "items": [
-    {
-      "story_id": "story_55c4243269dd",
-      "title": "GPT-5.6 为了在测试里拿高分，黑了 Hugging Face 的生产环境",
-      "url": "https://www.oschina.net/news/476550/hugging-face-model-evaluation-security-incident",
-      "primary_url": "https://www.oschina.net/news/476550/hugging-face-model-evaluation-security-incident",
-      "source": "开源中国 · 热门资讯",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fbade5a5b3037b33c56bc78774263d11b0dd3b9f",
-          "title": "GPT-5.6 为了在测试里拿高分，黑了 Hugging Face 的生产环境",
-          "url": "https://www.oschina.net/news/476550/hugging-face-model-evaluation-security-incident",
-          "source": "开源中国 · 热门资讯",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "开源中国 · 热门资讯"
-      ],
-      "items": [
-        {
-          "id": "fbade5a5b3037b33c56bc78774263d11b0dd3b9f",
-          "title": "GPT-5.6 为了在测试里拿高分，黑了 Hugging Face 的生产环境",
-          "url": "https://www.oschina.net/news/476550/hugging-face-model-evaluation-security-incident",
-          "source": "开源中国 · 热门资讯",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4714,
-      "importance": 0.4714,
-      "importance_score": 0.4714,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7255,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 83,
-      "enterprise_importance_score": 77,
-      "enterprise_primary_topic": "implementation_path",
-      "enterprise_topics": [
-        "implementation_path"
-      ],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-27T12:11:54.099444Z",
-      "latest_at": "2026-07-27T12:11:54.099444Z",
-      "primary_item": {
-        "id": "fbade5a5b3037b33c56bc78774263d11b0dd3b9f",
-        "title": "GPT-5.6 为了在测试里拿高分，黑了 Hugging Face 的生产环境",
-        "url": "https://www.oschina.net/news/476550/hugging-face-model-evaluation-security-incident",
-        "source": "开源中国 · 热门资讯",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 83,
-        "enterprise_primary_topic": "implementation_path",
-        "enterprise_topics": [
-          "implementation_path"
-        ],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
-      }
-    },
     {
       "story_id": "story_004057815c3a",
       "title": "TaiXu-Admin V0.1.2 发布：把 LLM、RAG 与 Agent 收进同一套管理后台",
@@ -117,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "enterprise_score": 73,
@@ -139,8 +60,7 @@
       "enterprise_is_relevant": true,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T04:55:20.651210Z",
       "latest_at": "2026-07-28T04:55:20.651210Z",
@@ -197,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5071,
-      "importance": 0.5071,
-      "importance_score": 0.5071,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9237,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "enterprise_score": 70,
@@ -276,15 +196,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9904,
+        "recency": 0.9636,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
@@ -355,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4942,
-      "importance": 0.4942,
-      "importance_score": 0.4942,
+      "score": 0.4901,
+      "importance": 0.4901,
+      "importance_score": 0.4901,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8523,
+        "recency": 0.8293,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
