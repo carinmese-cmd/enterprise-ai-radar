@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T07:33:09.727874Z",
+  "generated_at": "2026-07-28T10:25:11.268789Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 5,
   "items": [
     {
       "story_id": "story_55c4243269dd",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4769,
-      "importance": 0.4769,
-      "importance_score": 0.4769,
+      "score": 0.4714,
+      "importance": 0.4714,
+      "importance_score": 0.4714,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7562,
+        "recency": 0.7255,
         "story_heat": 0.0
       },
       "enterprise_score": 83,
@@ -117,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "enterprise_score": 73,
@@ -197,19 +197,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.5071,
+      "importance": 0.5071,
+      "importance_score": 0.5071,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9627,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "enterprise_score": 70,
-      "enterprise_importance_score": 69,
+      "enterprise_importance_score": 68,
       "enterprise_primary_topic": "enterprise_knowledge_rag",
       "enterprise_topics": [
         "enterprise_knowledge_rag"
@@ -239,6 +239,85 @@
         ],
         "enterprise_content_type": "product_update",
         "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：产品更新"
+      }
+    },
+    {
+      "story_id": "story_61e3c93606ca",
+      "title": "人工智能导致微软、优步和CBA的客户服务岗位大量消失",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c8c99107db8c45c0b127636e65736c4c358e5383",
+          "title": "人工智能导致微软、优步和CBA的客户服务岗位大量消失",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T09:45:18.176000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "c8c99107db8c45c0b127636e65736c4c358e5383",
+          "title": "人工智能导致微软、优步和CBA的客户服务岗位大量消失",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T09:45:18.176000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9904,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 62,
+      "enterprise_importance_score": 65,
+      "enterprise_primary_topic": "intelligent_customer_service",
+      "enterprise_topics": [
+        "intelligent_customer_service"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：智能客服",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-28T09:45:18.176000Z",
+      "latest_at": "2026-07-28T09:45:18.176000Z",
+      "primary_item": {
+        "id": "c8c99107db8c45c0b127636e65736c4c358e5383",
+        "title": "人工智能导致微软、优步和CBA的客户服务岗位大量消失",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-07-28T09:45:18.176000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 62,
+        "enterprise_primary_topic": "intelligent_customer_service",
+        "enterprise_topics": [
+          "intelligent_customer_service"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：智能客服"
       }
     },
     {
@@ -276,19 +355,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5007,
-      "importance": 0.5007,
-      "importance_score": 0.5007,
+      "score": 0.4942,
+      "importance": 0.4942,
+      "importance_score": 0.4942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8884,
+        "recency": 0.8523,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
-      "enterprise_importance_score": 65,
+      "enterprise_importance_score": 64,
       "enterprise_primary_topic": "intelligent_customer_service",
       "enterprise_topics": [
         "intelligent_customer_service"
