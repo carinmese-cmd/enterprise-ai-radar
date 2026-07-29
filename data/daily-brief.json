@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T08:02:00.221741Z",
+  "generated_at": "2026-07-29T10:59:51.686540Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 3,
   "items": [
     {
       "story_id": "story_2df82173bb28",
@@ -92,19 +92,19 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6152,
-      "importance": 0.6152,
-      "importance_score": 0.6152,
+      "score": 0.609,
+      "importance": 0.609,
+      "importance_score": 0.609,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.8158,
+        "recency": 0.7816,
         "story_heat": 0.75
       },
       "enterprise_score": 71,
-      "enterprise_importance_score": 73,
+      "enterprise_importance_score": 72,
       "enterprise_primary_topic": "sales_marketing_ai",
       "enterprise_topics": [
         "sales_marketing_ai"
@@ -171,15 +171,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9131,
+        "recency": 0.8748,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
@@ -193,8 +193,7 @@
       "enterprise_is_relevant": true,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T01:44:14.861013Z",
       "latest_at": "2026-07-29T01:44:14.861013Z",
@@ -251,15 +250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4839,
-      "importance": 0.4839,
-      "importance_score": 0.4839,
+      "score": 0.4779,
+      "importance": 0.4779,
+      "importance_score": 0.4779,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7951,
+        "recency": 0.7618,
         "story_heat": 0.0
       },
       "enterprise_score": 64,
@@ -293,164 +292,6 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：市场拓展与销售AI"
-      }
-    },
-    {
-      "story_id": "story_61e3c93606ca",
-      "title": "人工智能导致微软、优步和CBA的客户服务岗位大量消失",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c8c99107db8c45c0b127636e65736c4c358e5383",
-          "title": "人工智能导致微软、优步和CBA的客户服务岗位大量消失",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T09:45:18.176000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "c8c99107db8c45c0b127636e65736c4c358e5383",
-          "title": "人工智能导致微软、优步和CBA的客户服务岗位大量消失",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T09:45:18.176000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4713,
-      "importance": 0.4713,
-      "importance_score": 0.4713,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7249,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 62,
-      "enterprise_importance_score": 64,
-      "enterprise_primary_topic": "intelligent_customer_service",
-      "enterprise_topics": [
-        "intelligent_customer_service"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：智能客服",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-28T09:45:18.176000Z",
-      "latest_at": "2026-07-28T09:45:18.176000Z",
-      "primary_item": {
-        "id": "c8c99107db8c45c0b127636e65736c4c358e5383",
-        "title": "人工智能导致微软、优步和CBA的客户服务岗位大量消失",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-28/ai-wipes-out-customer-service-jobs-at-microsoft-uber-cba",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-07-28T09:45:18.176000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 62,
-        "enterprise_primary_topic": "intelligent_customer_service",
-        "enterprise_topics": [
-          "intelligent_customer_service"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：智能客服"
-      }
-    },
-    {
-      "story_id": "story_465d3a240f08",
-      "title": "人工智能风险存在于实验室内部 / The AI risk is inside the labs",
-      "url": "https://antirez.com/news/172",
-      "primary_url": "https://antirez.com/news/172",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "95f4d52e635f68bb6080b834df9319cb43627118",
-          "title": "人工智能风险存在于实验室内部 / The AI risk is inside the labs",
-          "url": "https://antirez.com/news/172",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-28T09:10:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "95f4d52e635f68bb6080b834df9319cb43627118",
-          "title": "人工智能风险存在于实验室内部 / The AI risk is inside the labs",
-          "url": "https://antirez.com/news/172",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-28T09:10:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4702,
-      "importance": 0.4702,
-      "importance_score": 0.4702,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7188,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 62,
-      "enterprise_importance_score": 63,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：AI应用评估与治理",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-28T09:10:12Z",
-      "latest_at": "2026-07-28T09:10:12Z",
-      "primary_item": {
-        "id": "95f4d52e635f68bb6080b834df9319cb43627118",
-        "title": "人工智能风险存在于实验室内部 / The AI risk is inside the labs",
-        "url": "https://antirez.com/news/172",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-07-28T09:10:12Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
-        "enterprise_score": 62,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：AI应用评估与治理"
       }
     }
   ]
