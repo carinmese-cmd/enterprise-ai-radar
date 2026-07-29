@@ -1,123 +1,8 @@
 {
-  "generated_at": "2026-07-29T15:25:17.346060Z",
+  "generated_at": "2026-07-29T16:45:37.278767Z",
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 1,
   "items": [
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "很多人用编程Agent卡在一个尴尬点：AI 会写代码，但谁来喂上下文、检查安全、跑测试、判断结果真的过关？作者把Codex 当产品经理、Tech Lead和QA，让它在内置浏览器里指挥ChatGPT Pro：先读仓库、打包源码并排除密钥，再把复杂需求拆成多个Pro对话；Codex 负责本地落地、跑测试、反复修Bug。而且用Codex指挥ChatGPT Pro，会大大降低Codex的Token消耗。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-28",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "0d9dcb6114ac2ae5a5ee7242d8d2b901cc89d6ee",
-          "title": "今日资本创始人 徐新 做客《高能量》播客：《Vol.227 具身新贵与投资女王：创新、热潮、泡沫和周期 》，输出了大量与具身、AI、投资相关的观点。快来一起看看一线投资人怎么判断 AI 大机会。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-28T17:55:59.495508Z"
-        },
-        {
-          "id": "7409f8d0898f6738538a1b668bd473e04c5e3b15",
-          "title": "很多人用编程Agent卡在一个尴尬点：AI 会写代码，但谁来喂上下文、检查安全、跑测试、判断结果真的过关？作者把Codex 当产品经理、Tech Lead和QA，让它在内置浏览器里指挥ChatGPT Pro：先读仓库、打包源码并排除密钥，再把复杂需求拆成多个Pro对话；Codex 负责本地落地、跑测试、反复修Bug。而且用Codex指挥ChatGPT Pro，会大大降低Codex的Token消耗。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-28T17:55:59.495508Z"
-        },
-        {
-          "id": "f9efc4bfd9e6b3a6d7fe62a4e109d343c3eba513",
-          "title": "Agent 技术现在太多了：Harness框架、MCP、Skills、浏览器、桌面宿主、一眼看过去很容易乱。如果你也有这个烦恼，这篇文章或许会帮助到你。作者讲清了Prompt、Context、Loop、Graph、Skill、Harness的边界，也拆解了 Goal、Memory、Subagent、Handoff这些关键模块该怎么设计。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-28T16:29:40.751571Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "社区更新 · 2026-07-28"
-      ],
-      "items": [
-        {
-          "id": "0d9dcb6114ac2ae5a5ee7242d8d2b901cc89d6ee",
-          "title": "今日资本创始人 徐新 做客《高能量》播客：《Vol.227 具身新贵与投资女王：创新、热潮、泡沫和周期 》，输出了大量与具身、AI、投资相关的观点。快来一起看看一线投资人怎么判断 AI 大机会。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-28T17:55:59.495508Z"
-        },
-        {
-          "id": "7409f8d0898f6738538a1b668bd473e04c5e3b15",
-          "title": "很多人用编程Agent卡在一个尴尬点：AI 会写代码，但谁来喂上下文、检查安全、跑测试、判断结果真的过关？作者把Codex 当产品经理、Tech Lead和QA，让它在内置浏览器里指挥ChatGPT Pro：先读仓库、打包源码并排除密钥，再把复杂需求拆成多个Pro对话；Codex 负责本地落地、跑测试、反复修Bug。而且用Codex指挥ChatGPT Pro，会大大降低Codex的Token消耗。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-28T17:55:59.495508Z"
-        },
-        {
-          "id": "f9efc4bfd9e6b3a6d7fe62a4e109d343c3eba513",
-          "title": "Agent 技术现在太多了：Harness框架、MCP、Skills、浏览器、桌面宿主、一眼看过去很容易乱。如果你也有这个烦恼，这篇文章或许会帮助到你。作者讲清了Prompt、Context、Loop、Graph、Skill、Harness的边界，也拆解了 Goal、Memory、Subagent、Handoff这些关键模块该怎么设计。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-28",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-28T16:29:40.751571Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5753,
-      "importance": 0.5753,
-      "importance_score": 0.5753,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4752,
-        "source_tier": 0.54,
-        "ai_relevance": 0.66,
-        "recency": 0.7332,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 71,
-      "enterprise_importance_score": 72,
-      "enterprise_primary_topic": "sales_marketing_ai",
-      "enterprise_topics": [
-        "sales_marketing_ai"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：市场拓展与销售AI；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-28T16:29:40.751571Z",
-      "latest_at": "2026-07-28T17:55:59.495508Z",
-      "primary_item": {
-        "id": "7409f8d0898f6738538a1b668bd473e04c5e3b15",
-        "title": "很多人用编程Agent卡在一个尴尬点：AI 会写代码，但谁来喂上下文、检查安全、跑测试、判断结果真的过关？作者把Codex 当产品经理、Tech Lead和QA，让它在内置浏览器里指挥ChatGPT Pro：先读仓库、打包源码并排除密钥，再把复杂需求拆成多个Pro对话；Codex 负责本地落地、跑测试、反复修Bug。而且用Codex指挥ChatGPT Pro，会大大降低Codex的Token消耗。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-28",
-        "source_name": "WaytoAGI",
-        "published_at": "2026-07-28T17:55:59.495508Z",
-        "ai_score": 0.66,
-        "ai_label": "model_release",
-        "enterprise_score": 71,
-        "enterprise_primary_topic": "sales_marketing_ai",
-        "enterprise_topics": [
-          "sales_marketing_ai"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：市场拓展与销售AI；包含实施、架构、指标或结果信号"
-      }
-    },
     {
       "story_id": "story_aeb6ed419639",
       "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
@@ -153,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8207,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
@@ -195,85 +80,6 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：人力资源AI"
-      }
-    },
-    {
-      "story_id": "story_e43501446dbc",
-      "title": "Salesforce（CRM）对企业环境中人工智能部署的影响",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-impact-ai-deployment-153219870.html",
-      "primary_url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-impact-ai-deployment-153219870.html",
-      "source": "finance.yahoo.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "621d7dc3d3f94d9fc6548f075771db6bd253e0bf",
-          "title": "Salesforce（CRM）对企业环境中人工智能部署的影响",
-          "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-impact-ai-deployment-153219870.html",
-          "source": "finance.yahoo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T16:09:30.549000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "finance.yahoo.com"
-      ],
-      "items": [
-        {
-          "id": "621d7dc3d3f94d9fc6548f075771db6bd253e0bf",
-          "title": "Salesforce（CRM）对企业环境中人工智能部署的影响",
-          "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-impact-ai-deployment-153219870.html",
-          "source": "finance.yahoo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T16:09:30.549000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4694,
-      "importance": 0.4694,
-      "importance_score": 0.4694,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7147,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 64,
-      "enterprise_importance_score": 64,
-      "enterprise_primary_topic": "sales_marketing_ai",
-      "enterprise_topics": [
-        "sales_marketing_ai"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：市场拓展与销售AI",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-28T16:09:30.549000Z",
-      "latest_at": "2026-07-28T16:09:30.549000Z",
-      "primary_item": {
-        "id": "621d7dc3d3f94d9fc6548f075771db6bd253e0bf",
-        "title": "Salesforce（CRM）对企业环境中人工智能部署的影响",
-        "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-impact-ai-deployment-153219870.html",
-        "source": "finance.yahoo.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-07-28T16:09:30.549000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 64,
-        "enterprise_primary_topic": "sales_marketing_ai",
-        "enterprise_topics": [
-          "sales_marketing_ai"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：市场拓展与销售AI"
       }
     }
   ]
