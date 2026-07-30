@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:56:55.431623Z",
+  "generated_at": "2026-07-30T11:48:10.362763Z",
   "window_hours": 24,
   "total_items": 2,
   "items": [
@@ -19,10 +19,20 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "MarkTechPost Research",
         "MarkTechPost（RSS）"
       ],
       "items": [
@@ -34,20 +44,29 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9684,
-        "story_heat": 0.0
+        "recency": 0.9428,
+        "story_heat": 0.25
       },
       "enterprise_score": 73,
       "enterprise_importance_score": 76,
@@ -60,6 +79,7 @@
       "enterprise_is_relevant": true,
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -118,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5937,
-      "importance": 0.5937,
-      "importance_score": 0.5937,
+      "score": 0.5897,
+      "importance": 0.5897,
+      "importance_score": 0.5897,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8328,
+        "recency": 0.8108,
         "story_heat": 0.0
       },
       "enterprise_score": 69,
