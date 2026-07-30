@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T01:26:46.193649Z",
+  "generated_at": "2026-07-30T04:29:16.279606Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "items": [
     {
       "story_id": "story_37558a659aed",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6132,
-      "importance": 0.6132,
-      "importance_score": 0.6132,
+      "score": 0.606,
+      "importance": 0.606,
+      "importance_score": 0.606,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9416,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "enterprise_score": 69,
-      "enterprise_importance_score": 73,
+      "enterprise_importance_score": 72,
       "enterprise_primary_topic": "evaluation_governance",
       "enterprise_topics": [
         "evaluation_governance"
@@ -80,85 +80,6 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_aeb6ed419639",
-      "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-      "url": "https://www.aibase.com/news/29959",
-      "primary_url": "https://www.aibase.com/news/29959",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
-          "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-          "url": "https://www.aibase.com/news/29959",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T01:44:14.861013Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
-          "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-          "url": "https://www.aibase.com/news/29959",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T01:44:14.861013Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7154,
-      "importance": 0.7154,
-      "importance_score": 0.7154,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7101,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 63,
-      "enterprise_importance_score": 70,
-      "enterprise_primary_topic": "hr_ai",
-      "enterprise_topics": [
-        "hr_ai"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：人力资源AI",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T01:44:14.861013Z",
-      "latest_at": "2026-07-29T01:44:14.861013Z",
-      "primary_item": {
-        "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
-        "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-        "url": "https://www.aibase.com/news/29959",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-07-29T01:44:14.861013Z",
-        "ai_score": 1.0,
-        "ai_label": "developer_tool",
-        "enterprise_score": 63,
-        "enterprise_primary_topic": "hr_ai",
-        "enterprise_topics": [
-          "hr_ai"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：人力资源AI"
       }
     }
   ]
