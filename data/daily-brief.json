@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T13:11:47.825121Z",
+  "generated_at": "2026-07-31T15:35:02.306079Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "items": [
     {
       "story_id": "story_8d47e083c1b7",
@@ -19,10 +19,20 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-31T10:01:45.623000Z"
+        },
+        {
+          "id": "d68b71a28d8d38b7c3a8980260b607449aba69b3",
+          "title": "Ask HN: 你们在生产环境中使用什么来进行大语言模型（LLM）推理？ / Ask HN: What are you using for LLM inference in production?",
+          "url": "https://news.ycombinator.com/item?id=49121047",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-31T09:46:24Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "HN Algolia · AI 24h",
         "news.ycombinator.com"
       ],
       "items": [
@@ -34,20 +44,29 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-31T10:01:45.623000Z"
+        },
+        {
+          "id": "d68b71a28d8d38b7c3a8980260b607449aba69b3",
+          "title": "Ask HN: 你们在生产环境中使用什么来进行大语言模型（LLM）推理？ / Ask HN: What are you using for LLM inference in production?",
+          "url": "https://news.ycombinator.com/item?id=49121047",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-31T09:46:24Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9553,
-        "story_heat": 0.0
+        "recency": 0.9229,
+        "story_heat": 0.25
       },
       "enterprise_score": 83,
       "enterprise_importance_score": 78,
@@ -60,9 +79,9 @@
       "enterprise_is_relevant": true,
       "category": "watch",
       "reasons": [
-        "recent_ai_signal"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-31T10:01:45.623000Z",
+      "earliest_at": "2026-07-31T09:46:24Z",
       "latest_at": "2026-07-31T10:01:45.623000Z",
       "primary_item": {
         "id": "5632a588094c77561c87b6036b41d04bd1788e5c",
@@ -80,85 +99,6 @@
         ],
         "enterprise_content_type": "technical_practice",
         "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_24cca910b018",
-      "title": "保护设备上 AI：使用 AI Red Teaming Agent 评估 Foundry 本地模型 / Securing On-Device AI: Evaluating Foundry Local Models with AI Red Teaming Agent",
-      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/securing-on-device-ai-evaluating-foundry-local-models-with-ai/ba-p/4541303",
-      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/securing-on-device-ai-evaluating-foundry-local-models-with-ai/ba-p/4541303",
-      "source": "Azure AI Foundry Blog",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "cd5f0e873a05468a9a1e9c4ee955fec14a8d388a",
-          "title": "保护设备上 AI：使用 AI Red Teaming Agent 评估 Foundry 本地模型 / Securing On-Device AI: Evaluating Foundry Local Models with AI Red Teaming Agent",
-          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/securing-on-device-ai-evaluating-foundry-local-models-with-ai/ba-p/4541303",
-          "source": "Azure AI Foundry Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-30T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Azure AI Foundry Blog"
-      ],
-      "items": [
-        {
-          "id": "cd5f0e873a05468a9a1e9c4ee955fec14a8d388a",
-          "title": "保护设备上 AI：使用 AI Red Teaming Agent 评估 Foundry 本地模型 / Securing On-Device AI: Evaluating Foundry Local Models with AI Red Teaming Agent",
-          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/securing-on-device-ai-evaluating-foundry-local-models-with-ai/ba-p/4541303",
-          "source": "Azure AI Foundry Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-30T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.504,
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.7154,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 63,
-      "enterprise_importance_score": 67,
-      "enterprise_primary_topic": "model_platform_selection",
-      "enterprise_topics": [
-        "model_platform_selection"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：模型与平台选型",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-07-30T14:00:00Z",
-      "latest_at": "2026-07-30T14:00:00Z",
-      "primary_item": {
-        "id": "cd5f0e873a05468a9a1e9c4ee955fec14a8d388a",
-        "title": "保护设备上 AI：使用 AI Red Teaming Agent 评估 Foundry 本地模型 / Securing On-Device AI: Evaluating Foundry Local Models with AI Red Teaming Agent",
-        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/securing-on-device-ai-evaluating-foundry-local-models-with-ai/ba-p/4541303",
-        "source": "Azure AI Foundry Blog",
-        "source_name": "OPML RSS",
-        "published_at": "2026-07-30T14:00:00Z",
-        "ai_score": 0.7,
-        "ai_label": "model_release",
-        "enterprise_score": 63,
-        "enterprise_primary_topic": "model_platform_selection",
-        "enterprise_topics": [
-          "model_platform_selection"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：模型与平台选型"
       }
     }
   ]
