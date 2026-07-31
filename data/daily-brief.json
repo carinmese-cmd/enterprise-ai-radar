@@ -1,107 +1,8 @@
 {
-  "generated_at": "2026-07-31T05:49:41.872603Z",
+  "generated_at": "2026-07-31T08:34:36.364250Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "items": [
-    {
-      "story_id": "story_285fa51c6c4a",
-      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-      "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-      "primary_url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T07:43:29Z"
-        },
-        {
-          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-30T07:43:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T07:43:29Z"
-        },
-        {
-          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-30T07:43:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7267,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 73,
-      "enterprise_importance_score": 74,
-      "enterprise_primary_topic": "enterprise_knowledge_rag",
-      "enterprise_topics": [
-        "enterprise_knowledge_rag"
-      ],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：产品更新",
-      "enterprise_is_relevant": true,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T07:43:29Z",
-      "latest_at": "2026-07-30T07:43:29Z",
-      "primary_item": {
-        "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
-        "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-        "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-07-30T07:43:29Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 73,
-        "enterprise_primary_topic": "enterprise_knowledge_rag",
-        "enterprise_topics": [
-          "enterprise_knowledge_rag"
-        ],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：产品更新"
-      }
-    },
     {
       "story_id": "story_24cca910b018",
       "title": "保护设备上 AI：使用 AI Red Teaming Agent 评估 Foundry 本地模型 / Securing On-Device AI: Evaluating Foundry Local Models with AI Red Teaming Agent",
@@ -137,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.7957,
+        "recency": 0.7647,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
