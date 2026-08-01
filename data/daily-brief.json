@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:40:40.056912Z",
+  "generated_at": "2026-08-01T09:49:43.269116Z",
   "window_hours": 24,
   "total_items": 2,
   "items": [
@@ -19,20 +19,10 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-31T10:01:45.623000Z"
-        },
-        {
-          "id": "d68b71a28d8d38b7c3a8980260b607449aba69b3",
-          "title": "Ask HN: 你们在生产环境中使用什么来进行大语言模型（LLM）推理？ / Ask HN: What are you using for LLM inference in production?",
-          "url": "https://news.ycombinator.com/item?id=49121047",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T09:46:24Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "HN Algolia · AI 24h",
         "news.ycombinator.com"
       ],
       "items": [
@@ -44,32 +34,23 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-31T10:01:45.623000Z"
-        },
-        {
-          "id": "d68b71a28d8d38b7c3a8980260b607449aba69b3",
-          "title": "Ask HN: 你们在生产环境中使用什么来进行大语言模型（LLM）推理？ / Ask HN: What are you using for LLM inference in production?",
-          "url": "https://news.ycombinator.com/item?id=49121047",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T09:46:24Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.4684,
+      "importance": 0.4684,
+      "importance_score": 0.4684,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7315,
-        "story_heat": 0.25
+        "recency": 0.7092,
+        "story_heat": 0.0
       },
       "enterprise_score": 83,
-      "enterprise_importance_score": 77,
+      "enterprise_importance_score": 76,
       "enterprise_primary_topic": "implementation_path",
       "enterprise_topics": [
         "implementation_path"
@@ -79,9 +60,9 @@
       "enterprise_is_relevant": true,
       "category": "watch",
       "reasons": [
-        "multi_source"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-31T09:46:24Z",
+      "earliest_at": "2026-07-31T10:01:45.623000Z",
       "latest_at": "2026-07-31T10:01:45.623000Z",
       "primary_item": {
         "id": "5632a588094c77561c87b6036b41d04bd1788e5c",
@@ -136,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
