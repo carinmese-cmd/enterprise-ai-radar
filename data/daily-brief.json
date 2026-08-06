@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T04:56:21.377844Z",
+  "generated_at": "2026-08-06T07:35:01.601708Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8385,
+      "importance": 0.8385,
+      "importance_score": 0.8385,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8607,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -138,6 +138,121 @@
       }
     },
     {
+      "story_id": "story_1c979cd00903",
+      "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "primary_url": "https://arxiv.org/abs/2510.01395",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c77b4f6032f947c41785cb2f994bf7fe6fff9e33",
+          "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+          "url": "https://arxiv.org/abs/2510.01395",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T07:03:41.634000Z"
+        },
+        {
+          "id": "4d3b444c3015136180efc932009bcb18de3f629c",
+          "title": "谄媚的人工智能会降低亲社会意图并促进依赖性（2025） / Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+          "url": "https://news.ycombinator.com/item?id=49186720",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-05T20:03:22.228000Z"
+        },
+        {
+          "id": "9d586b993f87c511afb708d75012b0aa9a9d5292",
+          "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025） / Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+          "url": "https://arxiv.org/abs/2510.01395",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-05T18:17:03Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c77b4f6032f947c41785cb2f994bf7fe6fff9e33",
+          "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+          "url": "https://arxiv.org/abs/2510.01395",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T07:03:41.634000Z"
+        },
+        {
+          "id": "4d3b444c3015136180efc932009bcb18de3f629c",
+          "title": "谄媚的人工智能会降低亲社会意图并促进依赖性（2025） / Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+          "url": "https://news.ycombinator.com/item?id=49186720",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-05T20:03:22.228000Z"
+        },
+        {
+          "id": "9d586b993f87c511afb708d75012b0aa9a9d5292",
+          "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025） / Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+          "url": "https://arxiv.org/abs/2510.01395",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-05T18:17:03Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9925,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T18:17:03Z",
+      "latest_at": "2026-08-06T07:03:41.634000Z",
+      "primary_item": {
+        "id": "c77b4f6032f947c41785cb2f994bf7fe6fff9e33",
+        "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+        "url": "https://arxiv.org/abs/2510.01395",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-06T07:03:41.634000Z",
+        "ai_score": 1.0,
+        "ai_label": "research_paper",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
       "story_id": "story_6cbde97d8260",
       "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
@@ -162,18 +277,9 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-06T01:15:29Z"
-        },
-        {
-          "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
-          "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T06:46:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "公众号：卡尔的AI沃茨",
         "公众号：数字生命卡兹克"
@@ -196,29 +302,20 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-06T01:15:29Z"
-        },
-        {
-          "id": "f966e2d070c2476257c0e6afb637e5417e64bc9d",
-          "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T06:46:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9482,
-        "story_heat": 0.5
+        "recency": 0.9127,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 42,
@@ -227,13 +324,13 @@
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T06:46:00Z",
+      "earliest_at": "2026-08-06T01:15:29Z",
       "latest_at": "2026-08-06T01:27:00Z",
       "primary_item": {
         "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
@@ -244,6 +341,466 @@
         "published_at": "2026-08-06T01:15:29Z",
         "ai_score": 1.0,
         "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a9bce8567915",
+      "title": "Cloudflare 开源 AI 智能体工作空间：让每个员工都能零代码搭建专属工作流",
+      "url": "https://www.aibase.com/news/30161",
+      "primary_url": "https://www.aibase.com/news/30161",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "34fece7e3a6c4a77e53ffc7c1d8b098767fcb95a",
+          "title": "Cloudflare 开源 AI 智能体工作空间：让每个员工都能零代码搭建专属工作流",
+          "url": "https://www.aibase.com/news/30161",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T07:35:01.601708Z"
+        },
+        {
+          "id": "d23665f756903d3fdc82ed1a3522a6922a234b01",
+          "title": "Cloudflare 开源 AI 智能体工作空间：让每个员工都能零代码搭建专属工作流",
+          "url": "https://www.aibase.com/zh/news/30161",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "34fece7e3a6c4a77e53ffc7c1d8b098767fcb95a",
+          "title": "Cloudflare 开源 AI 智能体工作空间：让每个员工都能零代码搭建专属工作流",
+          "url": "https://www.aibase.com/news/30161",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T07:35:01.601708Z"
+        },
+        {
+          "id": "d23665f756903d3fdc82ed1a3522a6922a234b01",
+          "title": "Cloudflare 开源 AI 智能体工作空间：让每个员工都能零代码搭建专属工作流",
+          "url": "https://www.aibase.com/zh/news/30161",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 14,
+      "enterprise_importance_score": 53,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "technical_practice",
+      "enterprise_reason": "内容类型：技术实践",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T07:35:01.601708Z",
+      "latest_at": "2026-08-06T07:35:01.601708Z",
+      "primary_item": {
+        "id": "34fece7e3a6c4a77e53ffc7c1d8b098767fcb95a",
+        "title": "Cloudflare 开源 AI 智能体工作空间：让每个员工都能零代码搭建专属工作流",
+        "url": "https://www.aibase.com/news/30161",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-06T07:35:01.601708Z",
+        "ai_score": 1.0,
+        "ai_label": "developer_tool",
+        "enterprise_score": 14,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "technical_practice",
+        "enterprise_reason": "内容类型：技术实践"
+      }
+    },
+    {
+      "story_id": "story_9eaadebeb64e",
+      "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
+      "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+      "primary_url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "555adb93cbfbc47a3f751f8a258971aa2084e094",
+          "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
+          "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T06:12:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)"
+      ],
+      "items": [
+        {
+          "id": "555adb93cbfbc47a3f751f8a258971aa2084e094",
+          "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
+          "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T06:12:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9803,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T06:12:33Z",
+      "latest_at": "2026-08-06T06:12:33Z",
+      "primary_item": {
+        "id": "555adb93cbfbc47a3f751f8a258971aa2084e094",
+        "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
+        "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
+        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-06T06:12:33Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_620c2c09d292",
+      "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+      "primary_url": "https://simonwillison.net/2026/Aug/5/incident-report",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
+          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T23:32:06Z"
+        },
+        {
+          "id": "912074ebaf1a3a479e213d2133b5b0f4056b3bd0",
+          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
+          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
+          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T23:32:06Z"
+        },
+        {
+          "id": "912074ebaf1a3a479e213d2133b5b0f4056b3bd0",
+          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
+          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8903,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T23:32:06Z",
+      "latest_at": "2026-08-06T01:42:41.639528Z",
+      "primary_item": {
+        "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
+        "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+        "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-05T23:32:06Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b97f34cabf8a",
+      "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+      "primary_url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
+          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T17:26:53Z"
+        },
+        {
+          "id": "d36a4968a81810874bf8711933ff0944702a23e0",
+          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-05T17:26:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
+          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T17:26:53Z"
+        },
+        {
+          "id": "d36a4968a81810874bf8711933ff0944702a23e0",
+          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-05T17:26:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8154,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T17:26:53Z",
+      "latest_at": "2026-08-05T17:26:53Z",
+      "primary_item": {
+        "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
+        "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+        "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-05T17:26:53Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_072490f4f02f",
+      "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+      "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+      "primary_url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T00:37:42Z"
+        },
+        {
+          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-06T00:37:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T00:37:42Z"
+        },
+        {
+          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
+          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-06T00:37:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9044,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T00:37:42Z",
+      "latest_at": "2026-08-06T00:37:42Z",
+      "primary_item": {
+        "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
+        "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+        "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-06T00:37:42Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -361,19 +918,19 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8343,
+        "recency": 0.803,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -400,390 +957,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_620c2c09d292",
-      "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
-      "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-      "primary_url": "https://simonwillison.net/2026/Aug/5/incident-report",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
-          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
-          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T23:32:06Z"
-        },
-        {
-          "id": "912074ebaf1a3a479e213d2133b5b0f4056b3bd0",
-          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
-          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
-          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
-          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T23:32:06Z"
-        },
-        {
-          "id": "912074ebaf1a3a479e213d2133b5b0f4056b3bd0",
-          "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击 / Incident Report: Unsanctioned Agent Behaviour During Cyber Testing",
-          "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9249,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T23:32:06Z",
-      "latest_at": "2026-08-06T01:42:41.639528Z",
-      "primary_item": {
-        "id": "6a13e7a88b601252f6f44f815936f834ec9ed190",
-        "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
-        "url": "https://simonwillison.net/2026/Aug/5/incident-report",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT",
-        "published_at": "2026-08-05T23:32:06Z",
-        "ai_score": 1.0,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_512a5b06920a",
-      "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
-      "url": "https://www.aibase.com/news/30141",
-      "primary_url": "https://www.aibase.com/news/30141",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "64ede1ee920eb63cefa472adbfdabf5c33eec2f6",
-          "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
-          "url": "https://www.aibase.com/news/30141",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T01:42:41.639528Z"
-        },
-        {
-          "id": "dd82c7dc693b69cbb7fbd246644261e9b3aa2e2c",
-          "title": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
-          "url": "https://www.aibase.com/zh/news/30141",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "64ede1ee920eb63cefa472adbfdabf5c33eec2f6",
-          "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
-          "url": "https://www.aibase.com/news/30141",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T01:42:41.639528Z"
-        },
-        {
-          "id": "dd82c7dc693b69cbb7fbd246644261e9b3aa2e2c",
-          "title": "Meta 推出 Muse Code AI 代理，可在大型代码库中执行完整软件工程任务",
-          "url": "https://www.aibase.com/zh/news/30141",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9545,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T01:42:41.639528Z",
-      "latest_at": "2026-08-06T01:42:41.639528Z",
-      "primary_item": {
-        "id": "64ede1ee920eb63cefa472adbfdabf5c33eec2f6",
-        "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
-        "url": "https://www.aibase.com/news/30141",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-06T01:42:41.639528Z",
-        "ai_score": 1.0,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_b97f34cabf8a",
-      "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
-      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-      "primary_url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
-          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
-          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T17:26:53Z"
-        },
-        {
-          "id": "d36a4968a81810874bf8711933ff0944702a23e0",
-          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-05T17:26:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
-          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
-          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T17:26:53Z"
-        },
-        {
-          "id": "d36a4968a81810874bf8711933ff0944702a23e0",
-          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-05T17:26:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8471,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T17:26:53Z",
-      "latest_at": "2026-08-05T17:26:53Z",
-      "primary_item": {
-        "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
-        "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
-        "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-08-05T17:26:53Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_072490f4f02f",
-      "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-      "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-      "primary_url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T00:37:42Z"
-        },
-        {
-          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T00:37:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T00:37:42Z"
-        },
-        {
-          "id": "73899cdee0f186dd9c0fbd85453f0fef50bb32b2",
-          "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移 / Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
-          "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T00:37:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9396,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T00:37:42Z",
-      "latest_at": "2026-08-06T00:37:42Z",
-      "primary_item": {
-        "id": "4f9a6433523472a96bd5bef4f458933b84eaa116",
-        "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-        "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-08-06T00:37:42Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -822,15 +995,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8705,
+        "recency": 0.8379,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -917,15 +1090,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7631,
+        "recency": 0.7345,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -960,117 +1133,98 @@
       }
     },
     {
-      "story_id": "story_06d0cdff5541",
-      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "primary_url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_129139fb6e52",
+      "title": "阿里达摩院启动2027届“阿里星”计划，开放15项AI前沿研究课题",
+      "url": "https://www.aibase.com/news/30160",
+      "primary_url": "https://www.aibase.com/news/30160",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d2b19412908c13056410a86812dd8321fc823381",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36.012000Z"
+          "id": "0aa80692216c3c4fd5e94f4e351c361706a8e290",
+          "title": "阿里达摩院启动2027届“阿里星”计划，开放15项AI前沿研究课题",
+          "url": "https://www.aibase.com/news/30160",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T07:35:01.601708Z"
         },
         {
-          "id": "79eca89da274b58fd608d8e59a3a2087d62b38d3",
-          "title": "Atlassian Rovo 绕过安全控制，窃取数据",
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-          "source": "www.promptarmor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-05T21:11:36.012000Z"
-        },
-        {
-          "id": "c412beed3440d9559904f81c14d4cca4782aa061",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制 / Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-05T17:23:25Z"
+          "id": "691e606c54cbe061f478c35c9d52bf4584a505ee",
+          "title": "阿里达摩院启动2027届「阿里星」计划，开放15项AI前沿研究课题",
+          "url": "https://www.aibase.com/zh/news/30160",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.promptarmor.com"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d2b19412908c13056410a86812dd8321fc823381",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36.012000Z"
+          "id": "0aa80692216c3c4fd5e94f4e351c361706a8e290",
+          "title": "阿里达摩院启动2027届“阿里星”计划，开放15项AI前沿研究课题",
+          "url": "https://www.aibase.com/news/30160",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T07:35:01.601708Z"
         },
         {
-          "id": "79eca89da274b58fd608d8e59a3a2087d62b38d3",
-          "title": "Atlassian Rovo 绕过安全控制，窃取数据",
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-          "source": "www.promptarmor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-05T21:11:36.012000Z"
-        },
-        {
-          "id": "c412beed3440d9559904f81c14d4cca4782aa061",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制 / Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-05T17:23:25Z"
+          "id": "691e606c54cbe061f478c35c9d52bf4584a505ee",
+          "title": "阿里达摩院启动2027届「阿里星」计划，开放15项AI前沿研究课题",
+          "url": "https://www.aibase.com/zh/news/30160",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
+      "enterprise_content_type": "research_report",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T17:23:25Z",
-      "latest_at": "2026-08-05T21:11:36.012000Z",
+      "earliest_at": "2026-08-06T07:35:01.601708Z",
+      "latest_at": "2026-08-06T07:35:01.601708Z",
       "primary_item": {
-        "id": "d2b19412908c13056410a86812dd8321fc823381",
-        "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-        "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT",
-        "published_at": "2026-08-05T21:11:36.012000Z",
+        "id": "0aa80692216c3c4fd5e94f4e351c361706a8e290",
+        "title": "阿里达摩院启动2027届“阿里星”计划，开放15项AI前沿研究课题",
+        "url": "https://www.aibase.com/news/30160",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-06T07:35:01.601708Z",
         "ai_score": 1.0,
-        "ai_label": "ai_general",
+        "ai_label": "research_paper",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
+        "enterprise_content_type": "research_report",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1109,15 +1263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8752,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1204,15 +1358,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7944,
+        "recency": 0.7646,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1243,102 +1397,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_8c451a271c95",
-      "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
-      "url": "https://www.aibase.com/news/30143",
-      "primary_url": "https://www.aibase.com/news/30143",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6dd3901b50552f5c53e42f3bfc3441fe8c0c04fe",
-          "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
-          "url": "https://www.aibase.com/news/30143",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T01:42:41.639528Z"
-        },
-        {
-          "id": "f25173dfa2b81c5e76002eece3a576c734a7ac2a",
-          "title": "Reddit 升级 AI 审核工具与社区管理系统，降低 Karma 门槛优化用户参与体验",
-          "url": "https://www.aibase.com/zh/news/30143",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6dd3901b50552f5c53e42f3bfc3441fe8c0c04fe",
-          "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
-          "url": "https://www.aibase.com/news/30143",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T01:42:41.639528Z"
-        },
-        {
-          "id": "f25173dfa2b81c5e76002eece3a576c734a7ac2a",
-          "title": "Reddit 升级 AI 审核工具与社区管理系统，降低 Karma 门槛优化用户参与体验",
-          "url": "https://www.aibase.com/zh/news/30143",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9545,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T01:42:41.639528Z",
-      "latest_at": "2026-08-06T01:42:41.639528Z",
-      "primary_item": {
-        "id": "6dd3901b50552f5c53e42f3bfc3441fe8c0c04fe",
-        "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
-        "url": "https://www.aibase.com/news/30143",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-06T01:42:41.639528Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1377,19 +1435,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8306,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "research_report",
@@ -1397,8 +1455,7 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T16:04:58Z",
       "latest_at": "2026-08-05T16:04:58Z",
@@ -1453,15 +1510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.812,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1547,15 +1604,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8699,
         "story_heat": 0.25
       },
       "enterprise_score": 25,
@@ -1587,6 +1644,121 @@
         "enterprise_topics": [],
         "enterprise_content_type": "technical_practice",
         "enterprise_reason": "内容类型：技术实践；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_06d0cdff5541",
+      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "primary_url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d2b19412908c13056410a86812dd8321fc823381",
+          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T21:11:36.012000Z"
+        },
+        {
+          "id": "79eca89da274b58fd608d8e59a3a2087d62b38d3",
+          "title": "Atlassian Rovo 绕过安全控制，窃取数据",
+          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "source": "www.promptarmor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-05T21:11:36.012000Z"
+        },
+        {
+          "id": "c412beed3440d9559904f81c14d4cca4782aa061",
+          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制 / Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-05T17:23:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.promptarmor.com"
+      ],
+      "items": [
+        {
+          "id": "d2b19412908c13056410a86812dd8321fc823381",
+          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T21:11:36.012000Z"
+        },
+        {
+          "id": "79eca89da274b58fd608d8e59a3a2087d62b38d3",
+          "title": "Atlassian Rovo 绕过安全控制，窃取数据",
+          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "source": "www.promptarmor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-05T21:11:36.012000Z"
+        },
+        {
+          "id": "c412beed3440d9559904f81c14d4cca4782aa061",
+          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制 / Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+          "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-05T17:23:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8607,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T17:23:25Z",
+      "latest_at": "2026-08-05T21:11:36.012000Z",
+      "primary_item": {
+        "id": "d2b19412908c13056410a86812dd8321fc823381",
+        "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+        "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-05T21:11:36.012000Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -1643,15 +1815,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8752,
+        "recency": 0.8424,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1739,15 +1911,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7665,
+        "recency": 0.7378,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1778,157 +1950,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_ec0e53c55d9e",
-      "title": "AI智能体尚无法开展开放式AI研究",
-      "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-      "primary_url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-      "source": "AI as Normal Technology（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
-          "title": "AI智能体尚无法开展开放式AI研究",
-          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-          "source": "AI as Normal Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:49:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AI as Normal Technology（RSS）"
-      ],
-      "items": [
-        {
-          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
-          "title": "AI智能体尚无法开展开放式AI研究",
-          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-          "source": "AI as Normal Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:49:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8039,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 45,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T13:49:19Z",
-      "latest_at": "2026-08-05T13:49:19Z",
-      "primary_item": {
-        "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
-        "title": "AI智能体尚无法开展开放式AI研究",
-        "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
-        "source": "AI as Normal Technology（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-08-05T13:49:19Z",
-        "ai_score": 1.0,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_591b7425f84e",
-      "title": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
-      "url": "https://www.aibase.com/news/30157",
-      "primary_url": "https://www.aibase.com/news/30157",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "216972c7cf113983402fed0bd9192893ea360faf",
-          "title": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
-          "url": "https://www.aibase.com/news/30157",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T04:56:21.377844Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "216972c7cf113983402fed0bd9192893ea360faf",
-          "title": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
-          "url": "https://www.aibase.com/news/30157",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-06T04:56:21.377844Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T04:56:21.377844Z",
-      "latest_at": "2026-08-06T04:56:21.377844Z",
-      "primary_item": {
-        "id": "216972c7cf113983402fed0bd9192893ea360faf",
-        "title": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
-        "url": "https://www.aibase.com/news/30157",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-06T04:56:21.377844Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
