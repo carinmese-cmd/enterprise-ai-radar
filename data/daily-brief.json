@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T17:40:30.444236Z",
+  "generated_at": "2026-08-07T18:40:06.644118Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_479a9afbddab",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5138,
-      "importance": 0.5138,
-      "importance_score": 0.5138,
+      "score": 0.5113,
+      "importance": 0.5113,
+      "importance_score": 0.5113,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9609,
+        "recency": 0.9472,
         "story_heat": 0.0
       },
       "enterprise_score": 90,
@@ -117,19 +117,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5028,
-      "importance": 0.5028,
-      "importance_score": 0.5028,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8999,
+        "recency": 0.8871,
         "story_heat": 0.0
       },
       "enterprise_score": 87,
-      "enterprise_importance_score": 80,
+      "enterprise_importance_score": 79,
       "enterprise_primary_topic": "implementation_path",
       "enterprise_topics": [
         "implementation_path"
@@ -196,15 +196,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4838,
-      "importance": 0.4838,
-      "importance_score": 0.4838,
+      "score": 0.4817,
+      "importance": 0.4817,
+      "importance_score": 0.4817,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7943,
+        "recency": 0.783,
         "story_heat": 0.0
       },
       "enterprise_score": 83,
@@ -275,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.494,
-      "importance": 0.494,
-      "importance_score": 0.494,
+      "score": 0.4918,
+      "importance": 0.4918,
+      "importance_score": 0.4918,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8509,
+        "recency": 0.8388,
         "story_heat": 0.0
       },
       "enterprise_score": 70,
@@ -317,6 +317,164 @@
         ],
         "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估"
+      }
+    },
+    {
+      "story_id": "story_f2f2f2f382d5",
+      "title": "从优秀到卓越：我们在 Microsoft Foundry 中测试代理优化器 / From Good to Great: We Put Agent Optimizer to the Test in Microsoft Foundry",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/from-good-to-great-we-put-agent-optimizer-to-the-test-in/ba-p/4543982",
+      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/from-good-to-great-we-put-agent-optimizer-to-the-test-in/ba-p/4543982",
+      "source": "Azure AI Foundry Blog",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "9ed59d82e43c9dad1e3bcc1f4f8210a45ce2faea",
+          "title": "从优秀到卓越：我们在 Microsoft Foundry 中测试代理优化器 / From Good to Great: We Put Agent Optimizer to the Test in Microsoft Foundry",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/from-good-to-great-we-put-agent-optimizer-to-the-test-in/ba-p/4543982",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T14:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Azure AI Foundry Blog"
+      ],
+      "items": [
+        {
+          "id": "9ed59d82e43c9dad1e3bcc1f4f8210a45ce2faea",
+          "title": "从优秀到卓越：我们在 Microsoft Foundry 中测试代理优化器 / From Good to Great: We Put Agent Optimizer to the Test in Microsoft Foundry",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/from-good-to-great-we-put-agent-optimizer-to-the-test-in/ba-p/4543982",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.557,
+      "importance": 0.557,
+      "importance_score": 0.557,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9348,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 63,
+      "enterprise_importance_score": 68,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：模型与平台选型",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-07T14:00:00Z",
+      "latest_at": "2026-08-07T14:00:00Z",
+      "primary_item": {
+        "id": "9ed59d82e43c9dad1e3bcc1f4f8210a45ce2faea",
+        "title": "从优秀到卓越：我们在 Microsoft Foundry 中测试代理优化器 / From Good to Great: We Put Agent Optimizer to the Test in Microsoft Foundry",
+        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/from-good-to-great-we-put-agent-optimizer-to-the-test-in/ba-p/4543982",
+        "source": "Azure AI Foundry Blog",
+        "source_name": "OPML RSS",
+        "published_at": "2026-08-07T14:00:00Z",
+        "ai_score": 0.67,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 63,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：模型与平台选型"
+      }
+    },
+    {
+      "story_id": "story_c1015c9d6ffb",
+      "title": "您的代工代理无法访问您的任何私人（自带）资源的隐藏原因 / The Hidden Reason Your Foundry Agent Can't Reach Any of Your Private (Bring-Your-Own) Resources",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/the-hidden-reason-your-foundry-agent-can-t-reach-any-of-your/ba-p/4543619",
+      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/the-hidden-reason-your-foundry-agent-can-t-reach-any-of-your/ba-p/4543619",
+      "source": "Azure AI Foundry Blog",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "1c59c3746cf8e42b201d615722adf399149c6799",
+          "title": "您的代工代理无法访问您的任何私人（自带）资源的隐藏原因 / The Hidden Reason Your Foundry Agent Can't Reach Any of Your Private (Bring-Your-Own) Resources",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/the-hidden-reason-your-foundry-agent-can-t-reach-any-of-your/ba-p/4543619",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T14:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Azure AI Foundry Blog"
+      ],
+      "items": [
+        {
+          "id": "1c59c3746cf8e42b201d615722adf399149c6799",
+          "title": "您的代工代理无法访问您的任何私人（自带）资源的隐藏原因 / The Hidden Reason Your Foundry Agent Can't Reach Any of Your Private (Bring-Your-Own) Resources",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/the-hidden-reason-your-foundry-agent-can-t-reach-any-of-your/ba-p/4543619",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-07T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.557,
+      "importance": 0.557,
+      "importance_score": 0.557,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9348,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 63,
+      "enterprise_importance_score": 68,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：模型与平台选型",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-07T14:00:00Z",
+      "latest_at": "2026-08-07T14:00:00Z",
+      "primary_item": {
+        "id": "1c59c3746cf8e42b201d615722adf399149c6799",
+        "title": "您的代工代理无法访问您的任何私人（自带）资源的隐藏原因 / The Hidden Reason Your Foundry Agent Can't Reach Any of Your Private (Bring-Your-Own) Resources",
+        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/the-hidden-reason-your-foundry-agent-can-t-reach-any-of-your/ba-p/4543619",
+        "source": "Azure AI Foundry Blog",
+        "source_name": "OPML RSS",
+        "published_at": "2026-08-07T14:00:00Z",
+        "ai_score": 0.67,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 63,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：模型与平台选型"
       }
     },
     {
@@ -354,15 +512,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.921,
+        "recency": 0.9079,
         "story_heat": 0.0
       },
       "enterprise_score": 64,
