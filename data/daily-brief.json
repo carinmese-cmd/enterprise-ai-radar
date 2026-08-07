@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-08-07T14:45:08.576565Z",
+  "generated_at": "2026-08-07T15:44:27.664011Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 5,
   "items": [
+    {
+      "story_id": "story_479a9afbddab",
+      "title": "Progress AI Observability - 对生产环境中的 AI 代理进行追踪、评估和优化",
+      "url": "https://www.producthunt.com/r/5L22D2Y4SZLAKB",
+      "primary_url": "https://www.producthunt.com/r/5L22D2Y4SZLAKB",
+      "source": "www.producthunt.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "587c9429a65b712f3e15a7f525ff3c5fa75a6e83",
+          "title": "Progress AI Observability - 对生产环境中的 AI 代理进行追踪、评估和优化",
+          "url": "https://www.producthunt.com/r/5L22D2Y4SZLAKB",
+          "source": "www.producthunt.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T14:54:53.543000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "www.producthunt.com"
+      ],
+      "items": [
+        {
+          "id": "587c9429a65b712f3e15a7f525ff3c5fa75a6e83",
+          "title": "Progress AI Observability - 对生产环境中的 AI 代理进行追踪、评估和优化",
+          "url": "https://www.producthunt.com/r/5L22D2Y4SZLAKB",
+          "source": "www.producthunt.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T14:54:53.543000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9881,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 90,
+      "enterprise_importance_score": 82,
+      "enterprise_primary_topic": "implementation_path",
+      "enterprise_topics": [
+        "implementation_path"
+      ],
+      "enterprise_content_type": "technical_practice",
+      "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-07T14:54:53.543000Z",
+      "latest_at": "2026-08-07T14:54:53.543000Z",
+      "primary_item": {
+        "id": "587c9429a65b712f3e15a7f525ff3c5fa75a6e83",
+        "title": "Progress AI Observability - 对生产环境中的 AI 代理进行追踪、评估和优化",
+        "url": "https://www.producthunt.com/r/5L22D2Y4SZLAKB",
+        "source": "www.producthunt.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-07T14:54:53.543000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 90,
+        "enterprise_primary_topic": "implementation_path",
+        "enterprise_topics": [
+          "implementation_path"
+        ],
+        "enterprise_content_type": "technical_practice",
+        "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
+      }
+    },
     {
       "story_id": "story_5663fe331969",
       "title": "Ask HN: 在生产环境中，您为 AI 代理使用了哪种可观测性技术栈？",
@@ -38,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9387,
+        "recency": 0.9254,
         "story_heat": 0.0
       },
       "enterprise_score": 87,
@@ -117,15 +196,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4899,
-      "importance": 0.4899,
-      "importance_score": 0.4899,
+      "score": 0.4878,
+      "importance": 0.4878,
+      "importance_score": 0.4878,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8285,
+        "recency": 0.8168,
         "story_heat": 0.0
       },
       "enterprise_score": 83,
@@ -196,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5006,
-      "importance": 0.5006,
-      "importance_score": 0.5006,
+      "score": 0.4983,
+      "importance": 0.4983,
+      "importance_score": 0.4983,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8876,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "enterprise_score": 70,
@@ -275,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.5113,
+      "importance": 0.5113,
+      "importance_score": 0.5113,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9607,
+        "recency": 0.9471,
         "story_heat": 0.0
       },
       "enterprise_score": 64,
