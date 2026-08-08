@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-08-08T00:55:35.045978Z",
+  "generated_at": "2026-08-08T02:50:44.130724Z",
   "window_hours": 24,
   "total_items": 7,
   "items": [
+    {
+      "story_id": "story_ab058b3ce67f",
+      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "url": "https://www.qbitai.com/2026/08/468305.html",
+      "primary_url": "https://www.qbitai.com/2026/08/468305.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6d205692eeebd19264ef8cf72ad73f8ae54dcc37",
+          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+          "url": "https://www.qbitai.com/2026/08/468305.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "6d205692eeebd19264ef8cf72ad73f8ae54dcc37",
+          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+          "url": "https://www.qbitai.com/2026/08/468305.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 92,
+      "enterprise_importance_score": 82,
+      "enterprise_primary_topic": "implementation_path",
+      "enterprise_topics": [
+        "implementation_path"
+      ],
+      "enterprise_content_type": "technical_practice",
+      "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-08T02:50:44.130724Z",
+      "latest_at": "2026-08-08T02:50:44.130724Z",
+      "primary_item": {
+        "id": "6d205692eeebd19264ef8cf72ad73f8ae54dcc37",
+        "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+        "url": "https://www.qbitai.com/2026/08/468305.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 92,
+        "enterprise_primary_topic": "implementation_path",
+        "enterprise_topics": [
+          "implementation_path"
+        ],
+        "enterprise_content_type": "technical_practice",
+        "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
+      }
+    },
     {
       "story_id": "story_479a9afbddab",
       "title": "Progress AI Observability - 对生产环境中的 AI 代理进行追踪、评估和优化",
@@ -38,19 +117,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
+      "score": 0.4923,
+      "importance": 0.4923,
+      "importance_score": 0.4923,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8654,
+        "recency": 0.8417,
         "story_heat": 0.0
       },
       "enterprise_score": 90,
-      "enterprise_importance_score": 81,
+      "enterprise_importance_score": 80,
       "enterprise_primary_topic": "implementation_path",
       "enterprise_topics": [
         "implementation_path"
@@ -117,15 +196,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4867,
-      "importance": 0.4867,
-      "importance_score": 0.4867,
+      "score": 0.4827,
+      "importance": 0.4827,
+      "importance_score": 0.4827,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8105,
+        "recency": 0.7883,
         "story_heat": 0.0
       },
       "enterprise_score": 87,
@@ -153,85 +232,6 @@
         "ai_score": 0.65,
         "ai_label": "ai_tech",
         "enterprise_score": 87,
-        "enterprise_primary_topic": "implementation_path",
-        "enterprise_topics": [
-          "implementation_path"
-        ],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_f5731ad6a27c",
-      "title": "Show HN: 我对30台生产环境的MCP服务器进行了OAuth扫描——其中只有1台获得了A级评价",
-      "url": "https://github.com/authgent/authgent",
-      "primary_url": "https://github.com/authgent/authgent",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "709a408c4c0bebc47635b61162fe7c11fbd0f0e2",
-          "title": "Show HN: 我对30台生产环境的MCP服务器进行了OAuth扫描——其中只有1台获得了A级评价",
-          "url": "https://github.com/authgent/authgent",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T01:43:29.065000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "709a408c4c0bebc47635b61162fe7c11fbd0f0e2",
-          "title": "Show HN: 我对30台生产环境的MCP服务器进行了OAuth扫描——其中只有1台获得了A级评价",
-          "url": "https://github.com/authgent/authgent",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T01:43:29.065000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7153,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 83,
-      "enterprise_importance_score": 76,
-      "enterprise_primary_topic": "implementation_path",
-      "enterprise_topics": [
-        "implementation_path"
-      ],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-07T01:43:29.065000Z",
-      "latest_at": "2026-08-07T01:43:29.065000Z",
-      "primary_item": {
-        "id": "709a408c4c0bebc47635b61162fe7c11fbd0f0e2",
-        "title": "Show HN: 我对30台生产环境的MCP服务器进行了OAuth扫描——其中只有1台获得了A级评价",
-        "url": "https://github.com/authgent/authgent",
-        "source": "github.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-08-07T01:43:29.065000Z",
-        "ai_score": 0.65,
-        "ai_label": "developer_tool",
-        "enterprise_score": 83,
         "enterprise_primary_topic": "implementation_path",
         "enterprise_topics": [
           "implementation_path"
@@ -275,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4787,
-      "importance": 0.4787,
-      "importance_score": 0.4787,
+      "score": 0.475,
+      "importance": 0.475,
+      "importance_score": 0.475,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7663,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "enterprise_score": 70,
@@ -354,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.854,
+        "recency": 0.8307,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
@@ -433,15 +433,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.854,
+        "recency": 0.8307,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
@@ -512,15 +512,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4901,
-      "importance": 0.4901,
-      "importance_score": 0.4901,
+      "score": 0.486,
+      "importance": 0.486,
+      "importance_score": 0.486,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8294,
+        "recency": 0.8068,
         "story_heat": 0.0
       },
       "enterprise_score": 64,
