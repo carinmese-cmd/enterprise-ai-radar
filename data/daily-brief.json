@@ -1,85 +1,1982 @@
 {
-  "generated_at": "2026-08-09T00:57:39.010280Z",
+  "generated_at": "2026-08-09T03:00:49.383335Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_ab058b3ce67f",
-      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-      "url": "https://www.qbitai.com/2026/08/468305.html",
-      "primary_url": "https://www.qbitai.com/2026/08/468305.html",
-      "source": "量子位 · 每日最新",
-      "source_name": "TopHub",
+      "story_id": "story_0e629a938b0d",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "primary_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6d205692eeebd19264ef8cf72ad73f8ae54dcc37",
-          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-          "url": "https://www.qbitai.com/2026/08/468305.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
+        },
+        {
+          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
+          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T14:56:29.860000Z"
+        },
+        {
+          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T11:52:06.753000Z"
+        },
+        {
+          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T10:57:44Z"
+        },
+        {
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
+        }
+      ],
+      "source_count": 7,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Simon Willison",
+        "hackernews",
+        "simonwillison.net"
+      ],
+      "items": [
+        {
+          "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
+        },
+        {
+          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
+          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T14:56:29.860000Z"
+        },
+        {
+          "id": "64fa3f9e49363fc2819186bd8757cd00d59a6545",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T14:38:40.439000Z"
+        },
+        {
+          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T11:52:06.753000Z"
+        },
+        {
+          "id": "29407e5727109cce76c77d1f73cb883e658a308f",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T10:57:44Z"
+        },
+        {
+          "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T10:57:44Z"
+        }
+      ],
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.8712,
+      "importance": 0.8712,
+      "importance_score": 0.8712,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8364,
+        "story_heat": 1.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T10:57:44Z",
+      "latest_at": "2026-08-08T14:56:29.860000Z",
+      "primary_item": {
+        "id": "6f1d927bf0a65acd269f03155a05af3e9253eaa2",
+        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-08T14:38:40.439000Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_63a050836097",
+      "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
+      "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals",
+      "primary_url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "82658c2944fcf33914f9377e87c83701a049d799",
+          "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
+          "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:58:57Z"
+        },
+        {
+          "id": "15f73adf38fa9b69a2b7b1147fc8c89355e097fe",
+          "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作 / Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
+          "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-08T14:58:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "82658c2944fcf33914f9377e87c83701a049d799",
+          "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
+          "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:58:57Z"
+        },
+        {
+          "id": "15f73adf38fa9b69a2b7b1147fc8c89355e097fe",
+          "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作 / Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
+          "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-08T14:58:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8405,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T14:58:57Z",
+      "latest_at": "2026-08-08T14:58:57Z",
+      "primary_item": {
+        "id": "82658c2944fcf33914f9377e87c83701a049d799",
+        "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
+        "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-08T14:58:57Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_10f59a98f1f0",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "primary_url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        },
+        {
+          "id": "682068a11714b8eea5aae54179de865fdd172a09",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        },
+        {
+          "id": "682068a11714b8eea5aae54179de865fdd172a09",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8244,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
+      "primary_item": {
+        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-08T13:38:40Z",
+        "ai_score": 1.0,
+        "ai_label": "robotics",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_0dc29721eaf2",
+      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+      "primary_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
+          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T11:05:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "量子位 · 每日最新"
+        "Ars Technica：AI（RSS）"
       ],
       "items": [
         {
-          "id": "6d205692eeebd19264ef8cf72ad73f8ae54dcc37",
-          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-          "url": "https://www.qbitai.com/2026/08/468305.html",
-          "source": "量子位 · 每日最新",
+          "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
+          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T11:05:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7947,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T11:05:50Z",
+      "latest_at": "2026-08-08T11:05:50Z",
+      "primary_item": {
+        "id": "6377e846dbe04690f9b9eeeb73e378ad3d846b19",
+        "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+        "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-08T11:05:50Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f5f4233a6e75",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "primary_url": "https://www.ithome.com/0/987/452.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9406,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T22:46:14Z",
+      "latest_at": "2026-08-08T22:46:14Z",
+      "primary_item": {
+        "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "url": "https://www.ithome.com/0/987/452.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-08T22:46:14Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_3953398d556f",
+      "title": "Grok Imagine 图像编辑迎来重大升级",
+      "url": "https://x.com/elonmusk/status/2086127247077843282",
+      "primary_url": "https://x.com/elonmusk/status/2086127247077843282",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
+          "title": "Grok Imagine 图像编辑迎来重大升级",
+          "url": "https://x.com/elonmusk/status/2086127247077843282",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T16:27:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
+          "title": "Grok Imagine 图像编辑迎来重大升级",
+          "url": "https://x.com/elonmusk/status/2086127247077843282",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T16:27:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8587,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T16:27:48Z",
+      "latest_at": "2026-08-08T16:27:48Z",
+      "primary_item": {
+        "id": "a6019dda5cb7d1ba14da2264f9ca635000460ba8",
+        "title": "Grok Imagine 图像编辑迎来重大升级",
+        "url": "https://x.com/elonmusk/status/2086127247077843282",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-08T16:27:48Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f86125a0b832",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "url": "https://www.ithome.com/0/987/366.htm",
+      "primary_url": "https://www.ithome.com/0/987/366.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7645,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T08:25:11Z",
+      "latest_at": "2026-08-08T08:25:11Z",
+      "primary_item": {
+        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "url": "https://www.ithome.com/0/987/366.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-08T08:25:11Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-08",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "867386527044643fb09ee2e07147050f4445b7bd",
+          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T20:17:51.746529Z"
+        },
+        {
+          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
+          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T20:17:51.746529Z"
+        },
+        {
+          "id": "0440f5c328144c83aa333d5e9c2bf6418b6d41dd",
+          "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T19:06:04.762188Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-08-08"
+      ],
+      "items": [
+        {
+          "id": "867386527044643fb09ee2e07147050f4445b7bd",
+          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T20:17:51.746529Z"
+        },
+        {
+          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
+          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T20:17:51.746529Z"
+        },
+        {
+          "id": "0440f5c328144c83aa333d5e9c2bf6418b6d41dd",
+          "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T19:06:04.762188Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6026,
+      "importance": 0.6026,
+      "importance_score": 0.6026,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9076,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T19:06:04.762188Z",
+      "latest_at": "2026-08-08T20:17:51.746529Z",
+      "primary_item": {
+        "id": "867386527044643fb09ee2e07147050f4445b7bd",
+        "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-08",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-08-08T20:17:51.746529Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_18b0dbee24c9",
+      "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+      "primary_url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T22:36:03Z"
+        },
+        {
+          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4716,
-      "importance": 0.4716,
-      "importance_score": 0.4716,
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison"
+      ],
+      "items": [
+        {
+          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T22:36:03Z"
+        },
+        {
+          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5992,
+      "importance": 0.5992,
+      "importance_score": 0.5992,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9383,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 39,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T22:36:03Z",
+      "latest_at": "2026-08-08T23:18:38.216274Z",
+      "primary_item": {
+        "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+        "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+        "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS",
+        "published_at": "2026-08-08T22:36:03Z",
+        "ai_score": 0.71,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7356e5d63521",
+      "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+      "url": "https://github.com/sebastiancarlos/faaah",
+      "primary_url": "https://github.com/sebastiancarlos/faaah",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:26:37.332000Z"
+        },
+        {
+          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
+          "title": "faaah（文件系统作为人工智能处理器）",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:10:34.737000Z"
+        },
+        {
+          "id": "9530c3c6ba6a85ae3aabdbbbe8978396e6fcc887",
+          "title": "faaah（文件系统作为人工智能处理器） / faaah (Filesystem As An AI Handler)",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T23:07:20Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:26:37.332000Z"
+        },
+        {
+          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
+          "title": "faaah（文件系统作为人工智能处理器）",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:10:34.737000Z"
+        },
+        {
+          "id": "9530c3c6ba6a85ae3aabdbbbe8978396e6fcc887",
+          "title": "faaah（文件系统作为人工智能处理器） / faaah (Filesystem As An AI Handler)",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T23:07:20Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5618,
+      "importance": 0.5618,
+      "importance_score": 0.5618,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9498,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T23:07:20Z",
+      "latest_at": "2026-08-08T23:26:37.332000Z",
+      "primary_item": {
+        "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+        "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+        "url": "https://github.com/sebastiancarlos/faaah",
+        "source": "github.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-08T23:26:37.332000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6ce826369197",
+      "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+      "primary_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+      "source": "mezha.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "mezha.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T19:26:49.887000Z"
+        },
+        {
+          "id": "caa357cbadb7e19907d9eef0eae3a59f7902d4ee",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Danish high schoolers will have to verbally defend written assignments",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T18:09:31Z"
+        },
+        {
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T18:09:31Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "mezha.net"
+      ],
+      "items": [
+        {
+          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "mezha.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T19:26:49.887000Z"
+        },
+        {
+          "id": "caa357cbadb7e19907d9eef0eae3a59f7902d4ee",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Danish high schoolers will have to verbally defend written assignments",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T18:09:31Z"
+        },
+        {
+          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T18:09:31Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8965,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T18:09:31Z",
+      "latest_at": "2026-08-08T19:26:49.887000Z",
+      "primary_item": {
+        "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
+        "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+        "source": "mezha.net",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-08T19:26:49.887000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b0cc69c2019c",
+      "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "primary_url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "source": "social.treehouse.systems",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "social.treehouse.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:06:47.814000Z"
+        },
+        {
+          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
+          "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+          "url": "https://news.ycombinator.com/item?id=49221864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T14:56:29.860000Z"
+        },
+        {
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:55:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "social.treehouse.systems"
+      ],
+      "items": [
+        {
+          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "social.treehouse.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:06:47.814000Z"
+        },
+        {
+          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
+          "title": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+          "url": "https://news.ycombinator.com/item?id=49221864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T14:56:29.860000Z"
+        },
+        {
+          "id": "097e63a183790779cdbd74809069ad6b98ae2091",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:55:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5491,
+      "importance": 0.5491,
+      "importance_score": 0.5491,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8794,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T13:55:42Z",
+      "latest_at": "2026-08-08T18:06:47.814000Z",
+      "primary_item": {
+        "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
+        "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+        "source": "social.treehouse.systems",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-08T18:06:47.814000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_787ae63fa6c8",
+      "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+      "url": "https://www.ithome.com/0/987/488.htm",
+      "primary_url": "https://www.ithome.com/0/987/488.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "31b35d1e00d12ff5914c0e04c458178999115311",
+          "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "url": "https://www.ithome.com/0/987/488.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f3ae8e4b071f84bd50ded5958befb25aee8cebd8",
+          "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "url": "https://www.ithome.com/0/987/488.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T01:32:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "31b35d1e00d12ff5914c0e04c458178999115311",
+          "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "url": "https://www.ithome.com/0/987/488.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f3ae8e4b071f84bd50ded5958befb25aee8cebd8",
+          "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+          "url": "https://www.ithome.com/0/987/488.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T01:32:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7266,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "enterprise_score": 92,
-      "enterprise_importance_score": 81,
-      "enterprise_primary_topic": "implementation_path",
-      "enterprise_topics": [
-        "implementation_path"
-      ],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
       "category": "watch",
       "reasons": [
-        "recent_ai_signal"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-08T02:50:44.130724Z",
-      "latest_at": "2026-08-08T02:50:44.130724Z",
+      "earliest_at": "2026-08-09T01:32:33Z",
+      "latest_at": "2026-08-09T03:00:49.383335Z",
       "primary_item": {
-        "id": "6d205692eeebd19264ef8cf72ad73f8ae54dcc37",
-        "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-        "url": "https://www.qbitai.com/2026/08/468305.html",
-        "source": "量子位 · 每日最新",
+        "id": "31b35d1e00d12ff5914c0e04c458178999115311",
+        "title": "小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
+        "url": "https://www.ithome.com/0/987/488.htm",
+        "source": "Readhub · AI",
         "source_name": "TopHub",
         "published_at": null,
         "ai_score": 0.65,
+        "ai_label": "robotics",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5ea6f9702779",
+      "title": "修订提示可优化工业级大型语言模型（LLM）流程",
+      "url": "https://revisionprompting.info",
+      "primary_url": "https://revisionprompting.info",
+      "source": "revisionprompting.info",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5a93128431f50bd022715c4bc4e8a4494637b5f3",
+          "title": "修订提示可优化工业级大型语言模型（LLM）流程",
+          "url": "https://revisionprompting.info",
+          "source": "revisionprompting.info",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T20:30:34.501000Z"
+        },
+        {
+          "id": "e204df48455943545dc273f3e2b6c17d35e35e10",
+          "title": "修订提示可优化工业级大型语言模型（LLM）流程 / Revision Prompting improves industrial LLM processes",
+          "url": "https://revisionprompting.info",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T20:20:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "revisionprompting.info"
+      ],
+      "items": [
+        {
+          "id": "5a93128431f50bd022715c4bc4e8a4494637b5f3",
+          "title": "修订提示可优化工业级大型语言模型（LLM）流程",
+          "url": "https://revisionprompting.info",
+          "source": "revisionprompting.info",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T20:30:34.501000Z"
+        },
+        {
+          "id": "e204df48455943545dc273f3e2b6c17d35e35e10",
+          "title": "修订提示可优化工业级大型语言模型（LLM）流程 / Revision Prompting improves industrial LLM processes",
+          "url": "https://revisionprompting.info",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T20:20:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.32,
+        "ai_relevance": 0.67,
+        "recency": 0.9104,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T20:20:42Z",
+      "latest_at": "2026-08-08T20:30:34.501000Z",
+      "primary_item": {
+        "id": "5a93128431f50bd022715c4bc4e8a4494637b5f3",
+        "title": "修订提示可优化工业级大型语言模型（LLM）流程",
+        "url": "https://revisionprompting.info",
+        "source": "revisionprompting.info",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-08T20:30:34.501000Z",
+        "ai_score": 0.67,
         "ai_label": "model_release",
-        "enterprise_score": 92,
-        "enterprise_primary_topic": "implementation_path",
-        "enterprise_topics": [
-          "implementation_path"
-        ],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_561b016160b5",
+      "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+      "url": "https://news.ycombinator.com/item?id=49222824",
+      "primary_url": "https://news.ycombinator.com/item?id=49222824",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:18:24.439000Z"
+        },
+        {
+          "id": "d701a11300d80906f2a4955712818009896d5d9a",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:18:24.439000Z"
+        },
+        {
+          "id": "d701a11300d80906f2a4955712818009896d5d9a",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9077,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T15:34:49Z",
+      "latest_at": "2026-08-08T20:18:24.439000Z",
+      "primary_item": {
+        "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+        "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+        "url": "https://news.ycombinator.com/item?id=49222824",
+        "source": "hackernews",
+        "source_name": "NewsNow",
+        "published_at": "2026-08-08T20:18:24.439000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_20c457a6c9f4",
+      "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "primary_url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "bc34be7c1778d0d4168bfacfe49a2db1106e4017",
+          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-08T19:36:12Z"
+        },
+        {
+          "id": "0624952d6fd330f60cd86f05a1924c0396942525",
+          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T17:02:33.264000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "bc34be7c1778d0d4168bfacfe49a2db1106e4017",
+          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-08T19:36:12Z"
+        },
+        {
+          "id": "0624952d6fd330f60cd86f05a1924c0396942525",
+          "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作",
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T17:02:33.264000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8985,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T17:02:33.264000Z",
+      "latest_at": "2026-08-08T19:36:12Z",
+      "primary_item": {
+        "id": "bc34be7c1778d0d4168bfacfe49a2db1106e4017",
+        "title": "OpenAI因安全担忧将暂停AI模型Astra的相关工作 / OpenAI to pause some work on AI model Astra due to security concerns",
+        "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News",
+        "published_at": "2026-08-08T19:36:12Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_0a53a76d276c",
+      "title": "robot.villas – RSS 到 Mastodon 桥接工具",
+      "url": "https://robot.villas",
+      "primary_url": "https://robot.villas",
+      "source": "robot.villas",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0301b78f4b8b30458f8abd729173ce81b16ff61e",
+          "title": "robot.villas – RSS 到 Mastodon 桥接工具",
+          "url": "https://robot.villas",
+          "source": "robot.villas",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:22:47.725000Z"
+        },
+        {
+          "id": "695a4b8816993a520e9ec20759a59ea2b6292e44",
+          "title": "robot.villas – RSS 到 Mastodon 桥接工具 / robot.villas – RSS-to-Mastodon Bridge",
+          "url": "https://robot.villas",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T18:18:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "robot.villas"
+      ],
+      "items": [
+        {
+          "id": "0301b78f4b8b30458f8abd729173ce81b16ff61e",
+          "title": "robot.villas – RSS 到 Mastodon 桥接工具",
+          "url": "https://robot.villas",
+          "source": "robot.villas",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:22:47.725000Z"
+        },
+        {
+          "id": "695a4b8816993a520e9ec20759a59ea2b6292e44",
+          "title": "robot.villas – RSS 到 Mastodon 桥接工具 / robot.villas – RSS-to-Mastodon Bridge",
+          "url": "https://robot.villas",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T18:18:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8828,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T18:18:28Z",
+      "latest_at": "2026-08-08T18:22:47.725000Z",
+      "primary_item": {
+        "id": "0301b78f4b8b30458f8abd729173ce81b16ff61e",
+        "title": "robot.villas – RSS 到 Mastodon 桥接工具",
+        "url": "https://robot.villas",
+        "source": "robot.villas",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-08T18:22:47.725000Z",
+        "ai_score": 0.65,
+        "ai_label": "robotics",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_afcaec7b5e74",
+      "title": "联合国现场丨AI 会让发展中国家弯道超车吗？",
+      "url": "https://news.10jqka.com.cn/20260809/c678790894.shtml",
+      "primary_url": "https://news.10jqka.com.cn/20260809/c678790894.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "bde89114610f7440c9c9fee1e526f0b2da5ed64a",
+          "title": "联合国现场丨AI 会让发展中国家弯道超车吗？",
+          "url": "https://news.10jqka.com.cn/20260809/c678790894.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ef34180d9a9329681132cfa56f0ef5aad7bdc6c1",
+          "title": "联合国现场丨 AI 会让发展中国家弯道超车吗？",
+          "url": "https://news.10jqka.com.cn/20260809/c678790894.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bde89114610f7440c9c9fee1e526f0b2da5ed64a",
+          "title": "联合国现场丨AI 会让发展中国家弯道超车吗？",
+          "url": "https://news.10jqka.com.cn/20260809/c678790894.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ef34180d9a9329681132cfa56f0ef5aad7bdc6c1",
+          "title": "联合国现场丨 AI 会让发展中国家弯道超车吗？",
+          "url": "https://news.10jqka.com.cn/20260809/c678790894.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T00:57:39.010280Z",
+      "latest_at": "2026-08-09T03:00:49.383335Z",
+      "primary_item": {
+        "id": "bde89114610f7440c9c9fee1e526f0b2da5ed64a",
+        "title": "联合国现场丨AI 会让发展中国家弯道超车吗？",
+        "url": "https://news.10jqka.com.cn/20260809/c678790894.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_0d9b355ae6e9",
+      "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns",
+      "primary_url": "https://specification.website/spec/foundations/for-sale-dns",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "912c999d8772ec10b813862b6f7777cb3c0f0682",
+          "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
+          "url": "https://specification.website/spec/foundations/for-sale-dns",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:26:51Z"
+        },
+        {
+          "id": "270078a06c73023159d7987ccd20c5efd965ffba",
+          "title": "现在，域名可以在DNS中标注为“待售”了 / _for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:26:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "912c999d8772ec10b813862b6f7777cb3c0f0682",
+          "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
+          "url": "https://specification.website/spec/foundations/for-sale-dns",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:26:51Z"
+        },
+        {
+          "id": "270078a06c73023159d7987ccd20c5efd965ffba",
+          "title": "现在，域名可以在DNS中标注为“待售”了 / _for-sale DNS records",
+          "url": "https://specification.website/spec/foundations/for-sale-dns",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T13:26:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8221,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T13:26:51Z",
+      "latest_at": "2026-08-08T13:26:51Z",
+      "primary_item": {
+        "id": "912c999d8772ec10b813862b6f7777cb3c0f0682",
+        "title": "现在，域名可以在DNS中标注为“待售”了 / A domain can now say it is for sale, in DNS",
+        "url": "https://specification.website/spec/foundations/for-sale-dns",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-08-08T13:26:51Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_159e06467b2c",
+      "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+      "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T12:14:35.904000Z"
+        },
+        {
+          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T12:14:35.904000Z"
+        },
+        {
+          "id": "f39453cdbb6dd774dd0e7996370527a3a9beb5fd",
+          "title": "人工智能热潮正在创造薪资更高的数据中心岗位 / The AI boom is creating data center jobs that pay more",
+          "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8079,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T12:00:01Z",
+      "latest_at": "2026-08-08T12:14:35.904000Z",
+      "primary_item": {
+        "id": "b42d891815405d24eaf293fe7d1aa66f5c032f63",
+        "title": "人工智能热潮正在创造薪资更高的数据中心岗位",
+        "url": "https://www.businessinsider.com/ai-data-center-jobs-higher-pay-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-08T12:14:35.904000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
