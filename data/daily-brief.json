@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T21:35:23.228075Z",
+  "generated_at": "2026-08-12T22:30:41.609683Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 3,
   "items": [
     {
       "story_id": "story_6ee25b618d92",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9227,
+        "recency": 0.9105,
         "story_heat": 0.0
       },
       "enterprise_score": 80,
@@ -117,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.9691,
         "story_heat": 0.0
       },
       "enterprise_score": 75,
@@ -159,6 +159,85 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：市场拓展与销售AI；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_bb7736bea482",
+      "title": "“人工智能教母”表示学校最大的人工智能风险是学生失去学习的欲望 / 'Godmother of AI' Says Biggest AI Risk In Schools Is Students Losing the Desire to Learn",
+      "url": "https://news.slashdot.org/story/26/08/12/2021223/godmother-of-ai-says-biggest-ai-risk-in-schools-is-students-losing-the-desire-to-learn",
+      "primary_url": "https://news.slashdot.org/story/26/08/12/2021223/godmother-of-ai-says-biggest-ai-risk-in-schools-is-students-losing-the-desire-to-learn",
+      "source": "Slashdot (科技资讯)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e93cfdca3beb0bdbf1a79f907823cf8f65ae19e9",
+          "title": "“人工智能教母”表示学校最大的人工智能风险是学生失去学习的欲望 / 'Godmother of AI' Says Biggest AI Risk In Schools Is Students Losing the Desire to Learn",
+          "url": "https://news.slashdot.org/story/26/08/12/2021223/godmother-of-ai-says-biggest-ai-risk-in-schools-is-students-losing-the-desire-to-learn",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-12T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Slashdot (科技资讯)"
+      ],
+      "items": [
+        {
+          "id": "e93cfdca3beb0bdbf1a79f907823cf8f65ae19e9",
+          "title": "“人工智能教母”表示学校最大的人工智能风险是学生失去学习的欲望 / 'Godmother of AI' Says Biggest AI Risk In Schools Is Students Losing the Desire to Learn",
+          "url": "https://news.slashdot.org/story/26/08/12/2021223/godmother-of-ai-says-biggest-ai-risk-in-schools-is-students-losing-the-desire-to-learn",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-12T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9926,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 62,
+      "enterprise_importance_score": 65,
+      "enterprise_primary_topic": "evaluation_governance",
+      "enterprise_topics": [
+        "evaluation_governance"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：AI应用评估与治理",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-12T22:00:00Z",
+      "latest_at": "2026-08-12T22:00:00Z",
+      "primary_item": {
+        "id": "e93cfdca3beb0bdbf1a79f907823cf8f65ae19e9",
+        "title": "“人工智能教母”表示学校最大的人工智能风险是学生失去学习的欲望 / 'Godmother of AI' Says Biggest AI Risk In Schools Is Students Losing the Desire to Learn",
+        "url": "https://news.slashdot.org/story/26/08/12/2021223/godmother-of-ai-says-biggest-ai-risk-in-schools-is-students-losing-the-desire-to-learn",
+        "source": "Slashdot (科技资讯)",
+        "source_name": "Info Flow",
+        "published_at": "2026-08-12T22:00:00Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 62,
+        "enterprise_primary_topic": "evaluation_governance",
+        "enterprise_topics": [
+          "evaluation_governance"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：AI应用评估与治理"
       }
     }
   ]
