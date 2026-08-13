@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T19:31:57.413462Z",
+  "generated_at": "2026-08-13T20:31:11.096977Z",
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_68e3478fdace",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
+      "score": 0.5109,
+      "importance": 0.5109,
+      "importance_score": 0.5109,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9583,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "enterprise_score": 83,
-      "enterprise_importance_score": 75,
+      "enterprise_importance_score": 74,
       "enterprise_primary_topic": "sales_marketing_ai",
       "enterprise_topics": [
         "sales_marketing_ai"
@@ -80,85 +80,6 @@
         ],
         "enterprise_content_type": "research_report",
         "enterprise_reason": "主题命中：市场拓展与销售AI；内容类型：研究报告；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_5cf93367ffe7",
-      "title": "独家报道：Curative取消了价值60万美元的Salesforce合同，称“人工智能改变了软件开发的经济模式”，但CRM方面警告存在安全风险",
-      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-curative-ditches-600-000-120109906.html",
-      "primary_url": "https://finance.yahoo.com/technology/ai/articles/exclusive-curative-ditches-600-000-120109906.html",
-      "source": "finance.yahoo.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4aeb9d8cbf07b932adeccc33dec66c090f2e5947",
-          "title": "独家报道：Curative取消了价值60万美元的Salesforce合同，称“人工智能改变了软件开发的经济模式”，但CRM方面警告存在安全风险",
-          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-curative-ditches-600-000-120109906.html",
-          "source": "finance.yahoo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T20:20:18.232000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "finance.yahoo.com"
-      ],
-      "items": [
-        {
-          "id": "4aeb9d8cbf07b932adeccc33dec66c090f2e5947",
-          "title": "独家报道：Curative取消了价值60万美元的Salesforce合同，称“人工智能改变了软件开发的经济模式”，但CRM方面警告存在安全风险",
-          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-curative-ditches-600-000-120109906.html",
-          "source": "finance.yahoo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T20:20:18.232000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7154,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 75,
-      "enterprise_importance_score": 69,
-      "enterprise_primary_topic": "sales_marketing_ai",
-      "enterprise_topics": [
-        "sales_marketing_ai"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：市场拓展与销售AI；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-12T20:20:18.232000Z",
-      "latest_at": "2026-08-12T20:20:18.232000Z",
-      "primary_item": {
-        "id": "4aeb9d8cbf07b932adeccc33dec66c090f2e5947",
-        "title": "独家报道：Curative取消了价值60万美元的Salesforce合同，称“人工智能改变了软件开发的经济模式”，但CRM方面警告存在安全风险",
-        "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-curative-ditches-600-000-120109906.html",
-        "source": "finance.yahoo.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-08-12T20:20:18.232000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_tech",
-        "enterprise_score": 75,
-        "enterprise_primary_topic": "sales_marketing_ai",
-        "enterprise_topics": [
-          "sales_marketing_ai"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：市场拓展与销售AI；包含实施、架构、指标或结果信号"
       }
     },
     {
@@ -196,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4727,
-      "importance": 0.4727,
-      "importance_score": 0.4727,
+      "score": 0.4708,
+      "importance": 0.4708,
+      "importance_score": 0.4708,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7328,
+        "recency": 0.7224,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
