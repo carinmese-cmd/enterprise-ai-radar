@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T11:10:48.751984Z",
+  "generated_at": "2026-08-15T11:41:45.694403Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 3,
   "items": [
     {
       "story_id": "story_acf7e78a75ac",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4976,
+      "importance": 0.4976,
+      "importance_score": 0.4976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8775,
+        "recency": 0.871,
         "story_heat": 0.0
       },
       "enterprise_score": 77,
@@ -80,6 +80,85 @@
         ],
         "enterprise_content_type": "product_update",
         "enterprise_reason": "主题命中：模型与平台选型；内容类型：产品更新；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_23bfa56aa685",
+      "title": "随着人工智能机遇的转变，Salesforce（CRM）失宠",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-loses-favor-ai-102342649.html",
+      "primary_url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-loses-favor-ai-102342649.html",
+      "source": "finance.yahoo.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "437b72fd1a09d96aabee9148b99fd35043f93ed0",
+          "title": "随着人工智能机遇的转变，Salesforce（CRM）失宠",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-loses-favor-ai-102342649.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T11:34:04.195000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "finance.yahoo.com"
+      ],
+      "items": [
+        {
+          "id": "437b72fd1a09d96aabee9148b99fd35043f93ed0",
+          "title": "随着人工智能机遇的转变，Salesforce（CRM）失宠",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-loses-favor-ai-102342649.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T11:34:04.195000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9982,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 64,
+      "enterprise_importance_score": 66,
+      "enterprise_primary_topic": "sales_marketing_ai",
+      "enterprise_topics": [
+        "sales_marketing_ai"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：市场拓展与销售AI",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-15T11:34:04.195000Z",
+      "latest_at": "2026-08-15T11:34:04.195000Z",
+      "primary_item": {
+        "id": "437b72fd1a09d96aabee9148b99fd35043f93ed0",
+        "title": "随着人工智能机遇的转变，Salesforce（CRM）失宠",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-loses-favor-ai-102342649.html",
+        "source": "finance.yahoo.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-15T11:34:04.195000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 64,
+        "enterprise_primary_topic": "sales_marketing_ai",
+        "enterprise_topics": [
+          "sales_marketing_ai"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：市场拓展与销售AI"
       }
     },
     {
@@ -117,15 +196,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7259,
+        "recency": 0.7205,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
