@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:40:54.540510Z",
+  "generated_at": "2026-08-17T00:40:12.693699Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.9623,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -153,15 +153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8363,
+        "recency": 0.8244,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -196,88 +196,22 @@
       }
     },
     {
-      "story_id": "story_c64728df94ac",
-      "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-16T03:15:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-16T03:15:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7445,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-16T03:15:09Z",
-      "latest_at": "2026-08-16T03:15:09Z",
-      "primary_item": {
-        "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-        "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday",
-        "published_at": "2026-08-16T03:15:09Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
       "story_id": "story_0f2dda7c9a41",
-      "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "url": "https://news.ycombinator.com/item?id=49324087",
-      "primary_url": "https://news.ycombinator.com/item?id=49324087",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "primary_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source": "daringfireball.net",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "f713a587ff54b68a52101f457162b00db26d1184",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "daringfireball.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:06:02.469000Z"
+        },
         {
           "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
           "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
@@ -289,7 +223,7 @@
         },
         {
           "id": "8a74cffa132b6b8f7353d6e767f6e6e42900bcf5",
-          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
@@ -298,7 +232,7 @@
         },
         {
           "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "★ Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
           "source": "Daring Fireball",
           "source_name": "TechURLs",
@@ -306,14 +240,24 @@
           "published_at": "2026-08-16T19:26:33Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Daring Fireball",
         "HN Algolia · AI 24h",
+        "daringfireball.net",
         "hackernews"
       ],
       "items": [
         {
+          "id": "f713a587ff54b68a52101f457162b00db26d1184",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "daringfireball.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:06:02.469000Z"
+        },
+        {
           "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
           "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://news.ycombinator.com/item?id=49324087",
@@ -324,7 +268,7 @@
         },
         {
           "id": "8a74cffa132b6b8f7353d6e767f6e6e42900bcf5",
-          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
           "source": "HN Algolia · AI 24h",
           "source_name": "Hacker News",
@@ -333,7 +277,7 @@
         },
         {
           "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "★ Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
           "source": "Daring Fireball",
           "source_name": "TechURLs",
@@ -341,18 +285,18 @@
           "published_at": "2026-08-16T19:26:33Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5943,
+      "importance": 0.5943,
+      "importance_score": 0.5943,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
-        "story_heat": 0.5
+        "recency": 0.9918,
+        "story_heat": 0.75
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 37,
@@ -366,14 +310,14 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-16T19:26:33Z",
-      "latest_at": "2026-08-16T22:45:08.332000Z",
+      "latest_at": "2026-08-17T00:06:02.469000Z",
       "primary_item": {
-        "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-        "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "url": "https://news.ycombinator.com/item?id=49324087",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "published_at": "2026-08-16T22:45:08.332000Z",
+        "id": "f713a587ff54b68a52101f457162b00db26d1184",
+        "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
+        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+        "source": "daringfireball.net",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-17T00:06:02.469000Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -456,15 +400,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
+      "score": 0.5535,
+      "importance": 0.5535,
+      "importance_score": 0.5535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9171,
+        "recency": 0.9041,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -569,15 +513,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5553,
-      "importance": 0.5553,
-      "importance_score": 0.5553,
+      "score": 0.553,
+      "importance": 0.553,
+      "importance_score": 0.553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9139,
+        "recency": 0.9009,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -610,30 +554,143 @@
       }
     },
     {
-      "story_id": "story_abaf3e03b97f",
-      "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
-      "url": "https://www.ithome.com/0/990/404.htm",
-      "primary_url": "https://www.ithome.com/0/990/404.htm",
+      "story_id": "story_eb6ce119e52b",
+      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+      "url": "https://news.ycombinator.com/item?id=49319814",
+      "primary_url": "https://news.ycombinator.com/item?id=49319814",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:43:53.924000Z"
+        },
+        {
+          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
+          "url": "https://wildstatic.com",
+          "source": "wildstatic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T13:26:06.243000Z"
+        },
+        {
+          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://wildstatic.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "wildstatic.com"
+      ],
+      "items": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:43:53.924000Z"
+        },
+        {
+          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
+          "url": "https://wildstatic.com",
+          "source": "wildstatic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T13:26:06.243000Z"
+        },
+        {
+          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://wildstatic.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.549,
+      "importance": 0.549,
+      "importance_score": 0.549,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8789,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T13:21:45Z",
+      "latest_at": "2026-08-16T15:43:53.924000Z",
+      "primary_item": {
+        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+        "url": "https://news.ycombinator.com/item?id=49319814",
+        "source": "hackernews",
+        "source_name": "NewsNow",
+        "published_at": "2026-08-16T15:43:53.924000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5f2cf02546e5",
+      "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
+      "url": "https://www.ithome.com/0/990/420.htm",
+      "primary_url": "https://www.ithome.com/0/990/420.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
-          "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
-          "url": "https://www.ithome.com/0/990/404.htm",
+          "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
+          "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
+          "url": "https://www.ithome.com/0/990/420.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "be93018d06b0f6eed6b0dc6111ea6496c61f4766",
-          "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
-          "url": "https://www.ithome.com/0/990/404.htm",
+          "id": "91f43dced0cf35b4656beb07aa895c8b9ea0ed12",
+          "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
+          "url": "https://www.ithome.com/0/990/420.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T22:36:24Z"
+          "published_at": "2026-08-16T23:27:04Z"
         }
       ],
       "source_count": 2,
@@ -643,35 +700,35 @@
       ],
       "items": [
         {
-          "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
-          "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
-          "url": "https://www.ithome.com/0/990/404.htm",
+          "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
+          "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
+          "url": "https://www.ithome.com/0/990/420.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "be93018d06b0f6eed6b0dc6111ea6496c61f4766",
-          "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
-          "url": "https://www.ithome.com/0/990/404.htm",
+          "id": "91f43dced0cf35b4656beb07aa895c8b9ea0ed12",
+          "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
+          "url": "https://www.ithome.com/0/990/420.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T22:36:24Z"
+          "published_at": "2026-08-16T23:27:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9929,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -685,17 +742,111 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T22:36:24Z",
-      "latest_at": "2026-08-16T23:11:07.254671Z",
+      "earliest_at": "2026-08-16T23:27:04Z",
+      "latest_at": "2026-08-17T00:40:12.693699Z",
       "primary_item": {
-        "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
-        "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
-        "url": "https://www.ithome.com/0/990/404.htm",
+        "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
+        "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
+        "url": "https://www.ithome.com/0/990/420.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub",
         "published_at": null,
         "ai_score": 0.65,
-        "ai_label": "model_release",
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_dc26344b17e2",
+      "title": "人工智能软件开发——数据揭示了什么？",
+      "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+      "primary_url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+      "source": "codemanship.wordpress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dc7492af2c10be74af16759cef3696016acf426d",
+          "title": "人工智能软件开发——数据揭示了什么？",
+          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+          "source": "codemanship.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:22:10.012000Z"
+        },
+        {
+          "id": "ac58a9aac7874b95d811a0ecaeaadd58a9c17e22",
+          "title": "人工智能软件开发——数据揭示了什么？ / AI Software Development – What Does The Data Say?",
+          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:08:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "codemanship.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "dc7492af2c10be74af16759cef3696016acf426d",
+          "title": "人工智能软件开发——数据揭示了什么？",
+          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+          "source": "codemanship.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:22:10.012000Z"
+        },
+        {
+          "id": "ac58a9aac7874b95d811a0ecaeaadd58a9c17e22",
+          "title": "人工智能软件开发——数据揭示了什么？ / AI Software Development – What Does The Data Say?",
+          "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:08:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9957,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T00:08:04Z",
+      "latest_at": "2026-08-17T00:22:10.012000Z",
+      "primary_item": {
+        "id": "dc7492af2c10be74af16759cef3696016acf426d",
+        "title": "人工智能软件开发——数据揭示了什么？",
+        "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say",
+        "source": "codemanship.wordpress.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-17T00:22:10.012000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_tech",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -776,15 +927,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8172,
+        "recency": 0.8056,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -870,15 +1021,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9554,
+        "recency": 0.9418,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -964,15 +1115,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.928,
+        "recency": 0.9148,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1058,15 +1209,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8759,
+        "recency": 0.8635,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1091,119 +1242,6 @@
         "published_at": "2026-08-16T14:30:18.432000Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_eb6ce119e52b",
-      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-      "url": "https://news.ycombinator.com/item?id=49319814",
-      "primary_url": "https://news.ycombinator.com/item?id=49319814",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:43:53.924000Z"
-        },
-        {
-          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
-          "url": "https://wildstatic.com",
-          "source": "wildstatic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T13:26:06.243000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "wildstatic.com"
-      ],
-      "items": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:43:53.924000Z"
-        },
-        {
-          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
-          "url": "https://wildstatic.com",
-          "source": "wildstatic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T13:26:06.243000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5513,
-      "importance": 0.5513,
-      "importance_score": 0.5513,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8915,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T13:21:45Z",
-      "latest_at": "2026-08-16T15:43:53.924000Z",
-      "primary_item": {
-        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-        "url": "https://news.ycombinator.com/item?id=49319814",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "published_at": "2026-08-16T15:43:53.924000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1265,15 +1303,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8493,
+        "recency": 0.8372,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1296,6 +1334,100 @@
         "source": "www.businessinsider.com",
         "source_name": "Buzzing",
         "published_at": "2026-08-16T12:21:59.554000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_18720c8fd598",
+      "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
+      "url": "https://www.ithome.com/0/990/423.htm",
+      "primary_url": "https://www.ithome.com/0/990/423.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "149742f52e61c15e902f1bbbf84c3f655f6903dc",
+          "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
+          "url": "https://www.ithome.com/0/990/423.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7aa21b2b03252f8b770cd052b64f1cd85e63f517",
+          "title": "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”",
+          "url": "https://www.ithome.com/0/990/423.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T23:34:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "149742f52e61c15e902f1bbbf84c3f655f6903dc",
+          "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
+          "url": "https://www.ithome.com/0/990/423.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "7aa21b2b03252f8b770cd052b64f1cd85e63f517",
+          "title": "网传“深圳道路大面积塌陷致翻车”，深圳市委网信办确认“系 AI 合成谣言”",
+          "url": "https://www.ithome.com/0/990/423.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T23:34:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T23:34:20Z",
+      "latest_at": "2026-08-17T00:40:12.693699Z",
+      "primary_item": {
+        "id": "149742f52e61c15e902f1bbbf84c3f655f6903dc",
+        "title": "网传深圳道路大面积塌陷致翻车？官方确认系AI合成谣言",
+        "url": "https://www.ithome.com/0/990/423.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1359,15 +1491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5168,
-      "importance": 0.5168,
-      "importance_score": 0.5168,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8387,
+        "recency": 0.8268,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1452,15 +1584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.5137,
+      "importance": 0.5137,
+      "importance_score": 0.5137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8337,
+        "recency": 0.8219,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1493,72 +1625,72 @@
       }
     },
     {
-      "story_id": "story_7ec51ac786a3",
-      "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_186740912b76",
+      "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "url": "https://news.ycombinator.com/item?id=49323932",
+      "primary_url": "https://news.ycombinator.com/item?id=49323932",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
+          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://news.ycombinator.com/item?id=49323932",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T21:45:01.102000Z"
+          "published_at": "2026-08-16T22:45:08.332000Z"
+        },
+        {
+          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T21:34:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
+          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://news.ycombinator.com/item?id=49323932",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T21:45:01.102000Z"
+          "published_at": "2026-08-16T22:45:08.332000Z"
+        },
+        {
+          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T21:34:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9863,
+        "recency": 0.9727,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1568,17 +1700,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T21:45:01.102000Z",
-      "latest_at": "2026-08-16T22:43:28.698931Z",
+      "earliest_at": "2026-08-16T21:34:06Z",
+      "latest_at": "2026-08-16T22:45:08.332000Z",
       "primary_item": {
-        "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-        "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
+        "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
+        "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+        "url": "https://news.ycombinator.com/item?id=49323932",
+        "source": "hackernews",
+        "source_name": "NewsNow",
+        "published_at": "2026-08-16T22:45:08.332000Z",
         "ai_score": 0.65,
-        "ai_label": "ai_product_update",
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1640,15 +1772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7954,
+        "recency": 0.7842,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1734,19 +1866,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8298,
+        "recency": 0.8181,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1775,68 +1907,68 @@
       }
     },
     {
-      "story_id": "story_186740912b76",
-      "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "url": "https://news.ycombinator.com/item?id=49323932",
-      "primary_url": "https://news.ycombinator.com/item?id=49323932",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_abaf3e03b97f",
+      "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
+      "url": "https://www.ithome.com/0/990/404.htm",
+      "primary_url": "https://www.ithome.com/0/990/404.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://news.ycombinator.com/item?id=49323932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:45:08.332000Z"
+          "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
+          "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
+          "url": "https://www.ithome.com/0/990/404.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:34:06Z"
+          "id": "be93018d06b0f6eed6b0dc6111ea6496c61f4766",
+          "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
+          "url": "https://www.ithome.com/0/990/404.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T22:36:24Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://news.ycombinator.com/item?id=49323932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T22:45:08.332000Z"
+          "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
+          "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
+          "url": "https://www.ithome.com/0/990/404.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "63ccfe6f157fcc1e9c61323b7a4d1c177e548fd0",
-          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:34:06Z"
+          "id": "be93018d06b0f6eed6b0dc6111ea6496c61f4766",
+          "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
+          "url": "https://www.ithome.com/0/990/404.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T22:36:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9788,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1850,106 +1982,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T21:34:06Z",
-      "latest_at": "2026-08-16T22:45:08.332000Z",
+      "earliest_at": "2026-08-16T22:36:24Z",
+      "latest_at": "2026-08-16T23:11:07.254671Z",
       "primary_item": {
-        "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
-        "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-        "url": "https://news.ycombinator.com/item?id=49323932",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "published_at": "2026-08-16T22:45:08.332000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_dc17d35aad93",
-      "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-      "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883517.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
-          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "139e2530651083380a682ad186daf7d698c08062",
-          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T16:26:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
-          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "139e2530651083380a682ad186daf7d698c08062",
-          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T16:26:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9106,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T16:26:33Z",
-      "latest_at": "2026-08-16T17:11:48.024480Z",
-      "primary_item": {
-        "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
-        "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-        "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+        "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
+        "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
+        "url": "https://www.ithome.com/0/990/404.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub",
         "published_at": null,
