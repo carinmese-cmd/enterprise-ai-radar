@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:57:26.898557Z",
+  "generated_at": "2026-08-17T06:46:10.876397Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8916,
+        "recency": 0.8812,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -115,6 +115,273 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f5e355031976",
+      "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+      "url": "https://www.aibase.com/news/30395",
+      "primary_url": "https://www.aibase.com/news/30395",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
+          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+          "url": "https://www.aibase.com/news/30395",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T06:46:10.876397Z"
+        },
+        {
+          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
+          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
+          "url": "https://www.aibase.com/zh/news/30395",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
+          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+          "url": "https://www.aibase.com/news/30395",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T06:46:10.876397Z"
+        },
+        {
+          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
+          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
+          "url": "https://www.aibase.com/zh/news/30395",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T06:46:10.876397Z",
+      "latest_at": "2026-08-17T06:46:10.876397Z",
+      "primary_item": {
+        "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
+        "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+        "url": "https://www.aibase.com/news/30395",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-17T06:46:10.876397Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c73a2b963399",
+      "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+      "url": "https://www.aibase.com/news/30392",
+      "primary_url": "https://www.aibase.com/news/30392",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+          "url": "https://www.aibase.com/news/30392",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T05:57:26.898557Z"
+        },
+        {
+          "id": "c4802dda75464e3fb5d4a302cc973af462abb990",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元，估值 54 亿，高盛英特尔入局",
+          "url": "https://www.aibase.com/zh/news/30392",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+          "url": "https://www.aibase.com/news/30392",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T05:57:26.898557Z"
+        },
+        {
+          "id": "c4802dda75464e3fb5d4a302cc973af462abb990",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元，估值 54 亿，高盛英特尔入局",
+          "url": "https://www.aibase.com/zh/news/30392",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9883,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T05:57:26.898557Z",
+      "latest_at": "2026-08-17T06:46:10.876397Z",
+      "primary_item": {
+        "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+        "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+        "url": "https://www.aibase.com/news/30392",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-17T05:57:26.898557Z",
+        "ai_score": 1.0,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_af863cb3b215",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7549,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-16T11:17:57.393000Z",
+      "latest_at": "2026-08-16T11:17:57.393000Z",
+      "primary_item": {
+        "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+        "title": "新兴多智能体系统的模式与问题",
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-16T11:17:57.393000Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -172,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9366,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -268,15 +535,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9366,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -307,81 +574,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_af863cb3b215",
-      "title": "新兴多智能体系统的模式与问题",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7638,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-16T11:17:57.393000Z",
-      "latest_at": "2026-08-16T11:17:57.393000Z",
-      "primary_item": {
-        "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-        "title": "新兴多智能体系统的模式与问题",
-        "url": "https://www.anthropic.com/research/multiagent-systems",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT",
-        "published_at": "2026-08-16T11:17:57.393000Z",
-        "ai_score": 1.0,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -439,15 +631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9366,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -535,15 +727,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9366,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -570,198 +762,6 @@
         "published_at": "2026-08-17T02:14:12.151706Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_24179d4476a1",
-      "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-      "url": "https://www.aibase.com/news/30383",
-      "primary_url": "https://www.aibase.com/news/30383",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/news/30383",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:14:12.151706Z"
-        },
-        {
-          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
-          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/zh/news/30383",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/news/30383",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:14:12.151706Z"
-        },
-        {
-          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
-          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
-          "url": "https://www.aibase.com/zh/news/30383",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9477,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T02:14:12.151706Z",
-      "latest_at": "2026-08-17T03:25:06.255759Z",
-      "primary_item": {
-        "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
-        "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
-        "url": "https://www.aibase.com/news/30383",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-17T02:14:12.151706Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_5243b55fd3e2",
-      "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-      "url": "https://www.aibase.com/news/30374",
-      "primary_url": "https://www.aibase.com/news/30374",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
-          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-          "url": "https://www.aibase.com/news/30374",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:14:12.151706Z"
-        },
-        {
-          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
-          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
-          "url": "https://www.aibase.com/zh/news/30374",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
-          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-          "url": "https://www.aibase.com/news/30374",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:14:12.151706Z"
-        },
-        {
-          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
-          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
-          "url": "https://www.aibase.com/zh/news/30374",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9477,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T02:14:12.151706Z",
-      "latest_at": "2026-08-17T02:14:12.151706Z",
-      "primary_item": {
-        "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
-        "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
-        "url": "https://www.aibase.com/news/30374",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-17T02:14:12.151706Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -823,15 +823,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6268,
-      "importance": 0.6268,
-      "importance_score": 0.6268,
+      "score": 0.625,
+      "importance": 0.625,
+      "importance_score": 0.625,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.878,
+        "recency": 0.8678,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -864,26 +864,26 @@
       }
     },
     {
-      "story_id": "story_2dc2c342cc6e",
-      "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-      "url": "https://www.aibase.com/news/30381",
-      "primary_url": "https://www.aibase.com/news/30381",
+      "story_id": "story_24179d4476a1",
+      "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+      "url": "https://www.aibase.com/news/30383",
+      "primary_url": "https://www.aibase.com/news/30383",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
-          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/news/30381",
+          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/news/30383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-17T02:14:12.151706Z"
         },
         {
-          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
-          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/zh/news/30381",
+          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
+          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/zh/news/30383",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -897,18 +897,18 @@
       ],
       "items": [
         {
-          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
-          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/news/30381",
+          "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+          "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/news/30383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-17T02:14:12.151706Z"
         },
         {
-          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
-          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
-          "url": "https://www.aibase.com/zh/news/30381",
+          "id": "9908116dffecfa6f700f50ba9a507953fe1fc6ea",
+          "title": "我国科学家发布大豆垂直大模型「丰菽」2.0：多模型协同，辅助智能育种",
+          "url": "https://www.aibase.com/zh/news/30383",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -917,22 +917,22 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9366,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
+      "enterprise_content_type": "product_update",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
@@ -942,15 +942,146 @@
         "high_importance"
       ],
       "earliest_at": "2026-08-17T02:14:12.151706Z",
-      "latest_at": "2026-08-17T02:14:12.151706Z",
+      "latest_at": "2026-08-17T03:25:06.255759Z",
       "primary_item": {
-        "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
-        "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
-        "url": "https://www.aibase.com/news/30381",
+        "id": "30d7d6bd2201f535d6b2a0cc5a6ae4c44a771b95",
+        "title": "我国科学家发布大豆垂直大模型\"丰菽\"2.0：多模型协同，辅助智能育种",
+        "url": "https://www.aibase.com/news/30383",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-08-17T02:14:12.151706Z",
         "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+      "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "primary_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:37:58.615000Z"
+        },
+        {
+          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "4e8b267d415b98cc998b956cb95f3c888abedf24",
+          "title": "台积电使用旧晶圆厂生产新芯片[视频] / TSMC Uses Old Fabs to Make New Chips [video]",
+          "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T00:07:42Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T00:37:58.615000Z"
+        },
+        {
+          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
+          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
+          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T00:20:07Z"
+        },
+        {
+          "id": "4e8b267d415b98cc998b956cb95f3c888abedf24",
+          "title": "台积电使用旧晶圆厂生产新芯片[视频] / TSMC Uses Old Fabs to Make New Chips [video]",
+          "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T00:07:42Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5805,
+      "importance": 0.5805,
+      "importance_score": 0.5805,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9152,
+        "story_heat": 0.75
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T00:07:42Z",
+      "latest_at": "2026-08-17T00:37:58.615000Z",
+      "primary_item": {
+        "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
+        "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
+        "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-17T00:37:58.615000Z",
+        "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -1051,15 +1182,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5812,
-      "importance": 0.5812,
-      "importance_score": 0.5812,
+      "score": 0.5793,
+      "importance": 0.5793,
+      "importance_score": 0.5793,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9189,
+        "recency": 0.9082,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -1183,15 +1314,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5782,
-      "importance": 0.5782,
-      "importance_score": 0.5782,
+      "score": 0.5763,
+      "importance": 0.5763,
+      "importance_score": 0.5763,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9024,
+        "recency": 0.8919,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -1216,6 +1347,102 @@
         "published_at": "2026-08-16T22:50:38Z",
         "ai_score": 0.65,
         "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5243b55fd3e2",
+      "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+      "url": "https://www.aibase.com/news/30374",
+      "primary_url": "https://www.aibase.com/news/30374",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+          "url": "https://www.aibase.com/news/30374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:12.151706Z"
+        },
+        {
+          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
+          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
+          "url": "https://www.aibase.com/zh/news/30374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+          "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+          "url": "https://www.aibase.com/news/30374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T02:14:12.151706Z"
+        },
+        {
+          "id": "99b5669dbeff6ded8381f803ca9e29653ad7e185",
+          "title": "英伟达拟向软银旗下 SB Energy 注资 30 亿美元，加码 OpenAI 数据中心生态",
+          "url": "https://www.aibase.com/zh/news/30374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9366,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T02:14:12.151706Z",
+      "latest_at": "2026-08-17T02:14:12.151706Z",
+      "primary_item": {
+        "id": "4bf672a10aa32f7c46fd3806e4f98d00800326bf",
+        "title": "英伟达据传拟向软银旗下SB Energy注资 30 亿美元，加码OpenAI数据中心生态",
+        "url": "https://www.aibase.com/news/30374",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-17T02:14:12.151706Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1296,15 +1523,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
+      "score": 0.5627,
+      "importance": 0.5627,
+      "importance_score": 0.5627,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9661,
+        "recency": 0.9548,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1409,15 +1636,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.5587,
+      "importance": 0.5587,
+      "importance_score": 0.5587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.944,
+        "recency": 0.933,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1450,185 +1677,93 @@
       }
     },
     {
-      "story_id": "story_c73a2b963399",
-      "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
-      "url": "https://www.aibase.com/news/30392",
-      "primary_url": "https://www.aibase.com/news/30392",
+      "story_id": "story_2dc2c342cc6e",
+      "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+      "url": "https://www.aibase.com/news/30381",
+      "primary_url": "https://www.aibase.com/news/30381",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
-          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
-          "url": "https://www.aibase.com/news/30392",
+          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
+          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/news/30381",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T05:57:26.898557Z"
+          "published_at": "2026-08-17T02:14:12.151706Z"
+        },
+        {
+          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
+          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/zh/news/30381",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
-          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
-          "url": "https://www.aibase.com/news/30392",
+          "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
+          "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/news/30381",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T05:57:26.898557Z"
+          "published_at": "2026-08-17T02:14:12.151706Z"
+        },
+        {
+          "id": "31c807e0cf6face605c509ffd0d9434f87d72fb7",
+          "title": "马斯克 xAI 再陷舆论漩涡：女子指控继父利用 Grok 篡改童年照生成数千张露骨图",
+          "url": "https://www.aibase.com/zh/news/30381",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.9366,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:57:26.898557Z",
-      "latest_at": "2026-08-17T05:57:26.898557Z",
-      "primary_item": {
-        "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
-        "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
-        "url": "https://www.aibase.com/news/30392",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-17T05:57:26.898557Z",
-        "ai_score": 1.0,
-        "ai_label": "industry_business",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-      "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-      "primary_url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:37:58.615000Z"
-        },
-        {
-          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        },
-        {
-          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:37:58.615000Z"
-        },
-        {
-          "id": "7a310ede28d5ed54705de5be4de08f495b6b3923",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        },
-        {
-          "id": "bf32e64f3f810f03c02af538aff956f168e8eb8d",
-          "title": "《人工智能的局限》——休伯特·德雷福斯（1985） / The Limits of AI - Hubert Dreyfus (1985)",
-          "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T00:20:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5575,
-      "importance": 0.5575,
-      "importance_score": 0.5575,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.926,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-17T00:20:07Z",
-      "latest_at": "2026-08-17T00:37:58.615000Z",
+      "earliest_at": "2026-08-17T02:14:12.151706Z",
+      "latest_at": "2026-08-17T02:14:12.151706Z",
       "primary_item": {
-        "id": "16fe8daf95dbd70408c5904cd11ad79dfba5790a",
-        "title": "《人工智能的局限》——休伯特·德雷福斯（1985）",
-        "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-08-17T00:37:58.615000Z",
-        "ai_score": 0.65,
+        "id": "bb4493b9431303acde27dc9fba69c46346f3a562",
+        "title": "马斯克xAI再陷舆论漩涡：女子指控继父利用Grok篡改童年照生成数千张露骨图",
+        "url": "https://www.aibase.com/news/30381",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-17T02:14:12.151706Z",
+        "ai_score": 1.0,
         "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -1710,15 +1845,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8347,
+        "recency": 0.825,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1823,15 +1958,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8143,
+        "recency": 0.8048,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1916,15 +2051,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.9353,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1949,100 +2084,6 @@
         "published_at": "2026-08-17T02:08:26Z",
         "ai_score": 0.65,
         "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_5f2cf02546e5",
-      "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
-      "url": "https://www.ithome.com/0/990/420.htm",
-      "primary_url": "https://www.ithome.com/0/990/420.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
-          "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
-          "url": "https://www.ithome.com/0/990/420.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "91f43dced0cf35b4656beb07aa895c8b9ea0ed12",
-          "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
-          "url": "https://www.ithome.com/0/990/420.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T23:27:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
-          "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
-          "url": "https://www.ithome.com/0/990/420.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "91f43dced0cf35b4656beb07aa895c8b9ea0ed12",
-          "title": "准确率 87%-91%，AI 可通过图片视觉线索识别拍照地点",
-          "url": "https://www.ithome.com/0/990/420.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T23:27:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9265,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T23:27:04Z",
-      "latest_at": "2026-08-17T00:40:12.693699Z",
-      "primary_item": {
-        "id": "d17fbad42278852eb4c6b8cddf880d5c338e551c",
-        "title": "AI 可通过图片视觉线索识别拍照地点，准确率 87%-91%",
-        "url": "https://www.ithome.com/0/990/420.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
