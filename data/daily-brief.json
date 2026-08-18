@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T13:17:48.629196Z",
+  "generated_at": "2026-08-18T14:03:18.271094Z",
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_f858ca9c7d02",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9056,
+        "recency": 0.8958,
         "story_heat": 0.0
       },
       "enterprise_score": 73,
@@ -60,8 +60,7 @@
       "enterprise_is_relevant": true,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T06:25:55.655376Z",
       "latest_at": "2026-08-18T06:25:55.655376Z",
@@ -118,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4964,
-      "importance": 0.4964,
-      "importance_score": 0.4964,
+      "score": 0.4948,
+      "importance": 0.4948,
+      "importance_score": 0.4948,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8647,
+        "recency": 0.8553,
         "story_heat": 0.0
       },
       "enterprise_score": 83,
@@ -160,85 +159,6 @@
         ],
         "enterprise_content_type": "product_update",
         "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：产品更新；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_7ca76b32c9b9",
-      "title": "特朗普支持的 WLF 正在与香港人工智能平台 WorldClaw 合作；其 90 个人工智能模型中有 43 个是由被标记为安全风险的中国实体开发的（Lawrence Delevingne/路透社） / Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks (Lawrence Delevingne/Reuters)",
-      "url": "https://www.techmeme.com/260817/p18",
-      "primary_url": "https://www.techmeme.com/260817/p18",
-      "source": "Techmeme",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "45d5abee49b178a79319facfe461367937ec85ad",
-          "title": "特朗普支持的 WLF 正在与香港人工智能平台 WorldClaw 合作；其 90 个人工智能模型中有 43 个是由被标记为安全风险的中国实体开发的（Lawrence Delevingne/路透社） / Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks (Lawrence Delevingne/Reuters)",
-          "url": "https://www.techmeme.com/260817/p18",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T13:50:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Techmeme"
-      ],
-      "items": [
-        {
-          "id": "45d5abee49b178a79319facfe461367937ec85ad",
-          "title": "特朗普支持的 WLF 正在与香港人工智能平台 WorldClaw 合作；其 90 个人工智能模型中有 43 个是由被标记为安全风险的中国实体开发的（Lawrence Delevingne/路透社） / Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks (Lawrence Delevingne/Reuters)",
-          "url": "https://www.techmeme.com/260817/p18",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T13:50:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4691,
-      "importance": 0.4691,
-      "importance_score": 0.4691,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7126,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 67,
-      "enterprise_importance_score": 66,
-      "enterprise_primary_topic": "model_platform_selection",
-      "enterprise_topics": [
-        "model_platform_selection"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-17T13:50:02Z",
-      "latest_at": "2026-08-17T13:50:02Z",
-      "primary_item": {
-        "id": "45d5abee49b178a79319facfe461367937ec85ad",
-        "title": "特朗普支持的 WLF 正在与香港人工智能平台 WorldClaw 合作；其 90 个人工智能模型中有 43 个是由被标记为安全风险的中国实体开发的（Lawrence Delevingne/路透社） / Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks (Lawrence Delevingne/Reuters)",
-        "url": "https://www.techmeme.com/260817/p18",
-        "source": "Techmeme",
-        "source_name": "TechURLs",
-        "published_at": "2026-08-17T13:50:02Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 67,
-        "enterprise_primary_topic": "model_platform_selection",
-        "enterprise_topics": [
-          "model_platform_selection"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
       }
     }
   ]
