@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:26:26.464430Z",
+  "generated_at": "2026-08-19T07:13:30.083555Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8558,
-      "importance": 0.8558,
-      "importance_score": 0.8558,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8375,
+        "recency": 0.8281,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -154,15 +154,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8496,
-      "importance": 0.8496,
-      "importance_score": 0.8496,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8477,
+        "recency": 0.8382,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -232,19 +232,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9053,
+        "recency": 0.8951,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -266,6 +266,121 @@
         "source_name": "Official AI Updates",
         "published_at": "2026-08-18T23:33:07Z",
         "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8b5dc124b21a",
+      "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+      "url": "https://www.aibase.com/news/30467",
+      "primary_url": "https://www.aibase.com/news/30467",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:13:30.083555Z"
+        },
+        {
+          "id": "331bd1e309563a08795c658927f21c691d2deb5b",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/zh/news/30467",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
+          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+          "url": "https://www.ithome.com/0/991/585.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T05:54:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T07:13:30.083555Z"
+        },
+        {
+          "id": "331bd1e309563a08795c658927f21c691d2deb5b",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/zh/news/30467",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eaf487ccee4011db038e6f40ae6f2d65faf4d2f9",
+          "title": "日本公布 AI 草案，敦促开发者披露训练数据",
+          "url": "https://www.ithome.com/0/991/585.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T05:54:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T05:54:55Z",
+      "latest_at": "2026-08-19T07:13:30.083555Z",
+      "primary_item": {
+        "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+        "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "url": "https://www.aibase.com/news/30467",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-19T07:13:30.083555Z",
+        "ai_score": 1.0,
         "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -328,19 +443,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8409,
-      "importance": 0.8409,
-      "importance_score": 0.8409,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7552,
+        "recency": 0.7467,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -406,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8847,
+        "recency": 0.8748,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -441,102 +556,6 @@
         "published_at": "2026-08-18T21:57:30Z",
         "ai_score": 0.87,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_f4125ec43c6b",
-      "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-      "url": "https://www.aibase.com/news/30457",
-      "primary_url": "https://www.aibase.com/news/30457",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
-          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-          "url": "https://www.aibase.com/news/30457",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T03:22:53.745961Z"
-        },
-        {
-          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
-          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
-          "url": "https://www.aibase.com/zh/news/30457",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
-          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-          "url": "https://www.aibase.com/news/30457",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T03:22:53.745961Z"
-        },
-        {
-          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
-          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
-          "url": "https://www.aibase.com/zh/news/30457",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9568,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T03:22:53.745961Z",
-      "latest_at": "2026-08-19T03:22:53.745961Z",
-      "primary_item": {
-        "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
-        "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
-        "url": "https://www.aibase.com/news/30457",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-19T03:22:53.745961Z",
-        "ai_score": 1.0,
-        "ai_label": "industry_business",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -579,15 +598,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8852,
+        "recency": 0.8753,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -675,15 +694,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8681,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -752,15 +771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9252,
+        "recency": 0.9148,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -794,26 +813,26 @@
       }
     },
     {
-      "story_id": "story_ad47e7159014",
-      "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-      "url": "https://www.aibase.com/news/30460",
-      "primary_url": "https://www.aibase.com/news/30460",
+      "story_id": "story_f4125ec43c6b",
+      "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+      "url": "https://www.aibase.com/news/30457",
+      "primary_url": "https://www.aibase.com/news/30457",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
-          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/news/30460",
+          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
+          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+          "url": "https://www.aibase.com/news/30457",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-19T03:22:53.745961Z"
         },
         {
-          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
-          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/zh/news/30460",
+          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
+          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
+          "url": "https://www.aibase.com/zh/news/30457",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -827,18 +846,18 @@
       ],
       "items": [
         {
-          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
-          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/news/30460",
+          "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
+          "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+          "url": "https://www.aibase.com/news/30457",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-19T03:22:53.745961Z"
         },
         {
-          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
-          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
-          "url": "https://www.aibase.com/zh/news/30460",
+          "id": "9a17c4b25bddb2765ce194aa66d5a6df9e49fb96",
+          "title": "OpenAI 二季度营收 67 亿美元，增速不及 Anthropic 反超",
+          "url": "https://www.aibase.com/zh/news/30457",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -847,15 +866,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9568,
+        "recency": 0.946,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -874,14 +893,14 @@
       "earliest_at": "2026-08-19T03:22:53.745961Z",
       "latest_at": "2026-08-19T03:22:53.745961Z",
       "primary_item": {
-        "id": "e842250b4693909dbb071b41a91156a770cee6b0",
-        "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
-        "url": "https://www.aibase.com/news/30460",
+        "id": "b99dbf8818f55ac9e1ccdf7467919514efe446e9",
+        "title": "OpenAI 二季度营收 67 亿美元，18% 增速远不及 Anthropic 反超",
+        "url": "https://www.aibase.com/news/30457",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-08-19T03:22:53.745961Z",
         "ai_score": 1.0,
-        "ai_label": "developer_tool",
+        "ai_label": "industry_business",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -924,15 +943,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.881,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -944,8 +963,7 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T22:27:16.191000Z",
       "latest_at": "2026-08-18T22:27:16.191000Z",
@@ -966,199 +984,6 @@
       }
     },
     {
-      "story_id": "story_7d7eacff40aa",
-      "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "primary_url": "https://openai.com/index/asana",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
-        },
-        {
-          "id": "0192f261de576a53158267b5c833e9d7503b86e1",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "url": "https://openai.com/index/asana",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "url": "https://openai.com/index/asana",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
-        },
-        {
-          "id": "0192f261de576a53158267b5c833e9d7503b86e1",
-          "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量",
-          "url": "https://openai.com/index/asana",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7128,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 37,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T07:00:00Z",
-      "latest_at": "2026-08-18T16:55:28.918180Z",
-      "primary_item": {
-        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-        "title": "Asana 借助 OpenAI Codex 两周完成五年工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "url": "https://openai.com/index/asana",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-08-18T07:00:00Z",
-        "ai_score": 0.95,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a1441105154d",
-      "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-      "url": "https://www.aibase.com/news/30446",
-      "primary_url": "https://www.aibase.com/news/30446",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
-          "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-          "url": "https://www.aibase.com/news/30446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T02:12:14.720543Z"
-        },
-        {
-          "id": "697930447365d8650810a7a01278448fbf2f5677",
-          "title": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
-          "url": "https://www.aibase.com/zh/news/30446",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
-          "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-          "url": "https://www.aibase.com/news/30446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T02:12:14.720543Z"
-        },
-        {
-          "id": "697930447365d8650810a7a01278448fbf2f5677",
-          "title": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
-          "url": "https://www.aibase.com/zh/news/30446",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9407,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T02:12:14.720543Z",
-      "latest_at": "2026-08-19T02:12:14.720543Z",
-      "primary_item": {
-        "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
-        "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
-        "url": "https://www.aibase.com/news/30446",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-19T02:12:14.720543Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
       "story_id": "story_2a7697ec0027",
       "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
       "url": "https://x.com/claudeai/status/2089806039088517356",
@@ -1174,10 +999,20 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-18T20:06:01Z"
+        },
+        {
+          "id": "226c19bb28a594a92b38d236cc7f3e2b35775fbe",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval. Connect Gmail or Google Drive from...",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T20:06:01Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Follow Builders · X · Claude",
         "X：Claude (@claudeai)"
       ],
       "items": [
@@ -1189,20 +1024,29 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-18T20:06:01Z"
+        },
+        {
+          "id": "226c19bb28a594a92b38d236cc7f3e2b35775fbe",
+          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval. Connect Gmail or Google Drive from...",
+          "url": "https://x.com/claudeai/status/2089806039088517356",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-18T20:06:01Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8613,
-        "story_heat": 0.0
+        "recency": 0.8516,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 42,
@@ -1213,6 +1057,7 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T20:06:01Z",
@@ -1287,19 +1132,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7552,
+        "recency": 0.7467,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1323,6 +1168,275 @@
         "published_at": "2026-08-18T11:00:00Z",
         "ai_score": 0.91,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ad47e7159014",
+      "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+      "url": "https://www.aibase.com/news/30460",
+      "primary_url": "https://www.aibase.com/news/30460",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
+          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+          "url": "https://www.aibase.com/news/30460",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T03:22:53.745961Z"
+        },
+        {
+          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
+          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
+          "url": "https://www.aibase.com/zh/news/30460",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e842250b4693909dbb071b41a91156a770cee6b0",
+          "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+          "url": "https://www.aibase.com/news/30460",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T03:22:53.745961Z"
+        },
+        {
+          "id": "40c99308ec81377572f8e680d5d6f03e6bf10901",
+          "title": "微软 Copilot 曝安全漏洞：恶意链接可绕过确认，自动窃取邮件与凭据",
+          "url": "https://www.aibase.com/zh/news/30460",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.946,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T03:22:53.745961Z",
+      "latest_at": "2026-08-19T03:22:53.745961Z",
+      "primary_item": {
+        "id": "e842250b4693909dbb071b41a91156a770cee6b0",
+        "title": "微软 Copilot 爆漏洞：恶意链接绕过确认，自动窃取邮件与凭据",
+        "url": "https://www.aibase.com/news/30460",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-19T03:22:53.745961Z",
+        "ai_score": 1.0,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a1441105154d",
+      "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+      "url": "https://www.aibase.com/news/30446",
+      "primary_url": "https://www.aibase.com/news/30446",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
+          "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+          "url": "https://www.aibase.com/news/30446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T02:12:14.720543Z"
+        },
+        {
+          "id": "697930447365d8650810a7a01278448fbf2f5677",
+          "title": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
+          "url": "https://www.aibase.com/zh/news/30446",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
+          "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+          "url": "https://www.aibase.com/news/30446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T02:12:14.720543Z"
+        },
+        {
+          "id": "697930447365d8650810a7a01278448fbf2f5677",
+          "title": "AI 深度介入苹果生态！Safari 26.6.1 重磅更新修复 22 个漏洞，OpenAI 立下首功",
+          "url": "https://www.aibase.com/zh/news/30446",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9301,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T02:12:14.720543Z",
+      "latest_at": "2026-08-19T02:12:14.720543Z",
+      "primary_item": {
+        "id": "afcf4a7bafc418499ded57b9d03ef73be4a8372c",
+        "title": "AI深度介入苹果生态！Safari 26.6. 1 重磅更新修复 22 个漏洞，OpenAI立下首功",
+        "url": "https://www.aibase.com/news/30446",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-19T02:12:14.720543Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_9765648ad527",
+      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+          "url": "https://openai.com/index/partnering-with-codeai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T11:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7467,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
+      "primary_item": {
+        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
+        "url": "https://openai.com/index/partnering-with-codeai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-08-18T11:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1384,15 +1498,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.9301,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1419,179 +1533,6 @@
         "published_at": "2026-08-19T02:12:14.720543Z",
         "ai_score": 1.0,
         "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_e42b3bac76ac",
-      "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
-      "url": "https://www.aibase.com/news/30454",
-      "primary_url": "https://www.aibase.com/news/30454",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2aca00108b4c4780dca06ab949209b7a85d79346",
-          "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
-          "url": "https://www.aibase.com/news/30454",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T02:12:14.720543Z"
-        },
-        {
-          "id": "232fdb76049759bd47d582cc2eadc0abf14e5878",
-          "title": "智谱 GLM-5.3 API 重磅上线：AA 指数斩获 60 分并列开源第一，权重将于下周五开源",
-          "url": "https://www.aibase.com/zh/news/30454",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2aca00108b4c4780dca06ab949209b7a85d79346",
-          "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
-          "url": "https://www.aibase.com/news/30454",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T02:12:14.720543Z"
-        },
-        {
-          "id": "232fdb76049759bd47d582cc2eadc0abf14e5878",
-          "title": "智谱 GLM-5.3 API 重磅上线：AA 指数斩获 60 分并列开源第一，权重将于下周五开源",
-          "url": "https://www.aibase.com/zh/news/30454",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9407,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T02:12:14.720543Z",
-      "latest_at": "2026-08-19T02:12:14.720543Z",
-      "primary_item": {
-        "id": "2aca00108b4c4780dca06ab949209b7a85d79346",
-        "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
-        "url": "https://www.aibase.com/news/30454",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-19T02:12:14.720543Z",
-        "ai_score": 1.0,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_9765648ad527",
-      "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-          "url": "https://openai.com/index/partnering-with-codeai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7552,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T11:00:00Z",
-      "latest_at": "2026-08-18T11:00:00Z",
-      "primary_item": {
-        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-        "title": "与 CodeAI 合作，准备第一代 AI / Partnering with CodeAI to prepare the first AI generation",
-        "url": "https://openai.com/index/partnering-with-codeai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-08-18T11:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1724,15 +1665,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.642,
-      "importance": 0.642,
-      "importance_score": 0.642,
+      "score": 0.6403,
+      "importance": 0.6403,
+      "importance_score": 0.6403,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8488,
+        "recency": 0.8392,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -1765,26 +1706,26 @@
       }
     },
     {
-      "story_id": "story_520828a29e15",
-      "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-      "url": "https://www.aibase.com/news/30448",
-      "primary_url": "https://www.aibase.com/news/30448",
+      "story_id": "story_e42b3bac76ac",
+      "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
+      "url": "https://www.aibase.com/news/30454",
+      "primary_url": "https://www.aibase.com/news/30454",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/news/30448",
+          "id": "2aca00108b4c4780dca06ab949209b7a85d79346",
+          "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
+          "url": "https://www.aibase.com/news/30454",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-19T02:12:14.720543Z"
         },
         {
-          "id": "284326f99c164ea79b09d821ad468773e69d9644",
-          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/zh/news/30448",
+          "id": "232fdb76049759bd47d582cc2eadc0abf14e5878",
+          "title": "智谱 GLM-5.3 API 重磅上线：AA 指数斩获 60 分并列开源第一，权重将于下周五开源",
+          "url": "https://www.aibase.com/zh/news/30454",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1798,18 +1739,18 @@
       ],
       "items": [
         {
-          "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-          "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/news/30448",
+          "id": "2aca00108b4c4780dca06ab949209b7a85d79346",
+          "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
+          "url": "https://www.aibase.com/news/30454",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-19T02:12:14.720543Z"
         },
         {
-          "id": "284326f99c164ea79b09d821ad468773e69d9644",
-          "title": "消息称 xAI 多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-          "url": "https://www.aibase.com/zh/news/30448",
+          "id": "232fdb76049759bd47d582cc2eadc0abf14e5878",
+          "title": "智谱 GLM-5.3 API 重磅上线：AA 指数斩获 60 分并列开源第一，权重将于下周五开源",
+          "url": "https://www.aibase.com/zh/news/30454",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1818,22 +1759,22 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.9301,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
+      "enterprise_content_type": "product_update",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
@@ -1845,19 +1786,94 @@
       "earliest_at": "2026-08-19T02:12:14.720543Z",
       "latest_at": "2026-08-19T02:12:14.720543Z",
       "primary_item": {
-        "id": "8e49aed8642811812396ef532bf25f60826de2f8",
-        "title": "消息称xAI多模态负责人蔺旭东加入腾讯，任混元多模态算法负责人",
-        "url": "https://www.aibase.com/news/30448",
+        "id": "2aca00108b4c4780dca06ab949209b7a85d79346",
+        "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
+        "url": "https://www.aibase.com/news/30454",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-08-19T02:12:14.720543Z",
         "ai_score": 1.0,
-        "ai_label": "ai_general",
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
+        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8e36e5350b36",
+      "title": "正如我们在一个又一个的案例研究中看到的那样，事实证明，人工智能模型和最终用户工作流程之间可以创造的价值远远大于许多人想象或意识到的。模... / As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. Mod...",
+      "url": "https://x.com/levie/status/2089921630650925170",
+      "primary_url": "https://x.com/levie/status/2089921630650925170",
+      "source": "Follow Builders · X · Aaron Levie",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "e25f6599627e54a5c29adb0e7b4794821aa82ca0",
+          "title": "正如我们在一个又一个的案例研究中看到的那样，事实证明，人工智能模型和最终用户工作流程之间可以创造的价值远远大于许多人想象或意识到的。模... / As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. Mod...",
+          "url": "https://x.com/levie/status/2089921630650925170",
+          "source": "Follow Builders · X · Aaron Levie",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-19T03:45:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Aaron Levie"
+      ],
+      "items": [
+        {
+          "id": "e25f6599627e54a5c29adb0e7b4794821aa82ca0",
+          "title": "正如我们在一个又一个的案例研究中看到的那样，事实证明，人工智能模型和最终用户工作流程之间可以创造的价值远远大于许多人想象或意识到的。模... / As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. Mod...",
+          "url": "https://x.com/levie/status/2089921630650925170",
+          "source": "Follow Builders · X · Aaron Levie",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-19T03:45:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6279,
+      "importance": 0.6279,
+      "importance_score": 0.6279,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5544,
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.9511,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 79,
+      "enterprise_importance_score": 85,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "enterprise_case",
+      "enterprise_reason": "内容类型：企业案例；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-19T03:45:20Z",
+      "latest_at": "2026-08-19T03:45:20Z",
+      "primary_item": {
+        "id": "e25f6599627e54a5c29adb0e7b4794821aa82ca0",
+        "title": "正如我们在一个又一个的案例研究中看到的那样，事实证明，人工智能模型和最终用户工作流程之间可以创造的价值远远大于许多人想象或意识到的。模... / As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. Mod...",
+        "url": "https://x.com/levie/status/2089921630650925170",
+        "source": "Follow Builders · X · Aaron Levie",
+        "source_name": "Follow Builders",
+        "published_at": "2026-08-19T03:45:20Z",
+        "ai_score": 0.77,
+        "ai_label": "model_release",
+        "enterprise_score": 79,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "enterprise_case",
+        "enterprise_reason": "内容类型：企业案例；包含实施、架构、指标或结果信号"
       }
     }
   ]
