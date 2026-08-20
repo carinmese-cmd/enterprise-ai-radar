@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T03:21:56.778652Z",
+  "generated_at": "2026-08-20T04:04:45.827207Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_e2f95ae810b5",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5928,
-      "importance": 0.5928,
-      "importance_score": 0.5928,
+      "score": 0.5913,
+      "importance": 0.5913,
+      "importance_score": 0.5913,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8281,
+        "recency": 0.8196,
         "story_heat": 0.0
       },
       "enterprise_score": 72,
@@ -80,6 +80,85 @@
         ],
         "enterprise_content_type": "research_report",
         "enterprise_reason": "主题命中：市场拓展与销售AI；内容类型：研究报告"
+      }
+    },
+    {
+      "story_id": "story_79e432852e55",
+      "title": "Show HN: AI 代理现在可以安全地向您的 CRM 系统写入数据了",
+      "url": "https://www.archron.app",
+      "primary_url": "https://www.archron.app",
+      "source": "www.archron.app",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b13fc36f9835c0095f24f190ebcd158baaf24e68",
+          "title": "Show HN: AI 代理现在可以安全地向您的 CRM 系统写入数据了",
+          "url": "https://www.archron.app",
+          "source": "www.archron.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T03:34:21.087000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "www.archron.app"
+      ],
+      "items": [
+        {
+          "id": "b13fc36f9835c0095f24f190ebcd158baaf24e68",
+          "title": "Show HN: AI 代理现在可以安全地向您的 CRM 系统写入数据了",
+          "url": "https://www.archron.app",
+          "source": "www.archron.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T03:34:21.087000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9927,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 71,
+      "enterprise_importance_score": 69,
+      "enterprise_primary_topic": "sales_marketing_ai",
+      "enterprise_topics": [
+        "sales_marketing_ai"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：市场拓展与销售AI；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-20T03:34:21.087000Z",
+      "latest_at": "2026-08-20T03:34:21.087000Z",
+      "primary_item": {
+        "id": "b13fc36f9835c0095f24f190ebcd158baaf24e68",
+        "title": "Show HN: AI 代理现在可以安全地向您的 CRM 系统写入数据了",
+        "url": "https://www.archron.app",
+        "source": "www.archron.app",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-20T03:34:21.087000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 71,
+        "enterprise_primary_topic": "sales_marketing_ai",
+        "enterprise_topics": [
+          "sales_marketing_ai"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：市场拓展与销售AI；包含实施、架构、指标或结果信号"
       }
     }
   ]
