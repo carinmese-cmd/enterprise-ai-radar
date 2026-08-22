@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T08:53:54.798125Z",
+  "generated_at": "2026-08-22T09:17:39.467399Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_09092075a092",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4783,
-      "importance": 0.4783,
-      "importance_score": 0.4783,
+      "score": 0.4775,
+      "importance": 0.4775,
+      "importance_score": 0.4775,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7637,
+        "recency": 0.7593,
         "story_heat": 0.0
       },
       "enterprise_score": 66,
@@ -80,6 +80,85 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：AI应用评估与治理；权威研究或治理来源"
+      }
+    },
+    {
+      "story_id": "story_3a3a78d31d21",
+      "title": "马克·贝尼奥夫表示，华尔街担心人工智能将摧毁Salesforce的看法是“大错特错”，尽管这家CRM公司的股价在2026年已下跌超过25%。投资者是否应该押注于他的这一信念？",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marc-benioff-says-wall-streets-062000502.html",
+      "primary_url": "https://finance.yahoo.com/markets/stocks/articles/marc-benioff-says-wall-streets-062000502.html",
+      "source": "finance.yahoo.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2f32e2e5a4fa6d46f7e734ec3d3358a2f44716af",
+          "title": "马克·贝尼奥夫表示，华尔街担心人工智能将摧毁Salesforce的看法是“大错特错”，尽管这家CRM公司的股价在2026年已下跌超过25%。投资者是否应该押注于他的这一信念？",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marc-benioff-says-wall-streets-062000502.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T09:09:10.586000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "finance.yahoo.com"
+      ],
+      "items": [
+        {
+          "id": "2f32e2e5a4fa6d46f7e734ec3d3358a2f44716af",
+          "title": "马克·贝尼奥夫表示，华尔街担心人工智能将摧毁Salesforce的看法是“大错特错”，尽管这家CRM公司的股价在2026年已下跌超过25%。投资者是否应该押注于他的这一信念？",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marc-benioff-says-wall-streets-062000502.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T09:09:10.586000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.998,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 64,
+      "enterprise_importance_score": 66,
+      "enterprise_primary_topic": "sales_marketing_ai",
+      "enterprise_topics": [
+        "sales_marketing_ai"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：市场拓展与销售AI",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-22T09:09:10.586000Z",
+      "latest_at": "2026-08-22T09:09:10.586000Z",
+      "primary_item": {
+        "id": "2f32e2e5a4fa6d46f7e734ec3d3358a2f44716af",
+        "title": "马克·贝尼奥夫表示，华尔街担心人工智能将摧毁Salesforce的看法是“大错特错”，尽管这家CRM公司的股价在2026年已下跌超过25%。投资者是否应该押注于他的这一信念？",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/marc-benioff-says-wall-streets-062000502.html",
+        "source": "finance.yahoo.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-22T09:09:10.586000Z",
+        "ai_score": 0.65,
+        "ai_label": "industry_business",
+        "enterprise_score": 64,
+        "enterprise_primary_topic": "sales_marketing_ai",
+        "enterprise_topics": [
+          "sales_marketing_ai"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：市场拓展与销售AI"
       }
     }
   ]
