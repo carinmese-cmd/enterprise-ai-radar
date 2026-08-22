@@ -1,87 +1,8 @@
 {
-  "generated_at": "2026-08-22T09:48:15.542330Z",
+  "generated_at": "2026-08-22T10:12:59.527362Z",
   "window_hours": 24,
   "total_items": 2,
   "items": [
-    {
-      "story_id": "story_09092075a092",
-      "title": "我开发了一个 AI 代码审查工具。结果 OWASP 把它搞垮了。",
-      "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
-      "primary_url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
-      "source": "dev.to",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "55fadfabc3bbdc52eeb427b1ceed5958cb7f4415",
-          "title": "我开发了一个 AI 代码审查工具。结果 OWASP 把它搞垮了。",
-          "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
-          "source": "dev.to",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T14:13:36.698000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "dev.to"
-      ],
-      "items": [
-        {
-          "id": "55fadfabc3bbdc52eeb427b1ceed5958cb7f4415",
-          "title": "我开发了一个 AI 代码审查工具。结果 OWASP 把它搞垮了。",
-          "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
-          "source": "dev.to",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T14:13:36.698000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4765,
-      "importance": 0.4765,
-      "importance_score": 0.4765,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7537,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 66,
-      "enterprise_importance_score": 66,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：AI应用评估与治理；权威研究或治理来源",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-21T14:13:36.698000Z",
-      "latest_at": "2026-08-21T14:13:36.698000Z",
-      "primary_item": {
-        "id": "55fadfabc3bbdc52eeb427b1ceed5958cb7f4415",
-        "title": "我开发了一个 AI 代码审查工具。结果 OWASP 把它搞垮了。",
-        "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
-        "source": "dev.to",
-        "source_name": "Buzzing",
-        "published_at": "2026-08-21T14:13:36.698000Z",
-        "ai_score": 0.65,
-        "ai_label": "developer_tool",
-        "enterprise_score": 66,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：AI应用评估与治理；权威研究或治理来源"
-      }
-    },
     {
       "story_id": "story_3a3a78d31d21",
       "title": "马克·贝尼奥夫表示，华尔街担心人工智能将摧毁Salesforce的看法是“大错特错”，尽管这家CRM公司的股价在2026年已下跌超过25%。投资者是否应该押注于他的这一信念？",
@@ -117,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9906,
+        "recency": 0.9848,
         "story_heat": 0.0
       },
       "enterprise_score": 64,
@@ -159,6 +80,85 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：市场拓展与销售AI"
+      }
+    },
+    {
+      "story_id": "story_09092075a092",
+      "title": "我开发了一个 AI 代码审查工具。结果 OWASP 把它搞垮了。",
+      "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
+      "primary_url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
+      "source": "dev.to",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "55fadfabc3bbdc52eeb427b1ceed5958cb7f4415",
+          "title": "我开发了一个 AI 代码审查工具。结果 OWASP 把它搞垮了。",
+          "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
+          "source": "dev.to",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T14:13:36.698000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "dev.to"
+      ],
+      "items": [
+        {
+          "id": "55fadfabc3bbdc52eeb427b1ceed5958cb7f4415",
+          "title": "我开发了一个 AI 代码审查工具。结果 OWASP 把它搞垮了。",
+          "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
+          "source": "dev.to",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T14:13:36.698000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.4757,
+      "importance": 0.4757,
+      "importance_score": 0.4757,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7493,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 66,
+      "enterprise_importance_score": 65,
+      "enterprise_primary_topic": "evaluation_governance",
+      "enterprise_topics": [
+        "evaluation_governance"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：AI应用评估与治理；权威研究或治理来源",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-21T14:13:36.698000Z",
+      "latest_at": "2026-08-21T14:13:36.698000Z",
+      "primary_item": {
+        "id": "55fadfabc3bbdc52eeb427b1ceed5958cb7f4415",
+        "title": "我开发了一个 AI 代码审查工具。结果 OWASP 把它搞垮了。",
+        "url": "https://dev.to/phucphungbk/i-built-an-ai-code-reviewer-then-owasp-broke-it-2ika",
+        "source": "dev.to",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-21T14:13:36.698000Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 66,
+        "enterprise_primary_topic": "evaluation_governance",
+        "enterprise_topics": [
+          "evaluation_governance"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：AI应用评估与治理；权威研究或治理来源"
       }
     }
   ]
