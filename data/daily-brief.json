@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:05:26.499212Z",
+  "generated_at": "2026-08-24T09:10:52.068663Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9027,
+        "recency": 0.8758,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -77,6 +77,369 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_57b89cc94e66",
+      "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+      "url": "https://www.aibase.com/news/30577",
+      "primary_url": "https://www.aibase.com/news/30577",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6184d032c29d61ea490aadf2660e63d7b9d86edf",
+          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "url": "https://www.aibase.com/news/30577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T09:10:52.068663Z"
+        },
+        {
+          "id": "f9016b1979f06723f1d590ec75fe6214affd1ad2",
+          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "url": "https://www.aibase.com/zh/news/30577",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6184d032c29d61ea490aadf2660e63d7b9d86edf",
+          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "url": "https://www.aibase.com/news/30577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T09:10:52.068663Z"
+        },
+        {
+          "id": "f9016b1979f06723f1d590ec75fe6214affd1ad2",
+          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "url": "https://www.aibase.com/zh/news/30577",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T09:10:52.068663Z",
+      "latest_at": "2026-08-24T09:10:52.068663Z",
+      "primary_item": {
+        "id": "6184d032c29d61ea490aadf2660e63d7b9d86edf",
+        "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+        "url": "https://www.aibase.com/news/30577",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T09:10:52.068663Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_30e3bd6c251b",
+      "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+      "url": "https://www.aibase.com/news/30576",
+      "primary_url": "https://www.aibase.com/news/30576",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
+          "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "url": "https://www.aibase.com/news/30576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T09:10:52.068663Z"
+        },
+        {
+          "id": "2e964e477a3c50aef90356c1bfe742673f33d07b",
+          "title": "字节整合 AI 办公产品，TRAE、扣子团队并入豆包",
+          "url": "https://www.aibase.com/zh/news/30576",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
+          "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "url": "https://www.aibase.com/news/30576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T09:10:52.068663Z"
+        },
+        {
+          "id": "2e964e477a3c50aef90356c1bfe742673f33d07b",
+          "title": "字节整合 AI 办公产品，TRAE、扣子团队并入豆包",
+          "url": "https://www.aibase.com/zh/news/30576",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T09:10:52.068663Z",
+      "latest_at": "2026-08-24T09:10:52.068663Z",
+      "primary_item": {
+        "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
+        "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+        "url": "https://www.aibase.com/news/30576",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T09:10:52.068663Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_688db8ab754a",
+      "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+      "url": "https://www.aibase.com/news/30575",
+      "primary_url": "https://www.aibase.com/news/30575",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d396324050e904c672a54d5a0829c02ab1491963",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "url": "https://www.aibase.com/news/30575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T09:10:52.068663Z"
+        },
+        {
+          "id": "95566d430eb5bba9f6579cd7eb959eb6bf83889f",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "url": "https://www.aibase.com/zh/news/30575",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d396324050e904c672a54d5a0829c02ab1491963",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "url": "https://www.aibase.com/news/30575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T09:10:52.068663Z"
+        },
+        {
+          "id": "95566d430eb5bba9f6579cd7eb959eb6bf83889f",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "url": "https://www.aibase.com/zh/news/30575",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T09:10:52.068663Z",
+      "latest_at": "2026-08-24T09:10:52.068663Z",
+      "primary_item": {
+        "id": "d396324050e904c672a54d5a0829c02ab1491963",
+        "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+        "url": "https://www.aibase.com/news/30575",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T09:10:52.068663Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ff91e2bb7753",
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "url": "https://www.ithome.com/0/993/305.htm",
+      "primary_url": "https://www.ithome.com/0/993/305.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T14:13:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T14:13:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7605,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-23T14:13:31Z",
+      "latest_at": "2026-08-23T14:13:31Z",
+      "primary_item": {
+        "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+        "url": "https://www.ithome.com/0/993/305.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-23T14:13:31Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -134,19 +497,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -230,19 +593,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9844,
+        "recency": 0.9551,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -265,369 +628,6 @@
         "published_at": "2026-08-24T06:00:12.480013Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_fa66e4f625bf",
-      "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-      "url": "https://www.aibase.com/news/30565",
-      "primary_url": "https://www.aibase.com/news/30565",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "url": "https://www.aibase.com/news/30565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T06:00:12.480013Z"
-        },
-        {
-          "id": "65228ef41057e5a9168ca783e1df065743312429",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "url": "https://www.aibase.com/zh/news/30565",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "url": "https://www.aibase.com/news/30565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T06:00:12.480013Z"
-        },
-        {
-          "id": "65228ef41057e5a9168ca783e1df065743312429",
-          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-          "url": "https://www.aibase.com/zh/news/30565",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9844,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T06:00:12.480013Z",
-      "latest_at": "2026-08-24T07:05:26.499212Z",
-      "primary_item": {
-        "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
-        "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
-        "url": "https://www.aibase.com/news/30565",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-24T06:00:12.480013Z",
-        "ai_score": 1.0,
-        "ai_label": "research_paper",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_ff91e2bb7753",
-      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "url": "https://www.ithome.com/0/993/305.htm",
-      "primary_url": "https://www.ithome.com/0/993/305.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7838,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-23T14:13:31Z",
-      "latest_at": "2026-08-23T14:13:31Z",
-      "primary_item": {
-        "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "url": "https://www.ithome.com/0/993/305.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-08-23T14:13:31Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_9c317f9a6836",
-      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-      "url": "https://www.aibase.com/news/30560",
-      "primary_url": "https://www.aibase.com/news/30560",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8d89245121d571a0818783bedc56d65364697144",
-          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/news/30560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:28:43.477942Z"
-        },
-        {
-          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
-          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/zh/news/30560",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8d89245121d571a0818783bedc56d65364697144",
-          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/news/30560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:28:43.477942Z"
-        },
-        {
-          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
-          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/zh/news/30560",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9492,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T03:28:43.477942Z",
-      "latest_at": "2026-08-24T04:21:00.891603Z",
-      "primary_item": {
-        "id": "8d89245121d571a0818783bedc56d65364697144",
-        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-        "url": "https://www.aibase.com/news/30560",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-24T03:28:43.477942Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_0306830ec32d",
-      "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
-      "url": "https://www.aibase.com/news/30558",
-      "primary_url": "https://www.aibase.com/news/30558",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
-          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
-          "url": "https://www.aibase.com/news/30558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:28:43.477942Z"
-        },
-        {
-          "id": "3011dfe6033c76d2c1dc5e7c1ac91715ef0dcc7b",
-          "title": "Twitch 遭千名主播集体起诉：默认用直播内容训练 AI，退出不具追溯力",
-          "url": "https://www.aibase.com/zh/news/30558",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
-          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
-          "url": "https://www.aibase.com/news/30558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:28:43.477942Z"
-        },
-        {
-          "id": "3011dfe6033c76d2c1dc5e7c1ac91715ef0dcc7b",
-          "title": "Twitch 遭千名主播集体起诉：默认用直播内容训练 AI，退出不具追溯力",
-          "url": "https://www.aibase.com/zh/news/30558",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9492,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T03:28:43.477942Z",
-      "latest_at": "2026-08-24T03:28:43.477942Z",
-      "primary_item": {
-        "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
-        "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
-        "url": "https://www.aibase.com/news/30558",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-24T03:28:43.477942Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -742,15 +742,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6409,
-      "importance": 0.6409,
-      "importance_score": 0.6409,
+      "score": 0.6364,
+      "importance": 0.6364,
+      "importance_score": 0.6364,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8429,
+        "recency": 0.8179,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -783,26 +783,26 @@
       }
     },
     {
-      "story_id": "story_ada324755350",
-      "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
-      "url": "https://www.aibase.com/news/30559",
-      "primary_url": "https://www.aibase.com/news/30559",
+      "story_id": "story_fa66e4f625bf",
+      "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+      "url": "https://www.aibase.com/news/30565",
+      "primary_url": "https://www.aibase.com/news/30565",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
-          "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
-          "url": "https://www.aibase.com/news/30559",
+          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
+          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "url": "https://www.aibase.com/news/30565",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T03:28:43.477942Z"
+          "published_at": "2026-08-24T06:00:12.480013Z"
         },
         {
-          "id": "2d4762eeed891b3f8d519ecba0f1c88bacdce322",
-          "title": "数学自动形式化迎来重大突破：OpenBMB 开源 MathForm，8B 模型凭实力逆袭大厂",
-          "url": "https://www.aibase.com/zh/news/30559",
+          "id": "65228ef41057e5a9168ca783e1df065743312429",
+          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "url": "https://www.aibase.com/zh/news/30565",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -816,18 +816,18 @@
       ],
       "items": [
         {
-          "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
-          "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
-          "url": "https://www.aibase.com/news/30559",
+          "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
+          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "url": "https://www.aibase.com/news/30565",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T03:28:43.477942Z"
+          "published_at": "2026-08-24T06:00:12.480013Z"
         },
         {
-          "id": "2d4762eeed891b3f8d519ecba0f1c88bacdce322",
-          "title": "数学自动形式化迎来重大突破：OpenBMB 开源 MathForm，8B 模型凭实力逆袭大厂",
-          "url": "https://www.aibase.com/zh/news/30559",
+          "id": "65228ef41057e5a9168ca783e1df065743312429",
+          "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+          "url": "https://www.aibase.com/zh/news/30565",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -836,22 +836,22 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9492,
+        "recency": 0.9551,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
+      "enterprise_content_type": "research_report",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
@@ -860,26 +860,26 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T03:28:43.477942Z",
-      "latest_at": "2026-08-24T03:28:43.477942Z",
+      "earliest_at": "2026-08-24T06:00:12.480013Z",
+      "latest_at": "2026-08-24T07:05:26.499212Z",
       "primary_item": {
-        "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
-        "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
-        "url": "https://www.aibase.com/news/30559",
+        "id": "e18a2d5cef6b95ce1ce58b232bb5eed505aa8119",
+        "title": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
+        "url": "https://www.aibase.com/news/30565",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-08-24T03:28:43.477942Z",
+        "published_at": "2026-08-24T06:00:12.480013Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "research_paper",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
+        "enterprise_content_type": "research_report",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
-      "story_id": "story_d6c0f7eda20e",
+      "story_id": "story_75a73f0d5f53",
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
       "primary_url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
@@ -912,10 +912,20 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T23:29:40.385000Z"
+        },
+        {
+          "id": "cb84d279c38f2590e04746bc34eedcbc7a6ebefb",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T18:16:37Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
+        "Hacker News (黑客新闻)",
         "Readhub · AI",
         "Simon Willison",
         "hackernews"
@@ -947,23 +957,32 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T23:29:40.385000Z"
+        },
+        {
+          "id": "cb84d279c38f2590e04746bc34eedcbc7a6ebefb",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T18:16:37Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6096,
-      "importance": 0.6096,
-      "importance_score": 0.6096,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6301,
+      "importance": 0.6301,
+      "importance_score": 0.6301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8571,
-        "story_heat": 0.5
+        "recency": 0.8316,
+        "story_heat": 0.75
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 39,
+      "enterprise_importance_score": 38,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -973,7 +992,7 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T20:24:52Z",
+      "earliest_at": "2026-08-23T18:16:37Z",
       "latest_at": "2026-08-23T23:42:02.013174Z",
       "primary_item": {
         "id": "d3c2687ef5cbb7c713f6e46494069851be37dbbd",
@@ -992,26 +1011,26 @@
       }
     },
     {
-      "story_id": "story_279d0430cc6b",
-      "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
-      "url": "https://www.aibase.com/news/30552",
-      "primary_url": "https://www.aibase.com/news/30552",
+      "story_id": "story_9c317f9a6836",
+      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+      "url": "https://www.aibase.com/news/30560",
+      "primary_url": "https://www.aibase.com/news/30560",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
-          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
-          "url": "https://www.aibase.com/news/30552",
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
+          "published_at": "2026-08-24T03:28:43.477942Z"
         },
         {
-          "id": "3ea9d76cf0ac88cd4986d26c6ab91704d9142a60",
-          "title": "Anthropic 旗舰模型遇冷，企业支出仅 11% 流向 Fable5",
-          "url": "https://www.aibase.com/zh/news/30552",
+          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
+          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/zh/news/30560",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1025,18 +1044,18 @@
       ],
       "items": [
         {
-          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
-          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
-          "url": "https://www.aibase.com/news/30552",
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
+          "published_at": "2026-08-24T03:28:43.477942Z"
         },
         {
-          "id": "3ea9d76cf0ac88cd4986d26c6ab91704d9142a60",
-          "title": "Anthropic 旗舰模型遇冷，企业支出仅 11% 流向 Fable5",
-          "url": "https://www.aibase.com/zh/news/30552",
+          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
+          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/zh/news/30560",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1045,15 +1064,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.921,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1069,17 +1088,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T02:17:24.469754Z",
-      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "earliest_at": "2026-08-24T03:28:43.477942Z",
+      "latest_at": "2026-08-24T04:21:00.891603Z",
       "primary_item": {
-        "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
-        "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
-        "url": "https://www.aibase.com/news/30552",
+        "id": "8d89245121d571a0818783bedc56d65364697144",
+        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "url": "https://www.aibase.com/news/30560",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-08-24T02:17:24.469754Z",
+        "published_at": "2026-08-24T03:28:43.477942Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1088,26 +1107,26 @@
       }
     },
     {
-      "story_id": "story_4733c9acdbb2",
-      "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-      "url": "https://www.aibase.com/news/30548",
-      "primary_url": "https://www.aibase.com/news/30548",
+      "story_id": "story_0306830ec32d",
+      "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+      "url": "https://www.aibase.com/news/30558",
+      "primary_url": "https://www.aibase.com/news/30558",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
-          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-          "url": "https://www.aibase.com/news/30548",
+          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+          "url": "https://www.aibase.com/news/30558",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
+          "published_at": "2026-08-24T03:28:43.477942Z"
         },
         {
-          "id": "b51c2955be9a76be6b69c879607f339933defe67",
-          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-          "url": "https://www.aibase.com/zh/news/30548",
+          "id": "3011dfe6033c76d2c1dc5e7c1ac91715ef0dcc7b",
+          "title": "Twitch 遭千名主播集体起诉：默认用直播内容训练 AI，退出不具追溯力",
+          "url": "https://www.aibase.com/zh/news/30558",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1121,18 +1140,18 @@
       ],
       "items": [
         {
-          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
-          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-          "url": "https://www.aibase.com/news/30548",
+          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+          "url": "https://www.aibase.com/news/30558",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
+          "published_at": "2026-08-24T03:28:43.477942Z"
         },
         {
-          "id": "b51c2955be9a76be6b69c879607f339933defe67",
-          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-          "url": "https://www.aibase.com/zh/news/30548",
+          "id": "3011dfe6033c76d2c1dc5e7c1ac91715ef0dcc7b",
+          "title": "Twitch 遭千名主播集体起诉：默认用直播内容训练 AI，退出不具追溯力",
+          "url": "https://www.aibase.com/zh/news/30558",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1141,15 +1160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.921,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1157,7 +1176,7 @@
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
@@ -1165,22 +1184,22 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T02:17:24.469754Z",
-      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "earliest_at": "2026-08-24T03:28:43.477942Z",
+      "latest_at": "2026-08-24T03:28:43.477942Z",
       "primary_item": {
-        "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
-        "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-        "url": "https://www.aibase.com/news/30548",
+        "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+        "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+        "url": "https://www.aibase.com/news/30558",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-08-24T02:17:24.469754Z",
+        "published_at": "2026-08-24T03:28:43.477942Z",
         "ai_score": 1.0,
-        "ai_label": "industry_business",
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -1275,15 +1294,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8038,
+        "recency": 0.7799,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -1306,6 +1325,100 @@
         "source": "hackernews",
         "source_name": "NewsNow",
         "published_at": "2026-08-23T15:58:02.012000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_e3d7301f02bf",
+      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "url": "https://www.qbitai.com/2026/08/478473.html",
+      "primary_url": "https://www.qbitai.com/2026/08/478473.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "cf08a293743e4f53f6de9d10639327f87e2f58e8",
+          "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+          "url": "https://www.qbitai.com/2026/08/478473.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6e26b97ac4502ea02cc424ca3ad61daf9153bc4f",
+          "title": "阿里巴巴达摩院推出肝癌 AI 模型，可精准识别 1 厘米微小肿瘤",
+          "url": "https://www.ithome.com/0/993/478.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T04:16:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "cf08a293743e4f53f6de9d10639327f87e2f58e8",
+          "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+          "url": "https://www.qbitai.com/2026/08/478473.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6e26b97ac4502ea02cc424ca3ad61daf9153bc4f",
+          "title": "阿里巴巴达摩院推出肝癌 AI 模型，可精准识别 1 厘米微小肿瘤",
+          "url": "https://www.ithome.com/0/993/478.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T04:16:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T04:16:47Z",
+      "latest_at": "2026-08-24T09:10:52.068663Z",
+      "primary_item": {
+        "id": "cf08a293743e4f53f6de9d10639327f87e2f58e8",
+        "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+        "url": "https://www.qbitai.com/2026/08/478473.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub",
+        "published_at": null,
         "ai_score": 0.65,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -1368,19 +1481,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9888,
+        "recency": 0.9594,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1401,6 +1514,102 @@
         "published_at": "2026-08-24T06:18:47Z",
         "ai_score": 0.65,
         "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ada324755350",
+      "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+      "url": "https://www.aibase.com/news/30559",
+      "primary_url": "https://www.aibase.com/news/30559",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
+          "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/news/30559",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:28:43.477942Z"
+        },
+        {
+          "id": "2d4762eeed891b3f8d519ecba0f1c88bacdce322",
+          "title": "数学自动形式化迎来重大突破：OpenBMB 开源 MathForm，8B 模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/zh/news/30559",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
+          "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/news/30559",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:28:43.477942Z"
+        },
+        {
+          "id": "2d4762eeed891b3f8d519ecba0f1c88bacdce322",
+          "title": "数学自动形式化迎来重大突破：OpenBMB 开源 MathForm，8B 模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/zh/news/30559",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.921,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:28:43.477942Z",
+      "latest_at": "2026-08-24T03:28:43.477942Z",
+      "primary_item": {
+        "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
+        "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+        "url": "https://www.aibase.com/news/30559",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T03:28:43.477942Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1461,15 +1670,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9762,
+        "recency": 0.9472,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1494,102 +1703,6 @@
         "published_at": "2026-08-24T05:25:17.506000Z",
         "ai_score": 0.65,
         "ai_label": "industry_business",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_3370a42495b2",
-      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-      "url": "https://www.aibase.com/news/30540",
-      "primary_url": "https://www.aibase.com/news/30540",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-          "url": "https://www.aibase.com/news/30540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
-        },
-        {
-          "id": "0bc698a2f277b97ac648380600510034a9a88088",
-          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
-          "url": "https://www.aibase.com/zh/news/30540",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-          "url": "https://www.aibase.com/news/30540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
-        },
-        {
-          "id": "0bc698a2f277b97ac648380600510034a9a88088",
-          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
-          "url": "https://www.aibase.com/zh/news/30540",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.933,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:17:24.469754Z",
-      "latest_at": "2026-08-24T02:17:24.469754Z",
-      "primary_item": {
-        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-        "url": "https://www.aibase.com/news/30540",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-24T02:17:24.469754Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1650,15 +1763,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9073,
+        "recency": 0.8803,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1744,15 +1857,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5189,
+      "importance": 0.5189,
+      "importance_score": 0.5189,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8764,
+        "recency": 0.8504,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1785,162 +1898,68 @@
       }
     },
     {
-      "story_id": "story_1a46c098bd02",
-      "title": "与人工智能相关的各种可靠性事故即将发生",
-      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-      "primary_url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-      "source": "surfingcomplexity.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-          "title": "与人工智能相关的各种可靠性事故即将发生",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:21.738000Z"
-        },
-        {
-          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
-          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T19:04:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "surfingcomplexity.blog"
-      ],
-      "items": [
-        {
-          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-          "title": "与人工智能相关的各种可靠性事故即将发生",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:21.738000Z"
-        },
-        {
-          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
-          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
-          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T19:04:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8433,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T19:04:41Z",
-      "latest_at": "2026-08-23T19:17:21.738000Z",
-      "primary_item": {
-        "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
-        "title": "与人工智能相关的各种可靠性事故即将发生",
-        "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
-        "source": "surfingcomplexity.blog",
-        "source_name": "Buzzing",
-        "published_at": "2026-08-23T19:17:21.738000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_b0c0eb916d82",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://news.ycombinator.com/item?id=49415852",
-      "primary_url": "https://news.ycombinator.com/item?id=49415852",
+      "story_id": "story_86d587d69f77",
+      "title": "Anthropic Claude and API service outages",
+      "url": "https://news.ycombinator.com/item?id=49415907",
+      "primary_url": "https://news.ycombinator.com/item?id=49415907",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a808b34637cb68a682bfcf9466a272449d302111",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://news.ycombinator.com/item?id=49415852",
+          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+          "title": "Anthropic Claude and API service outages",
+          "url": "https://news.ycombinator.com/item?id=49415907",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-24T06:56:00.509000Z"
+          "published_at": "2026-08-24T09:11:29.902000Z"
         },
         {
-          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:25:31Z"
+          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
+          "title": "Anthropic Claude and API service outages",
+          "url": "https://status.claude.com/uptime",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:32:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "a808b34637cb68a682bfcf9466a272449d302111",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://news.ycombinator.com/item?id=49415852",
+          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+          "title": "Anthropic Claude and API service outages",
+          "url": "https://news.ycombinator.com/item?id=49415907",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-24T06:56:00.509000Z"
+          "published_at": "2026-08-24T09:11:29.902000Z"
         },
         {
-          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:25:31Z"
+          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
+          "title": "Anthropic Claude and API service outages",
+          "url": "https://status.claude.com/uptime",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:32:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9977,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1954,15 +1973,15 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-24T06:25:31Z",
-      "latest_at": "2026-08-24T06:56:00.509000Z",
+      "earliest_at": "2026-08-24T06:32:28Z",
+      "latest_at": "2026-08-24T09:11:29.902000Z",
       "primary_item": {
-        "id": "a808b34637cb68a682bfcf9466a272449d302111",
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://news.ycombinator.com/item?id=49415852",
+        "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+        "title": "Anthropic Claude and API service outages",
+        "url": "https://news.ycombinator.com/item?id=49415907",
         "source": "hackernews",
         "source_name": "NewsNow",
-        "published_at": "2026-08-24T06:56:00.509000Z",
+        "published_at": "2026-08-24T09:11:29.902000Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
         "enterprise_score": 0,
