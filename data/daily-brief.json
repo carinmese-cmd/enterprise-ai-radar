@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T00:41:42.066271Z",
+  "generated_at": "2026-08-24T02:17:24.469754Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8642,
-      "importance": 0.8642,
-      "importance_score": 0.8642,
+      "score": 0.8601,
+      "importance": 0.8601,
+      "importance_score": 0.8601,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.99,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -78,6 +78,198 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_279d0430cc6b",
+      "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+      "url": "https://www.aibase.com/news/30552",
+      "primary_url": "https://www.aibase.com/news/30552",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "url": "https://www.aibase.com/news/30552",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "3ea9d76cf0ac88cd4986d26c6ab91704d9142a60",
+          "title": "Anthropic 旗舰模型遇冷，企业支出仅 11% 流向 Fable5",
+          "url": "https://www.aibase.com/zh/news/30552",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "url": "https://www.aibase.com/news/30552",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "3ea9d76cf0ac88cd4986d26c6ab91704d9142a60",
+          "title": "Anthropic 旗舰模型遇冷，企业支出仅 11% 流向 Fable5",
+          "url": "https://www.aibase.com/zh/news/30552",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+        "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+        "url": "https://www.aibase.com/news/30552",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_4733c9acdbb2",
+      "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+      "url": "https://www.aibase.com/news/30548",
+      "primary_url": "https://www.aibase.com/news/30548",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "b51c2955be9a76be6b69c879607f339933defe67",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/zh/news/30548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "b51c2955be9a76be6b69c879607f339933defe67",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/zh/news/30548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+        "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+        "url": "https://www.aibase.com/news/30548",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -115,15 +307,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.8401,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -156,77 +348,290 @@
       }
     },
     {
-      "story_id": "story_c3477d4b1486",
-      "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_3370a42495b2",
+      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+      "url": "https://www.aibase.com/news/30540",
+      "primary_url": "https://www.aibase.com/news/30540",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "85009006fffe3911d67a638c58319557b700e017",
-          "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-23T04:03:52Z"
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "url": "https://www.aibase.com/news/30540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "url": "https://www.aibase.com/zh/news/30540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Daily Digest"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "85009006fffe3911d67a638c58319557b700e017",
-          "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-23T04:03:52Z"
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "url": "https://www.aibase.com/news/30540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "url": "https://www.aibase.com/zh/news/30540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7424,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 45,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-23T04:03:52Z",
-      "latest_at": "2026-08-23T04:03:52Z",
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
       "primary_item": {
-        "id": "85009006fffe3911d67a638c58319557b700e017",
-        "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday",
-        "published_at": "2026-08-23T04:03:52Z",
+        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "url": "https://www.aibase.com/news/30540",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
         "ai_score": 1.0,
-        "ai_label": "infra_compute",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_cbc225b5aefc",
+      "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+      "url": "https://www.aibase.com/news/30549",
+      "primary_url": "https://www.aibase.com/news/30549",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "url": "https://www.aibase.com/news/30549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
+          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "url": "https://www.aibase.com/zh/news/30549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "url": "https://www.aibase.com/news/30549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
+          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "url": "https://www.aibase.com/zh/news/30549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+        "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+        "url": "https://www.aibase.com/news/30549",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ead5f4b9fdaf",
+      "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+      "url": "https://www.aibase.com/news/30541",
+      "primary_url": "https://www.aibase.com/news/30541",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "url": "https://www.aibase.com/news/30541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
+          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "url": "https://www.aibase.com/zh/news/30541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "url": "https://www.aibase.com/news/30541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
+          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "url": "https://www.aibase.com/zh/news/30541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+        "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+        "url": "https://www.aibase.com/news/30541",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -337,19 +742,19 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6556,
-      "importance": 0.6556,
-      "importance_score": 0.6556,
+      "score": 0.6518,
+      "importance": 0.6518,
+      "importance_score": 0.6518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9245,
+        "recency": 0.9034,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -375,6 +780,102 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_95bd0bd5b705",
+      "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+      "url": "https://www.aibase.com/news/30551",
+      "primary_url": "https://www.aibase.com/news/30551",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "953b1e03df563d378ad735a75980e42305674c69",
+          "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/news/30551",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "a29e3eecfe2494c0aa3d9ad0360b2b935f897f16",
+          "title": "端侧 AI 大洗牌：vivo 蓝心登顶手机大模型榜首，3B 小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/zh/news/30551",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "953b1e03df563d378ad735a75980e42305674c69",
+          "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/news/30551",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "a29e3eecfe2494c0aa3d9ad0360b2b935f897f16",
+          "title": "端侧 AI 大洗牌：vivo 蓝心登顶手机大模型榜首，3B 小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/zh/news/30551",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权；纯模型跑分或榜单信号降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "953b1e03df563d378ad735a75980e42305674c69",
+        "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+        "url": "https://www.aibase.com/news/30551",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权；纯模型跑分或榜单信号降权"
       }
     },
     {
@@ -450,15 +951,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6246,
-      "importance": 0.6246,
-      "importance_score": 0.6246,
+      "score": 0.6207,
+      "importance": 0.6207,
+      "importance_score": 0.6207,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9401,
+        "recency": 0.9187,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -483,6 +984,102 @@
         "published_at": "2026-08-23T20:24:52Z",
         "ai_score": 0.71,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_1a84e035a21e",
+      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+      "url": "https://www.aibase.com/news/30546",
+      "primary_url": "https://www.aibase.com/news/30546",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+        "url": "https://www.aibase.com/news/30546",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -582,15 +1179,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5745,
-      "importance": 0.5745,
-      "importance_score": 0.5745,
+      "score": 0.5709,
+      "importance": 0.5709,
+      "importance_score": 0.5709,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8816,
+        "recency": 0.8615,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -615,6 +1212,82 @@
         "published_at": "2026-08-23T15:58:02.012000Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c2f6f6b65d61",
+      "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+      "url": "https://www.aibase.com/news/30539",
+      "primary_url": "https://www.aibase.com/news/30539",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f5117de7586692b00038832a5809756e3c62404",
+          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "url": "https://www.aibase.com/news/30539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6f5117de7586692b00038832a5809756e3c62404",
+          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "url": "https://www.aibase.com/news/30539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "6f5117de7586692b00038832a5809756e3c62404",
+        "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+        "url": "https://www.aibase.com/news/30539",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -675,19 +1348,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9951,
+        "recency": 0.9724,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -769,15 +1442,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9612,
+        "recency": 0.9393,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -863,15 +1536,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9249,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -900,6 +1573,82 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_51421005a3dd",
+      "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+      "url": "https://www.aibase.com/news/30545",
+      "primary_url": "https://www.aibase.com/news/30545",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
+          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "url": "https://www.aibase.com/news/30545",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
+          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "url": "https://www.aibase.com/news/30545",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 46,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
+        "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+        "url": "https://www.aibase.com/news/30545",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -957,15 +1706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9037,
+        "recency": 0.8832,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1051,15 +1800,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8786,
+        "recency": 0.8586,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1144,19 +1893,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8303,
+        "recency": 0.8114,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1175,756 +1924,6 @@
         "source": "www.reuters.com",
         "source_name": "Buzzing",
         "published_at": "2026-08-23T11:49:13.726000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_930dd1342c71",
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "primary_url": "https://github.com/NousResearch/hermes-agent",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
-          "title": "NousResearch / hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
-          "title": "NousResearch /      hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T11:16:45.227000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
-          "title": "NousResearch / hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
-          "title": "NousResearch /      hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T11:16:45.227000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.829,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T11:16:45.227000Z",
-      "latest_at": "2026-08-23T11:42:18.427319Z",
-      "primary_item": {
-        "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
-        "title": "NousResearch / hermes-agent",
-        "url": "https://github.com/NousResearch/hermes-agent",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_0c0154a85503",
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://news.ycombinator.com/item?id=49412909",
-      "primary_url": "https://news.ycombinator.com/item?id=49412909",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://news.ycombinator.com/item?id=49412909",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T23:29:40.385000Z"
-        },
-        {
-          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://github.com/AlpinDale/gpt2.cmake",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:41:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://news.ycombinator.com/item?id=49412909",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T23:29:40.385000Z"
-        },
-        {
-          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://github.com/AlpinDale/gpt2.cmake",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:41:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9828,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 37,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T21:41:17Z",
-      "latest_at": "2026-08-23T23:29:40.385000Z",
-      "primary_item": {
-        "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-        "title": "Implementation of GPT-2 in pure CMake",
-        "url": "https://news.ycombinator.com/item?id=49412909",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "published_at": "2026-08-23T23:29:40.385000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_37ba5c34e2c1",
-      "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
-      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-      "primary_url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
-          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
-          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:22.029000Z"
-        },
-        {
-          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
-          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
-          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T19:01:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
-          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
-          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T19:17:22.029000Z"
-        },
-        {
-          "id": "401582ef9828db6fbbe86d614ba1bae1b6d62b32",
-          "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向 / Hugging Face has been fielding M&A interest for a deal worth at least $13 billion",
-          "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T19:01:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9249,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T19:01:36Z",
-      "latest_at": "2026-08-23T19:17:22.029000Z",
-      "primary_item": {
-        "id": "25d18e7262a6bdd4bde5bcf012695843fed9967e",
-        "title": "Hugging Face 一直在接洽有关一笔价值至少 130 亿美元的并购交易的意向",
-        "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-08-23T19:17:22.029000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_e9b03c1ca8c4",
-      "title": "要想成为更好的写作者，就要尽可能多地阅读 / The Golden Rule for Becoming a Better Writer",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
-      "primary_url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d2ba6f550d8ed916ba5f7bc17865b9b51bc27e2f",
-          "title": "要想成为更好的写作者，就要尽可能多地阅读 / The Golden Rule for Becoming a Better Writer",
-          "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-23T03:32:25Z"
-        },
-        {
-          "id": "390f6105d2f22d5ae5794019895c80d529465b38",
-          "title": "要想成为更好的写作者，就要尽可能多地阅读 / To become a better writer, read as much as you can",
-          "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-23T03:32:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d2ba6f550d8ed916ba5f7bc17865b9b51bc27e2f",
-          "title": "要想成为更好的写作者，就要尽可能多地阅读 / The Golden Rule for Becoming a Better Writer",
-          "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-23T03:32:25Z"
-        },
-        {
-          "id": "390f6105d2f22d5ae5794019895c80d529465b38",
-          "title": "要想成为更好的写作者，就要尽可能多地阅读 / To become a better writer, read as much as you can",
-          "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-23T03:32:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7368,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T03:32:25Z",
-      "latest_at": "2026-08-23T03:32:25Z",
-      "primary_item": {
-        "id": "d2ba6f550d8ed916ba5f7bc17865b9b51bc27e2f",
-        "title": "要想成为更好的写作者，就要尽可能多地阅读 / The Golden Rule for Becoming a Better Writer",
-        "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-08-23T03:32:25Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_fa9eacb063cb",
-      "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
-      "url": "https://www.ithome.com/0/993/301.htm",
-      "primary_url": "https://www.ithome.com/0/993/301.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "bb3c993c4eed07fecaf422d587afccc02e504b97",
-          "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
-          "url": "https://www.ithome.com/0/993/301.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8ba9f4f8c1fb77f3f263aa85aba05ff12d1d351d",
-          "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
-          "url": "https://www.ithome.com/0/993/301.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T13:53:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bb3c993c4eed07fecaf422d587afccc02e504b97",
-          "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
-          "url": "https://www.ithome.com/0/993/301.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8ba9f4f8c1fb77f3f263aa85aba05ff12d1d351d",
-          "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
-          "url": "https://www.ithome.com/0/993/301.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T13:53:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8598,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T13:53:40Z",
-      "latest_at": "2026-08-23T14:13:57.779276Z",
-      "primary_item": {
-        "id": "bb3c993c4eed07fecaf422d587afccc02e504b97",
-        "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
-        "url": "https://www.ithome.com/0/993/301.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_8a83a8caace8",
-      "title": "anthropics / claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "primary_url": "https://github.com/anthropics/claude-plugins-community",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
-          "title": "anthropics / claude-plugins-community",
-          "url": "https://github.com/anthropics/claude-plugins-community",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
-          "title": "anthropics /      claude-plugins-community",
-          "url": "https://github.com/anthropics/claude-plugins-community",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T11:16:45.227000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
-          "title": "anthropics / claude-plugins-community",
-          "url": "https://github.com/anthropics/claude-plugins-community",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
-          "title": "anthropics /      claude-plugins-community",
-          "url": "https://github.com/anthropics/claude-plugins-community",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T11:16:45.227000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.829,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T11:16:45.227000Z",
-      "latest_at": "2026-08-23T11:42:18.427319Z",
-      "primary_item": {
-        "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
-        "title": "anthropics / claude-plugins-community",
-        "url": "https://github.com/anthropics/claude-plugins-community",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_451496f8489c",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://news.ycombinator.com/item?id=49410932",
-      "primary_url": "https://news.ycombinator.com/item?id=49410932",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bdc37bb0506dc265f613450407476cee220a8158",
-          "title": "My agent.md to improve LLM-assisted code quality",
-          "url": "https://news.ycombinator.com/item?id=49410932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T23:29:40.385000Z"
-        },
-        {
-          "id": "1d6dd6193e01271371c76057d0264edce1707798",
-          "title": "My agent.md to improve LLM-assisted code quality",
-          "url": "https://fabiensanglard.net/agent.md/index.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:59:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bdc37bb0506dc265f613450407476cee220a8158",
-          "title": "My agent.md to improve LLM-assisted code quality",
-          "url": "https://news.ycombinator.com/item?id=49410932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T23:29:40.385000Z"
-        },
-        {
-          "id": "1d6dd6193e01271371c76057d0264edce1707798",
-          "title": "My agent.md to improve LLM-assisted code quality",
-          "url": "https://fabiensanglard.net/agent.md/index.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:59:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9828,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 37,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T17:59:52Z",
-      "latest_at": "2026-08-23T23:29:40.385000Z",
-      "primary_item": {
-        "id": "bdc37bb0506dc265f613450407476cee220a8158",
-        "title": "My agent.md to improve LLM-assisted code quality",
-        "url": "https://news.ycombinator.com/item?id=49410932",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "published_at": "2026-08-23T23:29:40.385000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_c6ae66e74b15",
-      "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9608de9b2128503b859c9d9a4e196f7dd8de5e8e",
-          "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T07:49:36.987000Z"
-        },
-        {
-          "id": "e7712836b2b7772e955227ba5264912a0f50faae",
-          "title": "阿里巴巴将通过出售股份筹集100亿美元，用于人工智能业务扩张",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T06:29:17.399000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "9608de9b2128503b859c9d9a4e196f7dd8de5e8e",
-          "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T07:49:36.987000Z"
-        },
-        {
-          "id": "e7712836b2b7772e955227ba5264912a0f50faae",
-          "title": "阿里巴巴将通过出售股份筹集100亿美元，用于人工智能业务扩张",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T06:29:17.399000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7838,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T06:29:17.399000Z",
-      "latest_at": "2026-08-23T07:49:36.987000Z",
-      "primary_item": {
-        "id": "9608de9b2128503b859c9d9a4e196f7dd8de5e8e",
-        "title": "阿里巴巴计划通过股票发行筹集100亿美元，用于人工智能业务扩张",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-08-23T07:49:36.987000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
