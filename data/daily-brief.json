@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T03:28:43.477942Z",
+  "generated_at": "2026-08-24T04:21:00.891603Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8572,
-      "importance": 0.8572,
-      "importance_score": 0.8572,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.951,
+        "recency": 0.9391,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -73,6 +73,102 @@
         "published_at": "2026-08-24T00:00:00Z",
         "ai_score": 0.98,
         "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_9c317f9a6836",
+      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+      "url": "https://www.aibase.com/news/30560",
+      "primary_url": "https://www.aibase.com/news/30560",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:28:43.477942Z"
+        },
+        {
+          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
+          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/zh/news/30560",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:28:43.477942Z"
+        },
+        {
+          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
+          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/zh/news/30560",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9875,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:28:43.477942Z",
+      "latest_at": "2026-08-24T04:21:00.891603Z",
+      "primary_item": {
+        "id": "8d89245121d571a0818783bedc56d65364697144",
+        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "url": "https://www.aibase.com/news/30560",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T03:28:43.477942Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -134,15 +230,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9875,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -173,6 +269,81 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ff91e2bb7753",
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "url": "https://www.ithome.com/0/993/305.htm",
+      "primary_url": "https://www.ithome.com/0/993/305.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T14:13:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T14:13:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8155,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-23T14:13:31Z",
+      "latest_at": "2026-08-23T14:13:31Z",
+      "primary_item": {
+        "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
+        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+        "url": "https://www.ithome.com/0/993/305.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-23T14:13:31Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -230,15 +401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9875,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -269,81 +440,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_ff91e2bb7753",
-      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "url": "https://www.ithome.com/0/993/305.htm",
-      "primary_url": "https://www.ithome.com/0/993/305.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8258,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-23T14:13:31Z",
-      "latest_at": "2026-08-23T14:13:31Z",
-      "primary_item": {
-        "id": "0dccdb3aa56045c33d61181d209ffb5347cf430b",
-        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "url": "https://www.ithome.com/0/993/305.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-08-23T14:13:31Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -401,19 +497,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9707,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -497,19 +593,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9707,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -537,102 +633,6 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_3370a42495b2",
-      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-      "url": "https://www.aibase.com/news/30540",
-      "primary_url": "https://www.aibase.com/news/30540",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-          "url": "https://www.aibase.com/news/30540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
-        },
-        {
-          "id": "0bc698a2f277b97ac648380600510034a9a88088",
-          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
-          "url": "https://www.aibase.com/zh/news/30540",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-          "url": "https://www.aibase.com/news/30540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
-        },
-        {
-          "id": "0bc698a2f277b97ac648380600510034a9a88088",
-          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
-          "url": "https://www.aibase.com/zh/news/30540",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.983,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:17:24.469754Z",
-      "latest_at": "2026-08-24T02:17:24.469754Z",
-      "primary_item": {
-        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-        "url": "https://www.aibase.com/news/30540",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-24T02:17:24.469754Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -742,15 +742,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6491,
-      "importance": 0.6491,
-      "importance_score": 0.6491,
+      "score": 0.6471,
+      "importance": 0.6471,
+      "importance_score": 0.6471,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8881,
+        "recency": 0.877,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -783,26 +783,26 @@
       }
     },
     {
-      "story_id": "story_cbc225b5aefc",
-      "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
-      "url": "https://www.aibase.com/news/30549",
-      "primary_url": "https://www.aibase.com/news/30549",
+      "story_id": "story_3370a42495b2",
+      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+      "url": "https://www.aibase.com/news/30540",
+      "primary_url": "https://www.aibase.com/news/30540",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
-          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
-          "url": "https://www.aibase.com/news/30549",
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "url": "https://www.aibase.com/news/30540",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T02:17:24.469754Z"
         },
         {
-          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
-          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
-          "url": "https://www.aibase.com/zh/news/30549",
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "url": "https://www.aibase.com/zh/news/30540",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -816,18 +816,18 @@
       ],
       "items": [
         {
-          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
-          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
-          "url": "https://www.aibase.com/news/30549",
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "url": "https://www.aibase.com/news/30540",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T02:17:24.469754Z"
         },
         {
-          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
-          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
-          "url": "https://www.aibase.com/zh/news/30549",
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "url": "https://www.aibase.com/zh/news/30540",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -836,19 +836,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9707,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -863,9 +863,9 @@
       "earliest_at": "2026-08-24T02:17:24.469754Z",
       "latest_at": "2026-08-24T02:17:24.469754Z",
       "primary_item": {
-        "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
-        "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
-        "url": "https://www.aibase.com/news/30549",
+        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "url": "https://www.aibase.com/news/30540",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-08-24T02:17:24.469754Z",
@@ -951,15 +951,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6179,
-      "importance": 0.6179,
-      "importance_score": 0.6179,
+      "score": 0.6159,
+      "importance": 0.6159,
+      "importance_score": 0.6159,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.903,
+        "recency": 0.8917,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -983,6 +983,102 @@
         "source_name": "OPML RSS",
         "published_at": "2026-08-23T20:24:52Z",
         "ai_score": 0.71,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_cbc225b5aefc",
+      "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+      "url": "https://www.aibase.com/news/30549",
+      "primary_url": "https://www.aibase.com/news/30549",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "url": "https://www.aibase.com/news/30549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
+          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "url": "https://www.aibase.com/zh/news/30549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "url": "https://www.aibase.com/news/30549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "c91a9cc43f7149acdb8f424a64e275510a3a9793",
+          "title": "匿名模型 Ox Alpha 登顶 OpenRouter，累计调用量超 4 万亿 Token",
+          "url": "https://www.aibase.com/zh/news/30549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9707,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+        "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+        "url": "https://www.aibase.com/news/30549",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -1045,19 +1141,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9707,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -1085,102 +1181,6 @@
         "enterprise_topics": [],
         "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_95bd0bd5b705",
-      "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
-      "url": "https://www.aibase.com/news/30551",
-      "primary_url": "https://www.aibase.com/news/30551",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "953b1e03df563d378ad735a75980e42305674c69",
-          "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
-          "url": "https://www.aibase.com/news/30551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
-        },
-        {
-          "id": "a29e3eecfe2494c0aa3d9ad0360b2b935f897f16",
-          "title": "端侧 AI 大洗牌：vivo 蓝心登顶手机大模型榜首，3B 小参数跑分逼近云端巨头",
-          "url": "https://www.aibase.com/zh/news/30551",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "953b1e03df563d378ad735a75980e42305674c69",
-          "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
-          "url": "https://www.aibase.com/news/30551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:17:24.469754Z"
-        },
-        {
-          "id": "a29e3eecfe2494c0aa3d9ad0360b2b935f897f16",
-          "title": "端侧 AI 大洗牌：vivo 蓝心登顶手机大模型榜首，3B 小参数跑分逼近云端巨头",
-          "url": "https://www.aibase.com/zh/news/30551",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.983,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权；纯模型跑分或榜单信号降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:17:24.469754Z",
-      "latest_at": "2026-08-24T02:17:24.469754Z",
-      "primary_item": {
-        "id": "953b1e03df563d378ad735a75980e42305674c69",
-        "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
-        "url": "https://www.aibase.com/news/30551",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-08-24T02:17:24.469754Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权；纯模型跑分或榜单信号降权"
       }
     },
     {
@@ -1275,15 +1275,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8468,
+        "recency": 0.8363,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -1316,26 +1316,26 @@
       }
     },
     {
-      "story_id": "story_1a84e035a21e",
-      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-      "url": "https://www.aibase.com/news/30546",
-      "primary_url": "https://www.aibase.com/news/30546",
+      "story_id": "story_95bd0bd5b705",
+      "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+      "url": "https://www.aibase.com/news/30551",
+      "primary_url": "https://www.aibase.com/news/30551",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/news/30546",
+          "id": "953b1e03df563d378ad735a75980e42305674c69",
+          "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/news/30551",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T02:17:24.469754Z"
         },
         {
-          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/zh/news/30546",
+          "id": "a29e3eecfe2494c0aa3d9ad0360b2b935f897f16",
+          "title": "端侧 AI 大洗牌：vivo 蓝心登顶手机大模型榜首，3B 小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/zh/news/30551",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1349,18 +1349,18 @@
       ],
       "items": [
         {
-          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/news/30546",
+          "id": "953b1e03df563d378ad735a75980e42305674c69",
+          "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/news/30551",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-24T02:17:24.469754Z"
         },
         {
-          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/zh/news/30546",
+          "id": "a29e3eecfe2494c0aa3d9ad0360b2b935f897f16",
+          "title": "端侧 AI 大洗牌：vivo 蓝心登顶手机大模型榜首，3B 小参数跑分逼近云端巨头",
+          "url": "https://www.aibase.com/zh/news/30551",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1369,23 +1369,23 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9707,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权；纯模型跑分或榜单信号降权",
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
@@ -1396,19 +1396,19 @@
       "earliest_at": "2026-08-24T02:17:24.469754Z",
       "latest_at": "2026-08-24T02:17:24.469754Z",
       "primary_item": {
-        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-        "url": "https://www.aibase.com/news/30546",
+        "id": "953b1e03df563d378ad735a75980e42305674c69",
+        "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
+        "url": "https://www.aibase.com/news/30551",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-08-24T02:17:24.469754Z",
         "ai_score": 1.0,
-        "ai_label": "ai_general",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权；纯模型跑分或榜单信号降权"
       }
     },
     {
@@ -1464,15 +1464,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9559,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1558,15 +1558,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9234,
+        "recency": 0.9118,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1652,15 +1652,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8885,
+        "recency": 0.8774,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1746,15 +1746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8681,
+        "recency": 0.8573,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1778,6 +1778,102 @@
         "source_name": "Buzzing",
         "published_at": "2026-08-23T17:41:08.305000Z",
         "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_1a84e035a21e",
+      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+      "url": "https://www.aibase.com/news/30546",
+      "primary_url": "https://www.aibase.com/news/30546",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:17:24.469754Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9707,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:17:24.469754Z",
+      "latest_at": "2026-08-24T02:17:24.469754Z",
+      "primary_item": {
+        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+        "url": "https://www.aibase.com/news/30546",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-08-24T02:17:24.469754Z",
+        "ai_score": 1.0,
         "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -1840,15 +1936,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.844,
+        "recency": 0.8334,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1873,99 +1969,6 @@
         "published_at": null,
         "ai_score": 0.65,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_8351ddcedbab",
-      "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
-      "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-      "primary_url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
-          "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T11:49:13.726000Z"
-        },
-        {
-          "id": "0838aaa50b80c51bcae2f702ae27bb0364e8d993",
-          "title": "阿里巴巴计划在香港配售100亿美元股票，以筹集资金用于人工智能领域的支出",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T06:45:30.468000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
-          "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T11:49:13.726000Z"
-        },
-        {
-          "id": "0838aaa50b80c51bcae2f702ae27bb0364e8d993",
-          "title": "阿里巴巴计划在香港配售100亿美元股票，以筹集资金用于人工智能领域的支出",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T06:45:30.468000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7976,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T06:45:30.468000Z",
-      "latest_at": "2026-08-23T11:49:13.726000Z",
-      "primary_item": {
-        "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
-        "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
-        "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-08-23T11:49:13.726000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
