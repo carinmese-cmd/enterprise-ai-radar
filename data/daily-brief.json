@@ -1,104 +1,1876 @@
 {
-  "generated_at": "2026-08-28T01:34:07.283460Z",
+  "generated_at": "2026-08-29T15:41:40.296032Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_a0b834204cb6",
-      "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-      "url": "https://news.ycombinator.com/item?id=49471714",
-      "primary_url": "https://news.ycombinator.com/item?id=49471714",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.151.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9a1d3a3508bd1ac92e0d5917bfb68e33a5a59a37",
-          "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "url": "https://news.ycombinator.com/item?id=49471714",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T01:14:30.951000Z"
+          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+          "title": "Codex CLI 0.151.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+          "title": "Codex CLI 0.151.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7972,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T00:00:00Z",
+      "latest_at": "2026-08-29T00:00:00Z",
+      "primary_item": {
+        "id": "f98e6d3f28314f72c32272040c8ebf3ac854f556",
+        "title": "Codex CLI 0.151.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-08-29T00:00:00Z",
+        "ai_score": 0.98,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_362e2edecbfb",
+      "title": "GitHub Copilot in Visual Studio — August update",
+      "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
+      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
+          "title": "GitHub Copilot in Visual Studio — August update",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T20:24:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
+          "title": "GitHub Copilot in Visual Studio — August update",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T20:24:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7569,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T20:24:20Z",
+      "latest_at": "2026-08-28T20:24:20Z",
+      "primary_item": {
+        "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
+        "title": "GitHub Copilot in Visual Studio — August update",
+        "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-08-28T20:24:20Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_fb769fc67e24",
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "primary_url": "https://arxiv.org/abs/2608.23691",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:32:16.981000Z"
         },
         {
-          "id": "88e14906a01122b06c9e001d1e67a17bb4c1d7d7",
-          "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T21:46:39Z"
+          "id": "a25ac6e0ed4e7b73b5dcd8df9eab5bf1dd3d650c",
+          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-28T17:01:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "9a1d3a3508bd1ac92e0d5917bfb68e33a5a59a37",
-          "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "url": "https://news.ycombinator.com/item?id=49471714",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-28T01:14:30.951000Z"
+          "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+          "title": "开放世界多智能体环境中的自主数学发现",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:32:16.981000Z"
         },
         {
-          "id": "88e14906a01122b06c9e001d1e67a17bb4c1d7d7",
-          "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-27T21:46:39Z"
+          "id": "a25ac6e0ed4e7b73b5dcd8df9eab5bf1dd3d650c",
+          "title": "开放世界多智能体环境中的自主数学发现 / Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+          "url": "https://arxiv.org/abs/2608.23691",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-28T17:01:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8889,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T17:01:12Z",
+      "latest_at": "2026-08-29T07:32:16.981000Z",
+      "primary_item": {
+        "id": "0c77a82075a7f7c8872fd8532664947c92702747",
+        "title": "开放世界多智能体环境中的自主数学发现",
+        "url": "https://arxiv.org/abs/2608.23691",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-29T07:32:16.981000Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_fe43888c26b1",
+      "title": "GitHub Copilot weekly releases — August 24",
+      "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
+          "title": "GitHub Copilot weekly releases — August 24",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T20:13:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
+          "title": "GitHub Copilot weekly releases — August 24",
+          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-28T20:13:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7549,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T20:13:22Z",
+      "latest_at": "2026-08-28T20:13:22Z",
+      "primary_item": {
+        "id": "a617be9741ab625aa07602674087bfc532b03eb6",
+        "title": "GitHub Copilot weekly releases — August 24",
+        "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-08-28T20:13:22Z",
+        "ai_score": 0.91,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_64c4f1514068",
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T18:07:55Z"
+        },
+        {
+          "id": "814422473bd3deb9d5737b7f02378cdbd843a90b",
+          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T18:28:20.792000Z"
+        },
+        {
+          "id": "58701ed1715f680898f13672a8b2d9715dbf9775",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T18:07:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T18:07:55Z"
+        },
+        {
+          "id": "814422473bd3deb9d5737b7f02378cdbd843a90b",
+          "title": "联邦法官裁定特朗普将“觉醒派”公司Anthropic列入黑名单的行为违法",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T18:28:20.792000Z"
+        },
+        {
+          "id": "58701ed1715f680898f13672a8b2d9715dbf9775",
+          "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T18:07:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7324,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-28T18:07:55Z",
+      "latest_at": "2026-08-28T18:28:20.792000Z",
+      "primary_item": {
+        "id": "1b7e6beff75bfc07fe4acdb48cd49c9e9c350f2f",
+        "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-28T18:07:55Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7c7e4270511d",
+      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+      "url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "primary_url": "https://x.com/thsottiaux/status/2093515916076343774",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T01:47:44Z"
+        },
+        {
+          "id": "7de24c53f12a0a52660f29653e167e01812b4c21",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-29T01:47:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T01:47:44Z"
+        },
+        {
+          "id": "7de24c53f12a0a52660f29653e167e01812b4c21",
+          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give...",
+          "url": "https://x.com/thsottiaux/status/2093515916076343774",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-29T01:47:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8182,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T01:47:44Z",
+      "latest_at": "2026-08-29T01:47:44Z",
+      "primary_item": {
+        "id": "24c8fd94adc5e6f2753bdcf0b50fab34b0cb29a6",
+        "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+        "url": "https://x.com/thsottiaux/status/2093515916076343774",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-29T01:47:44Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_94a433aab9d2",
+      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+      "url": "https://www.ithome.com/0/995/896.htm",
+      "primary_url": "https://www.ithome.com/0/995/896.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "url": "https://www.ithome.com/0/995/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T04:31:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+          "url": "https://www.ithome.com/0/995/896.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T04:31:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.851,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-29T04:31:21Z",
+      "latest_at": "2026-08-29T04:31:21Z",
+      "primary_item": {
+        "id": "dfac024832fa2a93b74122ecaf59a5b9f236ca9c",
+        "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+        "url": "https://www.ithome.com/0/995/896.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-29T04:31:21Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_293bd11dfc89",
+      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "primary_url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3180756dcf7c8ccdda42f621a241c4f46cf6f4ad",
+          "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T17:25:56.912000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "3180756dcf7c8ccdda42f621a241c4f46cf6f4ad",
+          "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-28T17:25:56.912000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7251,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-28T17:25:56.912000Z",
+      "latest_at": "2026-08-28T17:25:56.912000Z",
+      "primary_item": {
+        "id": "3180756dcf7c8ccdda42f621a241c4f46cf6f4ad",
+        "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+        "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-28T17:25:56.912000Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7e896a4b3791",
+      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "primary_url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:00:22.003000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+          "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-29T07:00:22.003000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8821,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 46,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "technical_practice",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-29T07:00:22.003000Z",
+      "latest_at": "2026-08-29T07:00:22.003000Z",
+      "primary_item": {
+        "id": "d8d0fc7e9d682fb59b806837b4fba07f487f2821",
+        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "published_at": "2026-08-29T07:00:22.003000Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "technical_practice",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2ee04de9ee75",
+      "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+      "url": "https://lwn.net/Articles/1091231",
+      "primary_url": "https://lwn.net/Articles/1091231",
+      "source": "lwn.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T14:02:10Z"
+        },
+        {
+          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "source": "www.phoronix.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T09:40:21.179000Z"
+        },
+        {
+          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T08:19:22Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Lobsters (技术社区)",
+        "lwn.net",
+        "www.phoronix.com"
+      ],
+      "items": [
+        {
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T14:02:10Z"
+        },
+        {
+          "id": "70be66b58f1901c6150fbc5cf7465ecfe939f972",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "source": "www.phoronix.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T09:40:21.179000Z"
+        },
+        {
+          "id": "f0bf36014eefecc98ca45a466499e50b1eb467cb",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T08:19:22Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5947,
+      "importance": 0.5947,
+      "importance_score": 0.5947,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9939,
+        "story_heat": 0.75
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T08:19:22Z",
+      "latest_at": "2026-08-29T15:16:20.593000Z",
+      "primary_item": {
+        "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+        "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+        "url": "https://lwn.net/Articles/1091231",
+        "source": "lwn.net",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-29T15:16:20.593000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-28",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
+          "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-28",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T15:41:40.296032Z"
+        },
+        {
+          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
+          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-28",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T15:41:40.296032Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "社区更新 · 2026-08-28"
+      ],
+      "items": [
+        {
+          "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
+          "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-28",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T15:41:40.296032Z"
+        },
+        {
+          "id": "418ca7a981297b86518360283c5ea7cd5693855f",
+          "title": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-28",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-29T15:41:40.296032Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T15:41:40.296032Z",
+      "latest_at": "2026-08-29T15:41:40.296032Z",
+      "primary_item": {
+        "id": "0d99cfdb667ab3efd97bb46ccc760c2ffd62aeb8",
+        "title": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-28",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-08-29T15:41:40.296032Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5513da078648",
+      "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "primary_url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
+          "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-28T16:22:16Z"
+        },
+        {
+          "id": "5e932eb211351a5ce57df7c9803b9db5e2098556",
+          "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
+          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T16:22:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
+          "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-28T16:22:16Z"
+        },
+        {
+          "id": "5e932eb211351a5ce57df7c9803b9db5e2098556",
+          "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
+          "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T16:22:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.714,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 39,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T16:22:16Z",
+      "latest_at": "2026-08-28T16:22:16Z",
+      "primary_item": {
+        "id": "eba2f78095e53d4fc1cebf703aabe5ff08ff68fc",
+        "title": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+        "source": "The Verge",
+        "source_name": "Curated Media",
+        "published_at": "2026-08-28T16:22:16Z",
+        "ai_score": 0.68,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a67bb8d2a6b4",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
+          "title": "ChromeDevTools / chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
+          "title": "ChromeDevTools /      chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T15:32:09.008000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
+          "title": "ChromeDevTools / chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
+          "title": "ChromeDevTools /      chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T15:32:09.008000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "enterprise_score": 72,
-      "enterprise_importance_score": 74,
-      "enterprise_primary_topic": "enterprise_knowledge_rag",
-      "enterprise_topics": [
-        "enterprise_knowledge_rag"
-      ],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：方法与评估",
-      "enterprise_is_relevant": true,
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-27T21:46:39Z",
-      "latest_at": "2026-08-28T01:14:30.951000Z",
+      "earliest_at": "2026-08-29T15:32:09.008000Z",
+      "latest_at": "2026-08-29T15:41:40.296032Z",
       "primary_item": {
-        "id": "9a1d3a3508bd1ac92e0d5917bfb68e33a5a59a37",
-        "title": "AI 工程师笔记本 – Colab 上免费、无框架的 RAG/代理/评估 / AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-        "url": "https://news.ycombinator.com/item?id=49471714",
-        "source": "hackernews",
-        "source_name": "NewsNow",
-        "published_at": "2026-08-28T01:14:30.951000Z",
+        "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
+        "title": "ChromeDevTools / chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub",
+        "published_at": null,
         "ai_score": 0.65,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 72,
-        "enterprise_primary_topic": "enterprise_knowledge_rag",
-        "enterprise_topics": [
-          "enterprise_knowledge_rag"
-        ],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：方法与评估"
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_dbef34f02ce8",
+      "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
+      "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4887054.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
+          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
+          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
+          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
+          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T13:17:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
+          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
+          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
+          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
+          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T13:17:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T13:17:26Z",
+      "latest_at": "2026-08-29T15:41:40.296032Z",
+      "primary_item": {
+        "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
+        "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
+        "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7a769c91d345",
+      "title": "Twitterwebviewer.com Service Discontinued",
+      "url": "https://twitterwebviewer.com",
+      "primary_url": "https://twitterwebviewer.com",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
+          "title": "Twitterwebviewer.com Service Discontinued",
+          "url": "https://twitterwebviewer.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T04:11:35Z"
+        },
+        {
+          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
+          "title": "Service Discontinued",
+          "url": "https://twitterwebviewer.com/?rev=1",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-28T18:16:23Z"
+        },
+        {
+          "id": "fbdc7afff9c7a0b506d2864af5786879d1b019df",
+          "title": "TwitterWebViewer also no longer in operation, following a request from X Corp",
+          "url": "https://twitterwebviewer.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-28T16:36:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "254568d260b75a5abb580620d71db3d1d7283cad",
+          "title": "Twitterwebviewer.com Service Discontinued",
+          "url": "https://twitterwebviewer.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T04:11:35Z"
+        },
+        {
+          "id": "b3a17123d30f6c5a416436b0c2902fee545f4526",
+          "title": "Service Discontinued",
+          "url": "https://twitterwebviewer.com/?rev=1",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-28T18:16:23Z"
+        },
+        {
+          "id": "fbdc7afff9c7a0b506d2864af5786879d1b019df",
+          "title": "TwitterWebViewer also no longer in operation, following a request from X Corp",
+          "url": "https://twitterwebviewer.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-28T16:36:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.847,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T16:36:17Z",
+      "latest_at": "2026-08-29T04:11:35Z",
+      "primary_item": {
+        "id": "254568d260b75a5abb580620d71db3d1d7283cad",
+        "title": "Twitterwebviewer.com Service Discontinued",
+        "url": "https://twitterwebviewer.com",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-08-29T04:11:35Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_29a8261d3470",
+      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T13:24:41.103000Z"
+        },
+        {
+          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
+          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T13:05:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9676,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T13:05:01Z",
+      "latest_at": "2026-08-29T13:24:41.103000Z",
+      "primary_item": {
+        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
+        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
+        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-29T13:24:41.103000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_0110e72feee3",
+      "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "primary_url": "https://github.com/stemdeckapp/stemdeck",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T10:12:23.295000Z"
+        },
+        {
+          "id": "6ab9dca88b865873defdfbacbbc470d4a8f438c5",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T10:12:23.295000Z"
+        },
+        {
+          "id": "6ab9dca88b865873defdfbacbbc470d4a8f438c5",
+          "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T01:24:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9238,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:24:13Z",
+      "latest_at": "2026-08-29T10:12:23.295000Z",
+      "primary_item": {
+        "id": "3282088eb06c0135b4b127f8e64362ac234defcb",
+        "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "source": "github.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-29T10:12:23.295000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_tech",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6f0715608976",
+      "title": "我不小心把LLM内存变成了程序分析",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+      "primary_url": "https://pwning.systems/posts/llm-memory-program-analysis",
+      "source": "pwning.systems",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
+          "title": "我不小心把LLM内存变成了程序分析",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "pwning.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:44:16.846000Z"
+        },
+        {
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T23:27:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "pwning.systems"
+      ],
+      "items": [
+        {
+          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
+          "title": "我不小心把LLM内存变成了程序分析",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "pwning.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:44:16.846000Z"
+        },
+        {
+          "id": "4b3dc26fa9059c335845e86833449b3453c388b4",
+          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T23:27:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8787,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T23:27:45Z",
+      "latest_at": "2026-08-29T06:44:16.846000Z",
+      "primary_item": {
+        "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
+        "title": "我不小心把LLM内存变成了程序分析",
+        "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+        "source": "pwning.systems",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-29T06:44:16.846000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_9928173748ab",
+      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "primary_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "source": "arbustoemchamas.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "arbustoemchamas.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:12:16.489000Z"
+        },
+        {
+          "id": "3dd425ba42382807cd49d0e7987423508963d439",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T06:11:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arbustoemchamas.substack.com"
+      ],
+      "items": [
+        {
+          "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "arbustoemchamas.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T06:12:16.489000Z"
+        },
+        {
+          "id": "3dd425ba42382807cd49d0e7987423508963d439",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊 / I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T06:11:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8719,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T06:11:18Z",
+      "latest_at": "2026-08-29T06:12:16.489000Z",
+      "primary_item": {
+        "id": "75b66657caf06387c9381798ee2fd42b5d9c57dc",
+        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+        "source": "arbustoemchamas.substack.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-29T06:12:16.489000Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f17dc0d6839f",
+      "title": "Meta通过限制未经同意的录制功能，让其AI眼镜显得不那么令人毛骨悚然",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "acd5c185b2844c4153de51279be3ac0ce7ae0933",
+          "title": "Meta通过限制未经同意的录制功能，让其AI眼镜显得不那么令人毛骨悚然",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T16:20:34.637000Z"
+        },
+        {
+          "id": "63ac93a5be2efa1e832f711642ccb699f3aa3cbb",
+          "title": "Meta通过限制未经同意的录制功能，让其AI眼镜显得不那么令人毛骨悚然 / Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T15:42:24Z"
+        },
+        {
+          "id": "c8d6a7037948518d4b422652b7817c8ca38e523b",
+          "title": "Meta通过限制未经同意的录制功能，让其AI眼镜显得不那么令人毛骨悚然 / Meta tweaks AI glasses to block some creepy recordings, but privacy risks remain",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T15:42:24Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "acd5c185b2844c4153de51279be3ac0ce7ae0933",
+          "title": "Meta通过限制未经同意的录制功能，让其AI眼镜显得不那么令人毛骨悚然",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-28T16:20:34.637000Z"
+        },
+        {
+          "id": "63ac93a5be2efa1e832f711642ccb699f3aa3cbb",
+          "title": "Meta通过限制未经同意的录制功能，让其AI眼镜显得不那么令人毛骨悚然 / Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-28T15:42:24Z"
+        },
+        {
+          "id": "c8d6a7037948518d4b422652b7817c8ca38e523b",
+          "title": "Meta通过限制未经同意的录制功能，让其AI眼镜显得不那么令人毛骨悚然 / Meta tweaks AI glasses to block some creepy recordings, but privacy risks remain",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-28T15:42:24Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7138,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-28T15:42:24Z",
+      "latest_at": "2026-08-28T16:20:34.637000Z",
+      "primary_item": {
+        "id": "acd5c185b2844c4153de51279be3ac0ce7ae0933",
+        "title": "Meta通过限制未经同意的录制功能，让其AI眼镜显得不那么令人毛骨悚然",
+        "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-08-28T16:20:34.637000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
