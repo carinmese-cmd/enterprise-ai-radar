@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-09-06T20:35:38.210624Z",
+  "generated_at": "2026-09-06T22:33:37.753505Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 32,
+  "total_events": 30,
   "events": [
-    {
-      "story_id": "story_b6a75cdb30da",
-      "item_id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
-      "merged_into": "story_b6a75cdb30da",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_7b7e5871aea3",
-      "item_id": "bf5f00924da7481251db7a7222a0aad8a00ab56d",
-      "merged_into": "story_7b7e5871aea3",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_01b334a233a9",
-      "item_id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
-      "merged_into": "story_01b334a233a9",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_f31be0c625cb",
-      "item_id": "de508dd54fc875df82a902a31b0d7038e329a518",
-      "merged_into": "story_f31be0c625cb",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_ae0c2e3335c6",
       "item_id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
@@ -165,6 +137,13 @@
       "similarity": 1.0
     },
     {
+      "story_id": "story_e752bff20023",
+      "item_id": "2860d6c89dc9bc01929f1bfe824c9887a98d3b52",
+      "merged_into": "story_e752bff20023",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
       "story_id": "story_4aff7db928cd",
       "item_id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
       "merged_into": "story_4aff7db928cd",
@@ -224,6 +203,13 @@
       "story_id": "story_fd3208099b40",
       "item_id": "413c9317217041fa663f33a43e44569aa925f114",
       "merged_into": "story_fd3208099b40",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_7cd9cbd432cc",
+      "item_id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
+      "merged_into": "story_7cd9cbd432cc",
       "reason": "canonical_url",
       "similarity": 1.0
     }
