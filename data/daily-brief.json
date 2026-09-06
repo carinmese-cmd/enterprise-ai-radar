@@ -1,85 +1,1926 @@
 {
-  "generated_at": "2026-09-06T09:02:58.169484Z",
+  "generated_at": "2026-09-06T12:58:49.809165Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_9a68caee5982",
-      "title": "Hyperprobe - 让您的 AI 代理无需重新部署即可对生产环境进行调试",
-      "url": "https://www.producthunt.com/r/G2JREG7FXOOWLK",
-      "primary_url": "https://www.producthunt.com/r/G2JREG7FXOOWLK",
-      "source": "www.producthunt.com",
-      "source_name": "Buzzing",
+      "story_id": "story_ec06a66103fb",
+      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+      "url": "https://www.ithome.com/0/998/927.htm",
+      "primary_url": "https://www.ithome.com/0/998/927.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9514ba518d78970bbfbcd28d02d008f3e1875d19",
-          "title": "Hyperprobe - 让您的 AI 代理无需重新部署即可对生产环境进行调试",
-          "url": "https://www.producthunt.com/r/G2JREG7FXOOWLK",
-          "source": "www.producthunt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T11:21:54.451000Z"
+          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T06:46:16Z"
+        },
+        {
+          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
+          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T06:46:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-06T06:46:16Z"
+        },
+        {
+          "id": "78ccc313f78c15d5f9130b5e1513e0673e4eaf7c",
+          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T06:46:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9142,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-06T06:46:16Z",
+      "latest_at": "2026-09-06T06:46:16Z",
+      "primary_item": {
+        "id": "cc99a11445f9699c502d014aa4878337b7229e6e",
+        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+        "url": "https://www.ithome.com/0/998/927.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-06T06:46:16Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_1cb48b3f4151",
+      "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "primary_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f4630bc8d65b5b820902865dd28361dec0883fba",
+          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T18:05:27Z"
+        },
+        {
+          "id": "47aaf60fb1df1d8dddce9401a1e5c859e7a9571b",
+          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T18:05:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f4630bc8d65b5b820902865dd28361dec0883fba",
+          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T18:05:27Z"
+        },
+        {
+          "id": "47aaf60fb1df1d8dddce9401a1e5c859e7a9571b",
+          "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架 / OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T18:05:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7613,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T18:05:27Z",
+      "latest_at": "2026-09-05T18:05:27Z",
+      "primary_item": {
+        "id": "f4630bc8d65b5b820902865dd28361dec0883fba",
+        "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-05T18:05:27Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_e2d719d60d77",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
+        },
+        {
+          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T13:31:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
+        },
+        {
+          "id": "59a40120723ec5d866b59b8d9e1b8036f050434a",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-05T13:31:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7126,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T13:31:04Z",
+      "latest_at": "2026-09-05T13:31:04Z",
+      "primary_item": {
+        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-05T13:31:04Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8eaa7da6c549",
+      "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+      "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "786836d98ac997152df84d9f9ed173eda62be199",
+          "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+          "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T18:26:17Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "www.producthunt.com"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "9514ba518d78970bbfbcd28d02d008f3e1875d19",
-          "title": "Hyperprobe - 让您的 AI 代理无需重新部署即可对生产环境进行调试",
-          "url": "https://www.producthunt.com/r/G2JREG7FXOOWLK",
-          "source": "www.producthunt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T11:21:54.451000Z"
+          "id": "786836d98ac997152df84d9f9ed173eda62be199",
+          "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+          "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T18:26:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4724,
-      "importance": 0.4724,
-      "importance_score": 0.4724,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7651,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T18:26:17Z",
+      "latest_at": "2026-09-05T18:26:17Z",
+      "primary_item": {
+        "id": "786836d98ac997152df84d9f9ed173eda62be199",
+        "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+        "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-05T18:26:17Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_e46c6749700e",
+      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+      "url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "primary_url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+          "url": "https://x.com/testingcatalog/status/2096350628054176240",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T21:31:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "items": [
+        {
+          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+          "url": "https://x.com/testingcatalog/status/2096350628054176240",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T21:31:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "纯模型跑分或榜单信号降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-05T21:31:52Z",
+      "latest_at": "2026-09-05T21:31:52Z",
+      "primary_item": {
+        "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
+        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+        "url": "https://x.com/testingcatalog/status/2096350628054176240",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-05T21:31:52Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "纯模型跑分或榜单信号降权"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "作者实测了 HuggingFace 上两款开源语音模型：Hojo-ASR-Multi-V1 负责“听”，普通话、粤语和多语种表现不错，但四川话、专有名词和强噪声容易翻车；Hojo-TTS-Light-40M 负责“说”，体积小、CPU 可跑，适合端侧轻量合成。适合想本地部署 ASR/TTS 的开发者和创作者看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-05",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "a10393e1d3b481f49edc1f6c0f6949a9f762883c",
+          "title": "作者实测了 HuggingFace 上两款开源语音模型：Hojo-ASR-Multi-V1 负责“听”，普通话、粤语和多语种表现不错，但四川话、专有名词和强噪声容易翻车；Hojo-TTS-Light-40M 负责“说”，体积小、CPU 可跑，适合端侧轻量合成。适合想本地部署 ASR/TTS 的开发者和创作者看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:27:48.337479Z"
+        },
+        {
+          "id": "fea17ab7f258030d5fdaabfc4d0c4beef13cce78",
+          "title": "大模型排行榜的很多分数其实没那么“干净”：题目会被刷爆、训练数据可能污染测试集，甚至标准答案本身也会出错。这篇大模型评测指南从 MMLU、GSM8K 到 SWE-bench、Terminal-Bench，拆解了评测集为什么会失效，模型怎么 reward hacking，榜单又该怎样被审计。读完再看跑分，你会更知道该问哪些关键问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:27:48.337479Z"
+        },
+        {
+          "id": "2e14807015a6063955606488f70833eccde42de8",
+          "title": "每次新模型发布，很多人都会问“哪个最好用”，但其实是很多基础概念大家都没搞懂。这篇文章搭建了一套针对小白的 AI 认知地图，还结合大量现实案例拆解了大模型幻觉成因，梳理了海内外主流模型谱系，并对照实际工作场景给出了选型思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:27:48.337479Z"
+        },
+        {
+          "id": "4bcebd353042a4170d49e6f5342291946dcf39f3",
+          "title": "这篇文章适合想用 AI 做网页的小白、设计师、产品和前端入门者看。作者把流程拆得很详细，大家准备做网站前，可以先照着这个思路跑一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:27:48.337479Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-09-05"
+      ],
+      "items": [
+        {
+          "id": "a10393e1d3b481f49edc1f6c0f6949a9f762883c",
+          "title": "作者实测了 HuggingFace 上两款开源语音模型：Hojo-ASR-Multi-V1 负责“听”，普通话、粤语和多语种表现不错，但四川话、专有名词和强噪声容易翻车；Hojo-TTS-Light-40M 负责“说”，体积小、CPU 可跑，适合端侧轻量合成。适合想本地部署 ASR/TTS 的开发者和创作者看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:27:48.337479Z"
+        },
+        {
+          "id": "fea17ab7f258030d5fdaabfc4d0c4beef13cce78",
+          "title": "大模型排行榜的很多分数其实没那么“干净”：题目会被刷爆、训练数据可能污染测试集，甚至标准答案本身也会出错。这篇大模型评测指南从 MMLU、GSM8K 到 SWE-bench、Terminal-Bench，拆解了评测集为什么会失效，模型怎么 reward hacking，榜单又该怎样被审计。读完再看跑分，你会更知道该问哪些关键问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:27:48.337479Z"
+        },
+        {
+          "id": "2e14807015a6063955606488f70833eccde42de8",
+          "title": "每次新模型发布，很多人都会问“哪个最好用”，但其实是很多基础概念大家都没搞懂。这篇文章搭建了一套针对小白的 AI 认知地图，还结合大量现实案例拆解了大模型幻觉成因，梳理了海内外主流模型谱系，并对照实际工作场景给出了选型思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:27:48.337479Z"
+        },
+        {
+          "id": "4bcebd353042a4170d49e6f5342291946dcf39f3",
+          "title": "这篇文章适合想用 AI 做网页的小白、设计师、产品和前端入门者看。作者把流程拆得很详细，大家准备做网站前，可以先照着这个思路跑一遍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-05",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-05T18:27:48.337479Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.602,
+      "importance": 0.602,
+      "importance_score": 0.602,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.7654,
+        "story_heat": 0.75
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 40,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T18:27:48.337479Z",
+      "latest_at": "2026-09-05T18:27:48.337479Z",
+      "primary_item": {
+        "id": "a10393e1d3b481f49edc1f6c0f6949a9f762883c",
+        "title": "作者实测了 HuggingFace 上两款开源语音模型：Hojo-ASR-Multi-V1 负责“听”，普通话、粤语和多语种表现不错，但四川话、专有名词和强噪声容易翻车；Hojo-TTS-Light-40M 负责“说”，体积小、CPU 可跑，适合端侧轻量合成。适合想本地部署 ASR/TTS 的开发者和创作者看！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-05",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-09-05T18:27:48.337479Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ae0c2e3335c6",
+      "title": "安装在机械臂上的GPT-6 Astra",
+      "url": "https://openai.robocurve.org/gpt-6-astra",
+      "primary_url": "https://openai.robocurve.org/gpt-6-astra",
+      "source": "openai.robocurve.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+          "title": "安装在机械臂上的GPT-6 Astra",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "openai.robocurve.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T04:56:10.649000Z"
+        },
+        {
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "机器人手臂上的 GPT-6 Astra / GPT-6 Astra on robot arms",
+          "url": "https://news.ycombinator.com/item?id=49582582",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T04:24:43.205000Z"
+        },
+        {
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T01:52:45Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "openai.robocurve.org"
+      ],
+      "items": [
+        {
+          "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+          "title": "安装在机械臂上的GPT-6 Astra",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "openai.robocurve.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T04:56:10.649000Z"
+        },
+        {
+          "id": "e93639ebc18b9cd558d329fdd7c5e416f58243d2",
+          "title": "机器人手臂上的 GPT-6 Astra / GPT-6 Astra on robot arms",
+          "url": "https://news.ycombinator.com/item?id=49582582",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T04:24:43.205000Z"
+        },
+        {
+          "id": "d075ebc311b9df2a498b1a183f0c1fab5149f730",
+          "title": "安装在机械臂上的GPT-6 Astra / GPT-6 Astra on robot arms",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T01:52:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5511,
+      "importance": 0.5511,
+      "importance_score": 0.5511,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8903,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T01:52:45Z",
+      "latest_at": "2026-09-06T04:56:10.649000Z",
+      "primary_item": {
+        "id": "d0e7e847b7d3b7da65b636c6c56ab4ed835bd76b",
+        "title": "安装在机械臂上的GPT-6 Astra",
+        "url": "https://openai.robocurve.org/gpt-6-astra",
+        "source": "openai.robocurve.org",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-06T04:56:10.649000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d23e2982639a",
+      "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+      "url": "https://www.ithome.com/0/999/014.htm",
+      "primary_url": "https://www.ithome.com/0/999/014.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "caa20886270988499beb1538247d5da585229a41",
+          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T10:51:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "caa20886270988499beb1538247d5da585229a41",
+          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T10:51:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7312,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "enterprise_score": 83,
-      "enterprise_importance_score": 77,
-      "enterprise_primary_topic": "implementation_path",
-      "enterprise_topics": [
-        "implementation_path"
-      ],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
       "category": "watch",
       "reasons": [
-        "recent_ai_signal"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-05T11:21:54.451000Z",
-      "latest_at": "2026-09-05T11:21:54.451000Z",
+      "earliest_at": "2026-09-06T10:51:36Z",
+      "latest_at": "2026-09-06T12:58:49.809165Z",
       "primary_item": {
-        "id": "9514ba518d78970bbfbcd28d02d008f3e1875d19",
-        "title": "Hyperprobe - 让您的 AI 代理无需重新部署即可对生产环境进行调试",
-        "url": "https://www.producthunt.com/r/G2JREG7FXOOWLK",
-        "source": "www.producthunt.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-09-05T11:21:54.451000Z",
+        "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+        "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+        "url": "https://www.ithome.com/0/999/014.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
         "ai_score": 0.65,
         "ai_label": "ai_general",
-        "enterprise_score": 83,
-        "enterprise_primary_topic": "implementation_path",
-        "enterprise_topics": [
-          "implementation_path"
-        ],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b6a75cdb30da",
+      "title": "大型语言模型作为认知病毒",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "primary_url": "https://arxiv.org/abs/2609.03344",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+          "title": "大型语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.980000Z"
+        },
+        {
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.965000Z"
+        },
+        {
+          "id": "b72649e582a023f0cfd069e021e67fcb9a6c5ec5",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T20:02:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "arxiv.org"
+      ],
+      "items": [
+        {
+          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+          "title": "大型语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.980000Z"
+        },
+        {
+          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
+          "title": "大语言模型作为认知病毒",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T22:19:59.965000Z"
+        },
+        {
+          "id": "b72649e582a023f0cfd069e021e67fcb9a6c5ec5",
+          "title": "大语言模型作为认知病毒 / LLMs as a Cognitive Virus",
+          "url": "https://arxiv.org/abs/2609.03344",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T20:02:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8094,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T20:02:35Z",
+      "latest_at": "2026-09-05T22:19:59.980000Z",
+      "primary_item": {
+        "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
+        "title": "大型语言模型作为认知病毒",
+        "url": "https://arxiv.org/abs/2609.03344",
+        "source": "arxiv.org",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-05T22:19:59.980000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_826679545639",
+      "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+      "url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "primary_url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "source": "mathstodon.xyz",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T07:48:53.501000Z"
+        },
+        {
+          "id": "05d96717a15c645dcd388f6c95f9d86c0a480984",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题 / Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T07:45:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "mathstodon.xyz"
+      ],
+      "items": [
+        {
+          "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T07:48:53.501000Z"
+        },
+        {
+          "id": "05d96717a15c645dcd388f6c95f9d86c0a480984",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题 / Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T07:45:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9281,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T07:45:24Z",
+      "latest_at": "2026-09-06T07:48:53.501000Z",
+      "primary_item": {
+        "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
+        "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+        "url": "https://mathstodon.xyz/@tao/117207856734787448",
+        "source": "mathstodon.xyz",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-06T07:48:53.501000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7d6bff4b18cf",
+      "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+      "url": "https://www.ithome.com/0/999/001.htm",
+      "primary_url": "https://www.ithome.com/0/999/001.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T09:30:01Z",
+      "latest_at": "2026-09-06T12:58:49.809165Z",
+      "primary_item": {
+        "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+        "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+        "url": "https://www.ithome.com/0/999/001.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f31be0c625cb",
+      "title": "OKF Agent Memory – 用于 AI 编码代理的 Git 原生持久内存 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=49581240",
+      "primary_url": "https://news.ycombinator.com/item?id=49581240",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+          "title": "OKF Agent Memory – 用于 AI 编码代理的 Git 原生持久内存 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=49581240",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
+        },
+        {
+          "id": "7169d8ff80c698e3e571469b77e94308d5fd557b",
+          "title": "OKF Agent Memory – 用于 AI 编码代理的 Git 原生持久内存 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T22:15:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+          "title": "OKF Agent Memory – 用于 AI 编码代理的 Git 原生持久内存 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=49581240",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
+        },
+        {
+          "id": "7169d8ff80c698e3e571469b77e94308d5fd557b",
+          "title": "OKF Agent Memory – 用于 AI 编码代理的 Git 原生持久内存 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
+          "url": "https://github.com/okf-memory/okf-agent-memory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T22:15:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8284,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T22:15:52Z",
+      "latest_at": "2026-09-05T23:56:39.671000Z",
+      "primary_item": {
+        "id": "de508dd54fc875df82a902a31b0d7038e329a518",
+        "title": "OKF Agent Memory – 用于 AI 编码代理的 Git 原生持久内存 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "url": "https://news.ycombinator.com/item?id=49581240",
+        "source": "hackernews",
+        "source_name": "NewsNow",
+        "published_at": "2026-09-05T23:56:39.671000Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
+      "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "primary_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+          "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T20:25:30Z"
+        },
+        {
+          "id": "bdd65f94339878103168417a32707a27748f002b",
+          "title": "OpenAI GPT-6 Astra 是 AGI？ [视频] / OpenAI GPT-6 Astra is AGI? [video]",
+          "url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-05T14:45:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+          "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T20:25:30Z"
+        },
+        {
+          "id": "bdd65f94339878103168417a32707a27748f002b",
+          "title": "OpenAI GPT-6 Astra 是 AGI？ [视频] / OpenAI GPT-6 Astra is AGI? [video]",
+          "url": "https://www.youtube.com/watch?v=vuFYLqe3-xc",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-05T14:45:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5075,
+      "importance": 0.5075,
+      "importance_score": 0.5075,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7874,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T14:45:29Z",
+      "latest_at": "2026-09-05T20:25:30Z",
+      "primary_item": {
+        "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+        "title": "Isar Aerospace成功入轨 [视频] / Isar Aerospace launch into orbit [video]",
+        "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-09-05T20:25:30Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_fc526c0c8fab",
+      "title": "WorldFlowAI / 一切-克劳德-代码 / WorldFlowAI /      everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "primary_url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
+          "title": "WorldFlowAI / 一切-克劳德-代码 / WorldFlowAI /      everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T18:28:27.434000Z"
+        },
+        {
+          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
+          "title": "WorldFlowAI / 一切-克劳德-代码 / WorldFlowAI / everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "db8325c704100ae0306275acc13c4421b60d2eff",
+          "title": "WorldFlowAI / 一切-克劳德-代码 / WorldFlowAI /      everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T18:28:27.434000Z"
+        },
+        {
+          "id": "7e821db20acc153f8588d6fb16c096ec36e5d013",
+          "title": "WorldFlowAI / 一切-克劳德-代码 / WorldFlowAI / everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7655,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T18:27:48.337479Z",
+      "latest_at": "2026-09-05T18:28:27.434000Z",
+      "primary_item": {
+        "id": "db8325c704100ae0306275acc13c4421b60d2eff",
+        "title": "WorldFlowAI / 一切-克劳德-代码 / WorldFlowAI /      everything-claude-code",
+        "url": "https://github.com/WorldFlowAI/everything-claude-code",
+        "source": "github",
+        "source_name": "NewsNow",
+        "published_at": "2026-09-05T18:28:27.434000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_cc15feb485e7",
+      "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+      "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "primary_url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+      "source": "www.theopenlake.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "www.theopenlake.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:35:49.695000Z"
+        },
+        {
+          "id": "8390f6866622ca297ba2ff53f8660c8f525a35d8",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案 / Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:32:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theopenlake.com"
+      ],
+      "items": [
+        {
+          "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "www.theopenlake.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:35:49.695000Z"
+        },
+        {
+          "id": "8390f6866622ca297ba2ff53f8660c8f525a35d8",
+          "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案 / Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+          "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:32:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7559,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T17:32:20Z",
+      "latest_at": "2026-09-05T17:35:49.695000Z",
+      "primary_item": {
+        "id": "af2a6cb05d3d44e853735d3a192957c0f5664202",
+        "title": "Show HN: 我们超越了 MLPerf：适用于键值对卸载和大型语言模型训练的现代化存储方案",
+        "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+        "source": "www.theopenlake.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-05T17:35:49.695000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c28811eea145",
+      "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+      "url": "https://reut.rs/3ThCCCK",
+      "primary_url": "https://reut.rs/3ThCCCK",
+      "source": "reut.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3cb54ac4ac52544f650ec7092267950dc02b99cc",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+          "url": "https://reut.rs/3ThCCCK",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.221000Z"
+        },
+        {
+          "id": "75766f7c30c151b30f43c944cab00e7e45558ce2",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.203000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "reut.rs"
+      ],
+      "items": [
+        {
+          "id": "3cb54ac4ac52544f650ec7092267950dc02b99cc",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+          "url": "https://reut.rs/3ThCCCK",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.221000Z"
+        },
+        {
+          "id": "75766f7c30c151b30f43c944cab00e7e45558ce2",
+          "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T17:21:09.203000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5014,
+      "importance": 0.5014,
+      "importance_score": 0.5014,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7532,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T17:21:09.203000Z",
+      "latest_at": "2026-09-05T17:21:09.221000Z",
+      "primary_item": {
+        "id": "3cb54ac4ac52544f650ec7092267950dc02b99cc",
+        "title": "OpenAI 承认了“维基事件”，并表示需要就人工智能的意外行为提高透明度",
+        "url": "https://reut.rs/3ThCCCK",
+        "source": "reut.rs",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-05T17:21:09.221000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6993de6f2e8a",
+      "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+      "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:47.467000Z"
+        },
+        {
+          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T16:09:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T16:18:47.467000Z"
+        },
+        {
+          "id": "4e55fd6a71d454fdf05417e47d286e4ac4229daa",
+          "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式 / OpenAI says it will change how it informs the public when its AI agents go off the rails",
+          "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T16:09:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.742,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T16:09:59Z",
+      "latest_at": "2026-09-05T16:18:47.467000Z",
+      "primary_item": {
+        "id": "4e6c7327e3738359eff052733767c670dd48f81d",
+        "title": "OpenAI表示，将调整在人工智能代理出现失控情况时向公众通报的方式",
+        "url": "https://www.businessinsider.com/openai-ai-agent-rogue-reporting-german-wiki-hugging-face-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-05T16:18:47.467000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_01b334a233a9",
+      "title": "人工智能如何打破英国政府 / How AI is breaking the British state",
+      "url": "https://news.ycombinator.com/item?id=49580687",
+      "primary_url": "https://news.ycombinator.com/item?id=49580687",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
+          "title": "人工智能如何打破英国政府 / How AI is breaking the British state",
+          "url": "https://news.ycombinator.com/item?id=49580687",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
+        },
+        {
+          "id": "2059ab3cadc6a6872dc9edc9fe88f397196c0c54",
+          "title": "人工智能如何打破英国政府 / How AI is breaking the British state",
+          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T21:05:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
+          "title": "人工智能如何打破英国政府 / How AI is breaking the British state",
+          "url": "https://news.ycombinator.com/item?id=49580687",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T23:56:39.671000Z"
+        },
+        {
+          "id": "2059ab3cadc6a6872dc9edc9fe88f397196c0c54",
+          "title": "人工智能如何打破英国政府 / How AI is breaking the British state",
+          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T21:05:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8284,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T21:05:35Z",
+      "latest_at": "2026-09-05T23:56:39.671000Z",
+      "primary_item": {
+        "id": "3ff03492b923432b2c197b9ec7010496fbed6f0d",
+        "title": "人工智能如何打破英国政府 / How AI is breaking the British state",
+        "url": "https://news.ycombinator.com/item?id=49580687",
+        "source": "hackernews",
+        "source_name": "NewsNow",
+        "published_at": "2026-09-05T23:56:39.671000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7f7d5d336686",
+      "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
+      "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4888906.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0d0e539f81a38011fd5c0a6f6cad2a473526deb4",
+          "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
+          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3a62bb11befaac54efe99a806fec4e075126c864",
+          "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
+          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T07:30:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "0d0e539f81a38011fd5c0a6f6cad2a473526deb4",
+          "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
+          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3a62bb11befaac54efe99a806fec4e075126c864",
+          "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
+          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T07:30:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9448,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T07:30:15Z",
+      "latest_at": "2026-09-06T09:02:58.169484Z",
+      "primary_item": {
+        "id": "0d0e539f81a38011fd5c0a6f6cad2a473526deb4",
+        "title": "索尼、华纳围剿 Anthropic，AI 时代的版权大战怎么打？",
+        "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_40e652a61cdb",
+      "title": "生活中的奢华 / The Luxuries in Life",
+      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+      "primary_url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
+          "title": "生活中的奢华 / The Luxuries in Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:46:16Z"
+        },
+        {
+          "id": "f0214d546b88e0c101310fb66f82647aa020f6f6",
+          "title": "生活中的奢华 / The Real Luxuries In Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:46:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
+          "title": "生活中的奢华 / The Luxuries in Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:46:16Z"
+        },
+        {
+          "id": "f0214d546b88e0c101310fb66f82647aa020f6f6",
+          "title": "生活中的奢华 / The Real Luxuries In Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:46:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7578,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T17:46:16Z",
+      "latest_at": "2026-09-05T17:46:16Z",
+      "primary_item": {
+        "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
+        "title": "生活中的奢华 / The Luxuries in Life",
+        "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-09-05T17:46:16Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
