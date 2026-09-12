@@ -1,85 +1,1838 @@
 {
-  "generated_at": "2026-09-12T06:00:47.610608Z",
+  "generated_at": "2026-09-12T19:29:50.810687Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_f15ce47873db",
-      "title": "国际AI治理，区域国家集团在中美狭缝之间先达成了共识",
-      "url": "https://www.huxiu.com/article/4890503.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4890503.html?f=rss",
+      "story_id": "story_12e9dd685180",
+      "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T00:00:00Z",
+      "latest_at": "2026-09-14T00:00:00Z",
+      "primary_item": {
+        "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+        "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-09-14T00:00:00Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ed5843bdd0a9",
+      "title": "Add VS Code Agents to Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+      "primary_url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+          "title": "Add VS Code Agents to Copilot usage metrics",
+          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T21:30:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+          "title": "Add VS Code Agents to Copilot usage metrics",
+          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T21:30:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7279,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T21:30:30Z",
+      "latest_at": "2026-09-11T21:30:30Z",
+      "primary_item": {
+        "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+        "title": "Add VS Code Agents to Copilot usage metrics",
+        "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-09-11T21:30:30Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_59326c036955",
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+      "url": "https://www.rubyhack.ai",
+      "primary_url": "https://www.rubyhack.ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+          "url": "https://www.rubyhack.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        },
+        {
+          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
+          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
+          "url": "https://www.rubyhack.ai",
+          "source": "www.rubyhack.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        },
+        {
+          "id": "fbf3ff376bfc93627bc7a0634eb6984c11e35017",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:41:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "www.rubyhack.ai"
+      ],
+      "items": [
+        {
+          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+          "url": "https://www.rubyhack.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        },
+        {
+          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
+          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
+          "url": "https://www.rubyhack.ai",
+          "source": "www.rubyhack.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        },
+        {
+          "id": "fbf3ff376bfc93627bc7a0634eb6984c11e35017",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:41:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.759,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T23:41:50Z",
+      "latest_at": "2026-09-12T00:24:20.561000Z",
+      "primary_item": {
+        "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+        "url": "https://www.rubyhack.ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-12T00:24:20.561000Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_09e50792b59f",
+      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖",
+        "www.minitap.ai"
+      ],
+      "items": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7842,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T02:39:39Z",
+      "latest_at": "2026-09-12T05:37:39.339000Z",
+      "primary_item": {
+        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-12T02:39:39Z",
+        "ai_score": 1.0,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_4eb0f95713f7",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T17:33:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T17:33:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9724,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T17:33:23Z",
+      "latest_at": "2026-09-12T17:33:23Z",
+      "primary_item": {
+        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-12T17:33:23Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_850b6df2d33d",
+      "title": "Auto-resolution and analysis updates in Copilot code review",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T20:00:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T20:00:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7123,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T20:00:07Z",
+      "latest_at": "2026-09-11T20:00:07Z",
+      "primary_item": {
+        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+        "title": "Auto-resolution and analysis updates in Copilot code review",
+        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-09-11T20:00:07Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_4e2dca866221",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "url": "https://x.com/sama/status/2098811563415150910",
+      "primary_url": "https://x.com/sama/status/2098811563415150910",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9578,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 46,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T16:30:45Z",
+      "latest_at": "2026-09-12T16:30:45Z",
+      "primary_item": {
+        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+        "url": "https://x.com/sama/status/2098811563415150910",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-12T16:30:45Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_98125bd58fad",
+      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+      "url": "https://www.ithome.com/1/001/488.htm",
+      "primary_url": "https://www.ithome.com/1/001/488.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
+          "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+          "url": "https://www.ithome.com/1/001/488.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T23:22:39Z"
+        },
+        {
+          "id": "a57ddfae9063f3df625a8d85a17b52de1a9c7610",
+          "title": "冲刺史上最大 IPO：英伟达正洽谈为 Anthropic 投资至多 100 亿美元",
+          "url": "https://www.ithome.com/1/001/488.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:22:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
+          "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+          "url": "https://www.ithome.com/1/001/488.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T23:22:39Z"
+        },
+        {
+          "id": "a57ddfae9063f3df625a8d85a17b52de1a9c7610",
+          "title": "冲刺史上最大 IPO：英伟达正洽谈为 Anthropic 投资至多 100 亿美元",
+          "url": "https://www.ithome.com/1/001/488.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:22:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7479,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T23:22:39Z",
+      "latest_at": "2026-09-11T23:22:39Z",
+      "primary_item": {
+        "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
+        "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+        "url": "https://www.ithome.com/1/001/488.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-11T23:22:39Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_fc4b9c1c0950",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+      "url": "https://suno.com/blog/introducing-v6",
+      "primary_url": "https://suno.com/blog/introducing-v6",
+      "source": "Suno：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:39:24.855000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Suno：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:39:24.855000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9598,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-12T16:39:24.855000Z",
+      "latest_at": "2026-09-12T16:39:24.855000Z",
+      "primary_item": {
+        "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+        "url": "https://suno.com/blog/introducing-v6",
+        "source": "Suno：Blog（网页）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-12T16:39:24.855000Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-12",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "a483ba9de53e01a1f4e8a3c5c3b75603e09c188c",
+          "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:29:50.810687Z"
+        },
+        {
+          "id": "a623cfc185856960fce0253bc5862c7d62f2a91b",
+          "title": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:29:50.810687Z"
+        },
+        {
+          "id": "eec8691dc962cdd80b024fc42f7fbb92c3070660",
+          "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:29:50.810687Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-09-12"
+      ],
+      "items": [
+        {
+          "id": "a483ba9de53e01a1f4e8a3c5c3b75603e09c188c",
+          "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:29:50.810687Z"
+        },
+        {
+          "id": "a623cfc185856960fce0253bc5862c7d62f2a91b",
+          "title": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:29:50.810687Z"
+        },
+        {
+          "id": "eec8691dc962cdd80b024fc42f7fbb92c3070660",
+          "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:29:50.810687Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.54,
+        "ai_relevance": 0.71,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T19:29:50.810687Z",
+      "latest_at": "2026-09-12T19:29:50.810687Z",
+      "primary_item": {
+        "id": "eec8691dc962cdd80b024fc42f7fbb92c3070660",
+        "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-12",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-09-12T19:29:50.810687Z",
+        "ai_score": 0.71,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6481e999f333",
+      "title": "OpenAI 代理在 5 月份攻击了 RubyGems / OpenAI agents attacked RubyGems back in May",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+      "primary_url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e56e4e5005c22e7957ae3058464b0bd84438ef0a",
+          "title": "OpenAI 代理在 5 月份攻击了 RubyGems / OpenAI agents attacked RubyGems back in May",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T00:42:25Z"
+        },
+        {
+          "id": "39f88db1522e9467dfc906e79045acca0e043707",
+          "title": "OpenAI 代理对 RubyGems 进行了一次未公开的攻击 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison"
+      ],
+      "items": [
+        {
+          "id": "e56e4e5005c22e7957ae3058464b0bd84438ef0a",
+          "title": "OpenAI 代理在 5 月份攻击了 RubyGems / OpenAI agents attacked RubyGems back in May",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T00:42:25Z"
+        },
+        {
+          "id": "39f88db1522e9467dfc906e79045acca0e043707",
+          "title": "OpenAI 代理对 RubyGems 进行了一次未公开的攻击 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.7624,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 38,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T00:42:25Z",
+      "latest_at": "2026-09-12T01:18:02.272909Z",
+      "primary_item": {
+        "id": "e56e4e5005c22e7957ae3058464b0bd84438ef0a",
+        "title": "OpenAI 代理在 5 月份攻击了 RubyGems / OpenAI agents attacked RubyGems back in May",
+        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS",
+        "published_at": "2026-09-12T00:42:25Z",
+        "ai_score": 0.71,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a9df7af2fde6",
+      "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "41ccd3a471ebd64efbb38b04167ca2b25b9dfc09",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T18:07:07Z"
+        },
+        {
+          "id": "2e9e7f5bec860ebc3c39f9fb5307872df092f6d8",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T17:57:25.457000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "41ccd3a471ebd64efbb38b04167ca2b25b9dfc09",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T18:07:07Z"
+        },
+        {
+          "id": "2e9e7f5bec860ebc3c39f9fb5307872df092f6d8",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T17:57:25.457000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9803,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T17:57:25.457000Z",
+      "latest_at": "2026-09-12T18:07:07Z",
+      "primary_item": {
+        "id": "41ccd3a471ebd64efbb38b04167ca2b25b9dfc09",
+        "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+        "source": "Hacker News",
+        "source_name": "TechURLs",
+        "published_at": "2026-09-12T18:07:07Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d4e724e82e7d",
+      "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d0eedcca8e75ce08d8d59081339dc445c66f0f6e",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T17:42:38Z"
+        },
+        {
+          "id": "f4d9b42e23f5754fde72cfee4cc2a74e842d657d",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:50:30.516000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "d0eedcca8e75ce08d8d59081339dc445c66f0f6e",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T17:42:38Z"
+        },
+        {
+          "id": "f4d9b42e23f5754fde72cfee4cc2a74e842d657d",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:50:30.516000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9745,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T15:50:30.516000Z",
+      "latest_at": "2026-09-12T17:42:38Z",
+      "primary_item": {
+        "id": "d0eedcca8e75ce08d8d59081339dc445c66f0f6e",
+        "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
+        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-09-12T17:42:38Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c63b548b0537",
+      "title": "英伟达是人工智能领域的“中央银行”",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "www.economist.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9593,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T15:08:27Z",
+      "latest_at": "2026-09-12T16:37:21.932000Z",
+      "primary_item": {
+        "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+        "title": "英伟达是人工智能领域的“中央银行”",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "source": "www.economist.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-12T16:37:21.932000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_1a2fd94dab00",
+      "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+      "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+      "primary_url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:02:47.803000Z"
+        },
+        {
+          "id": "d94a55ab93d0749a1e07b301e6fae5cafde53564",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步 / Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T14:43:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:02:47.803000Z"
+        },
+        {
+          "id": "d94a55ab93d0749a1e07b301e6fae5cafde53564",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步 / Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T14:43:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9377,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T14:43:11Z",
+      "latest_at": "2026-09-12T15:02:47.803000Z",
+      "primary_item": {
+        "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
+        "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+        "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-12T15:02:47.803000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8f24b4306d6a",
+      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source": "www.dwarkesh.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
+        },
+        {
+          "id": "2444e6f08d025a600006bd958358804fc2d4d595",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T21:35:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.dwarkesh.com"
+      ],
+      "items": [
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
+        },
+        {
+          "id": "2444e6f08d025a600006bd958358804fc2d4d595",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T21:35:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8535,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T21:35:29Z",
+      "latest_at": "2026-09-12T08:31:36.686000Z",
+      "primary_item": {
+        "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+        "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "source": "www.dwarkesh.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-12T08:31:36.686000Z",
+        "ai_score": 0.65,
+        "ai_label": "research_paper",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_fd2d42c80a83",
+      "title": "纳维-斯托克斯公告 / Clay Mathematics Institute on the Navier-Stokes Problem",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement",
+      "primary_url": "https://www.claymath.org/news/navier-stokes-announcement",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "4690b71133a8f5888da74977879e2d3a4f2b5640",
+          "title": "纳维-斯托克斯公告 / Clay Mathematics Institute on the Navier-Stokes Problem",
+          "url": "https://www.claymath.org/news/navier-stokes-announcement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T04:09:43Z"
+        },
+        {
+          "id": "b3e645c11d7ec9c36e6338dbdc6f4f2d3b6f4921",
+          "title": "纳维-斯托克斯公告 / Navier-Stokes Announcement",
+          "url": "https://www.claymath.org/news/navier-stokes-announcement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T04:09:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "4690b71133a8f5888da74977879e2d3a4f2b5640",
+          "title": "纳维-斯托克斯公告 / Clay Mathematics Institute on the Navier-Stokes Problem",
+          "url": "https://www.claymath.org/news/navier-stokes-announcement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T04:09:43Z"
+        },
+        {
+          "id": "b3e645c11d7ec9c36e6338dbdc6f4f2d3b6f4921",
+          "title": "纳维-斯托克斯公告 / Navier-Stokes Announcement",
+          "url": "https://www.claymath.org/news/navier-stokes-announcement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T04:09:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.51,
+      "importance": 0.51,
+      "importance_score": 0.51,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8014,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T04:09:43Z",
+      "latest_at": "2026-09-12T04:09:43Z",
+      "primary_item": {
+        "id": "4690b71133a8f5888da74977879e2d3a4f2b5640",
+        "title": "纳维-斯托克斯公告 / Clay Mathematics Institute on the Navier-Stokes Problem",
+        "url": "https://www.claymath.org/news/navier-stokes-announcement",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-09-12T04:09:43Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_13c71d389dc7",
+      "title": "90万一集的AI长剧，凭什么让芒果市值五天暴涨 133 亿",
+      "url": "https://www.huxiu.com/article/4890512.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4890512.html?f=rss",
       "source": "虎嗅 (Huxiu)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "42c47a85c683997e4abaae507784a768e5dd7537",
-          "title": "国际AI治理，区域国家集团在中美狭缝之间先达成了共识",
-          "url": "https://www.huxiu.com/article/4890503.html?f=rss",
+          "id": "ba6aa8ea15d9c5504d124bdba1a5877e32876c5b",
+          "title": "90万一集的AI长剧，凭什么让芒果市值五天暴涨 133 亿",
+          "url": "https://www.huxiu.com/article/4890512.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-11T09:53:09Z"
+          "published_at": "2026-09-11T23:32:38Z"
+        },
+        {
+          "id": "82031ccc82955a6a322982c3bb460b32427f2c02",
+          "title": "90万一集的AI长剧，如何炸出芒果130亿市值？",
+          "url": "https://www.huxiu.com/article/4890512.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:32:38Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "42c47a85c683997e4abaae507784a768e5dd7537",
-          "title": "国际AI治理，区域国家集团在中美狭缝之间先达成了共识",
-          "url": "https://www.huxiu.com/article/4890503.html?f=rss",
+          "id": "ba6aa8ea15d9c5504d124bdba1a5877e32876c5b",
+          "title": "90万一集的AI长剧，凭什么让芒果市值五天暴涨 133 亿",
+          "url": "https://www.huxiu.com/article/4890512.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-11T09:53:09Z"
+          "published_at": "2026-09-11T23:32:38Z"
+        },
+        {
+          "id": "82031ccc82955a6a322982c3bb460b32427f2c02",
+          "title": "90万一集的AI长剧，如何炸出芒果130亿市值？",
+          "url": "https://www.huxiu.com/article/4890512.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:32:38Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4754,
-      "importance": 0.4754,
-      "importance_score": 0.4754,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7497,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T23:32:38Z",
+      "latest_at": "2026-09-11T23:32:38Z",
+      "primary_item": {
+        "id": "ba6aa8ea15d9c5504d124bdba1a5877e32876c5b",
+        "title": "90万一集的AI长剧，凭什么让芒果市值五天暴涨 133 亿",
+        "url": "https://www.huxiu.com/article/4890512.html?f=rss",
+        "source": "虎嗅 (Huxiu)",
+        "source_name": "Info Flow",
+        "published_at": "2026-09-11T23:32:38Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_4150a39babba",
+      "title": "研究人员称，在Hugging Face事件发生前，OpenAI的代理程序曾对RubyGems发起攻击",
+      "url": "https://www.reuters.com/legal/litigation/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-2026-09-11",
+      "primary_url": "https://www.reuters.com/legal/litigation/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-2026-09-11",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b7c8a2bf24be82fc07d8c806871ce892abf1206b",
+          "title": "研究人员称，在Hugging Face事件发生前，OpenAI的代理程序曾对RubyGems发起攻击",
+          "url": "https://www.reuters.com/legal/litigation/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-2026-09-11",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T23:22:16.537000Z"
+        },
+        {
+          "id": "67c3780253330943ced26f22f2bf241409dcc4d6",
+          "title": "据《华尔街日报》报道，在Hugging Face事件发生前，OpenAI的智能代理曾对软件服务平台RubyGems发起攻击",
+          "url": "https://www.reuters.com/legal/litigation/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-2026-09-11",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:50:29.570000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "b7c8a2bf24be82fc07d8c806871ce892abf1206b",
+          "title": "研究人员称，在Hugging Face事件发生前，OpenAI的代理程序曾对RubyGems发起攻击",
+          "url": "https://www.reuters.com/legal/litigation/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-2026-09-11",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T23:22:16.537000Z"
+        },
+        {
+          "id": "67c3780253330943ced26f22f2bf241409dcc4d6",
+          "title": "据《华尔街日报》报道，在Hugging Face事件发生前，OpenAI的智能代理曾对软件服务平台RubyGems发起攻击",
+          "url": "https://www.reuters.com/legal/litigation/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-2026-09-11",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:50:29.570000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
         "recency": 0.7478,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
-      "enterprise_score": 70,
-      "enterprise_importance_score": 71,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
-      ],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估",
-      "enterprise_is_relevant": true,
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
       "category": "watch",
       "reasons": [
-        "recent_ai_signal"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-11T09:53:09Z",
-      "latest_at": "2026-09-11T09:53:09Z",
+      "earliest_at": "2026-09-11T22:50:29.570000Z",
+      "latest_at": "2026-09-11T23:22:16.537000Z",
       "primary_item": {
-        "id": "42c47a85c683997e4abaae507784a768e5dd7537",
-        "title": "国际AI治理，区域国家集团在中美狭缝之间先达成了共识",
-        "url": "https://www.huxiu.com/article/4890503.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow",
-        "published_at": "2026-09-11T09:53:09Z",
+        "id": "b7c8a2bf24be82fc07d8c806871ce892abf1206b",
+        "title": "研究人员称，在Hugging Face事件发生前，OpenAI的代理程序曾对RubyGems发起攻击",
+        "url": "https://www.reuters.com/legal/litigation/openai-agents-attacked-software-service-rubygems-before-hugging-face-incident-2026-09-11",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-11T23:22:16.537000Z",
         "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 70,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估"
+        "ai_label": "research_paper",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_713fa14b50f5",
+      "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ed71e7b3f4fc0f8cae0533b48b8e7df90ccf0234",
+          "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:29.814000Z"
+        },
+        {
+          "id": "ceab2ecd5d593b06e7c7eaa8ecf418c40b0deef5",
+          "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚 / ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T19:34:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "ed71e7b3f4fc0f8cae0533b48b8e7df90ccf0234",
+          "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:29.814000Z"
+        },
+        {
+          "id": "ceab2ecd5d593b06e7c7eaa8ecf418c40b0deef5",
+          "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚 / ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T19:34:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4978,
+      "importance": 0.4978,
+      "importance_score": 0.4978,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7336,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T19:34:09Z",
+      "latest_at": "2026-09-11T22:02:29.814000Z",
+      "primary_item": {
+        "id": "ed71e7b3f4fc0f8cae0533b48b8e7df90ccf0234",
+        "title": "一名使用ChatGPT的律师因引用虚构证人的伪证而受到处罚",
+        "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-11T22:02:29.814000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
