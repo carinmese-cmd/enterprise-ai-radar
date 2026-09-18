@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T23:47:53.305105Z",
+  "generated_at": "2026-09-18T02:13:16.671703Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 3,
   "items": [
     {
       "story_id": "story_9ca2f10f7828",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
+      "score": 0.4948,
+      "importance": 0.4948,
+      "importance_score": 0.4948,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8863,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "enterprise_score": 76,
@@ -117,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5122,
-      "importance": 0.5122,
-      "importance_score": 0.5122,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9525,
+        "recency": 0.9197,
         "story_heat": 0.0
       },
       "enterprise_score": 69,
@@ -159,6 +159,85 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_cb09a37ae1fa",
+      "title": "被AI客服气哭？别喊“转人工”了，直接说这句话，秒换真人",
+      "url": "https://www.huxiu.com/article/4892118.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4892118.html?f=rss",
+      "source": "虎嗅 (Huxiu)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "eeae145e6b17c14842c5b5d6b0b79d175ff2909a",
+          "title": "被AI客服气哭？别喊“转人工”了，直接说这句话，秒换真人",
+          "url": "https://www.huxiu.com/article/4892118.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T02:03:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "eeae145e6b17c14842c5b5d6b0b79d175ff2909a",
+          "title": "被AI客服气哭？别喊“转人工”了，直接说这句话，秒换真人",
+          "url": "https://www.huxiu.com/article/4892118.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T02:03:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9977,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 62,
+      "enterprise_importance_score": 65,
+      "enterprise_primary_topic": "intelligent_customer_service",
+      "enterprise_topics": [
+        "intelligent_customer_service"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：智能客服",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-09-18T02:03:44Z",
+      "latest_at": "2026-09-18T02:03:44Z",
+      "primary_item": {
+        "id": "eeae145e6b17c14842c5b5d6b0b79d175ff2909a",
+        "title": "被AI客服气哭？别喊“转人工”了，直接说这句话，秒换真人",
+        "url": "https://www.huxiu.com/article/4892118.html?f=rss",
+        "source": "虎嗅 (Huxiu)",
+        "source_name": "Info Flow",
+        "published_at": "2026-09-18T02:03:44Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 62,
+        "enterprise_primary_topic": "intelligent_customer_service",
+        "enterprise_topics": [
+          "intelligent_customer_service"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：智能客服"
       }
     }
   ]
