@@ -1,87 +1,8 @@
 {
-  "generated_at": "2026-09-18T12:19:35.139355Z",
+  "generated_at": "2026-09-18T16:35:33.819022Z",
   "window_hours": 24,
   "total_items": 4,
   "items": [
-    {
-      "story_id": "story_9ca2f10f7828",
-      "title": "OpenAI 的错位框架：抢占全球人工智能治理的战术 / OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-      "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance",
-      "primary_url": "https://asiaai.fyi/openai-misalignment-framework-global-governance",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "880aafc11fe91e442edf49fcd5fb6ee58863f1a0",
-          "title": "OpenAI 的错位框架：抢占全球人工智能治理的战术 / OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-          "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-17T15:26:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "880aafc11fe91e442edf49fcd5fb6ee58863f1a0",
-          "title": "OpenAI 的错位框架：抢占全球人工智能治理的战术 / OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-          "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-17T15:26:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4739,
-      "importance": 0.4739,
-      "importance_score": 0.4739,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7396,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 76,
-      "enterprise_importance_score": 74,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
-      ],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-09-17T15:26:23Z",
-      "latest_at": "2026-09-17T15:26:23Z",
-      "primary_item": {
-        "id": "880aafc11fe91e442edf49fcd5fb6ee58863f1a0",
-        "title": "OpenAI 的错位框架：抢占全球人工智能治理的战术 / OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
-        "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-09-17T15:26:23Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
-        "enterprise_score": 76,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估"
-      }
-    },
     {
       "story_id": "story_4b9c0d498962",
       "title": "随着国会在代理安全方面取得进展，高级人工智能协会加入 Linux 基金会，推出开放验证生态系统 / Advanced AI Society joins the Linux Foundation, launches open verification ecosystem as Congress moves on agent security",
@@ -117,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4839,
-      "importance": 0.4839,
-      "importance_score": 0.4839,
+      "score": 0.4753,
+      "importance": 0.4753,
+      "importance_score": 0.4753,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7949,
+        "recency": 0.7474,
         "story_heat": 0.0
       },
       "enterprise_score": 69,
@@ -196,15 +117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9801,
+        "recency": 0.9215,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
@@ -238,6 +159,87 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：AI应用评估与治理"
+      }
+    },
+    {
+      "story_id": "story_55f4720a90e1",
+      "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9773,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 63,
+      "enterprise_importance_score": 64,
+      "enterprise_primary_topic": "enterprise_knowledge_rag",
+      "enterprise_topics": [
+        "enterprise_knowledge_rag"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：企业知识库与RAG",
+      "enterprise_is_relevant": true,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T15:00:00Z",
+      "latest_at": "2026-09-18T15:00:00Z",
+      "primary_item": {
+        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+        "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-09-18T15:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 63,
+        "enterprise_primary_topic": "enterprise_knowledge_rag",
+        "enterprise_topics": [
+          "enterprise_knowledge_rag"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：企业知识库与RAG"
       }
     },
     {
@@ -275,15 +277,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
+      "score": 0.4867,
+      "importance": 0.4867,
+      "importance_score": 0.4867,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8622,
+        "recency": 0.8107,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
