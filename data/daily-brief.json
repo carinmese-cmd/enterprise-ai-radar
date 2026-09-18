@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T07:30:17.123631Z",
+  "generated_at": "2026-09-18T12:19:35.139355Z",
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 4,
   "items": [
     {
       "story_id": "story_9ca2f10f7828",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4835,
-      "importance": 0.4835,
-      "importance_score": 0.4835,
+      "score": 0.4739,
+      "importance": 0.4739,
+      "importance_score": 0.4739,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.793,
+        "recency": 0.7396,
         "story_heat": 0.0
       },
       "enterprise_score": 76,
@@ -117,19 +117,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4942,
-      "importance": 0.4942,
-      "importance_score": 0.4942,
+      "score": 0.4839,
+      "importance": 0.4839,
+      "importance_score": 0.4839,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8522,
+        "recency": 0.7949,
         "story_heat": 0.0
       },
       "enterprise_score": 69,
-      "enterprise_importance_score": 68,
+      "enterprise_importance_score": 67,
       "enterprise_primary_topic": "evaluation_governance",
       "enterprise_topics": [
         "evaluation_governance"
@@ -159,6 +159,85 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_fd21ec86533f",
+      "title": "面对日益增长的人工智能风险，如何增强企业抵御能力 / How to build enterprise resilience in the face of growing AI risk",
+      "url": "https://www.techradar.com/pro/how-to-build-enterprise-resilience-in-the-face-of-growing-ai-risk",
+      "primary_url": "https://www.techradar.com/pro/how-to-build-enterprise-resilience-in-the-face-of-growing-ai-risk",
+      "source": "TechRadar",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "ba0f692f6512716345a34c7df54b1d8a5d1c2246",
+          "title": "面对日益增长的人工智能风险，如何增强企业抵御能力 / How to build enterprise resilience in the face of growing AI risk",
+          "url": "https://www.techradar.com/pro/how-to-build-enterprise-resilience-in-the-face-of-growing-ai-risk",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T10:55:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "ba0f692f6512716345a34c7df54b1d8a5d1c2246",
+          "title": "面对日益增长的人工智能风险，如何增强企业抵御能力 / How to build enterprise resilience in the face of growing AI risk",
+          "url": "https://www.techradar.com/pro/how-to-build-enterprise-resilience-in-the-face-of-growing-ai-risk",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T10:55:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9801,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 62,
+      "enterprise_importance_score": 65,
+      "enterprise_primary_topic": "evaluation_governance",
+      "enterprise_topics": [
+        "evaluation_governance"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：AI应用评估与治理",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-09-18T10:55:52Z",
+      "latest_at": "2026-09-18T10:55:52Z",
+      "primary_item": {
+        "id": "ba0f692f6512716345a34c7df54b1d8a5d1c2246",
+        "title": "面对日益增长的人工智能风险，如何增强企业抵御能力 / How to build enterprise resilience in the face of growing AI risk",
+        "url": "https://www.techradar.com/pro/how-to-build-enterprise-resilience-in-the-face-of-growing-ai-risk",
+        "source": "TechRadar",
+        "source_name": "TechURLs",
+        "published_at": "2026-09-18T10:55:52Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 62,
+        "enterprise_primary_topic": "evaluation_governance",
+        "enterprise_topics": [
+          "evaluation_governance"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：AI应用评估与治理"
       }
     },
     {
@@ -196,19 +275,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.496,
+      "importance": 0.496,
+      "importance_score": 0.496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9244,
+        "recency": 0.8622,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
-      "enterprise_importance_score": 65,
+      "enterprise_importance_score": 64,
       "enterprise_primary_topic": "intelligent_customer_service",
       "enterprise_topics": [
         "intelligent_customer_service"
