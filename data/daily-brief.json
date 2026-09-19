@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T23:44:38.226205Z",
+  "generated_at": "2026-09-19T02:16:02.492298Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 3,
   "items": [
     {
       "story_id": "story_2df82173bb28",
@@ -110,15 +110,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.658,
-      "importance": 0.658,
-      "importance_score": 0.658,
+      "score": 0.652,
+      "importance": 0.652,
+      "importance_score": 0.652,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9379,
+        "recency": 0.9043,
         "story_heat": 1.0
       },
       "enterprise_score": 77,
@@ -152,87 +152,6 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：智能客服；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_55f4720a90e1",
-      "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8814,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 63,
-      "enterprise_importance_score": 64,
-      "enterprise_primary_topic": "enterprise_knowledge_rag",
-      "enterprise_topics": [
-        "enterprise_knowledge_rag"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：企业知识库与RAG",
-      "enterprise_is_relevant": true,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T15:00:00Z",
-      "latest_at": "2026-09-18T15:00:00Z",
-      "primary_item": {
-        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-        "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-09-18T15:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "developer_tool",
-        "enterprise_score": 63,
-        "enterprise_primary_topic": "enterprise_knowledge_rag",
-        "enterprise_topics": [
-          "enterprise_knowledge_rag"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：企业知识库与RAG"
       }
     },
     {
@@ -270,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4904,
-      "importance": 0.4904,
-      "importance_score": 0.4904,
+      "score": 0.485,
+      "importance": 0.485,
+      "importance_score": 0.485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8311,
+        "recency": 0.8013,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
@@ -315,82 +234,84 @@
       }
     },
     {
-      "story_id": "story_cb09a37ae1fa",
-      "title": "被AI客服气哭？别喊“转人工”了，直接说这句话，秒换真人",
-      "url": "https://www.huxiu.com/article/4892118.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4892118.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
+      "story_id": "story_55f4720a90e1",
+      "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "eeae145e6b17c14842c5b5d6b0b79d175ff2909a",
-          "title": "被AI客服气哭？别喊“转人工”了，直接说这句话，秒换真人",
-          "url": "https://www.huxiu.com/article/4892118.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-18T02:03:44Z"
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "虎嗅 (Huxiu)"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "eeae145e6b17c14842c5b5d6b0b79d175ff2909a",
-          "title": "被AI客服气哭？别喊“转人工”了，直接说这句话，秒换真人",
-          "url": "https://www.huxiu.com/article/4892118.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-18T02:03:44Z"
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4724,
-      "importance": 0.4724,
-      "importance_score": 0.4724,
-      "importance_label": "值得关注",
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7312,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8498,
         "story_heat": 0.0
       },
-      "enterprise_score": 62,
-      "enterprise_importance_score": 64,
-      "enterprise_primary_topic": "intelligent_customer_service",
+      "enterprise_score": 63,
+      "enterprise_importance_score": 63,
+      "enterprise_primary_topic": "enterprise_knowledge_rag",
       "enterprise_topics": [
-        "intelligent_customer_service"
+        "enterprise_knowledge_rag"
       ],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：智能客服",
+      "enterprise_reason": "主题命中：企业知识库与RAG",
       "enterprise_is_relevant": true,
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "recent_ai_signal"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-18T02:03:44Z",
-      "latest_at": "2026-09-18T02:03:44Z",
+      "earliest_at": "2026-09-18T15:00:00Z",
+      "latest_at": "2026-09-18T15:00:00Z",
       "primary_item": {
-        "id": "eeae145e6b17c14842c5b5d6b0b79d175ff2909a",
-        "title": "被AI客服气哭？别喊“转人工”了，直接说这句话，秒换真人",
-        "url": "https://www.huxiu.com/article/4892118.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow",
-        "published_at": "2026-09-18T02:03:44Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 62,
-        "enterprise_primary_topic": "intelligent_customer_service",
+        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+        "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-09-18T15:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 63,
+        "enterprise_primary_topic": "enterprise_knowledge_rag",
         "enterprise_topics": [
-          "intelligent_customer_service"
+          "enterprise_knowledge_rag"
         ],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：智能客服"
+        "enterprise_reason": "主题命中：企业知识库与RAG"
       }
     }
   ]
