@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T05:14:52.989260Z",
+  "generated_at": "2026-09-20T09:54:21.825919Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 3,
   "items": [
     {
       "story_id": "story_3680c2f33754",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5039,
-      "importance": 0.5039,
-      "importance_score": 0.5039,
+      "score": 0.4933,
+      "importance": 0.4933,
+      "importance_score": 0.4933,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.906,
+        "recency": 0.847,
         "story_heat": 0.0
       },
       "enterprise_score": 83,
-      "enterprise_importance_score": 78,
+      "enterprise_importance_score": 77,
       "enterprise_primary_topic": "implementation_path",
       "enterprise_topics": [
         "implementation_path"
@@ -80,6 +80,85 @@
         ],
         "enterprise_content_type": "technical_practice",
         "enterprise_reason": "主题命中：企业AI落地路径；内容类型：技术实践；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_42bb556bf01b",
+      "title": "我的下一集播客几乎肯定能为您节省一些钱。是我的朋友 @ebloch，@OpenAI 的 ChatGPT Finances 产品负责人。我请他分享六个实用的个人理财提示，任何人都可以... / My next podcast episode is almost guaranteed to save you some money. It's with my friend @ebloch, product lead for ChatGPT Finances at @OpenAI. I asked him to share six practical personal finance prompts that anyone c...",
+      "url": "https://x.com/petergyang/status/2101342055352201519",
+      "primary_url": "https://x.com/petergyang/status/2101342055352201519",
+      "source": "Follow Builders · X · Peter Yang",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "cfbb2caf9b4a9ce1985c642fb4714c66a695b777",
+          "title": "我的下一集播客几乎肯定能为您节省一些钱。是我的朋友 @ebloch，@OpenAI 的 ChatGPT Finances 产品负责人。我请他分享六个实用的个人理财提示，任何人都可以... / My next podcast episode is almost guaranteed to save you some money. It's with my friend @ebloch, product lead for ChatGPT Finances at @OpenAI. I asked him to share six practical personal finance prompts that anyone c...",
+          "url": "https://x.com/petergyang/status/2101342055352201519",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-19T16:06:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Peter Yang"
+      ],
+      "items": [
+        {
+          "id": "cfbb2caf9b4a9ce1985c642fb4714c66a695b777",
+          "title": "我的下一集播客几乎肯定能为您节省一些钱。是我的朋友 @ebloch，@OpenAI 的 ChatGPT Finances 产品负责人。我请他分享六个实用的个人理财提示，任何人都可以... / My next podcast episode is almost guaranteed to save you some money. It's with my friend @ebloch, product lead for ChatGPT Finances at @OpenAI. I asked him to share six practical personal finance prompts that anyone c...",
+          "url": "https://x.com/petergyang/status/2101342055352201519",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-19T16:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6458,
+      "importance": 0.6458,
+      "importance_score": 0.6458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.6408,
+        "source_tier": 0.62,
+        "ai_relevance": 0.89,
+        "recency": 0.7733,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 63,
+      "enterprise_importance_score": 69,
+      "enterprise_primary_topic": "sales_marketing_ai",
+      "enterprise_topics": [
+        "sales_marketing_ai"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：市场拓展与销售AI",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-19T16:06:01Z",
+      "latest_at": "2026-09-19T16:06:01Z",
+      "primary_item": {
+        "id": "cfbb2caf9b4a9ce1985c642fb4714c66a695b777",
+        "title": "我的下一集播客几乎肯定能为您节省一些钱。是我的朋友 @ebloch，@OpenAI 的 ChatGPT Finances 产品负责人。我请他分享六个实用的个人理财提示，任何人都可以... / My next podcast episode is almost guaranteed to save you some money. It's with my friend @ebloch, product lead for ChatGPT Finances at @OpenAI. I asked him to share six practical personal finance prompts that anyone c...",
+        "url": "https://x.com/petergyang/status/2101342055352201519",
+        "source": "Follow Builders · X · Peter Yang",
+        "source_name": "Follow Builders",
+        "published_at": "2026-09-19T16:06:01Z",
+        "ai_score": 0.89,
+        "ai_label": "model_release",
+        "enterprise_score": 63,
+        "enterprise_primary_topic": "sales_marketing_ai",
+        "enterprise_topics": [
+          "sales_marketing_ai"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：市场拓展与销售AI"
       }
     },
     {
@@ -117,19 +196,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5082,
-      "importance": 0.5082,
-      "importance_score": 0.5082,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9301,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
-      "enterprise_importance_score": 65,
+      "enterprise_importance_score": 64,
       "enterprise_primary_topic": "intelligent_customer_service",
       "enterprise_topics": [
         "intelligent_customer_service"
