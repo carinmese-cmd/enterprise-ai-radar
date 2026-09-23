@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T06:58:55.210131Z",
+  "generated_at": "2026-09-23T12:35:33.465985Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 6,
   "items": [
     {
       "story_id": "story_9b188b9f8972",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
-      "importance_label": "行业动态",
+      "score": 0.7197,
+      "importance": 0.7197,
+      "importance_score": 0.7197,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8337,
         "story_heat": 0.0
       },
       "enterprise_score": 77,
@@ -58,7 +58,7 @@
       "enterprise_content_type": "product_update",
       "enterprise_reason": "主题命中：模型与平台选型；内容类型：产品更新",
       "enterprise_is_relevant": true,
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
@@ -117,19 +117,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9222,
         "story_heat": 0.0
       },
       "enterprise_score": 69,
-      "enterprise_importance_score": 75,
+      "enterprise_importance_score": 74,
       "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
         "model_platform_selection"
@@ -197,19 +197,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4798,
-      "importance": 0.4798,
-      "importance_score": 0.4798,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7722,
+        "recency": 0.7121,
         "story_heat": 0.0
       },
       "enterprise_score": 74,
-      "enterprise_importance_score": 73,
+      "enterprise_importance_score": 72,
       "enterprise_primary_topic": "evaluation_governance",
       "enterprise_topics": [
         "evaluation_governance"
@@ -239,6 +239,85 @@
         ],
         "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估"
+      }
+    },
+    {
+      "story_id": "story_fa8e5e38733e",
+      "title": "人工智能实验室正在降低模型成本——这或许能帮助它们安全地放缓发展步伐",
+      "url": "https://www.axios.com/2026/09/23/price-war-pause-slowdown-ai-frontier",
+      "primary_url": "https://www.axios.com/2026/09/23/price-war-pause-slowdown-ai-frontier",
+      "source": "www.axios.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "85f01bc1724a495ff4b0d52faed81c9742ec5337",
+          "title": "人工智能实验室正在降低模型成本——这或许能帮助它们安全地放缓发展步伐",
+          "url": "https://www.axios.com/2026/09/23/price-war-pause-slowdown-ai-frontier",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T09:03:32.794000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "85f01bc1724a495ff4b0d52faed81c9742ec5337",
+          "title": "人工智能实验室正在降低模型成本——这或许能帮助它们安全地放缓发展步伐",
+          "url": "https://www.axios.com/2026/09/23/price-war-pause-slowdown-ai-frontier",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T09:03:32.794000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5118,
+      "importance": 0.5118,
+      "importance_score": 0.5118,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9503,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 70,
+      "enterprise_importance_score": 69,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-09-23T09:03:32.794000Z",
+      "latest_at": "2026-09-23T09:03:32.794000Z",
+      "primary_item": {
+        "id": "85f01bc1724a495ff4b0d52faed81c9742ec5337",
+        "title": "人工智能实验室正在降低模型成本——这或许能帮助它们安全地放缓发展步伐",
+        "url": "https://www.axios.com/2026/09/23/price-war-pause-slowdown-ai-frontier",
+        "source": "www.axios.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-23T09:03:32.794000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 70,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
       }
     },
     {
@@ -276,19 +355,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4805,
-      "importance": 0.4805,
-      "importance_score": 0.4805,
+      "score": 0.4697,
+      "importance": 0.4697,
+      "importance_score": 0.4697,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7764,
+        "recency": 0.7159,
         "story_heat": 0.0
       },
       "enterprise_score": 71,
-      "enterprise_importance_score": 68,
+      "enterprise_importance_score": 67,
       "enterprise_primary_topic": "enterprise_knowledge_rag",
       "enterprise_topics": [
         "enterprise_knowledge_rag"
@@ -318,6 +397,85 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：企业知识库与RAG；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_9041bc96b1e2",
+      "title": "知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战",
+      "url": "https://juejin.cn/post/7687176748632293419",
+      "primary_url": "https://juejin.cn/post/7687176748632293419",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5c3fe51ea643f9af1aa54656edc80db71587c165",
+          "title": "知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战",
+          "url": "https://juejin.cn/post/7687176748632293419",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T12:09:27.291000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "items": [
+        {
+          "id": "5c3fe51ea643f9af1aa54656edc80db71587c165",
+          "title": "知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战",
+          "url": "https://juejin.cn/post/7687176748632293419",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T12:09:27.291000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9937,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 64,
+      "enterprise_importance_score": 66,
+      "enterprise_primary_topic": "enterprise_knowledge_rag",
+      "enterprise_topics": [
+        "enterprise_knowledge_rag"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：企业知识库与RAG",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-09-23T12:09:27.291000Z",
+      "latest_at": "2026-09-23T12:09:27.291000Z",
+      "primary_item": {
+        "id": "5c3fe51ea643f9af1aa54656edc80db71587c165",
+        "title": "知识库已经有了，Java 程序员还要做什么？Spring AI RAG 实战",
+        "url": "https://juejin.cn/post/7687176748632293419",
+        "source": "juejin",
+        "source_name": "NewsNow",
+        "published_at": "2026-09-23T12:09:27.291000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 64,
+        "enterprise_primary_topic": "enterprise_knowledge_rag",
+        "enterprise_topics": [
+          "enterprise_knowledge_rag"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：企业知识库与RAG"
       }
     }
   ]
