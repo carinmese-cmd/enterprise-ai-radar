@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T01:35:08.059152Z",
+  "generated_at": "2026-09-23T06:58:55.210131Z",
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 4,
   "items": [
     {
       "story_id": "story_9b188b9f8972",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9774,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "enterprise_score": 77,
-      "enterprise_importance_score": 78,
+      "enterprise_importance_score": 77,
       "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
         "model_platform_selection"
@@ -74,6 +74,86 @@
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 77,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "主题命中：模型与平台选型；内容类型：产品更新"
+      }
+    },
+    {
+      "story_id": "story_663aaa9632d8",
+      "title": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+      "url": "https://www.aibase.com/news/31291",
+      "primary_url": "https://www.aibase.com/news/31291",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2e9e100dcf676be227106ebbe7fe9595e37d9a7c",
+          "title": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+          "url": "https://www.aibase.com/news/31291",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T06:58:55.210131Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2e9e100dcf676be227106ebbe7fe9595e37d9a7c",
+          "title": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+          "url": "https://www.aibase.com/news/31291",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T06:58:55.210131Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 69,
+      "enterprise_importance_score": 75,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "主题命中：模型与平台选型；内容类型：产品更新",
+      "enterprise_is_relevant": true,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T06:58:55.210131Z",
+      "latest_at": "2026-09-23T06:58:55.210131Z",
+      "primary_item": {
+        "id": "2e9e100dcf676be227106ebbe7fe9595e37d9a7c",
+        "title": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+        "url": "https://www.aibase.com/news/31291",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-09-23T06:58:55.210131Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 69,
         "enterprise_primary_topic": "model_platform_selection",
         "enterprise_topics": [
           "model_platform_selection"
@@ -117,15 +197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4911,
-      "importance": 0.4911,
-      "importance_score": 0.4911,
+      "score": 0.4798,
+      "importance": 0.4798,
+      "importance_score": 0.4798,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8348,
+        "recency": 0.7722,
         "story_heat": 0.0
       },
       "enterprise_score": 74,
@@ -196,15 +276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4919,
-      "importance": 0.4919,
-      "importance_score": 0.4919,
+      "score": 0.4805,
+      "importance": 0.4805,
+      "importance_score": 0.4805,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8393,
+        "recency": 0.7764,
         "story_heat": 0.0
       },
       "enterprise_score": 71,
