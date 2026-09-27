@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:36:17.329616Z",
+  "generated_at": "2026-09-27T23:29:24.558640Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,12 +48,12 @@
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
-          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
           "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
@@ -69,7 +69,7 @@
       "source_count": 6,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "authorsguild.org",
         "hackernews"
@@ -112,12 +112,12 @@
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
-          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
           "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
@@ -132,19 +132,19 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8558,
-      "importance": 0.8558,
-      "importance_score": 0.8558,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8513,
+        "recency": 0.8165,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -228,15 +228,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8051,
+        "recency": 0.7723,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -267,82 +267,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_5f69ca3f6ecb",
-      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-      "url": "https://www.ithome.com/1/007/447.htm",
-      "primary_url": "https://www.ithome.com/1/007/447.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7343,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T23:12:53Z",
-      "latest_at": "2026-09-26T23:12:53Z",
-      "primary_item": {
-        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "url": "https://www.ithome.com/1/007/447.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-09-26T23:12:53Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -454,15 +378,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6858,
-      "importance": 0.6858,
-      "importance_score": 0.6858,
+      "score": 0.6785,
+      "importance": 0.6785,
+      "importance_score": 0.6785,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 1.0,
+        "recency": 0.9592,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -521,18 +445,18 @@
           "published_at": "2026-09-27T18:02:43Z"
         },
         {
-          "id": "f0c3535cbbef1a1c0e4cde39985434f075945655",
+          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
           "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
           "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-27T17:32:02Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "Hacker News · 24h最热",
         "www.youtube.com"
       ],
@@ -556,26 +480,26 @@
           "published_at": "2026-09-27T18:02:43Z"
         },
         {
-          "id": "f0c3535cbbef1a1c0e4cde39985434f075945655",
+          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
           "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
           "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-27T17:32:02Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5664,
-      "importance": 0.5664,
-      "importance_score": 0.5664,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9757,
+        "recency": 0.9359,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -680,15 +604,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.5567,
+      "importance": 0.5567,
+      "importance_score": 0.5567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.961,
+        "recency": 0.9218,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -793,15 +717,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5592,
-      "importance": 0.5592,
-      "importance_score": 0.5592,
+      "score": 0.5523,
+      "importance": 0.5523,
+      "importance_score": 0.5523,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9357,
+        "recency": 0.8975,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -905,15 +829,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5487,
-      "importance": 0.5487,
-      "importance_score": 0.5487,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8773,
+        "recency": 0.8415,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -938,6 +862,99 @@
         "published_at": "2026-09-27T11:32:15.779000Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8656de0ae61e",
+      "title": "随着对人工智能安全性的担忧加剧，Anthropic首席执行官阿莫德伊将与特朗普会面",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b82fd1a08520ec05ddb328546448247dbae6acc8",
+          "title": "随着对人工智能安全性的担忧加剧，Anthropic首席执行官阿莫德伊将与特朗普会面",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T21:30:00.361000Z"
+        },
+        {
+          "id": "bc2a71df8dbf88c1f3109d941d862bc1ff3b695d",
+          "title": "随着对人工智能安全问题的担忧日益加剧，Anthropic首席执行官阿莫迪将与特朗普会面",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T19:09:19.327000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "b82fd1a08520ec05ddb328546448247dbae6acc8",
+          "title": "随着对人工智能安全性的担忧加剧，Anthropic首席执行官阿莫德伊将与特朗普会面",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T21:30:00.361000Z"
+        },
+        {
+          "id": "bc2a71df8dbf88c1f3109d941d862bc1ff3b695d",
+          "title": "随着对人工智能安全问题的担忧日益加剧，Anthropic首席执行官阿莫迪将与特朗普会面",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T19:09:19.327000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9717,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T19:09:19.327000Z",
+      "latest_at": "2026-09-27T21:30:00.361000Z",
+      "primary_item": {
+        "id": "b82fd1a08520ec05ddb328546448247dbae6acc8",
+        "title": "随着对人工智能安全性的担忧加剧，Anthropic首席执行官阿莫德伊将与特朗普会面",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-27T21:30:00.361000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -999,19 +1016,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9592,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -1093,15 +1110,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9548,
+        "recency": 0.9159,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1187,15 +1204,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9536,
+        "recency": 0.9147,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1281,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9424,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1375,15 +1392,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
+      "score": 0.5068,
+      "importance": 0.5068,
+      "importance_score": 0.5068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8167,
+        "recency": 0.7834,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1468,15 +1485,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5318,
+      "importance": 0.5318,
+      "importance_score": 0.5318,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9612,
+        "recency": 0.922,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1562,15 +1579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9323,
+        "recency": 0.8943,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1655,15 +1672,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5245,
+      "importance": 0.5245,
+      "importance_score": 0.5245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.919,
+        "recency": 0.8815,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1688,194 +1705,6 @@
         "published_at": "2026-09-27T14:45:07Z",
         "ai_score": 0.65,
         "ai_label": "curated_hotlist",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_26436e3a4f21",
-      "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-      "url": "https://news.ycombinator.com/item?id=49861047",
-      "primary_url": "https://news.ycombinator.com/item?id=49861047",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:26:55.052000Z"
-        },
-        {
-          "id": "8882243747d2b680700b5be08735873006e2916e",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T22:15:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:26:55.052000Z"
-        },
-        {
-          "id": "8882243747d2b680700b5be08735873006e2916e",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T22:15:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4965,
-      "importance": 0.4965,
-      "importance_score": 0.4965,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7262,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T22:15:32Z",
-      "latest_at": "2026-09-26T22:26:55.052000Z",
-      "primary_item": {
-        "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
-        "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-        "url": "https://news.ycombinator.com/item?id=49861047",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-09-26T22:26:55.052000Z",
-        "ai_score": 0.65,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_71ac5a164a1d",
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "primary_url": "https://arxiv.org/abs/2609.25021",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T10:26:25Z"
-        },
-        {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T10:26:25Z"
-        },
-        {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8635,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T10:26:25Z",
-      "latest_at": "2026-09-27T10:26:25Z",
-      "primary_item": {
-        "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "url": "https://arxiv.org/abs/2609.25021",
-        "source": "Hacker News",
-        "source_name": "TechURLs",
-        "published_at": "2026-09-27T10:26:25Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1936,15 +1765,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9181,
+        "recency": 0.8807,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -2030,15 +1859,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8674,
+        "recency": 0.832,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -2063,6 +1892,193 @@
         "published_at": "2026-09-27T10:45:08.393000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7614f7cbe655",
+      "title": "管住 AI，成了一门新生意",
+      "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.497,
+      "importance": 0.497,
+      "importance_score": 0.497,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7291,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T00:36:28Z",
+      "latest_at": "2026-09-27T01:36:37.459646Z",
+      "primary_item": {
+        "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+        "title": "管住 AI，成了一门新生意",
+        "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7e0074b08ca0",
+      "title": "Show HN: 我花了10个月时间为Mac、iOS和网页开发了一个Markdown编辑器 / Show HN: Building a Markdown editor for Mac, iOS and web",
+      "url": "https://www.markdown.beauty",
+      "primary_url": "https://www.markdown.beauty",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "3633ede48744d68172e964d913437da420f0066b",
+          "title": "Show HN: 我花了10个月时间为Mac、iOS和网页开发了一个Markdown编辑器 / Show HN: Building a Markdown editor for Mac, iOS and web",
+          "url": "https://www.markdown.beauty",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T13:44:45Z"
+        },
+        {
+          "id": "4808e5ad02dde4bf3351d3d19cfcfa7a225c34b7",
+          "title": "Show HN: 我花了10个月时间为Mac、iOS和网页开发了一个Markdown编辑器 / Show HN: I spent 10 months building a Markdown editor for Mac, iOS and web",
+          "url": "https://www.markdown.beauty",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T13:44:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "3633ede48744d68172e964d913437da420f0066b",
+          "title": "Show HN: 我花了10个月时间为Mac、iOS和网页开发了一个Markdown编辑器 / Show HN: Building a Markdown editor for Mac, iOS and web",
+          "url": "https://www.markdown.beauty",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T13:44:45Z"
+        },
+        {
+          "id": "4808e5ad02dde4bf3351d3d19cfcfa7a225c34b7",
+          "title": "Show HN: 我花了10个月时间为Mac、iOS和网页开发了一个Markdown编辑器 / Show HN: I spent 10 months building a Markdown editor for Mac, iOS and web",
+          "url": "https://www.markdown.beauty",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T13:44:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8687,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T13:44:45Z",
+      "latest_at": "2026-09-27T13:44:45Z",
+      "primary_item": {
+        "id": "3633ede48744d68172e964d913437da420f0066b",
+        "title": "Show HN: 我花了10个月时间为Mac、iOS和网页开发了一个Markdown编辑器 / Show HN: Building a Markdown editor for Mac, iOS and web",
+        "url": "https://www.markdown.beauty",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-09-27T13:44:45Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
