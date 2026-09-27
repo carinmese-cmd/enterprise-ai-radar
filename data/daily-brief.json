@@ -1,85 +1,1951 @@
 {
-  "generated_at": "2026-09-27T01:36:37.459646Z",
+  "generated_at": "2026-09-27T07:20:32.511189Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_26f8af68d957",
-      "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
-      "url": "https://x.com/emollick/status/2103709671865602100",
-      "primary_url": "https://x.com/emollick/status/2103709671865602100",
-      "source": "X：Ethan Mollick (@emollick)",
+      "story_id": "story_592647d55324",
+      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "df2eba3d064bf632a84420af8aa62989c9498848",
-          "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
-          "url": "https://x.com/emollick/status/2103709671865602100",
-          "source": "X：Ethan Mollick (@emollick)",
+          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
+          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-26T04:54:05Z"
+          "published_at": "2026-09-26T14:03:54Z"
+        },
+        {
+          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T00:34:02.450000Z"
+        },
+        {
+          "id": "01011a2fbd080ef7d07c52e69ad81c605e44f32b",
+          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T14:03:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖",
+        "www.bbc.com"
+      ],
+      "items": [
+        {
+          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
+          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T14:03:54Z"
+        },
+        {
+          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T00:34:02.450000Z"
+        },
+        {
+          "id": "01011a2fbd080ef7d07c52e69ad81c605e44f32b",
+          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T14:03:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7792,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T14:03:54Z",
+      "latest_at": "2026-09-27T00:34:02.450000Z",
+      "primary_item": {
+        "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
+        "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-26T14:03:54Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_77356f5f6ec0",
+      "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+      "url": "https://www.ithome.com/1/007/508.htm",
+      "primary_url": "https://www.ithome.com/1/007/508.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
+          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "url": "https://www.ithome.com/1/007/508.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-27T05:35:36Z"
+        },
+        {
+          "id": "4ab03a2865361344d5e2868e7e9834e96b0252fb",
+          "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
+          "url": "https://www.ithome.com/1/007/508.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T05:35:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
+          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "url": "https://www.ithome.com/1/007/508.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-27T05:35:36Z"
+        },
+        {
+          "id": "4ab03a2865361344d5e2868e7e9834e96b0252fb",
+          "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
+          "url": "https://www.ithome.com/1/007/508.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T05:35:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9751,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-27T05:35:36Z",
+      "latest_at": "2026-09-27T05:35:36Z",
+      "primary_item": {
+        "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
+        "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+        "url": "https://www.ithome.com/1/007/508.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-27T05:35:36Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_788f6e5fb511",
+      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "primary_url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T09:06:36Z"
+        },
+        {
+          "id": "fa17f9e122e7f4560ff849f5aa88d0b92afb7c93",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T09:06:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T09:06:36Z"
+        },
+        {
+          "id": "fa17f9e122e7f4560ff849f5aa88d0b92afb7c93",
+          "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+          "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T09:06:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7254,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 44,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T09:06:36Z",
+      "latest_at": "2026-09-26T09:06:36Z",
+      "primary_item": {
+        "id": "8bb42d704dc1b44b3f39331a484bce344dac7e1b",
+        "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+        "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-26T09:06:36Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5f69ca3f6ecb",
+      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "url": "https://www.ithome.com/1/007/447.htm",
+      "primary_url": "https://www.ithome.com/1/007/447.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "url": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:12:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Ethan Mollick (@emollick)"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "df2eba3d064bf632a84420af8aa62989c9498848",
-          "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
-          "url": "https://x.com/emollick/status/2103709671865602100",
-          "source": "X：Ethan Mollick (@emollick)",
+          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+          "url": "https://www.ithome.com/1/007/447.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-26T04:54:05Z"
+          "published_at": "2026-09-26T23:12:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8893,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T23:12:53Z",
+      "latest_at": "2026-09-26T23:12:53Z",
+      "primary_item": {
+        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
+        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "url": "https://www.ithome.com/1/007/447.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-26T23:12:53Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5e312e5a8d40",
+      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+      "url": "https://x.com/arena/status/2103893011164017018",
+      "primary_url": "https://x.com/arena/status/2103893011164017018",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
+          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+          "url": "https://x.com/arena/status/2103893011164017018",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T17:02:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
+          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+          "url": "https://x.com/arena/status/2103893011164017018",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T17:02:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7415,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
-      "enterprise_score": 73,
-      "enterprise_importance_score": 75,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "纯模型跑分或榜单信号降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：研究报告",
-      "enterprise_is_relevant": true,
+      "earliest_at": "2026-09-26T17:02:36Z",
+      "latest_at": "2026-09-26T17:02:36Z",
+      "primary_item": {
+        "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
+        "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+        "url": "https://x.com/arena/status/2103893011164017018",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-26T17:02:36Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "纯模型跑分或榜单信号降权"
+      }
+    },
+    {
+      "story_id": "story_ee9b8774a2c5",
+      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+      "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "primary_url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
+          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:55:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
+          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:55:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8985,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-26T04:54:05Z",
-      "latest_at": "2026-09-26T04:54:05Z",
+      "earliest_at": "2026-09-26T23:55:49Z",
+      "latest_at": "2026-09-26T23:55:49Z",
       "primary_item": {
-        "id": "df2eba3d064bf632a84420af8aa62989c9498848",
-        "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
-        "url": "https://x.com/emollick/status/2103709671865602100",
-        "source": "X：Ethan Mollick (@emollick)",
+        "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
+        "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+        "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT",
-        "published_at": "2026-09-26T04:54:05Z",
+        "published_at": "2026-09-26T23:55:49Z",
         "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_eb055a4409b6",
+      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+      "url": "https://www.ithome.com/1/007/444.htm",
+      "primary_url": "https://www.ithome.com/1/007/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
+        },
+        {
+          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
+          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T15:44:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
+        },
+        {
+          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
+          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T15:44:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7982,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T15:44:10Z",
+      "latest_at": "2026-09-26T15:44:10Z",
+      "primary_item": {
+        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "url": "https://www.ithome.com/1/007/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-09-26T15:44:10Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "成峰这篇文章拆解了10个关于Opus 5.5的实测案例，讲清了Claude用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。此外他还复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。想用 AI 做短片、动画、视觉内容的创作者不要错过，能少走很多“只会写提示词却做不出片”的弯路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-26",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "17e18810cd60e1255dfab9293addf01debcba244",
+          "title": "成峰这篇文章拆解了10个关于Opus 5.5的实测案例，讲清了Claude用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。此外他还复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。想用 AI 做短片、动画、视觉内容的创作者不要错过，能少走很多“只会写提示词却做不出片”的弯路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-27T07:20:32.511189Z"
+        },
+        {
+          "id": "5957c3d8e53f744a4e9e61e3eb2b674787147ffd",
+          "title": "Opus 5.5 刷屏后，光看成片很容易只感叹“审美强”，但更关键的是它怎么把画面一步步做出来。梦飞这篇文章拆解了 10 个实测案例，讲清 Claude 用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。他还把玩法分成 2D 动画、three.js 3D 场景、多模型混合三类，并复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-26T17:50:35.853670Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "社区更新 · 2026-09-25",
+        "社区更新 · 2026-09-26"
+      ],
+      "items": [
+        {
+          "id": "17e18810cd60e1255dfab9293addf01debcba244",
+          "title": "成峰这篇文章拆解了10个关于Opus 5.5的实测案例，讲清了Claude用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。此外他还复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。想用 AI 做短片、动画、视觉内容的创作者不要错过，能少走很多“只会写提示词却做不出片”的弯路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-27T07:20:32.511189Z"
+        },
+        {
+          "id": "5957c3d8e53f744a4e9e61e3eb2b674787147ffd",
+          "title": "Opus 5.5 刷屏后，光看成片很容易只感叹“审美强”，但更关键的是它怎么把画面一步步做出来。梦飞这篇文章拆解了 10 个实测案例，讲清 Claude 用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。他还把玩法分成 2D 动画、three.js 3D 场景、多模型混合三类，并复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-26T17:50:35.853670Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T17:50:35.853670Z",
+      "latest_at": "2026-09-27T07:20:32.511189Z",
+      "primary_item": {
+        "id": "17e18810cd60e1255dfab9293addf01debcba244",
+        "title": "成峰这篇文章拆解了10个关于Opus 5.5的实测案例，讲清了Claude用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。此外他还复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。想用 AI 做短片、动画、视觉内容的创作者不要错过，能少走很多“只会写提示词却做不出片”的弯路。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-26",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-09-27T07:20:32.511189Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_819e92326da0",
+      "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T16:34:59Z"
+        },
+        {
+          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T21:07:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T16:34:59Z"
+        },
+        {
+          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T21:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5934,
+      "importance": 0.5934,
+      "importance_score": 0.5934,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.808,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 40,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T16:34:59Z",
+      "latest_at": "2026-09-26T21:07:08Z",
+      "primary_item": {
+        "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
+        "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "source": "The Verge",
+        "source_name": "Curated Media",
+        "published_at": "2026-09-26T16:34:59Z",
+        "ai_score": 0.71,
+        "ai_label": "research_paper",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ab6a90f5d123",
+      "title": "没有人工智能的一个月",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "primary_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "source": "blog.bustikiller.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
+          "title": "没有人工智能的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T06:34:57.492000Z"
+        },
+        {
+          "id": "33f06710c9b841c0a71f3e0502f42757de593fac",
+          "title": "没有AI的一个月 / One month without AI",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:22:21Z"
+        },
+        {
+          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+          "title": "没有AI的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:03.398000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "blog.bustikiller.com"
+      ],
+      "items": [
+        {
+          "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
+          "title": "没有人工智能的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T06:34:57.492000Z"
+        },
+        {
+          "id": "33f06710c9b841c0a71f3e0502f42757de593fac",
+          "title": "没有AI的一个月 / One month without AI",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:22:21Z"
+        },
+        {
+          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
+          "title": "没有AI的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:03.398000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9891,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T13:48:03.398000Z",
+      "latest_at": "2026-09-27T06:34:57.492000Z",
+      "primary_item": {
+        "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
+        "title": "没有人工智能的一个月",
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "source": "blog.bustikiller.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-27T06:34:57.492000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a06eefcaabe4",
+      "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "primary_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "source": "www.privatemode.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "www.privatemode.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T02:23:00.585000Z"
+        },
+        {
+          "id": "19bc13238fe8adb0debe13c9547bcb98bb9126f1",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turn GLM-5.3-Flash into a Jev-like System One model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T02:07:23Z"
+        },
+        {
+          "id": "b13d1a759be34131d423297484d2c51f4cf22037",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:49:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Lobsters (技术社区)",
+        "www.privatemode.ai"
+      ],
+      "items": [
+        {
+          "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "www.privatemode.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T02:23:00.585000Z"
+        },
+        {
+          "id": "19bc13238fe8adb0debe13c9547bcb98bb9126f1",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turn GLM-5.3-Flash into a Jev-like System One model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T02:07:23Z"
+        },
+        {
+          "id": "b13d1a759be34131d423297484d2c51f4cf22037",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:49:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9309,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T15:49:04Z",
+      "latest_at": "2026-09-27T02:23:00.585000Z",
+      "primary_item": {
+        "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
+        "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "source": "www.privatemode.ai",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-27T02:23:00.585000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_755e3dc914b2",
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "primary_url": "https://arxiv.org/abs/2609.22978",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5503,
+      "importance": 0.5503,
+      "importance_score": 0.5503,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8862,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T18:22:41Z",
+      "latest_at": "2026-09-26T22:58:22.682000Z",
+      "primary_item": {
+        "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+        "title": "DeepSeek 弹性计算 (DSec)",
+        "url": "https://arxiv.org/abs/2609.22978",
+        "source": "arxiv.org",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-26T22:58:22.682000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_53c6959c1870",
+      "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "primary_url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "discourse.haskell.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "如何在法学硕士的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "discourse.haskell.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "discourse.haskell.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:03.489000Z"
+        },
+        {
+          "id": "036f1d7ce9ae9bcd85b497ece718c0da9299a7f9",
+          "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情 / How to keep enjoying programming in a world of LLMs",
+          "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:41:58Z"
+        },
+        {
+          "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
+          "title": "如何在法学硕士的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49854875",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:41:58Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8534,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:41:58Z",
+      "latest_at": "2026-09-26T20:22:03.489000Z",
+      "primary_item": {
+        "id": "b35db09005f0ab7fd2b83aef53bde3a713de80c7",
+        "title": "在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情",
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "source": "discourse.haskell.org",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-26T20:22:03.489000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_48a4a9c4535a",
+      "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "primary_url": "https://github.com/brumar/chess-postmortem-skills",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "84068edbb928ff851882d1d0fc8d76bf6a5ba0c1",
+          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T15:39:14.339000Z"
+        },
+        {
+          "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
+          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:34:53Z"
+        },
+        {
+          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
+          "title": "展示 HN：分析国际象棋比赛的克劳德代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://news.ycombinator.com/item?id=49857528",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:34:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "84068edbb928ff851882d1d0fc8d76bf6a5ba0c1",
+          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T15:39:14.339000Z"
+        },
+        {
+          "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
+          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:34:53Z"
+        },
+        {
+          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
+          "title": "展示 HN：分析国际象棋比赛的克劳德代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://news.ycombinator.com/item?id=49857528",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T15:34:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7973,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T15:34:53Z",
+      "latest_at": "2026-09-26T15:39:14.339000Z",
+      "primary_item": {
+        "id": "84068edbb928ff851882d1d0fc8d76bf6a5ba0c1",
+        "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
+        "url": "https://github.com/brumar/chess-postmortem-skills",
+        "source": "github.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-26T15:39:14.339000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7614f7cbe655",
+      "title": "管住 AI，成了一门新生意",
+      "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9206,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T00:36:28Z",
+      "latest_at": "2026-09-27T01:36:37.459646Z",
+      "primary_item": {
+        "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+        "title": "管住 AI，成了一门新生意",
+        "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_26436e3a4f21",
+      "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
+      "url": "https://news.ycombinator.com/item?id=49861047",
+      "primary_url": "https://news.ycombinator.com/item?id=49861047",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
+          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:26:55.052000Z"
+        },
+        {
+          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
+          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T22:15:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
+          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:26:55.052000Z"
+        },
+        {
+          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
+          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T22:15:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8795,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T22:15:32Z",
+      "latest_at": "2026-09-26T22:26:55.052000Z",
+      "primary_item": {
+        "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
+        "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
+        "url": "https://news.ycombinator.com/item?id=49861047",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-26T22:26:55.052000Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_4692bb4bba3b",
+      "title": "Copilot 电脑品牌已不复存在",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "source": "www.windowscentral.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T21:55:10.332000Z"
+        },
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.windowscentral.com"
+      ],
+      "items": [
+        {
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T21:55:10.332000Z"
+        },
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8728,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:55:38Z",
+      "latest_at": "2026-09-26T21:55:10.332000Z",
+      "primary_item": {
+        "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+        "title": "Copilot 电脑品牌已不复存在",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "source": "www.windowscentral.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-26T21:55:10.332000Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_890d693f27fb",
+      "title": "mobile-next / mobile-mcp",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "primary_url": "https://github.com/mobile-next/mobile-mcp",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "772ea7f73094f82fd60c4825914e651a4688c675",
+          "title": "mobile-next / mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d4e17936f31903f88bcd813c53dd56fc63e7b6d9",
+          "title": "mobile-next /      mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T17:38:59.562000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "772ea7f73094f82fd60c4825914e651a4688c675",
+          "title": "mobile-next / mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d4e17936f31903f88bcd813c53dd56fc63e7b6d9",
+          "title": "mobile-next /      mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T17:38:59.562000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5139,
+      "importance": 0.5139,
+      "importance_score": 0.5139,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8229,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T17:38:59.562000Z",
+      "latest_at": "2026-09-26T17:50:35.853670Z",
+      "primary_item": {
+        "id": "772ea7f73094f82fd60c4825914e651a4688c675",
+        "title": "mobile-next / mobile-mcp",
+        "url": "https://github.com/mobile-next/mobile-mcp",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_464712ef80ec",
+      "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "primary_url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
+          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T17:43:11Z"
+        },
+        {
+          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
+          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners, throwing futures into doubt",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T17:43:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
+          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T17:43:11Z"
+        },
+        {
+          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
+          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners, throwing futures into doubt",
+          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T17:43:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5137,
+      "importance": 0.5137,
+      "importance_score": 0.5137,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8214,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T17:43:11Z",
+      "latest_at": "2026-09-26T17:43:11Z",
+      "primary_item": {
+        "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
+        "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
+        "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-09-26T17:43:11Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_37a987416051",
+      "title": "OpenAI 揭示了人工智能时代最重要的职场技能",
+      "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+      "primary_url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "94d6dce1cce0fe0e75e907c94db4fc2d77bfa8a7",
+          "title": "OpenAI 揭示了人工智能时代最重要的职场技能",
+          "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:04.254000Z"
+        },
+        {
+          "id": "03e6221c1b9d1ac4e169fd0e19de22bfe0b0c675",
+          "title": "OpenAI 揭示了人工智能时代最重要的职场技能 / OpenAI reveals the AI-era workplace skills that matter most",
+          "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T13:00:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "94d6dce1cce0fe0e75e907c94db4fc2d77bfa8a7",
+          "title": "OpenAI 揭示了人工智能时代最重要的职场技能",
+          "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T13:48:04.254000Z"
+        },
+        {
+          "id": "03e6221c1b9d1ac4e169fd0e19de22bfe0b0c675",
+          "title": "OpenAI 揭示了人工智能时代最重要的职场技能 / OpenAI reveals the AI-era workplace skills that matter most",
+          "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T13:00:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7762,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T13:00:02Z",
+      "latest_at": "2026-09-26T13:48:04.254000Z",
+      "primary_item": {
+        "id": "94d6dce1cce0fe0e75e907c94db4fc2d77bfa8a7",
+        "title": "OpenAI 揭示了人工智能时代最重要的职场技能",
+        "url": "https://www.businessinsider.com/openai-reveals-workplace-skills-ai-cant-automate-easily-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-26T13:48:04.254000Z",
+        "ai_score": 0.65,
         "ai_label": "ai_product_update",
-        "enterprise_score": 73,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：研究报告"
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
