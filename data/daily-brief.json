@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T13:10:35.034498Z",
+  "generated_at": "2026-09-27T17:51:58.755065Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_9fe0a063f817",
@@ -46,11 +46,30 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
+          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "source_names": [
         "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "authorsguild.org",
         "hackernews"
@@ -91,20 +110,38 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
+          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
-        "story_heat": 0.75
+        "recency": 0.8856,
+        "story_heat": 1.0
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 42,
@@ -134,121 +171,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_592647d55324",
-      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
-          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T00:34:02.450000Z"
-        },
-        {
-          "id": "01011a2fbd080ef7d07c52e69ad81c605e44f32b",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "www.bbc.com"
-      ],
-      "items": [
-        {
-          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
-          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T00:34:02.450000Z"
-        },
-        {
-          "id": "01011a2fbd080ef7d07c52e69ad81c605e44f32b",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7162,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-27T00:34:02.450000Z",
-      "primary_item": {
-        "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-        "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT",
-        "published_at": "2026-09-26T14:03:54Z",
-        "ai_score": 1.0,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -306,15 +228,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8963,
+        "recency": 0.8376,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -383,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8174,
+        "recency": 0.7639,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -425,252 +347,6 @@
       }
     },
     {
-      "story_id": "story_5e312e5a8d40",
-      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-      "url": "https://x.com/arena/status/2103893011164017018",
-      "primary_url": "https://x.com/arena/status/2103893011164017018",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "url": "https://x.com/arena/status/2103893011164017018",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "url": "https://x.com/arena/status/2103893011164017018",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7477,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "纯模型跑分或榜单信号降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T17:02:36Z",
-      "latest_at": "2026-09-26T17:02:36Z",
-      "primary_item": {
-        "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-        "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-        "url": "https://x.com/arena/status/2103893011164017018",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT",
-        "published_at": "2026-09-26T17:02:36Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "纯模型跑分或榜单信号降权"
-      }
-    },
-    {
-      "story_id": "story_ee9b8774a2c5",
-      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-      "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-      "primary_url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
-          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:55:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
-          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:55:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8259,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T23:55:49Z",
-      "latest_at": "2026-09-26T23:55:49Z",
-      "primary_item": {
-        "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
-        "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-        "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-09-26T23:55:49Z",
-        "ai_score": 1.0,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_eb055a4409b6",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "url": "https://www.ithome.com/1/007/444.htm",
-      "primary_url": "https://www.ithome.com/1/007/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        },
-        {
-          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
-          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        },
-        {
-          "id": "1ebd21dbee1c41c2053f39d65a1cf59ce4b444c4",
-          "title": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7337,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T15:44:10Z",
-      "latest_at": "2026-09-26T15:44:10Z",
-      "primary_item": {
-        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "url": "https://www.ithome.com/1/007/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-09-26T15:44:10Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
       "story_id": "story_2df82173bb28",
       "title": "GEO最难的环节，已经从“怎么让 AI 提到我”，转到“线索怎么算、ROI 怎么证明”。乔木老师和姚老师的第五次GEO公开课把GEO效果如何归因拆得很系统：围绕直接转化、延迟效应、渠道协同、间接转化，给出了专属电话、口令、页面、表单、销售追问、词根级 A/B 测试等方法。适合做GEO服务、品牌增长、AI营销的人收藏，读完你会更清楚预算该怎么投、效果该怎么证明。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -695,20 +371,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-27T07:20:32.511189Z"
-        },
-        {
-          "id": "5957c3d8e53f744a4e9e61e3eb2b674787147ffd",
-          "title": "Opus 5.5 刷屏后，光看成片很容易只感叹“审美强”，但更关键的是它怎么把画面一步步做出来。梦飞这篇文章拆解了 10 个实测案例，讲清 Claude 用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。他还把玩法分成 2D 动画、three.js 3D 场景、多模型混合三类，并复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-26T17:50:35.853670Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "社区更新 · 2026-09-25",
         "社区更新 · 2026-09-26"
       ],
       "items": [
@@ -729,42 +395,33 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-27T07:20:32.511189Z"
-        },
-        {
-          "id": "5957c3d8e53f744a4e9e61e3eb2b674787147ffd",
-          "title": "Opus 5.5 刷屏后，光看成片很容易只感叹“审美强”，但更关键的是它怎么把画面一步步做出来。梦飞这篇文章拆解了 10 个实测案例，讲清 Claude 用代码逐帧“画”视频的思路：生成画面、渲染截图、自己检查、继续修改。他还把玩法分成 2D 动画、three.js 3D 场景、多模型混合三类，并复盘了中秋短片《咬了一口月亮》的分镜、角色设定、音效和成本。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-26T17:50:35.853670Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6192,
-      "importance": 0.6192,
-      "importance_score": 0.6192,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5824,
+      "importance": 0.5824,
+      "importance_score": 0.5824,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.5
+        "recency": 0.9345,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 45,
+      "enterprise_importance_score": 44,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "methodology_evaluation",
       "enterprise_reason": "内容类型：方法与评估；包含实施、架构、指标或结果信号；泛科技、融资、消费或内容生成噪声降权",
       "enterprise_is_relevant": false,
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T17:50:35.853670Z",
+      "earliest_at": "2026-09-27T07:20:32.511189Z",
       "latest_at": "2026-09-27T13:10:35.034498Z",
       "primary_item": {
         "id": "bbb61f9a61f4469936d30dd7c303c5f3d097684d",
@@ -780,6 +437,119 @@
         "enterprise_topics": [],
         "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "内容类型：方法与评估；包含实施、架构、指标或结果信号；泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_52125ba00b41",
+      "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+      "url": "https://tinyaiarena.com",
+      "primary_url": "https://tinyaiarena.com",
+      "source": "tinyaiarena.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "url": "https://tinyaiarena.com",
+          "source": "tinyaiarena.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T16:00:00.241000Z"
+        },
+        {
+          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://tinyaiarena.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T15:51:28Z"
+        },
+        {
+          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
+          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://news.ycombinator.com/item?id=49867775",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T15:51:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "tinyaiarena.com"
+      ],
+      "items": [
+        {
+          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "url": "https://tinyaiarena.com",
+          "source": "tinyaiarena.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T16:00:00.241000Z"
+        },
+        {
+          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://tinyaiarena.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T15:51:28Z"
+        },
+        {
+          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
+          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://news.ycombinator.com/item?id=49867775",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T15:51:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9734,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T15:51:28Z",
+      "latest_at": "2026-09-27T16:00:00.241000Z",
+      "primary_item": {
+        "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
+        "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+        "url": "https://tinyaiarena.com",
+        "source": "tinyaiarena.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-27T16:00:00.241000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -816,20 +586,10 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-09-27T02:07:23Z"
-        },
-        {
-          "id": "8f9fe70b05060021e35e2f9d44befcaba19f973c",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Lobsters (技术社区)",
         "www.privatemode.ai"
       ],
@@ -860,29 +620,20 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-09-27T02:07:23Z"
-        },
-        {
-          "id": "8f9fe70b05060021e35e2f9d44befcaba19f973c",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5916,
-      "importance": 0.5916,
-      "importance_score": 0.5916,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5551,
+      "importance": 0.5551,
+      "importance_score": 0.5551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9766,
-        "story_heat": 0.75
+        "recency": 0.9127,
+        "story_heat": 0.5
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 36,
@@ -895,7 +646,7 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:49:04Z",
+      "earliest_at": "2026-09-27T02:07:23Z",
       "latest_at": "2026-09-27T11:32:15.779000Z",
       "primary_item": {
         "id": "2c07064135493a697f86987ecc808851d594ee81",
@@ -914,72 +665,71 @@
       }
     },
     {
-      "story_id": "story_819e92326da0",
-      "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_6cbde97d8260",
+      "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
-          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-26T16:34:59Z"
+          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
+          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
-          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T21:07:08Z"
+          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
+          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "The Verge"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
-          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-26T16:34:59Z"
+          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
+          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
-          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T21:07:08Z"
+          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
+          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5817,
-      "importance": 0.5817,
-      "importance_score": 0.5817,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7428,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 39,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -989,127 +739,15 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T16:34:59Z",
-      "latest_at": "2026-09-26T21:07:08Z",
+      "earliest_at": "2026-09-27T01:36:37.459646Z",
+      "latest_at": "2026-09-27T17:51:58.755065Z",
       "primary_item": {
-        "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
-        "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-        "source": "The Verge",
-        "source_name": "Curated Media",
-        "published_at": "2026-09-26T16:34:59Z",
-        "ai_score": 0.71,
-        "ai_label": "research_paper",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_ab6a90f5d123",
-      "title": "没有人工智能的一个月",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "primary_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "source": "blog.bustikiller.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
-          "title": "没有人工智能的一个月",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "blog.bustikiller.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T06:34:57.492000Z"
-        },
-        {
-          "id": "33f06710c9b841c0a71f3e0502f42757de593fac",
-          "title": "没有AI的一个月 / One month without AI",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T06:22:21Z"
-        },
-        {
-          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
-          "title": "没有AI的一个月",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "blog.bustikiller.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T13:48:03.398000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "blog.bustikiller.com"
-      ],
-      "items": [
-        {
-          "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
-          "title": "没有人工智能的一个月",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "blog.bustikiller.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T06:34:57.492000Z"
-        },
-        {
-          "id": "33f06710c9b841c0a71f3e0502f42757de593fac",
-          "title": "没有AI的一个月 / One month without AI",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T06:22:21Z"
-        },
-        {
-          "id": "0a783f5d61490437f8eaf4f51e6e12bd884e35f6",
-          "title": "没有AI的一个月",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "blog.bustikiller.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T13:48:03.398000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5545,
-      "importance": 0.5545,
-      "importance_score": 0.5545,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9092,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T13:48:03.398000Z",
-      "latest_at": "2026-09-27T06:34:57.492000Z",
-      "primary_item": {
-        "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
-        "title": "没有人工智能的一个月",
-        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-        "source": "blog.bustikiller.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-09-27T06:34:57.492000Z",
+        "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
+        "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1120,30 +758,30 @@
       }
     },
     {
-      "story_id": "story_fa0a47e1b5bd",
-      "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-      "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-      "primary_url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "story_id": "story_a9972c37e8d1",
+      "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+      "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+      "primary_url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
+          "published_at": "2026-09-27T17:18:54.824000Z"
         },
         {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "3dbfe352d3dc28d2e5204fb6ecc9867cf6cdceb9",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代” / Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
+          "published_at": "2026-09-27T16:55:13Z"
         }
       ],
       "source_count": 2,
@@ -1153,39 +791,39 @@
       ],
       "items": [
         {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
+          "published_at": "2026-09-27T17:18:54.824000Z"
         },
         {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "3dbfe352d3dc28d2e5204fb6ecc9867cf6cdceb9",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代” / Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
+          "published_at": "2026-09-27T16:55:13Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9921,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1195,15 +833,15 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T10:00:01Z",
-      "latest_at": "2026-09-27T10:45:08.393000Z",
+      "earliest_at": "2026-09-27T16:55:13Z",
+      "latest_at": "2026-09-27T17:18:54.824000Z",
       "primary_item": {
-        "id": "6e8a72db35aa150e337602a81210a750676285f7",
-        "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-        "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+        "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
+        "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+        "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing",
-        "published_at": "2026-09-27T10:45:08.393000Z",
+        "published_at": "2026-09-27T17:18:54.824000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1214,72 +852,72 @@
       }
     },
     {
-      "story_id": "story_71ac5a164a1d",
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "primary_url": "https://arxiv.org/abs/2609.25021",
+      "story_id": "story_f13e6555ace6",
+      "title": "随着有关AI代理失控的报道日益增多，OpenAI暂停了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "primary_url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://arxiv.org/abs/2609.25021",
+          "id": "b2f876ac7b415b99b52e81e1aed2a2f52434b09e",
+          "title": "随着有关AI代理失控的报道日益增多，OpenAI暂停了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T10:26:25Z"
+          "published_at": "2026-09-27T16:29:38Z"
         },
         {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
+          "id": "fb24189d73e0a543f47d86eacb183c1fa0febf0b",
+          "title": "随着有关AI代理失控的报道日益增多，OpenAI暂停了最新模型的训练",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T03:10:03.962000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "hackernews"
+        "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://arxiv.org/abs/2609.25021",
+          "id": "b2f876ac7b415b99b52e81e1aed2a2f52434b09e",
+          "title": "随着有关AI代理失控的报道日益增多，OpenAI暂停了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T10:26:25Z"
+          "published_at": "2026-09-27T16:29:38Z"
         },
         {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
+          "id": "fb24189d73e0a543f47d86eacb183c1fa0febf0b",
+          "title": "随着有关AI代理失控的报道日益增多，OpenAI暂停了最新模型的训练",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T03:10:03.962000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9613,
+        "recency": 0.9804,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1289,111 +927,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T10:26:25Z",
-      "latest_at": "2026-09-27T10:26:25Z",
+      "earliest_at": "2026-09-27T03:10:03.962000Z",
+      "latest_at": "2026-09-27T16:29:38Z",
       "primary_item": {
-        "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "url": "https://arxiv.org/abs/2609.25021",
+        "id": "b2f876ac7b415b99b52e81e1aed2a2f52434b09e",
+        "title": "随着有关AI代理失控的报道日益增多，OpenAI暂停了最新模型的训练 / OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
         "source": "Hacker News",
         "source_name": "TechURLs",
-        "published_at": "2026-09-27T10:26:25Z",
+        "published_at": "2026-09-27T16:29:38Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a922caa29d65",
-      "title": "一位代理通过DNS连接到一个外部聊天机器人",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "source": "alignment.openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人",
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "alignment.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:33.203000Z"
-        },
-        {
-          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T15:43:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "alignment.openai.com"
-      ],
-      "items": [
-        {
-          "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人",
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "alignment.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:33.203000Z"
-        },
-        {
-          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T15:43:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9585,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T15:43:46Z",
-      "latest_at": "2026-09-27T10:14:33.203000Z",
-      "primary_item": {
-        "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
-        "title": "一位代理通过DNS连接到一个外部聊天机器人",
-        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-        "source": "alignment.openai.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-09-27T10:14:33.203000Z",
-        "ai_score": 0.65,
-        "ai_label": "robotics",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1419,12 +963,12 @@
           "published_at": "2026-09-26T22:58:22.682000Z"
         },
         {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
           "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
           "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-26T18:22:41Z"
         },
         {
@@ -1439,7 +983,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "arxiv.org",
         "hackernews"
       ],
@@ -1454,12 +998,12 @@
           "published_at": "2026-09-26T22:58:22.682000Z"
         },
         {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
+          "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
           "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
           "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-26T18:22:41Z"
         },
         {
@@ -1474,15 +1018,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8146,
+        "recency": 0.7612,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1515,181 +1059,68 @@
       }
     },
     {
-      "story_id": "story_48a4a9c4535a",
-      "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
-      "primary_url": "https://github.com/brumar/chess-postmortem-skills",
-      "source": "github.com",
+      "story_id": "story_ab6a90f5d123",
+      "title": "没有人工智能的一个月",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "primary_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "source": "blog.bustikiller.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "84068edbb928ff851882d1d0fc8d76bf6a5ba0c1",
-          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
-          "url": "https://github.com/brumar/chess-postmortem-skills",
-          "source": "github.com",
+          "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
+          "title": "没有人工智能的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-26T15:39:14.339000Z"
+          "published_at": "2026-09-27T06:34:57.492000Z"
         },
         {
-          "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
-          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "url": "https://github.com/brumar/chess-postmortem-skills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T15:34:53Z"
-        },
-        {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "展示 HN：分析国际象棋比赛的克劳德代码技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "url": "https://news.ycombinator.com/item?id=49857528",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "84068edbb928ff851882d1d0fc8d76bf6a5ba0c1",
-          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
-          "url": "https://github.com/brumar/chess-postmortem-skills",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T15:39:14.339000Z"
-        },
-        {
-          "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
-          "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "url": "https://github.com/brumar/chess-postmortem-skills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T15:34:53Z"
-        },
-        {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "展示 HN：分析国际象棋比赛的克劳德代码技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "url": "https://news.ycombinator.com/item?id=49857528",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7329,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T15:34:53Z",
-      "latest_at": "2026-09-26T15:39:14.339000Z",
-      "primary_item": {
-        "id": "84068edbb928ff851882d1d0fc8d76bf6a5ba0c1",
-        "title": "Show HN: 一项用于分析你的国际象棋对局的Claude Code技能",
-        "url": "https://github.com/brumar/chess-postmortem-skills",
-        "source": "github.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-09-26T15:39:14.339000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_7614f7cbe655",
-      "title": "管住 AI，成了一门新生意",
-      "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4894076.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
-          "title": "管住 AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d983110d63d05bc35941227018b15ed274f52930",
-          "title": "管住AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "33f06710c9b841c0a71f3e0502f42757de593fac",
+          "title": "没有人工智能的一个月 / One month without AI",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-27T00:36:28Z"
+          "published_at": "2026-09-27T06:22:21Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Lobsters (技术社区)",
+        "blog.bustikiller.com"
       ],
       "items": [
         {
-          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
-          "title": "管住 AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
+          "title": "没有人工智能的一个月",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "blog.bustikiller.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T06:34:57.492000Z"
         },
         {
-          "id": "d983110d63d05bc35941227018b15ed274f52930",
-          "title": "管住AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "33f06710c9b841c0a71f3e0502f42757de593fac",
+          "title": "没有人工智能的一个月 / One month without AI",
+          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-27T00:36:28Z"
+          "published_at": "2026-09-27T06:22:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8462,
+        "recency": 0.8496,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1703,15 +1134,203 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T00:36:28Z",
-      "latest_at": "2026-09-27T01:36:37.459646Z",
+      "earliest_at": "2026-09-27T06:22:21Z",
+      "latest_at": "2026-09-27T06:34:57.492000Z",
       "primary_item": {
-        "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
-        "title": "管住 AI，成了一门新生意",
-        "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
+        "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
+        "title": "没有人工智能的一个月",
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "source": "blog.bustikiller.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-27T06:34:57.492000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_4aa8cdc749d3",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "primary_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "title": "There are no \"rogue\" AI agents",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:19:46Z"
+        },
+        {
+          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
+          "title": "There are no \"rogue\" AI agents",
+          "url": "https://news.ycombinator.com/item?id=49868083",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T16:19:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "title": "There are no \"rogue\" AI agents",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:19:46Z"
+        },
+        {
+          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
+          "title": "There are no \"rogue\" AI agents",
+          "url": "https://news.ycombinator.com/item?id=49868083",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T16:19:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9781,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T16:19:46Z",
+      "latest_at": "2026-09-27T16:19:46Z",
+      "primary_item": {
+        "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+        "title": "There are no \"rogue\" AI agents",
+        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+        "source": "Hacker News",
+        "source_name": "TechURLs",
+        "published_at": "2026-09-27T16:19:46Z",
+        "ai_score": 0.65,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a62f66c93218",
+      "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+      "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+      "primary_url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T15:45:11.702000Z"
+        },
+        {
+          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T15:39:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T15:45:11.702000Z"
+        },
+        {
+          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T15:39:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9699,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T15:39:24Z",
+      "latest_at": "2026-09-27T15:45:11.702000Z",
+      "primary_item": {
+        "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
+        "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+        "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-27T15:45:11.702000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1775,15 +1394,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5113,
-      "importance": 0.5113,
-      "importance_score": 0.5113,
+      "score": 0.5018,
+      "importance": 0.5018,
+      "importance_score": 0.5018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8084,
+        "recency": 0.7555,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1808,6 +1427,382 @@
         "published_at": "2026-09-26T22:26:55.052000Z",
         "ai_score": 0.65,
         "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_7614f7cbe655",
+      "title": "管住 AI，成了一门新生意",
+      "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4894076.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+          "title": "管住 AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d983110d63d05bc35941227018b15ed274f52930",
+          "title": "管住AI，成了一门新生意",
+          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T00:36:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5081,
+      "importance": 0.5081,
+      "importance_score": 0.5081,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7908,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T00:36:28Z",
+      "latest_at": "2026-09-27T01:36:37.459646Z",
+      "primary_item": {
+        "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
+        "title": "管住 AI，成了一门新生意",
+        "url": "https://www.huxiu.com/article/4894076.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_fa0a47e1b5bd",
+      "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+      "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "primary_url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6e8a72db35aa150e337602a81210a750676285f7",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:45:08.393000Z"
+        },
+        {
+          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6e8a72db35aa150e337602a81210a750676285f7",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:45:08.393000Z"
+        },
+        {
+          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9024,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T10:00:01Z",
+      "latest_at": "2026-09-27T10:45:08.393000Z",
+      "primary_item": {
+        "id": "6e8a72db35aa150e337602a81210a750676285f7",
+        "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+        "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-27T10:45:08.393000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d1c9c2119b74",
+      "title": "人工智能代理将人类排除在决策循环之外",
+      "url": "https://arxiv.org/abs/2608.23642",
+      "primary_url": "https://arxiv.org/abs/2608.23642",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "104ac66a9ec2dfa132aa394419796937917021de",
+          "title": "人工智能代理将人类排除在决策循环之外",
+          "url": "https://arxiv.org/abs/2608.23642",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:04.648000Z"
+        },
+        {
+          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
+          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
+          "url": "https://arxiv.org/abs/2608.23642",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T19:21:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arxiv.org"
+      ],
+      "items": [
+        {
+          "id": "104ac66a9ec2dfa132aa394419796937917021de",
+          "title": "人工智能代理将人类排除在决策循环之外",
+          "url": "https://arxiv.org/abs/2608.23642",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T20:22:04.648000Z"
+        },
+        {
+          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
+          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
+          "url": "https://arxiv.org/abs/2608.23642",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T19:21:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4978,
+      "importance": 0.4978,
+      "importance_score": 0.4978,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7331,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T19:21:56Z",
+      "latest_at": "2026-09-26T20:22:04.648000Z",
+      "primary_item": {
+        "id": "104ac66a9ec2dfa132aa394419796937917021de",
+        "title": "人工智能代理将人类排除在决策循环之外",
+        "url": "https://arxiv.org/abs/2608.23642",
+        "source": "arxiv.org",
+        "source_name": "Buzzing",
+        "published_at": "2026-09-26T20:22:04.648000Z",
+        "ai_score": 0.65,
+        "ai_label": "research_paper",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_71ac5a164a1d",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "primary_url": "https://arxiv.org/abs/2609.25021",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8983,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T10:26:25Z",
+      "latest_at": "2026-09-27T10:26:25Z",
+      "primary_item": {
+        "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "url": "https://arxiv.org/abs/2609.25021",
+        "source": "Hacker News",
+        "source_name": "TechURLs",
+        "published_at": "2026-09-27T10:26:25Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1869,15 +1864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9585,
+        "recency": 0.8958,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1902,100 +1897,6 @@
         "published_at": "2026-09-27T10:14:34.505000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_890d693f27fb",
-      "title": "mobile-next / mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "primary_url": "https://github.com/mobile-next/mobile-mcp",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "772ea7f73094f82fd60c4825914e651a4688c675",
-          "title": "mobile-next / mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d4e17936f31903f88bcd813c53dd56fc63e7b6d9",
-          "title": "mobile-next /      mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T17:38:59.562000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "772ea7f73094f82fd60c4825914e651a4688c675",
-          "title": "mobile-next / mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d4e17936f31903f88bcd813c53dd56fc63e7b6d9",
-          "title": "mobile-next /      mobile-mcp",
-          "url": "https://github.com/mobile-next/mobile-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T17:38:59.562000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7564,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T17:38:59.562000Z",
-      "latest_at": "2026-09-26T17:50:35.853670Z",
-      "primary_item": {
-        "id": "772ea7f73094f82fd60c4825914e651a4688c675",
-        "title": "mobile-next / mobile-mcp",
-        "url": "https://github.com/mobile-next/mobile-mcp",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
