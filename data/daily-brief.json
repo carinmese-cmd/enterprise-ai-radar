@@ -1,11 +1,90 @@
 {
-  "generated_at": "2026-10-05T02:10:30.445710Z",
+  "generated_at": "2026-10-05T09:18:34.914361Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
     {
+      "story_id": "story_99c4f13e618d",
+      "title": "这个指标可能更多地告诉我们消费者人工智能的商业模式，而不是人工智能的状态。面向消费者的人工智能几乎不可避免地会通过商业、广告或购买设备和其他服务获得补贴和货币化。 / This metric may tell us more about the business model of consumer AI than the state of AI. AI for consumers almost inevitably will be subsidized and monetized via commerce, ads, or purchases of devices and other servi...",
+      "url": "https://x.com/levie/status/2106802940879192260",
+      "primary_url": "https://x.com/levie/status/2106802940879192260",
+      "source": "Follow Builders · X · Aaron Levie",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "cd7424fada6337f1c6cc5079c106de14f10928af",
+          "title": "这个指标可能更多地告诉我们消费者人工智能的商业模式，而不是人工智能的状态。面向消费者的人工智能几乎不可避免地会通过商业、广告或购买设备和其他服务获得补贴和货币化。 / This metric may tell us more about the business model of consumer AI than the state of AI. AI for consumers almost inevitably will be subsidized and monetized via commerce, ads, or purchases of devices and other servi...",
+          "url": "https://x.com/levie/status/2106802940879192260",
+          "source": "Follow Builders · X · Aaron Levie",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-04T17:45:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Aaron Levie"
+      ],
+      "items": [
+        {
+          "id": "cd7424fada6337f1c6cc5079c106de14f10928af",
+          "title": "这个指标可能更多地告诉我们消费者人工智能的商业模式，而不是人工智能的状态。面向消费者的人工智能几乎不可避免地会通过商业、广告或购买设备和其他服务获得补贴和货币化。 / This metric may tell us more about the business model of consumer AI than the state of AI. AI for consumers almost inevitably will be subsidized and monetized via commerce, ads, or purchases of devices and other servi...",
+          "url": "https://x.com/levie/status/2106802940879192260",
+          "source": "Follow Builders · X · Aaron Levie",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-04T17:45:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6005,
+      "importance": 0.6005,
+      "importance_score": 0.6005,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5544,
+        "source_tier": 0.62,
+        "ai_relevance": 0.77,
+        "recency": 0.7989,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 64,
+      "enterprise_importance_score": 69,
+      "enterprise_primary_topic": "enterprise_strategy",
+      "enterprise_topics": [
+        "enterprise_strategy"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：企业AI战略与规划；权威研究或治理来源",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-04T17:45:38Z",
+      "latest_at": "2026-10-04T17:45:38Z",
+      "primary_item": {
+        "id": "cd7424fada6337f1c6cc5079c106de14f10928af",
+        "title": "这个指标可能更多地告诉我们消费者人工智能的商业模式，而不是人工智能的状态。面向消费者的人工智能几乎不可避免地会通过商业、广告或购买设备和其他服务获得补贴和货币化。 / This metric may tell us more about the business model of consumer AI than the state of AI. AI for consumers almost inevitably will be subsidized and monetized via commerce, ads, or purchases of devices and other servi...",
+        "url": "https://x.com/levie/status/2106802940879192260",
+        "source": "Follow Builders · X · Aaron Levie",
+        "source_name": "Follow Builders",
+        "published_at": "2026-10-04T17:45:38Z",
+        "ai_score": 0.77,
+        "ai_label": "model_release",
+        "enterprise_score": 64,
+        "enterprise_primary_topic": "enterprise_strategy",
+        "enterprise_topics": [
+          "enterprise_strategy"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：企业AI战略与规划；权威研究或治理来源"
+      }
+    },
+    {
       "story_id": "story_68bae58be330",
-      "title": "构建用于语义代码搜索的 RAG 管道 / Building a RAG pipeline for semantic code search",
+      "title": "构建用于语义代码搜索的RAG管道 / Building a RAG pipeline for semantic code search",
       "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes",
       "primary_url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes",
       "source": "Hacker News · 24h最热",
@@ -13,7 +92,7 @@
       "sources": [
         {
           "id": "54c53ac9631ae5807bab840e052f15b4b8a2c0de",
-          "title": "构建用于语义代码搜索的 RAG 管道 / Building a RAG pipeline for semantic code search",
+          "title": "构建用于语义代码搜索的RAG管道 / Building a RAG pipeline for semantic code search",
           "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -28,7 +107,7 @@
       "items": [
         {
           "id": "54c53ac9631ae5807bab840e052f15b4b8a2c0de",
-          "title": "构建用于语义代码搜索的 RAG 管道 / Building a RAG pipeline for semantic code search",
+          "title": "构建用于语义代码搜索的RAG管道 / Building a RAG pipeline for semantic code search",
           "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -38,19 +117,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5004,
-      "importance": 0.5004,
-      "importance_score": 0.5004,
+      "score": 0.4848,
+      "importance": 0.4848,
+      "importance_score": 0.4848,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8869,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
       "enterprise_score": 64,
-      "enterprise_importance_score": 66,
+      "enterprise_importance_score": 65,
       "enterprise_primary_topic": "enterprise_knowledge_rag",
       "enterprise_topics": [
         "enterprise_knowledge_rag"
@@ -66,7 +145,7 @@
       "latest_at": "2026-10-04T17:51:48Z",
       "primary_item": {
         "id": "54c53ac9631ae5807bab840e052f15b4b8a2c0de",
-        "title": "构建用于语义代码搜索的 RAG 管道 / Building a RAG pipeline for semantic code search",
+        "title": "构建用于语义代码搜索的RAG管道 / Building a RAG pipeline for semantic code search",
         "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli",
