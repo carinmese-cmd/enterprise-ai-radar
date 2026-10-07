@@ -1,8 +1,141 @@
 {
-  "generated_at": "2026-10-07T17:05:42.638284Z",
+  "generated_at": "2026-10-07T22:07:15.075625Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "10月6日，Mistral Large 4 公开预览版发布。这款欧洲自研开放权重 MoE 多模态模型，凭借百万级上下文、强悍的网络安全、代码与智能体能力刷新开源模型上限。在漏洞复现、代码 Agent、多模态视觉定位、金融法律任务中，多项评测超越同类开源模型，部分指标对标顶尖闭源模型。依托欧洲本地算力训练，支持私有化部署，兼顾 AI 主权与安全可控，10 月底即将开放权重，适合安全、科研、企业知识工作场景落地。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-07",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "ec4f0015dea851876aa38cf1c0fb5dcf94b0f5bb",
+          "title": "10月6日，Google DeepMind 发布了开放多模态 embedding 模型，可将文本、代码、图像、音视频映射至同一向量空间，上下文提升至 8K。模块化设计搭配向量压缩技术，能在边缘设备轻量化部署。它覆盖 RAG、素材检索、分类聚类场景，主流框架均可接入，文中还有完整调用示例、微调方案和工程避坑指南，帮你快速落地隐私可控的跨模态检索应用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-07T22:07:15.075625Z"
+        },
+        {
+          "id": "f9ba30fd5f67537070528e479ed8e3c377e11412",
+          "title": "10月6日，Mistral Large 4 公开预览版发布。这款欧洲自研开放权重 MoE 多模态模型，凭借百万级上下文、强悍的网络安全、代码与智能体能力刷新开源模型上限。在漏洞复现、代码 Agent、多模态视觉定位、金融法律任务中，多项评测超越同类开源模型，部分指标对标顶尖闭源模型。依托欧洲本地算力训练，支持私有化部署，兼顾 AI 主权与安全可控，10 月底即将开放权重，适合安全、科研、企业知识工作场景落地。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-07T22:07:15.075625Z"
+        },
+        {
+          "id": "c7c15b5ccd6372cad12e8476dff0ed9b12b90715",
+          "title": "本周AI音乐周刊带来重磅版权新规与司法判例，同步还收录了Modulate融资、Suno语音配乐新功能、Mirelo音效插件等产品商业动态。更有6篇前沿论文，涵盖开源音乐框架、舞蹈驱动音乐生成、音乐自动评估等方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-07T22:07:15.075625Z"
+        },
+        {
+          "id": "4e869214b70a831b18dbcce25feff906c016e626",
+          "title": "还在为ComfyUI繁杂节点、工作流调试消耗大量创作精力？Comfy Agent正式登陆Comfy Cloud，本地端也即将上线。只需自然语言下达指令，就能自动搭建、迭代、排查工作流，还支持多模型对比、批量出图与素材管理。现在可以登录云端免费试用，快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-07T22:07:15.075625Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-10-07"
+      ],
+      "items": [
+        {
+          "id": "ec4f0015dea851876aa38cf1c0fb5dcf94b0f5bb",
+          "title": "10月6日，Google DeepMind 发布了开放多模态 embedding 模型，可将文本、代码、图像、音视频映射至同一向量空间，上下文提升至 8K。模块化设计搭配向量压缩技术，能在边缘设备轻量化部署。它覆盖 RAG、素材检索、分类聚类场景，主流框架均可接入，文中还有完整调用示例、微调方案和工程避坑指南，帮你快速落地隐私可控的跨模态检索应用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-07T22:07:15.075625Z"
+        },
+        {
+          "id": "f9ba30fd5f67537070528e479ed8e3c377e11412",
+          "title": "10月6日，Mistral Large 4 公开预览版发布。这款欧洲自研开放权重 MoE 多模态模型，凭借百万级上下文、强悍的网络安全、代码与智能体能力刷新开源模型上限。在漏洞复现、代码 Agent、多模态视觉定位、金融法律任务中，多项评测超越同类开源模型，部分指标对标顶尖闭源模型。依托欧洲本地算力训练，支持私有化部署，兼顾 AI 主权与安全可控，10 月底即将开放权重，适合安全、科研、企业知识工作场景落地。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-07T22:07:15.075625Z"
+        },
+        {
+          "id": "c7c15b5ccd6372cad12e8476dff0ed9b12b90715",
+          "title": "本周AI音乐周刊带来重磅版权新规与司法判例，同步还收录了Modulate融资、Suno语音配乐新功能、Mirelo音效插件等产品商业动态。更有6篇前沿论文，涵盖开源音乐框架、舞蹈驱动音乐生成、音乐自动评估等方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-07T22:07:15.075625Z"
+        },
+        {
+          "id": "4e869214b70a831b18dbcce25feff906c016e626",
+          "title": "还在为ComfyUI繁杂节点、工作流调试消耗大量创作精力？Comfy Agent正式登陆Comfy Cloud，本地端也即将上线。只需自然语言下达指令，就能自动搭建、迭代、排查工作流，还支持多模型对比、批量出图与素材管理。现在可以登录云端免费试用，快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-07T22:07:15.075625Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.665,
+      "importance": 0.665,
+      "importance_score": 0.665,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.54,
+        "ai_relevance": 0.7,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "enterprise_score": 85,
+      "enterprise_importance_score": 80,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "主题命中：模型与平台选型；内容类型：产品更新；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-07T22:07:15.075625Z",
+      "latest_at": "2026-10-07T22:07:15.075625Z",
+      "primary_item": {
+        "id": "f9ba30fd5f67537070528e479ed8e3c377e11412",
+        "title": "10月6日，Mistral Large 4 公开预览版发布。这款欧洲自研开放权重 MoE 多模态模型，凭借百万级上下文、强悍的网络安全、代码与智能体能力刷新开源模型上限。在漏洞复现、代码 Agent、多模态视觉定位、金融法律任务中，多项评测超越同类开源模型，部分指标对标顶尖闭源模型。依托欧洲本地算力训练，支持私有化部署，兼顾 AI 主权与安全可控，10 月底即将开放权重，适合安全、科研、企业知识工作场景落地。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-07",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-10-07T22:07:15.075625Z",
+        "ai_score": 0.7,
+        "ai_label": "model_release",
+        "enterprise_score": 85,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "主题命中：模型与平台选型；内容类型：产品更新；包含实施、架构、指标或结果信号"
+      }
+    },
     {
       "story_id": "story_825d6a657e93",
       "title": "研究发现，女性AI代理的薪酬比男性低10% - Euronews.com",
@@ -38,15 +171,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4789,
-      "importance": 0.4789,
-      "importance_score": 0.4789,
+      "score": 0.4692,
+      "importance": 0.4692,
+      "importance_score": 0.4692,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7673,
+        "recency": 0.7136,
         "story_heat": 0.0
       },
       "enterprise_score": 72,
