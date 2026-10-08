@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T09:12:56.523304Z",
+  "generated_at": "2026-10-08T16:40:26.216183Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 3,
   "items": [
     {
       "story_id": "story_2df82173bb28",
@@ -92,15 +92,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6384,
-      "importance": 0.6384,
-      "importance_score": 0.6384,
+      "score": 0.6227,
+      "importance": 0.6227,
+      "importance_score": 0.6227,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.54,
         "ai_relevance": 0.7,
-        "recency": 0.852,
+        "recency": 0.765,
         "story_heat": 0.75
       },
       "enterprise_score": 85,
@@ -134,6 +134,85 @@
         ],
         "enterprise_content_type": "product_update",
         "enterprise_reason": "主题命中：模型与平台选型；内容类型：产品更新；包含实施、架构、指标或结果信号"
+      }
+    },
+    {
+      "story_id": "story_5562a73f2c01",
+      "title": "Closing the AI Agent Governance Gap with Microsoft Foundry",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/closing-the-ai-agent-governance-gap-with-microsoft-foundry/ba-p/4561827",
+      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/closing-the-ai-agent-governance-gap-with-microsoft-foundry/ba-p/4561827",
+      "source": "Azure AI Foundry Blog",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "000da0cd3c706d5556bc1cfd9245b30a54b66b32",
+          "title": "Closing the AI Agent Governance Gap with Microsoft Foundry",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/closing-the-ai-agent-governance-gap-with-microsoft-foundry/ba-p/4561827",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-07T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Azure AI Foundry Blog"
+      ],
+      "items": [
+        {
+          "id": "000da0cd3c706d5556bc1cfd9245b30a54b66b32",
+          "title": "Closing the AI Agent Governance Gap with Microsoft Foundry",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/closing-the-ai-agent-governance-gap-with-microsoft-foundry/ba-p/4561827",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-07T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5166,
+      "importance": 0.5166,
+      "importance_score": 0.5166,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.7104,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 75,
+      "enterprise_importance_score": 76,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "主题命中：模型与平台选型；内容类型：方法与评估",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-07T17:00:00Z",
+      "latest_at": "2026-10-07T17:00:00Z",
+      "primary_item": {
+        "id": "000da0cd3c706d5556bc1cfd9245b30a54b66b32",
+        "title": "Closing the AI Agent Governance Gap with Microsoft Foundry",
+        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/closing-the-ai-agent-governance-gap-with-microsoft-foundry/ba-p/4561827",
+        "source": "Azure AI Foundry Blog",
+        "source_name": "OPML RSS",
+        "published_at": "2026-10-07T17:00:00Z",
+        "ai_score": 0.67,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 75,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "主题命中：模型与平台选型；内容类型：方法与评估"
       }
     },
     {
@@ -171,15 +250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9026,
+        "recency": 0.8104,
         "story_heat": 0.0
       },
       "enterprise_score": 70,
@@ -193,8 +272,7 @@
       "enterprise_is_relevant": true,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-08T02:07:00.324647Z",
       "latest_at": "2026-10-08T02:07:00.324647Z",
