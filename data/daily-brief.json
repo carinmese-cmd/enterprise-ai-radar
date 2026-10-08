@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:07:15.075625Z",
+  "generated_at": "2026-10-08T02:07:00.324647Z",
   "window_hours": 24,
   "total_items": 2,
   "items": [
@@ -92,15 +92,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.665,
-      "importance": 0.665,
-      "importance_score": 0.665,
+      "score": 0.6549,
+      "importance": 0.6549,
+      "importance_score": 0.6549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.54,
         "ai_relevance": 0.7,
-        "recency": 1.0,
+        "recency": 0.9439,
         "story_heat": 0.75
       },
       "enterprise_score": 85,
@@ -137,82 +137,83 @@
       }
     },
     {
-      "story_id": "story_825d6a657e93",
-      "title": "研究发现，女性AI代理的薪酬比男性低10% - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFJNYlB0Y2stTEZpM2lpZE8zRFJQQ2o1ZmV4YTNicTZkcHE4bm9aNFhMNWlHb1V4b0pKU3E1YXlfc1QyQ1FJMGNfUWhfTDB5QmoxQ05hSDROOVB1VktlY1k3X2lfQWxTcUJwU1hrZlp6bTc4Vzl1eDRqeE5xMlFDX1hpMUdlLWNQeFB2Qmo0UWQtakl6LTVvUTFUYzF5ZlFJM24yYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFJNYlB0Y2stTEZpM2lpZE8zRFJQQ2o1ZmV4YTNicTZkcHE4bm9aNFhMNWlHb1V4b0pKU3E1YXlfc1QyQ1FJMGNfUWhfTDB5QmoxQ05hSDROOVB1VktlY1k3X2lfQWxTcUJwU1hrZlp6bTc4Vzl1eDRqeE5xMlFDX1hpMUdlLWNQeFB2Qmo0UWQtakl6LTVvUTFUYzF5ZlFJM24yYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
+      "story_id": "story_f6a3e8314531",
+      "title": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+      "url": "https://www.aibase.com/news/31452",
+      "primary_url": "https://www.aibase.com/news/31452",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "63cb1e30583b07506156d0e0ddda60f7351d9fed",
-          "title": "研究发现，女性AI代理的薪酬比男性低10% - Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFJNYlB0Y2stTEZpM2lpZE8zRFJQQ2o1ZmV4YTNicTZkcHE4bm9aNFhMNWlHb1V4b0pKU3E1YXlfc1QyQ1FJMGNfUWhfTDB5QmoxQ05hSDROOVB1VktlY1k3X2lfQWxTcUJwU1hrZlp6bTc4Vzl1eDRqeE5xMlFDX1hpMUdlLWNQeFB2Qmo0UWQtakl6LTVvUTFUYzF5ZlFJM24yYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T22:45:16.067000Z"
+          "id": "10034be272aa8f2894aad69634d8e7f4128f1019",
+          "title": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+          "url": "https://www.aibase.com/news/31452",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T02:07:00.324647Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "news.google.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "63cb1e30583b07506156d0e0ddda60f7351d9fed",
-          "title": "研究发现，女性AI代理的薪酬比男性低10% - Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFJNYlB0Y2stTEZpM2lpZE8zRFJQQ2o1ZmV4YTNicTZkcHE4bm9aNFhMNWlHb1V4b0pKU3E1YXlfc1QyQ1FJMGNfUWhfTDB5QmoxQ05hSDROOVB1VktlY1k3X2lfQWxTcUJwU1hrZlp6bTc4Vzl1eDRqeE5xMlFDX1hpMUdlLWNQeFB2Qmo0UWQtakl6LTVvUTFUYzF5ZlFJM24yYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T22:45:16.067000Z"
+          "id": "10034be272aa8f2894aad69634d8e7f4128f1019",
+          "title": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+          "url": "https://www.aibase.com/news/31452",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T02:07:00.324647Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4692,
-      "importance": 0.4692,
-      "importance_score": 0.4692,
-      "importance_label": "值得关注",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7136,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "enterprise_score": 72,
-      "enterprise_importance_score": 68,
-      "enterprise_primary_topic": "hr_ai",
+      "enterprise_score": 70,
+      "enterprise_importance_score": 75,
+      "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
-        "hr_ai"
+        "model_platform_selection"
       ],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "主题命中：人力资源AI；内容类型：研究报告",
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号",
       "enterprise_is_relevant": true,
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-06T22:45:16.067000Z",
-      "latest_at": "2026-10-06T22:45:16.067000Z",
+      "earliest_at": "2026-10-08T02:07:00.324647Z",
+      "latest_at": "2026-10-08T02:07:00.324647Z",
       "primary_item": {
-        "id": "63cb1e30583b07506156d0e0ddda60f7351d9fed",
-        "title": "研究发现，女性AI代理的薪酬比男性低10% - Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFJNYlB0Y2stTEZpM2lpZE8zRFJQQ2o1ZmV4YTNicTZkcHE4bm9aNFhMNWlHb1V4b0pKU3E1YXlfc1QyQ1FJMGNfUWhfTDB5QmoxQ05hSDROOVB1VktlY1k3X2lfQWxTcUJwU1hrZlp6bTc4Vzl1eDRqeE5xMlFDX1hpMUdlLWNQeFB2Qmo0UWQtakl6LTVvUTFUYzF5ZlFJM24yYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-10-06T22:45:16.067000Z",
-        "ai_score": 0.65,
-        "ai_label": "research_paper",
-        "enterprise_score": 72,
-        "enterprise_primary_topic": "hr_ai",
+        "id": "10034be272aa8f2894aad69634d8e7f4128f1019",
+        "title": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+        "url": "https://www.aibase.com/news/31452",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-08T02:07:00.324647Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 70,
+        "enterprise_primary_topic": "model_platform_selection",
         "enterprise_topics": [
-          "hr_ai"
+          "model_platform_selection"
         ],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "主题命中：人力资源AI；内容类型：研究报告"
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
       }
     }
   ]
