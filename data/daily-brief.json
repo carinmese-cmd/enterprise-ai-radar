@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T10:56:07.263347Z",
+  "generated_at": "2026-10-11T16:28:19.709719Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7932,
+        "recency": 0.7323,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -115,19 +115,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8238,
+        "recency": 0.7605,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -153,102 +153,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_f95c4a1ce24c",
-      "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-      "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-      "primary_url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:03:59Z"
-        },
-        {
-          "id": "d9245aeea0a9a6e66a9d97501516267be495774a",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T13:03:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:03:59Z"
-        },
-        {
-          "id": "d9245aeea0a9a6e66a9d97501516267be495774a",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T13:03:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7292,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T13:03:59Z",
-      "latest_at": "2026-10-10T13:03:59Z",
-      "primary_item": {
-        "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
-        "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-        "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-10T13:03:59Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -287,15 +191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9159,
+        "recency": 0.8455,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -307,8 +211,7 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-11T04:50:59Z",
       "latest_at": "2026-10-11T04:50:59Z",
@@ -329,69 +232,177 @@
       }
     },
     {
-      "story_id": "story_bd99d8a6f870",
-      "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-      "url": "https://www.aibase.com/news/31544",
-      "primary_url": "https://www.aibase.com/news/31544",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2df82173bb28",
+      "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-11",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/news/31544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
+          "id": "600d588e82be0a01924e386f054fdb7e00cdc1dc",
+          "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-11T16:28:19.709719Z"
         },
         {
-          "id": "30b25ca8a7553f4a4d4ecc1dea2bd255fec5c77f",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/zh/news/31544",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cb80c2185339c18d9cd175018015b06db3f766d7",
+          "title": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-11T16:28:19.709719Z"
+        },
+        {
+          "id": "4e5b491c7c6ce31b9348c0d0e0645a5f7ab06f13",
+          "title": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-11T16:28:19.709719Z"
+        },
+        {
+          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
+          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T20:53:22.971792Z"
+        },
+        {
+          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
+          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T20:53:22.971792Z"
+        },
+        {
+          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
+          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T20:53:22.971792Z"
+        },
+        {
+          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
+          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T20:53:22.971792Z"
+        },
+        {
+          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
+          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T17:31:54.486238Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 8,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "社区更新 · 2026-10-10",
+        "社区更新 · 2026-10-11"
       ],
       "items": [
         {
-          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/news/31544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
+          "id": "600d588e82be0a01924e386f054fdb7e00cdc1dc",
+          "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-11T16:28:19.709719Z"
         },
         {
-          "id": "30b25ca8a7553f4a4d4ecc1dea2bd255fec5c77f",
-          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-          "url": "https://www.aibase.com/zh/news/31544",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cb80c2185339c18d9cd175018015b06db3f766d7",
+          "title": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-11T16:28:19.709719Z"
+        },
+        {
+          "id": "4e5b491c7c6ce31b9348c0d0e0645a5f7ab06f13",
+          "title": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-11T16:28:19.709719Z"
+        },
+        {
+          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
+          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T20:53:22.971792Z"
+        },
+        {
+          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
+          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T20:53:22.971792Z"
+        },
+        {
+          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
+          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T20:53:22.971792Z"
+        },
+        {
+          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
+          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T20:53:22.971792Z"
+        },
+        {
+          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
+          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-10T17:31:54.486238Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7262,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 41,
@@ -400,628 +411,25 @@
       "enterprise_content_type": "product_update",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T12:46:55.790899Z",
-      "latest_at": "2026-10-10T12:46:55.790899Z",
-      "primary_item": {
-        "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
-        "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
-        "url": "https://www.aibase.com/news/31544",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-10T12:46:55.790899Z",
-        "ai_score": 1.0,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_c842af9430c6",
-      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-      "url": "https://x.com/SaitoWu/status/2108919486581796872",
-      "primary_url": "https://x.com/SaitoWu/status/2108919486581796872",
-      "source": "X：Saito 硬地骇客 (@SaitoWu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-          "url": "https://x.com/SaitoWu/status/2108919486581796872",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:56:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Saito 硬地骇客 (@SaitoWu)"
-      ],
-      "items": [
-        {
-          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-          "url": "https://x.com/SaitoWu/status/2108919486581796872",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:56:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7384,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T13:56:02Z",
-      "latest_at": "2026-10-10T13:56:02Z",
-      "primary_item": {
-        "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-        "url": "https://x.com/SaitoWu/status/2108919486581796872",
-        "source": "X：Saito 硬地骇客 (@SaitoWu)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-10T13:56:02Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_2ac52b5cae7e",
-      "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-      "url": "https://www.aibase.com/news/31532",
-      "primary_url": "https://www.aibase.com/news/31532",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
-          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/news/31532",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
-        },
-        {
-          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
-          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/zh/news/31532",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
-          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/news/31532",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
-        },
-        {
-          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
-          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/zh/news/31532",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7262,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T12:46:55.790899Z",
-      "latest_at": "2026-10-10T12:46:55.790899Z",
-      "primary_item": {
-        "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
-        "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-        "url": "https://www.aibase.com/news/31532",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-10T12:46:55.790899Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_0c0b7bd3fb59",
-      "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-      "url": "https://www.aibase.com/news/31543",
-      "primary_url": "https://www.aibase.com/news/31543",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1baec69b23d487fa7182088c19615c4271387142",
-          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/news/31543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
-        },
-        {
-          "id": "1db7cc8e46e2a30bfbc22160e357b0e7be26606e",
-          "title": "千问首款 AI 耳机亮相 NBA 中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/zh/news/31543",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1baec69b23d487fa7182088c19615c4271387142",
-          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/news/31543",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
-        },
-        {
-          "id": "1db7cc8e46e2a30bfbc22160e357b0e7be26606e",
-          "title": "千问首款 AI 耳机亮相 NBA 中国赛，可在淘宝、京东官方店预约",
-          "url": "https://www.aibase.com/zh/news/31543",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7262,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T12:46:55.790899Z",
-      "latest_at": "2026-10-10T12:46:55.790899Z",
-      "primary_item": {
-        "id": "1baec69b23d487fa7182088c19615c4271387142",
-        "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
-        "url": "https://www.aibase.com/news/31543",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-10T12:46:55.790899Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_18d789dc0525",
-      "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-      "url": "https://www.aibase.com/news/31541",
-      "primary_url": "https://www.aibase.com/news/31541",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
-        },
-        {
-          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
-          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/zh/news/31541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
-        },
-        {
-          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
-          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/zh/news/31541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7262,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T12:46:55.790899Z",
-      "latest_at": "2026-10-10T12:46:55.790899Z",
-      "primary_item": {
-        "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-        "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-        "url": "https://www.aibase.com/news/31541",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-10T12:46:55.790899Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-10",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
-          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T20:53:22.971792Z"
-        },
-        {
-          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
-          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T20:53:22.971792Z"
-        },
-        {
-          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
-          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T20:53:22.971792Z"
-        },
-        {
-          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
-          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T20:53:22.971792Z"
-        },
-        {
-          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
-          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T17:31:54.486238Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-10-10"
-      ],
-      "items": [
-        {
-          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
-          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T20:53:22.971792Z"
-        },
-        {
-          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
-          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T20:53:22.971792Z"
-        },
-        {
-          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
-          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T20:53:22.971792Z"
-        },
-        {
-          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
-          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T20:53:22.971792Z"
-        },
-        {
-          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
-          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T17:31:54.486238Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6362,
-      "importance": 0.6362,
-      "importance_score": 0.6362,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8164,
-        "story_heat": 1.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 40,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-10-10T17:31:54.486238Z",
-      "latest_at": "2026-10-10T20:53:22.971792Z",
+      "latest_at": "2026-10-11T16:28:19.709719Z",
       "primary_item": {
-        "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
-        "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
+        "id": "600d588e82be0a01924e386f054fdb7e00cdc1dc",
+        "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-10",
+        "source": "社区更新 · 2026-10-11",
         "source_name": "WaytoAGI",
-        "published_at": "2026-10-10T20:53:22.971792Z",
+        "published_at": "2026-10-11T16:28:19.709719Z",
         "ai_score": 0.65,
-        "ai_label": "developer_tool",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_56d41dbc9298",
-      "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-      "url": "https://www.aibase.com/news/31540",
-      "primary_url": "https://www.aibase.com/news/31540",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
-          "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "url": "https://www.aibase.com/news/31540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
-        },
-        {
-          "id": "f7924f3b2b92ac6f1c0df7057e6e699be722ad4b",
-          "title": "网文实体书惊现「AI 回复内容」，出版社回应：将回收销毁并重新修订",
-          "url": "https://www.aibase.com/zh/news/31540",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
-          "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-          "url": "https://www.aibase.com/news/31540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
-        },
-        {
-          "id": "f7924f3b2b92ac6f1c0df7057e6e699be722ad4b",
-          "title": "网文实体书惊现「AI 回复内容」，出版社回应：将回收销毁并重新修订",
-          "url": "https://www.aibase.com/zh/news/31540",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7262,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T12:46:55.790899Z",
-      "latest_at": "2026-10-10T12:46:55.790899Z",
-      "primary_item": {
-        "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
-        "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
-        "url": "https://www.aibase.com/news/31540",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-10T12:46:55.790899Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
+        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1043,12 +451,12 @@
           "published_at": "2026-10-10T22:10:17Z"
         },
         {
-          "id": "0bfadad83e82f33153273f3d9d2b405f0d98705f",
+          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
           "title": "Satya Nadella says we should assume all AI models are 'compromised'",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-11T03:41:53Z"
         },
         {
@@ -1063,7 +471,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "The Verge",
         "hackernews"
       ],
@@ -1078,12 +486,12 @@
           "published_at": "2026-10-10T22:10:17Z"
         },
         {
-          "id": "0bfadad83e82f33153273f3d9d2b405f0d98705f",
+          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
           "title": "Satya Nadella says we should assume all AI models are 'compromised'",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-11T03:41:53Z"
         },
         {
@@ -1098,15 +506,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6102,
-      "importance": 0.6102,
-      "importance_score": 0.6102,
+      "score": 0.5987,
+      "importance": 0.5987,
+      "importance_score": 0.5987,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8317,
+        "recency": 0.7678,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1139,26 +547,139 @@
       }
     },
     {
-      "story_id": "story_7e544408ff81",
-      "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-      "url": "https://www.aibase.com/news/31539",
-      "primary_url": "https://www.aibase.com/news/31539",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_821afa65ec96",
+      "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+      "primary_url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+      "source": "momo5502.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "url": "https://www.aibase.com/news/31539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
+          "id": "67af5f289951181297e82610494989ac12759007",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "momo5502.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T10:56:03.619000Z"
         },
         {
-          "id": "b4dbb705bad991ddb6b145bec2153d32dd69ca8d",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "url": "https://www.aibase.com/zh/news/31539",
+          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T02:02:38Z"
+        },
+        {
+          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
+          "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "url": "https://news.ycombinator.com/item?id=50039092",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T02:02:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "momo5502.com"
+      ],
+      "items": [
+        {
+          "id": "67af5f289951181297e82610494989ac12759007",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "momo5502.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T10:56:03.619000Z"
+        },
+        {
+          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T02:02:38Z"
+        },
+        {
+          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
+          "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "url": "https://news.ycombinator.com/item?id=50039092",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T02:02:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.557,
+      "importance": 0.557,
+      "importance_score": 0.557,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9231,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T02:02:38Z",
+      "latest_at": "2026-10-11T10:56:03.619000Z",
+      "primary_item": {
+        "id": "67af5f289951181297e82610494989ac12759007",
+        "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏",
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
+        "source": "momo5502.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-11T10:56:03.619000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_38c44438940b",
+      "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+      "url": "https://www.36kr.com/p/3990015565708035",
+      "primary_url": "https://www.36kr.com/p/3990015565708035",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7638a50c96f6d98278d3734563ce0e8fa676f36a",
+          "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+          "url": "https://www.36kr.com/p/3990015565708035",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8dc066d00ad4bb67cbe6881b9b9d210e453d2937",
+          "title": "AI 运动硬件公司庞伯特获数亿 B 轮融资，用体育大模型重构网球自主训练体验",
+          "url": "https://www.36kr.com/p/3990015565708035",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1167,23 +688,23 @@
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
+        "36氪 · 24小时热榜",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "url": "https://www.aibase.com/news/31539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T12:46:55.790899Z"
+          "id": "7638a50c96f6d98278d3734563ce0e8fa676f36a",
+          "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+          "url": "https://www.36kr.com/p/3990015565708035",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "b4dbb705bad991ddb6b145bec2153d32dd69ca8d",
-          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-          "url": "https://www.aibase.com/zh/news/31539",
+          "id": "8dc066d00ad4bb67cbe6881b9b9d210e453d2937",
+          "title": "AI 运动硬件公司庞伯特获数亿 B 轮融资，用体育大模型重构网球自主训练体验",
+          "url": "https://www.36kr.com/p/3990015565708035",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1192,40 +713,321 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7262,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T04:22:55.491789Z",
+      "latest_at": "2026-10-11T16:28:19.709719Z",
+      "primary_item": {
+        "id": "7638a50c96f6d98278d3734563ce0e8fa676f36a",
+        "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+        "url": "https://www.36kr.com/p/3990015565708035",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_26149269af1e",
+      "title": "利奥加文/airllm / lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T16:03:00.508000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T16:03:00.508000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-10T12:46:55.790899Z",
-      "latest_at": "2026-10-10T12:46:55.790899Z",
+      "earliest_at": "2026-10-11T16:03:00.508000Z",
+      "latest_at": "2026-10-11T16:28:19.709719Z",
       "primary_item": {
-        "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
-        "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
-        "url": "https://www.aibase.com/news/31539",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-10T12:46:55.790899Z",
-        "ai_score": 1.0,
-        "ai_label": "agent_workflow",
+        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+        "title": "利奥加文/airllm / lyogavin / airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_4b410baa7c8f",
+      "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+      "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+      "primary_url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T12:30:10.840000Z"
+        },
+        {
+          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T11:47:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T12:30:10.840000Z"
+        },
+        {
+          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
+          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
+          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T11:47:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9443,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T11:47:01Z",
+      "latest_at": "2026-10-11T12:30:10.840000Z",
+      "primary_item": {
+        "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
+        "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
+        "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-11T12:30:10.840000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2ec605cc8689",
+      "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "primary_url": "https://jobs.ashbyhq.com/weave-os",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T12:01:08Z"
+        },
+        {
+          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://news.ycombinator.com/item?id=50042330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T12:01:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T12:01:08Z"
+        },
+        {
+          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://news.ycombinator.com/item?id=50042330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T12:01:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9377,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T12:01:08Z",
+      "latest_at": "2026-10-11T12:01:08Z",
+      "primary_item": {
+        "id": "18b52778464e88fa85742d37d1831981202beda2",
+        "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+        "url": "https://jobs.ashbyhq.com/weave-os",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-11T12:01:08Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1287,19 +1089,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9232,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1328,72 +1130,72 @@
       }
     },
     {
-      "story_id": "story_5cce4014eca1",
-      "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
-      "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
-      "primary_url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
-      "source": "www.businessinsider.com",
+      "story_id": "story_c6c94e5dc0bc",
+      "title": "Show HN: Rezoom——一个聊天列表，囊括您所有的Claude Code会话",
+      "url": "https://github.com/BEX-Robotics/rezoom",
+      "primary_url": "https://github.com/BEX-Robotics/rezoom",
+      "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5ae77e6ed4f5059f22999b08c7875de432f52d09",
-          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
-          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "f70c158a13e85f578fa9d213a54ce24a3319be6a",
+          "title": "Show HN: Rezoom——一个聊天列表，囊括您所有的Claude Code会话",
+          "url": "https://github.com/BEX-Robotics/rezoom",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-11T09:36:03.942000Z"
+          "published_at": "2026-10-11T09:04:11.080000Z"
         },
         {
-          "id": "b828f9811f752490455731e4ad1014d5331380d4",
-          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有 / I almost fell for an AI job scam because the usual red flags weren't there. Here's how I caught it.",
-          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T09:16:01Z"
+          "id": "83f7615558856439345601c197208f1e8cb284dd",
+          "title": "Show HN: Rezoom——一个聊天列表，囊括您所有的Claude Code会话 / Show HN: Rezoom – one chat list for all your Claude Code sessions",
+          "url": "https://github.com/BEX-Robotics/rezoom",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-11T08:53:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "HN Algolia · AI 24h",
+        "github.com"
       ],
       "items": [
         {
-          "id": "5ae77e6ed4f5059f22999b08c7875de432f52d09",
-          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
-          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "f70c158a13e85f578fa9d213a54ce24a3319be6a",
+          "title": "Show HN: Rezoom——一个聊天列表，囊括您所有的Claude Code会话",
+          "url": "https://github.com/BEX-Robotics/rezoom",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-11T09:36:03.942000Z"
+          "published_at": "2026-10-11T09:04:11.080000Z"
         },
         {
-          "id": "b828f9811f752490455731e4ad1014d5331380d4",
-          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有 / I almost fell for an AI job scam because the usual red flags weren't there. Here's how I caught it.",
-          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T09:16:01Z"
+          "id": "83f7615558856439345601c197208f1e8cb284dd",
+          "title": "Show HN: Rezoom——一个聊天列表，囊括您所有的Claude Code会话 / Show HN: Rezoom – one chat list for all your Claude Code sessions",
+          "url": "https://github.com/BEX-Robotics/rezoom",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-11T08:53:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9809,
+        "recency": 0.8986,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1403,17 +1205,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T09:16:01Z",
-      "latest_at": "2026-10-11T09:36:03.942000Z",
+      "earliest_at": "2026-10-11T08:53:56Z",
+      "latest_at": "2026-10-11T09:04:11.080000Z",
       "primary_item": {
-        "id": "5ae77e6ed4f5059f22999b08c7875de432f52d09",
-        "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
-        "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
-        "source": "www.businessinsider.com",
+        "id": "f70c158a13e85f578fa9d213a54ce24a3319be6a",
+        "title": "Show HN: Rezoom——一个聊天列表，囊括您所有的Claude Code会话",
+        "url": "https://github.com/BEX-Robotics/rezoom",
+        "source": "github.com",
         "source_name": "Buzzing",
-        "published_at": "2026-10-11T09:36:03.942000Z",
+        "published_at": "2026-10-11T09:04:11.080000Z",
         "ai_score": 0.65,
-        "ai_label": "ai_general",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1494,15 +1296,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7923,
+        "recency": 0.7315,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1532,194 +1334,6 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_052c2a6e2a5b",
-      "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
-      "url": "https://github.com/vscarpenter/gsd-task-manager",
-      "primary_url": "https://github.com/vscarpenter/gsd-task-manager",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "133b37fb5d257c28b0cd2aa10b21c4deb16fd91f",
-          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
-          "url": "https://github.com/vscarpenter/gsd-task-manager",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-11T03:48:01.165000Z"
-        },
-        {
-          "id": "433ee513d8c5b6a6b85d948130cc599c0c3abaa6",
-          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器 / Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
-          "url": "https://github.com/vscarpenter/gsd-task-manager",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T03:42:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "133b37fb5d257c28b0cd2aa10b21c4deb16fd91f",
-          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
-          "url": "https://github.com/vscarpenter/gsd-task-manager",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-11T03:48:01.165000Z"
-        },
-        {
-          "id": "433ee513d8c5b6a6b85d948130cc599c0c3abaa6",
-          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器 / Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
-          "url": "https://github.com/vscarpenter/gsd-task-manager",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T03:42:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9021,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T03:42:56Z",
-      "latest_at": "2026-10-11T03:48:01.165000Z",
-      "primary_item": {
-        "id": "133b37fb5d257c28b0cd2aa10b21c4deb16fd91f",
-        "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
-        "url": "https://github.com/vscarpenter/gsd-task-manager",
-        "source": "github.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-10-11T03:48:01.165000Z",
-        "ai_score": 0.65,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_821afa65ec96",
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-      "primary_url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
-          "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T02:02:38Z"
-        },
-        {
-          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "url": "https://news.ycombinator.com/item?id=50039092",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T02:02:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
-          "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T02:02:38Z"
-        },
-        {
-          "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-          "url": "https://news.ycombinator.com/item?id=50039092",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T02:02:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8795,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T02:02:38Z",
-      "latest_at": "2026-10-11T02:02:38Z",
-      "primary_item": {
-        "id": "577b7b1a294ea1a85310cfa302c0e26b9e4b020e",
-        "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow",
-        "published_at": "2026-10-11T02:02:38Z",
-        "ai_score": 0.65,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -1776,19 +1390,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
+      "score": 0.5106,
+      "importance": 0.5106,
+      "importance_score": 0.5106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8716,
+        "recency": 0.8046,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1870,19 +1484,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9232,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1901,6 +1515,476 @@
         "source": "Readhub · AI",
         "source_name": "TopHub",
         "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5cce4014eca1",
+      "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
+      "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+      "primary_url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5ae77e6ed4f5059f22999b08c7875de432f52d09",
+          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
+          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T09:36:03.942000Z"
+        },
+        {
+          "id": "b828f9811f752490455731e4ad1014d5331380d4",
+          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有 / I almost fell for an AI job scam because the usual red flags weren't there. Here's how I caught it.",
+          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T09:16:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "5ae77e6ed4f5059f22999b08c7875de432f52d09",
+          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
+          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T09:36:03.942000Z"
+        },
+        {
+          "id": "b828f9811f752490455731e4ad1014d5331380d4",
+          "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有 / I almost fell for an AI job scam because the usual red flags weren't there. Here's how I caught it.",
+          "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T09:16:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9055,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T09:16:01Z",
+      "latest_at": "2026-10-11T09:36:03.942000Z",
+      "primary_item": {
+        "id": "5ae77e6ed4f5059f22999b08c7875de432f52d09",
+        "title": "我差点就中了AI招聘骗局的圈套——那些常见的警示信号竟然都没有",
+        "url": "https://www.businessinsider.com/how-to-spot-red-flags-job-scams-fake-recruiters-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-11T09:36:03.942000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_052c2a6e2a5b",
+      "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
+      "url": "https://github.com/vscarpenter/gsd-task-manager",
+      "primary_url": "https://github.com/vscarpenter/gsd-task-manager",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "133b37fb5d257c28b0cd2aa10b21c4deb16fd91f",
+          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
+          "url": "https://github.com/vscarpenter/gsd-task-manager",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T03:48:01.165000Z"
+        },
+        {
+          "id": "0f355c306d8fec61e5a91adfda9c4a773dc4b363",
+          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器 / Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+          "url": "https://github.com/vscarpenter/gsd-task-manager",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-11T03:42:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "133b37fb5d257c28b0cd2aa10b21c4deb16fd91f",
+          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
+          "url": "https://github.com/vscarpenter/gsd-task-manager",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T03:48:01.165000Z"
+        },
+        {
+          "id": "0f355c306d8fec61e5a91adfda9c4a773dc4b363",
+          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器 / Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+          "url": "https://github.com/vscarpenter/gsd-task-manager",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-11T03:42:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8328,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T03:42:56Z",
+      "latest_at": "2026-10-11T03:48:01.165000Z",
+      "primary_item": {
+        "id": "133b37fb5d257c28b0cd2aa10b21c4deb16fd91f",
+        "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
+        "url": "https://github.com/vscarpenter/gsd-task-manager",
+        "source": "github.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-11T03:48:01.165000Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_57b6c2726edb",
+      "title": "科技公司有一个妙不可言的计划，旨在让你忘记人工智能对就业和人类构成的威胁",
+      "url": "https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10",
+      "primary_url": "https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "497cbba56ee275edea0aa0304b16388263851499",
+          "title": "科技公司有一个妙不可言的计划，旨在让你忘记人工智能对就业和人类构成的威胁",
+          "url": "https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T09:04:11.101000Z"
+        },
+        {
+          "id": "d7840ce3cbae0e60e4592e68a26599862afec8a1",
+          "title": "科技公司有一个妙不可言的计划，旨在让你忘记人工智能对就业和人类构成的威胁 / From killbots to cuddly little guys: Why AI companies suddenly have cute mascots",
+          "url": "https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T08:43:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "497cbba56ee275edea0aa0304b16388263851499",
+          "title": "科技公司有一个妙不可言的计划，旨在让你忘记人工智能对就业和人类构成的威胁",
+          "url": "https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T09:04:11.101000Z"
+        },
+        {
+          "id": "d7840ce3cbae0e60e4592e68a26599862afec8a1",
+          "title": "科技公司有一个妙不可言的计划，旨在让你忘记人工智能对就业和人类构成的威胁 / From killbots to cuddly little guys: Why AI companies suddenly have cute mascots",
+          "url": "https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T08:43:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8986,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T08:43:01Z",
+      "latest_at": "2026-10-11T09:04:11.101000Z",
+      "primary_item": {
+        "id": "497cbba56ee275edea0aa0304b16388263851499",
+        "title": "科技公司有一个妙不可言的计划，旨在让你忘记人工智能对就业和人类构成的威胁",
+        "url": "https://www.businessinsider.com/meta-muse-jolly-ai-mascots-cuteness-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-11T09:04:11.101000Z",
+        "ai_score": 0.65,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6b92da1b1d43",
+      "title": "中国 AI，开始为算力算账",
+      "url": "https://www.huxiu.com/article/4896581.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4896581.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b1c5eddafd57232eea1b162324f2514910b19094",
+          "title": "中国 AI，开始为算力算账",
+          "url": "https://www.huxiu.com/article/4896581.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c64a35d9e755dca82f22d3593587070a362156c7",
+          "title": "中国AI，开始为算力算账",
+          "url": "https://www.huxiu.com/article/4896581.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T02:42:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "b1c5eddafd57232eea1b162324f2514910b19094",
+          "title": "中国 AI，开始为算力算账",
+          "url": "https://www.huxiu.com/article/4896581.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c64a35d9e755dca82f22d3593587070a362156c7",
+          "title": "中国AI，开始为算力算账",
+          "url": "https://www.huxiu.com/article/4896581.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T02:42:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8398,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T02:42:15Z",
+      "latest_at": "2026-10-11T04:22:55.491789Z",
+      "primary_item": {
+        "id": "b1c5eddafd57232eea1b162324f2514910b19094",
+        "title": "中国 AI，开始为算力算账",
+        "url": "https://www.huxiu.com/article/4896581.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "infra_compute",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5940fa6fdb01",
+      "title": "这部由人工智能制作的科幻剧集省去了演员、布景和好莱坞级别的预算",
+      "url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+      "primary_url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3b8df260d2ce9f459f8b8a964e296d5270e5b359",
+          "title": "这部由人工智能制作的科幻剧集省去了演员、布景和好莱坞级别的预算",
+          "url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T08:16:50.273000Z"
+        },
+        {
+          "id": "66c7418c0de4f073f24a41146aaa25c4dd449c38",
+          "title": "这部由人工智能制作的科幻剧集省去了演员、布景和好莱坞级别的预算 / Creators of an AI-generated sci-fi series said it took $38,000 in AI credits and 8 to 10 generations per shot",
+          "url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T08:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "3b8df260d2ce9f459f8b8a964e296d5270e5b359",
+          "title": "这部由人工智能制作的科幻剧集省去了演员、布景和好莱坞级别的预算",
+          "url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T08:16:50.273000Z"
+        },
+        {
+          "id": "66c7418c0de4f073f24a41146aaa25c4dd449c38",
+          "title": "这部由人工智能制作的科幻剧集省去了演员、布景和好莱坞级别的预算 / Creators of an AI-generated sci-fi series said it took $38,000 in AI credits and 8 to 10 generations per shot",
+          "url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T08:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8884,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T08:11:01Z",
+      "latest_at": "2026-10-11T08:16:50.273000Z",
+      "primary_item": {
+        "id": "3b8df260d2ce9f459f8b8a964e296d5270e5b359",
+        "title": "这部由人工智能制作的科幻剧集省去了演员、布景和好莱坞级别的预算",
+        "url": "https://www.businessinsider.com/creators-ai-tv-series-38000-credits-seedance-artlist-the-arc-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-11T08:16:50.273000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
