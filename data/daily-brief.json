@@ -1,29 +1,125 @@
 {
-  "generated_at": "2026-10-12T03:19:38.004685Z",
+  "generated_at": "2026-10-12T11:09:24.265248Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_51465dbf5848",
-      "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-      "url": "https://www.aibase.com/news/31556",
-      "primary_url": "https://www.aibase.com/news/31556",
+      "story_id": "story_1167dd1e5ce8",
+      "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
+      "primary_url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e202ca86d4ca8c9e05762dc4553f7a5e5beaa966",
+          "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+          "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T09:35:54Z"
+        },
+        {
+          "id": "191f7d066651b1e09ac38fe861350badd3e0f4cc",
+          "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审 / Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+          "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T09:35:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e202ca86d4ca8c9e05762dc4553f7a5e5beaa966",
+          "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+          "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T09:35:54Z"
+        },
+        {
+          "id": "191f7d066651b1e09ac38fe861350badd3e0f4cc",
+          "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审 / Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+          "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-12T09:35:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9777,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T09:35:54Z",
+      "latest_at": "2026-10-12T09:35:54Z",
+      "primary_item": {
+        "id": "e202ca86d4ca8c9e05762dc4553f7a5e5beaa966",
+        "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+        "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-12T09:35:54Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_88692807b0b7",
+      "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+      "url": "https://www.aibase.com/news/31568",
+      "primary_url": "https://www.aibase.com/news/31568",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
-          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "url": "https://www.aibase.com/news/31556",
+          "id": "5c1a56f6addec5a643f10d65ecf4e002449043a0",
+          "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+          "url": "https://www.aibase.com/news/31568",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
+          "published_at": "2026-10-12T11:09:24.265248Z"
         },
         {
-          "id": "c04054e13310b046f66c3f1e024b1e427de763ea",
-          "title": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
-          "url": "https://www.aibase.com/zh/news/31556",
+          "id": "147992bc5b51e7f4a50fe8d46c1667f6093bd2d5",
+          "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+          "url": "https://www.aibase.com/zh/news/31568",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +133,18 @@
       ],
       "items": [
         {
-          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
-          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-          "url": "https://www.aibase.com/news/31556",
+          "id": "5c1a56f6addec5a643f10d65ecf4e002449043a0",
+          "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+          "url": "https://www.aibase.com/news/31568",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
+          "published_at": "2026-10-12T11:09:24.265248Z"
         },
         {
-          "id": "c04054e13310b046f66c3f1e024b1e427de763ea",
-          "title": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
-          "url": "https://www.aibase.com/zh/news/31556",
+          "id": "147992bc5b51e7f4a50fe8d46c1667f6093bd2d5",
+          "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+          "url": "https://www.aibase.com/zh/news/31568",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -81,15 +177,187 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T03:19:38.004685Z",
-      "latest_at": "2026-10-12T03:19:38.004685Z",
+      "earliest_at": "2026-10-12T11:09:24.265248Z",
+      "latest_at": "2026-10-12T11:09:24.265248Z",
       "primary_item": {
-        "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
-        "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
-        "url": "https://www.aibase.com/news/31556",
+        "id": "5c1a56f6addec5a643f10d65ecf4e002449043a0",
+        "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+        "url": "https://www.aibase.com/news/31568",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-10-12T03:19:38.004685Z",
+        "published_at": "2026-10-12T11:09:24.265248Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_9424d18d7ac1",
+      "title": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+      "url": "https://www.aibase.com/news/31566",
+      "primary_url": "https://www.aibase.com/news/31566",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "637f670d7197f6c6b8692a515e257117675fe56c",
+          "title": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+          "url": "https://www.aibase.com/news/31566",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T11:09:24.265248Z"
+        },
+        {
+          "id": "3b13a1a89ccd2cf39b11a200bc43297b12101198",
+          "title": "唯品会上线自研 AI 助手「AI 小唯」，AI 导购进入能力深耕阶段",
+          "url": "https://www.aibase.com/zh/news/31566",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "637f670d7197f6c6b8692a515e257117675fe56c",
+          "title": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+          "url": "https://www.aibase.com/news/31566",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T11:09:24.265248Z"
+        },
+        {
+          "id": "3b13a1a89ccd2cf39b11a200bc43297b12101198",
+          "title": "唯品会上线自研 AI 助手「AI 小唯」，AI 导购进入能力深耕阶段",
+          "url": "https://www.aibase.com/zh/news/31566",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T11:09:24.265248Z",
+      "latest_at": "2026-10-12T11:09:24.265248Z",
+      "primary_item": {
+        "id": "637f670d7197f6c6b8692a515e257117675fe56c",
+        "title": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+        "url": "https://www.aibase.com/news/31566",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-12T11:09:24.265248Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_20468ac24c35",
+      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+      "url": "https://x.com/MeshyAI/status/2109550836934471864",
+      "primary_url": "https://x.com/MeshyAI/status/2109550836934471864",
+      "source": "X：Meshy (@MeshyAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
+          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+          "url": "https://x.com/MeshyAI/status/2109550836934471864",
+          "source": "X：Meshy (@MeshyAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T07:44:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Meshy (@MeshyAI)"
+      ],
+      "items": [
+        {
+          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
+          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+          "url": "https://x.com/MeshyAI/status/2109550836934471864",
+          "source": "X：Meshy (@MeshyAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T07:44:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9519,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T07:44:47Z",
+      "latest_at": "2026-10-12T07:44:47Z",
+      "primary_item": {
+        "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
+        "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+        "url": "https://x.com/MeshyAI/status/2109550836934471864",
+        "source": "X：Meshy (@MeshyAI)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-12T07:44:47Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -100,26 +368,101 @@
       }
     },
     {
-      "story_id": "story_1cabe2938950",
-      "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-      "url": "https://www.aibase.com/news/31560",
-      "primary_url": "https://www.aibase.com/news/31560",
+      "story_id": "story_7ce8a939cdbc",
+      "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+      "url": "https://x.com/Khazix0918/status/2109501787736813663",
+      "primary_url": "https://x.com/Khazix0918/status/2109501787736813663",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4d75d0fa41cd12eb95b90c1a1cbfd837476bafa8",
+          "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+          "url": "https://x.com/Khazix0918/status/2109501787736813663",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T04:29:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "4d75d0fa41cd12eb95b90c1a1cbfd837476bafa8",
+          "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+          "url": "https://x.com/Khazix0918/status/2109501787736813663",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T04:29:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9083,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T04:29:53Z",
+      "latest_at": "2026-10-12T04:29:53Z",
+      "primary_item": {
+        "id": "4d75d0fa41cd12eb95b90c1a1cbfd837476bafa8",
+        "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+        "url": "https://x.com/Khazix0918/status/2109501787736813663",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-12T04:29:53Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_bcb9bcbcdd99",
+      "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+      "url": "https://www.aibase.com/news/31564",
+      "primary_url": "https://www.aibase.com/news/31564",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
-          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-          "url": "https://www.aibase.com/news/31560",
+          "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
+          "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "url": "https://www.aibase.com/news/31564",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
+          "published_at": "2026-10-12T11:09:24.265248Z"
         },
         {
-          "id": "f389b23c3122fcebcba2b2ae2560ac342efc1a70",
-          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文从 272k 提升到 500k，长文本免费",
-          "url": "https://www.aibase.com/zh/news/31560",
+          "id": "1d653f7805dab59426c823f813eb6bc6bf1e41e5",
+          "title": "宇树科技王兴兴：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "url": "https://www.aibase.com/zh/news/31564",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -133,18 +476,18 @@
       ],
       "items": [
         {
-          "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
-          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-          "url": "https://www.aibase.com/news/31560",
+          "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
+          "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "url": "https://www.aibase.com/news/31564",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
+          "published_at": "2026-10-12T11:09:24.265248Z"
         },
         {
-          "id": "f389b23c3122fcebcba2b2ae2560ac342efc1a70",
-          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文从 272k 提升到 500k，长文本免费",
-          "url": "https://www.aibase.com/zh/news/31560",
+          "id": "1d653f7805dab59426c823f813eb6bc6bf1e41e5",
+          "title": "宇树科技王兴兴：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+          "url": "https://www.aibase.com/zh/news/31564",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -177,15 +520,110 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T03:19:38.004685Z",
-      "latest_at": "2026-10-12T03:19:38.004685Z",
+      "earliest_at": "2026-10-12T11:09:24.265248Z",
+      "latest_at": "2026-10-12T11:09:24.265248Z",
       "primary_item": {
-        "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
-        "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
-        "url": "https://www.aibase.com/news/31560",
+        "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
+        "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
+        "url": "https://www.aibase.com/news/31564",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-10-12T03:19:38.004685Z",
+        "published_at": "2026-10-12T11:09:24.265248Z",
+        "ai_score": 1.0,
+        "ai_label": "robotics",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_70938c9dd862",
+      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+      "url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "primary_url": "https://x.com/thsottiaux/status/2109430343346581527",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-11T23:45:59Z"
+        },
+        {
+          "id": "5e00d77cbcb5a808b5af90105220dee3ba7bc6c1",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k / Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-11T23:45:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-11T23:45:59Z"
+        },
+        {
+          "id": "5e00d77cbcb5a808b5af90105220dee3ba7bc6c1",
+          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k / Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
+          "url": "https://x.com/thsottiaux/status/2109430343346581527",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-11T23:45:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8483,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-11T23:45:59Z",
+      "latest_at": "2026-10-11T23:45:59Z",
+      "primary_item": {
+        "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
+        "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
+        "url": "https://x.com/thsottiaux/status/2109430343346581527",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-11T23:45:59Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -230,15 +668,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9591,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -271,26 +709,26 @@
       }
     },
     {
-      "story_id": "story_f8a2caa26ac3",
-      "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-      "url": "https://www.aibase.com/news/31552",
-      "primary_url": "https://www.aibase.com/news/31552",
+      "story_id": "story_46e9ccdd9913",
+      "title": "微软升级 Copilot Notebooks:支持任务委派、Office 文档编辑与交互式报告",
+      "url": "https://www.aibase.com/news/31563",
+      "primary_url": "https://www.aibase.com/news/31563",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "url": "https://www.aibase.com/news/31552",
+          "id": "aa2155f85bb28b02d97ca5c467cb53c6efd91a4f",
+          "title": "微软升级 Copilot Notebooks:支持任务委派、Office 文档编辑与交互式报告",
+          "url": "https://www.aibase.com/news/31563",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
+          "published_at": "2026-10-12T11:09:24.265248Z"
         },
         {
-          "id": "a61a7c3608f5beed788455761b5c554c7a5a597f",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
-          "url": "https://www.aibase.com/zh/news/31552",
+          "id": "103027e167bf63425bb5bbd04ba5e016302bf748",
+          "title": "微软升级 Copilot Notebooks：支持任务委派、Office 文档编辑与交互式报告",
+          "url": "https://www.aibase.com/zh/news/31563",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -304,18 +742,18 @@
       ],
       "items": [
         {
-          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-          "url": "https://www.aibase.com/news/31552",
+          "id": "aa2155f85bb28b02d97ca5c467cb53c6efd91a4f",
+          "title": "微软升级 Copilot Notebooks:支持任务委派、Office 文档编辑与交互式报告",
+          "url": "https://www.aibase.com/news/31563",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
+          "published_at": "2026-10-12T11:09:24.265248Z"
         },
         {
-          "id": "a61a7c3608f5beed788455761b5c554c7a5a597f",
-          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
-          "url": "https://www.aibase.com/zh/news/31552",
+          "id": "103027e167bf63425bb5bbd04ba5e016302bf748",
+          "title": "微软升级 Copilot Notebooks：支持任务委派、Office 文档编辑与交互式报告",
+          "url": "https://www.aibase.com/zh/news/31563",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -339,178 +777,7 @@
       "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T03:19:38.004685Z",
-      "latest_at": "2026-10-12T03:19:38.004685Z",
-      "primary_item": {
-        "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
-        "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
-        "url": "https://www.aibase.com/news/31552",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-12T03:19:38.004685Z",
-        "ai_score": 1.0,
-        "ai_label": "infra_compute",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_70938c9dd862",
-      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-      "url": "https://x.com/thsottiaux/status/2109430343346581527",
-      "primary_url": "https://x.com/thsottiaux/status/2109430343346581527",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-11T23:45:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-11T23:45:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7226,
-      "importance": 0.7226,
-      "importance_score": 0.7226,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9499,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-11T23:45:59Z",
-      "latest_at": "2026-10-11T23:45:59Z",
-      "primary_item": {
-        "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-        "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "url": "https://x.com/thsottiaux/status/2109430343346581527",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-11T23:45:59Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a4e15ee965e5",
-      "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-      "url": "https://www.aibase.com/news/31555",
-      "primary_url": "https://www.aibase.com/news/31555",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b5d1c85ec4ae929155a7dc9c50d9f1abc7b55f6e",
-          "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-          "url": "https://www.aibase.com/news/31555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
-        },
-        {
-          "id": "0a4ccbb8be5781dba2b13e10f605d960d05356c4",
-          "title": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
-          "url": "https://www.aibase.com/zh/news/31555",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b5d1c85ec4ae929155a7dc9c50d9f1abc7b55f6e",
-          "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-          "url": "https://www.aibase.com/news/31555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
-        },
-        {
-          "id": "0a4ccbb8be5781dba2b13e10f605d960d05356c4",
-          "title": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
-          "url": "https://www.aibase.com/zh/news/31555",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
+      "enterprise_content_type": "research_report",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
@@ -519,21 +786,21 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-12T03:19:38.004685Z",
-      "latest_at": "2026-10-12T03:19:38.004685Z",
+      "earliest_at": "2026-10-12T11:09:24.265248Z",
+      "latest_at": "2026-10-12T11:09:24.265248Z",
       "primary_item": {
-        "id": "b5d1c85ec4ae929155a7dc9c50d9f1abc7b55f6e",
-        "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
-        "url": "https://www.aibase.com/news/31555",
+        "id": "aa2155f85bb28b02d97ca5c467cb53c6efd91a4f",
+        "title": "微软升级 Copilot Notebooks:支持任务委派、Office 文档编辑与交互式报告",
+        "url": "https://www.aibase.com/news/31563",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-10-12T03:19:38.004685Z",
+        "published_at": "2026-10-12T11:09:24.265248Z",
         "ai_score": 1.0,
-        "ai_label": "ai_general",
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
+        "enterprise_content_type": "research_report",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -662,19 +929,19 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.673,
-      "importance": 0.673,
-      "importance_score": 0.673,
+      "score": 0.6556,
+      "importance": 0.6556,
+      "importance_score": 0.6556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.54,
         "ai_relevance": 0.7,
-        "recency": 0.9058,
+        "recency": 0.8089,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -703,26 +970,26 @@
       }
     },
     {
-      "story_id": "story_54854e1fd9c2",
-      "title": "腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算",
-      "url": "https://www.aibase.com/news/31559",
-      "primary_url": "https://www.aibase.com/news/31559",
+      "story_id": "story_51465dbf5848",
+      "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+      "url": "https://www.aibase.com/news/31556",
+      "primary_url": "https://www.aibase.com/news/31556",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "47bfe9b557042cc1b413f52cf92ac4169fd6ae6f",
-          "title": "腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算",
-          "url": "https://www.aibase.com/news/31559",
+          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
+          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+          "url": "https://www.aibase.com/news/31556",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-12T03:19:38.004685Z"
         },
         {
-          "id": "df445e022dc93e0f071a216336dc5ec2b59c2af8",
-          "title": "腾讯上线「企鹅微单」：AI 创作者接单平台，支持需求发布、智能匹配与微信内结算",
-          "url": "https://www.aibase.com/zh/news/31559",
+          "id": "c04054e13310b046f66c3f1e024b1e427de763ea",
+          "title": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
+          "url": "https://www.aibase.com/zh/news/31556",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -736,18 +1003,18 @@
       ],
       "items": [
         {
-          "id": "47bfe9b557042cc1b413f52cf92ac4169fd6ae6f",
-          "title": "腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算",
-          "url": "https://www.aibase.com/news/31559",
+          "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
+          "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+          "url": "https://www.aibase.com/news/31556",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-12T03:19:38.004685Z"
         },
         {
-          "id": "df445e022dc93e0f071a216336dc5ec2b59c2af8",
-          "title": "腾讯上线「企鹅微单」：AI 创作者接单平台，支持需求发布、智能匹配与微信内结算",
-          "url": "https://www.aibase.com/zh/news/31559",
+          "id": "c04054e13310b046f66c3f1e024b1e427de763ea",
+          "title": "Claude 半年封禁 1140 万账号，申诉翻盘仅 4.2 万，Anthropic 新规禁止虐待 AI",
+          "url": "https://www.aibase.com/zh/news/31556",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -756,22 +1023,22 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8931,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
+      "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
@@ -783,9 +1050,9 @@
       "earliest_at": "2026-10-12T03:19:38.004685Z",
       "latest_at": "2026-10-12T03:19:38.004685Z",
       "primary_item": {
-        "id": "47bfe9b557042cc1b413f52cf92ac4169fd6ae6f",
-        "title": "腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算",
-        "url": "https://www.aibase.com/news/31559",
+        "id": "fdb9288b3e1f0b01dd8b9b568a5056b07bdb199f",
+        "title": "Claude半年封杀 1140 万账号申诉翻盘仅4. 2 万，Anthropic还要立规矩禁止虐待AI",
+        "url": "https://www.aibase.com/news/31556",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-10-12T03:19:38.004685Z",
@@ -794,31 +1061,31 @@
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
-      "story_id": "story_8dd4d6d73805",
-      "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-      "url": "https://www.aibase.com/news/31550",
-      "primary_url": "https://www.aibase.com/news/31550",
+      "story_id": "story_1cabe2938950",
+      "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+      "url": "https://www.aibase.com/news/31560",
+      "primary_url": "https://www.aibase.com/news/31560",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "02929131e52d09f01c811b724d6b34d16b37d78d",
-          "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-          "url": "https://www.aibase.com/news/31550",
+          "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
+          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+          "url": "https://www.aibase.com/news/31560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-12T03:19:38.004685Z"
         },
         {
-          "id": "045f4c52023cc7f575a2f01a11ce25c5ef6d6db3",
-          "title": "蚂蚁「灵光」开启新版内测，对标 Meta Muse 升级个人智能体",
-          "url": "https://www.aibase.com/zh/news/31550",
+          "id": "f389b23c3122fcebcba2b2ae2560ac342efc1a70",
+          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文从 272k 提升到 500k，长文本免费",
+          "url": "https://www.aibase.com/zh/news/31560",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -832,18 +1099,18 @@
       ],
       "items": [
         {
-          "id": "02929131e52d09f01c811b724d6b34d16b37d78d",
-          "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-          "url": "https://www.aibase.com/news/31550",
+          "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
+          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+          "url": "https://www.aibase.com/news/31560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-12T03:19:38.004685Z"
         },
         {
-          "id": "045f4c52023cc7f575a2f01a11ce25c5ef6d6db3",
-          "title": "蚂蚁「灵光」开启新版内测，对标 Meta Muse 升级个人智能体",
-          "url": "https://www.aibase.com/zh/news/31550",
+          "id": "f389b23c3122fcebcba2b2ae2560ac342efc1a70",
+          "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文从 272k 提升到 500k，长文本免费",
+          "url": "https://www.aibase.com/zh/news/31560",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -852,19 +1119,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8931,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -879,14 +1146,14 @@
       "earliest_at": "2026-10-12T03:19:38.004685Z",
       "latest_at": "2026-10-12T03:19:38.004685Z",
       "primary_item": {
-        "id": "02929131e52d09f01c811b724d6b34d16b37d78d",
-        "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
-        "url": "https://www.aibase.com/news/31550",
+        "id": "34352ae1ec29a4f379c5d7bd45c4375d3f608950",
+        "title": "OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费",
+        "url": "https://www.aibase.com/news/31560",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-10-12T03:19:38.004685Z",
         "ai_score": 1.0,
-        "ai_label": "agent_workflow",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -895,53 +1162,168 @@
       }
     },
     {
-      "story_id": "story_4186db4bef0f",
-      "title": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-      "url": "https://www.aibase.com/news/31557",
-      "primary_url": "https://www.aibase.com/news/31557",
+      "story_id": "story_f8a2caa26ac3",
+      "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+      "url": "https://www.aibase.com/news/31552",
+      "primary_url": "https://www.aibase.com/news/31552",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bac70dad58153924bfcb22a6c0a9b2185168fc42",
-          "title": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-          "url": "https://www.aibase.com/news/31557",
+          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
+          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "url": "https://www.aibase.com/news/31552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-12T03:19:38.004685Z"
+        },
+        {
+          "id": "a61a7c3608f5beed788455761b5c554c7a5a597f",
+          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
+          "url": "https://www.aibase.com/zh/news/31552",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "bac70dad58153924bfcb22a6c0a9b2185168fc42",
-          "title": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-          "url": "https://www.aibase.com/news/31557",
+          "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
+          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+          "url": "https://www.aibase.com/news/31552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-12T03:19:38.004685Z"
+        },
+        {
+          "id": "a61a7c3608f5beed788455761b5c554c7a5a597f",
+          "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片「通用适配器」",
+          "url": "https://www.aibase.com/zh/news/31552",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8931,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T03:19:38.004685Z",
+      "latest_at": "2026-10-12T03:19:38.004685Z",
+      "primary_item": {
+        "id": "41fcc96c83b71573194983addaf7625bd77dbe23",
+        "title": "亚马逊拟 70 亿美元收购 Decart，抢下 AI 芯片\"通用适配器\"",
+        "url": "https://www.aibase.com/news/31552",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-12T03:19:38.004685Z",
+        "ai_score": 1.0,
+        "ai_label": "infra_compute",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_a4e15ee965e5",
+      "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
+      "url": "https://www.aibase.com/news/31555",
+      "primary_url": "https://www.aibase.com/news/31555",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b5d1c85ec4ae929155a7dc9c50d9f1abc7b55f6e",
+          "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
+          "url": "https://www.aibase.com/news/31555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T03:19:38.004685Z"
+        },
+        {
+          "id": "0a4ccbb8be5781dba2b13e10f605d960d05356c4",
+          "title": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
+          "url": "https://www.aibase.com/zh/news/31555",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b5d1c85ec4ae929155a7dc9c50d9f1abc7b55f6e",
+          "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
+          "url": "https://www.aibase.com/news/31555",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-12T03:19:38.004685Z"
+        },
+        {
+          "id": "0a4ccbb8be5781dba2b13e10f605d960d05356c4",
+          "title": "特朗普强推 AI 改名「超级智能」，硅谷巨头排队照办",
+          "url": "https://www.aibase.com/zh/news/31555",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8931,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -949,15 +1331,16 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-10-12T03:19:38.004685Z",
       "latest_at": "2026-10-12T03:19:38.004685Z",
       "primary_item": {
-        "id": "bac70dad58153924bfcb22a6c0a9b2185168fc42",
-        "title": "46岁数学家凭AI量化交易跻身英国富豪榜第八，身家超1417亿元",
-        "url": "https://www.aibase.com/news/31557",
+        "id": "b5d1c85ec4ae929155a7dc9c50d9f1abc7b55f6e",
+        "title": "特朗普强推 AI 改名\"超级智能\"，硅谷巨头排队照办",
+        "url": "https://www.aibase.com/news/31555",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-10-12T03:19:38.004685Z",
@@ -968,6 +1351,119 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_004d60c2b2c5",
+      "title": "研究公司称 Anthropic 的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "primary_url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "63069edc62931c75a68799a087ac7b660dbc033a",
+          "title": "研究公司称 Anthropic 的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "ccac9711f886a42474949e6632ce27a336123513",
+          "title": "研究公司称 Anthropic 的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "url": "https://news.ycombinator.com/item?id=50051583",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "5a3c879cec8abf93c678812f7416ab91cd7e85b1",
+          "title": "研究公司称 Anthropic 即将进行的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+          "url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T23:58:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Slashdot",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "63069edc62931c75a68799a087ac7b660dbc033a",
+          "title": "研究公司称 Anthropic 的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "ccac9711f886a42474949e6632ce27a336123513",
+          "title": "研究公司称 Anthropic 的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "url": "https://news.ycombinator.com/item?id=50051583",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T05:03:47Z"
+        },
+        {
+          "id": "5a3c879cec8abf93c678812f7416ab91cd7e85b1",
+          "title": "研究公司称 Anthropic 即将进行的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's Upcoming IPO 'Unprecedented Test of Investor Gullibity'",
+          "url": "https://slashdot.org/story/26/10/11/2355238/research-firm-calls-anthropics-upcoming-ipo-unprecedented-test-of-investor-gullibity",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-11T23:58:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5556,
+      "importance": 0.5556,
+      "importance_score": 0.5556,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9158,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T23:58:00Z",
+      "latest_at": "2026-10-12T05:03:47Z",
+      "primary_item": {
+        "id": "63069edc62931c75a68799a087ac7b660dbc033a",
+        "title": "研究公司称 Anthropic 的 IPO 是“对投资者轻信程度的前所未有的考验” / Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-12T05:03:47Z",
+        "ai_score": 0.65,
+        "ai_label": "research_paper",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -998,7 +1494,7 @@
         },
         {
           "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
-          "title": "The gap in shared understanding of LLM capability is widening",
+          "title": "对 LLM 能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
           "url": "https://news.ycombinator.com/item?id=50047422",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1033,7 +1529,7 @@
         },
         {
           "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
-          "title": "The gap in shared understanding of LLM capability is widening",
+          "title": "对 LLM 能力的共识差距正在扩大 / The gap in shared understanding of LLM capability is widening",
           "url": "https://news.ycombinator.com/item?id=50047422",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1043,15 +1539,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5625,
-      "importance": 0.5625,
-      "importance_score": 0.5625,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9539,
+        "recency": 0.852,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1084,144 +1580,68 @@
       }
     },
     {
-      "story_id": "story_7ca24963e514",
-      "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-      "url": "https://www.aibase.com/news/31549",
-      "primary_url": "https://www.aibase.com/news/31549",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b7fec157c75072fe1e82fd52521c3ed0ddcf0e24",
-          "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "url": "https://www.aibase.com/news/31549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b7fec157c75072fe1e82fd52521c3ed0ddcf0e24",
-          "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-          "url": "https://www.aibase.com/news/31549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T03:19:38.004685Z",
-      "latest_at": "2026-10-12T03:19:38.004685Z",
-      "primary_item": {
-        "id": "b7fec157c75072fe1e82fd52521c3ed0ddcf0e24",
-        "title": "AI 购物新玩法引发争议！马斯克称拍信用卡即可下单，遭 OpenAI 高管公开嘲讽",
-        "url": "https://www.aibase.com/news/31549",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-12T03:19:38.004685Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_e19f0f1c5aa4",
-      "title": "当大型语言模型反编译器更多地进行重新编译，却保留更少信息时",
-      "url": "https://arxiv.org/abs/2609.05370",
-      "primary_url": "https://arxiv.org/abs/2609.05370",
-      "source": "arxiv.org",
+      "story_id": "story_5525ff334e3c",
+      "title": "林纳斯·托瓦兹正利用Claude代码对Linux内核进行一项重大改进",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "primary_url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "source": "www.phoronix.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2510395ea81cb3fffb7726e0a3bcdd1168f19c8a",
-          "title": "当大型语言模型反编译器更多地进行重新编译，却保留更少信息时",
-          "url": "https://arxiv.org/abs/2609.05370",
-          "source": "arxiv.org",
+          "id": "aac91f79819ffbf6137ecb86ec0abf4779919251",
+          "title": "林纳斯·托瓦兹正利用Claude代码对Linux内核进行一项重大改进",
+          "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+          "source": "www.phoronix.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T02:46:05.977000Z"
+          "published_at": "2026-10-12T10:25:08.692000Z"
         },
         {
-          "id": "1b5f4abeed0023b53dcb47600ee4a6a7b7d4f4b6",
-          "title": "当大型语言模型反编译器更多地进行重新编译，却保留更少信息时 / When LLM Decompilers Recompile More and Preserve Less",
-          "url": "https://arxiv.org/abs/2609.05370",
+          "id": "a99629066e45a1a579d63958f86bc4e1513f02dc",
+          "title": "林纳斯·托瓦兹正利用Claude代码对Linux内核进行一项重大改进 / Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+          "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-12T02:44:55Z"
+          "published_at": "2026-10-12T10:11:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Lobsters (技术社区)",
-        "arxiv.org"
+        "www.phoronix.com"
       ],
       "items": [
         {
-          "id": "2510395ea81cb3fffb7726e0a3bcdd1168f19c8a",
-          "title": "当大型语言模型反编译器更多地进行重新编译，却保留更少信息时",
-          "url": "https://arxiv.org/abs/2609.05370",
-          "source": "arxiv.org",
+          "id": "aac91f79819ffbf6137ecb86ec0abf4779919251",
+          "title": "林纳斯·托瓦兹正利用Claude代码对Linux内核进行一项重大改进",
+          "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+          "source": "www.phoronix.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T02:46:05.977000Z"
+          "published_at": "2026-10-12T10:25:08.692000Z"
         },
         {
-          "id": "1b5f4abeed0023b53dcb47600ee4a6a7b7d4f4b6",
-          "title": "当大型语言模型反编译器更多地进行重新编译，却保留更少信息时 / When LLM Decompilers Recompile More and Preserve Less",
-          "url": "https://arxiv.org/abs/2609.05370",
+          "id": "a99629066e45a1a579d63958f86bc4e1513f02dc",
+          "title": "林纳斯·托瓦兹正利用Claude代码对Linux内核进行一项重大改进 / Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+          "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-12T02:44:55Z"
+          "published_at": "2026-10-12T10:11:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.992,
+        "recency": 0.9894,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1235,15 +1655,15 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-12T02:44:55Z",
-      "latest_at": "2026-10-12T02:46:05.977000Z",
+      "earliest_at": "2026-10-12T10:11:29Z",
+      "latest_at": "2026-10-12T10:25:08.692000Z",
       "primary_item": {
-        "id": "2510395ea81cb3fffb7726e0a3bcdd1168f19c8a",
-        "title": "当大型语言模型反编译器更多地进行重新编译，却保留更少信息时",
-        "url": "https://arxiv.org/abs/2609.05370",
-        "source": "arxiv.org",
+        "id": "aac91f79819ffbf6137ecb86ec0abf4779919251",
+        "title": "林纳斯·托瓦兹正利用Claude代码对Linux内核进行一项重大改进",
+        "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+        "source": "www.phoronix.com",
         "source_name": "Buzzing",
-        "published_at": "2026-10-12T02:46:05.977000Z",
+        "published_at": "2026-10-12T10:25:08.692000Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -1254,72 +1674,72 @@
       }
     },
     {
-      "story_id": "story_5a6b7e23ee06",
-      "title": "“AI”并非一种工具",
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "primary_url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "source": "www.linkedin.com",
+      "story_id": "story_d219e6827c7d",
+      "title": "随着Meta人工智能数据中心这一大型项目为路易斯安那州一个小镇带来了数千名工人，当地的商业活动正蓬勃发展。",
+      "url": "https://www.businessinsider.com/meta-ai-data-center-construction-louisiana-local-business-growth-economy-2026-10",
+      "primary_url": "https://www.businessinsider.com/meta-ai-data-center-construction-louisiana-local-business-growth-economy-2026-10",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "935cbc47a75127fd5c747ec61ba5092eb9dabb25",
-          "title": "“AI”并非一种工具",
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-          "source": "www.linkedin.com",
+          "id": "16acb4592526406af768f37111537c472da69272",
+          "title": "随着Meta人工智能数据中心这一大型项目为路易斯安那州一个小镇带来了数千名工人，当地的商业活动正蓬勃发展。",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-construction-louisiana-local-business-growth-economy-2026-10",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T01:26:16.979000Z"
+          "published_at": "2026-10-12T10:25:08.769000Z"
         },
         {
-          "id": "fdf067d7dc595227938d177f31d0d7d47f23a4c7",
-          "title": "“AI”并非一种工具 / 'AI' is Not a Tool",
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-12T01:18:09Z"
+          "id": "e5ffa04dc3f89d9a8a394d6b0e012a9029df4283",
+          "title": "随着Meta人工智能数据中心这一大型项目为路易斯安那州一个小镇带来了数千名工人，当地的商业活动正蓬勃发展。 / Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-construction-louisiana-local-business-growth-economy-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T09:03:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.linkedin.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "935cbc47a75127fd5c747ec61ba5092eb9dabb25",
-          "title": "“AI”并非一种工具",
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-          "source": "www.linkedin.com",
+          "id": "16acb4592526406af768f37111537c472da69272",
+          "title": "随着Meta人工智能数据中心这一大型项目为路易斯安那州一个小镇带来了数千名工人，当地的商业活动正蓬勃发展。",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-construction-louisiana-local-business-growth-economy-2026-10",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-12T01:26:16.979000Z"
+          "published_at": "2026-10-12T10:25:08.769000Z"
         },
         {
-          "id": "fdf067d7dc595227938d177f31d0d7d47f23a4c7",
-          "title": "“AI”并非一种工具 / 'AI' is Not a Tool",
-          "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-12T01:18:09Z"
+          "id": "e5ffa04dc3f89d9a8a394d6b0e012a9029df4283",
+          "title": "随着Meta人工智能数据中心这一大型项目为路易斯安那州一个小镇带来了数千名工人，当地的商业活动正蓬勃发展。 / Business is booming in a small Louisiana town as a huge Meta AI data center project brings in thousands of workers",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-construction-louisiana-local-business-growth-economy-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T09:03:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9731,
+        "recency": 0.9894,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1329,15 +1749,15 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-12T01:18:09Z",
-      "latest_at": "2026-10-12T01:26:16.979000Z",
+      "earliest_at": "2026-10-12T09:03:01Z",
+      "latest_at": "2026-10-12T10:25:08.769000Z",
       "primary_item": {
-        "id": "935cbc47a75127fd5c747ec61ba5092eb9dabb25",
-        "title": "“AI”并非一种工具",
-        "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-        "source": "www.linkedin.com",
+        "id": "16acb4592526406af768f37111537c472da69272",
+        "title": "随着Meta人工智能数据中心这一大型项目为路易斯安那州一个小镇带来了数千名工人，当地的商业活动正蓬勃发展。",
+        "url": "https://www.businessinsider.com/meta-ai-data-center-construction-louisiana-local-business-growth-economy-2026-10",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing",
-        "published_at": "2026-10-12T01:26:16.979000Z",
+        "published_at": "2026-10-12T10:25:08.769000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1348,523 +1768,72 @@
       }
     },
     {
-      "story_id": "story_98ebcffe1ec7",
-      "title": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart",
-      "url": "https://www.ithome.com/1/011/720.htm",
-      "primary_url": "https://www.ithome.com/1/011/720.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "839a14b78d4213504b42d6581802bdcf27c78d6d",
-          "title": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart",
-          "url": "https://www.ithome.com/1/011/720.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6fa0b1525f5a0ed52ed77fa1906f373a6ec4a5f5",
-          "title": "Anthropic 放弃后，消息称亚马逊洽谈收购初创公司 Decart、看中 AI 芯片切换软件",
-          "url": "https://www.ithome.com/1/011/720.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T23:01:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "839a14b78d4213504b42d6581802bdcf27c78d6d",
-          "title": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart",
-          "url": "https://www.ithome.com/1/011/720.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6fa0b1525f5a0ed52ed77fa1906f373a6ec4a5f5",
-          "title": "Anthropic 放弃后，消息称亚马逊洽谈收购初创公司 Decart、看中 AI 芯片切换软件",
-          "url": "https://www.ithome.com/1/011/720.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T23:01:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9508,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T23:01:49Z",
-      "latest_at": "2026-10-11T23:50:05.107138Z",
-      "primary_item": {
-        "id": "839a14b78d4213504b42d6581802bdcf27c78d6d",
-        "title": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart",
-        "url": "https://www.ithome.com/1/011/720.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "industry_business",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_5947d794c16d",
-      "title": "通行密钥是个陷阱。请勿使用 / Passkeys are a trap",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "primary_url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "ac202b1eb132d7fc4ec2c1e34cfb172c58688b08",
-          "title": "通行密钥是个陷阱。请勿使用 / Passkeys are a trap",
-          "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T21:59:48Z"
-        },
-        {
-          "id": "9dd8cc8e03c80c400961192fb9e463c3da8fdb21",
-          "title": "通行密钥是个陷阱。请勿使用 / Passkeys are a trap. Do not use them",
-          "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T21:59:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "ac202b1eb132d7fc4ec2c1e34cfb172c58688b08",
-          "title": "通行密钥是个陷阱。请勿使用 / Passkeys are a trap",
-          "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T21:59:48Z"
-        },
-        {
-          "id": "9dd8cc8e03c80c400961192fb9e463c3da8fdb21",
-          "title": "通行密钥是个陷阱。请勿使用 / Passkeys are a trap. Do not use them",
-          "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T21:59:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9259,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T21:59:48Z",
-      "latest_at": "2026-10-11T21:59:48Z",
-      "primary_item": {
-        "id": "ac202b1eb132d7fc4ec2c1e34cfb172c58688b08",
-        "title": "通行密钥是个陷阱。请勿使用 / Passkeys are a trap",
-        "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-10-11T21:59:48Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_d77fda61d4fd",
-      "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-      "url": "https://www.aibase.com/news/31551",
-      "primary_url": "https://www.aibase.com/news/31551",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
-          "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "url": "https://www.aibase.com/news/31551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
-          "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-          "url": "https://www.aibase.com/news/31551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T03:19:38.004685Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T03:19:38.004685Z",
-      "latest_at": "2026-10-12T03:19:38.004685Z",
-      "primary_item": {
-        "id": "635e8df7bff5aec1f66e2f5d88f872aa3dda7de7",
-        "title": "Anthropic放手后亚马逊接盘： 70 亿美元洽购Decart，盯上AI芯片间的\"万能转接头\"",
-        "url": "https://www.aibase.com/news/31551",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-12T03:19:38.004685Z",
-        "ai_score": 1.0,
-        "ai_label": "infra_compute",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_38c44438940b",
-      "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
-      "url": "https://www.36kr.com/p/3990015565708035",
-      "primary_url": "https://www.36kr.com/p/3990015565708035",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7638a50c96f6d98278d3734563ce0e8fa676f36a",
-          "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
-          "url": "https://www.36kr.com/p/3990015565708035",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8dc066d00ad4bb67cbe6881b9b9d210e453d2937",
-          "title": "AI 运动硬件公司庞伯特获数亿 B 轮融资，用体育大模型重构网球自主训练体验",
-          "url": "https://www.36kr.com/p/3990015565708035",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7638a50c96f6d98278d3734563ce0e8fa676f36a",
-          "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
-          "url": "https://www.36kr.com/p/3990015565708035",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8dc066d00ad4bb67cbe6881b9b9d210e453d2937",
-          "title": "AI 运动硬件公司庞伯特获数亿 B 轮融资，用体育大模型重构网球自主训练体验",
-          "url": "https://www.36kr.com/p/3990015565708035",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8549,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T04:22:55.491789Z",
-      "latest_at": "2026-10-11T16:28:19.709719Z",
-      "primary_item": {
-        "id": "7638a50c96f6d98278d3734563ce0e8fa676f36a",
-        "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
-        "url": "https://www.36kr.com/p/3990015565708035",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_26149269af1e",
-      "title": "利奥加文/airllm / lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "primary_url": "https://github.com/lyogavin/airllm",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T16:03:00.508000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T16:03:00.508000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8549,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T16:03:00.508000Z",
-      "latest_at": "2026-10-11T16:28:19.709719Z",
-      "primary_item": {
-        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-        "title": "利奥加文/airllm / lyogavin / airllm",
-        "url": "https://github.com/lyogavin/airllm",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_4b410baa7c8f",
-      "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-      "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
-      "primary_url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
-      "source": "www.businessinsider.com",
+      "story_id": "story_ce7cbe0fa785",
+      "title": "Show HN: Atticus——一款基于 Claude -p 运行的 macOS 长按通话语音助手",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "primary_url": "https://github.com/SaarthurR/atticus-mac",
+      "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
-          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "989ec707caf7a7ff7730052e49a1e8e89b7f6540",
+          "title": "Show HN: Atticus——一款基于 Claude -p 运行的 macOS 长按通话语音助手",
+          "url": "https://github.com/SaarthurR/atticus-mac",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-11T12:30:10.840000Z"
+          "published_at": "2026-10-12T07:31:08.466000Z"
         },
         {
-          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
-          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
-          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T11:47:01Z"
+          "id": "2fe6fedd49a5e99958abc84cbd0f891412635728",
+          "title": "Show HN: Atticus——一款基于 Claude -p 运行的 macOS 长按通话语音助手 / Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "url": "https://github.com/SaarthurR/atticus-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T00:15:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热",
+        "github.com"
       ],
       "items": [
         {
-          "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
-          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
-          "source": "www.businessinsider.com",
+          "id": "989ec707caf7a7ff7730052e49a1e8e89b7f6540",
+          "title": "Show HN: Atticus——一款基于 Claude -p 运行的 macOS 长按通话语音助手",
+          "url": "https://github.com/SaarthurR/atticus-mac",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-11T12:30:10.840000Z"
+          "published_at": "2026-10-12T07:31:08.466000Z"
         },
         {
-          "id": "96b5e884a412c5537503c4741a27023f65611b3d",
-          "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。 / My friends use AI regularly, but I refuse to. I'm learning to keep my beliefs and opinions about it to myself.",
-          "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-11T11:47:01Z"
+          "id": "2fe6fedd49a5e99958abc84cbd0f891412635728",
+          "title": "Show HN: Atticus——一款基于 Claude -p 运行的 macOS 长按通话语音助手 / Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "url": "https://github.com/SaarthurR/atticus-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T00:15:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5111,
-      "importance": 0.5111,
-      "importance_score": 0.5111,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8073,
+        "recency": 0.9488,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1874,15 +1843,109 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T11:47:01Z",
-      "latest_at": "2026-10-11T12:30:10.840000Z",
+      "earliest_at": "2026-10-12T00:15:12Z",
+      "latest_at": "2026-10-12T07:31:08.466000Z",
       "primary_item": {
-        "id": "53bf2a091da88b07978ef3b7903c5c5264f0e99a",
-        "title": "我的朋友们经常使用人工智能，但我拒绝使用。我正在学会将自己对人工智能的看法和观点藏在心里。",
-        "url": "https://www.businessinsider.com/friends-love-ai-refuse-peer-pressure-2026-10",
-        "source": "www.businessinsider.com",
+        "id": "989ec707caf7a7ff7730052e49a1e8e89b7f6540",
+        "title": "Show HN: Atticus——一款基于 Claude -p 运行的 macOS 长按通话语音助手",
+        "url": "https://github.com/SaarthurR/atticus-mac",
+        "source": "github.com",
         "source_name": "Buzzing",
-        "published_at": "2026-10-11T12:30:10.840000Z",
+        "published_at": "2026-10-12T07:31:08.466000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a7b36806198c",
+      "title": "通过集体智慧实现递归式自我提升",
+      "url": "https://pub.sakana.ai/mass",
+      "primary_url": "https://pub.sakana.ai/mass",
+      "source": "pub.sakana.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6b439bd9cf63e65c807f356ccd1577546a1a119b",
+          "title": "通过集体智慧实现递归式自我提升",
+          "url": "https://pub.sakana.ai/mass",
+          "source": "pub.sakana.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T06:58:54.709000Z"
+        },
+        {
+          "id": "d45aaaebcd2f4bd6ff40c31f3afb6a089d662680",
+          "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
+          "url": "https://pub.sakana.ai/mass",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T22:22:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "pub.sakana.ai"
+      ],
+      "items": [
+        {
+          "id": "6b439bd9cf63e65c807f356ccd1577546a1a119b",
+          "title": "通过集体智慧实现递归式自我提升",
+          "url": "https://pub.sakana.ai/mass",
+          "source": "pub.sakana.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T06:58:54.709000Z"
+        },
+        {
+          "id": "d45aaaebcd2f4bd6ff40c31f3afb6a089d662680",
+          "title": "通过集体智慧实现递归式自我提升 / Recursive self-improvement through collective intelligence",
+          "url": "https://pub.sakana.ai/mass",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T22:22:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9415,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T22:22:10Z",
+      "latest_at": "2026-10-12T06:58:54.709000Z",
+      "primary_item": {
+        "id": "6b439bd9cf63e65c807f356ccd1577546a1a119b",
+        "title": "通过集体智慧实现递归式自我提升",
+        "url": "https://pub.sakana.ai/mass",
+        "source": "pub.sakana.ai",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-12T06:58:54.709000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
