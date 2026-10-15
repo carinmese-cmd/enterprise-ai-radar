@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T01:06:00.058337Z",
+  "generated_at": "2026-10-15T06:02:54.493446Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8795,
+        "recency": 0.8189,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -115,19 +115,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9294,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -159,7 +159,7 @@
     },
     {
       "story_id": "story_a0e0fec2c2b5",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作 / Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding",
       "primary_url": "https://openai.com/index/amp-beyond-coding",
       "source": "OpenAI News",
@@ -167,7 +167,7 @@
       "sources": [
         {
           "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作 / Amp puts AI agents to work beyond code with OpenAI models",
           "url": "https://openai.com/index/amp-beyond-coding",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -182,7 +182,7 @@
       "items": [
         {
           "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作 / Amp puts AI agents to work beyond code with OpenAI models",
           "url": "https://openai.com/index/amp-beyond-coding",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -192,15 +192,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8276,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -220,109 +220,12 @@
       "latest_at": "2026-10-14T12:00:00Z",
       "primary_item": {
         "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作 / Amp puts AI agents to work beyond code with OpenAI models",
         "url": "https://openai.com/index/amp-beyond-coding",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "published_at": "2026-10-14T12:00:00Z",
         "ai_score": 0.91,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_5cb1618c1db5",
-      "title": "Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "primary_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
-          "title": "Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T02:00:14Z"
-        },
-        {
-          "id": "33f3b0968d90aadd0d7a21a9a68ad189889d1b16",
-          "title": "谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
-          "title": "Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T02:00:14Z"
-        },
-        {
-          "id": "33f3b0968d90aadd0d7a21a9a68ad189889d1b16",
-          "title": "谷歌 DeepMind 和新加坡政府宣布推出新的人工智能工具，以保护公民免受诈骗 / Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7164,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T02:00:14Z",
-      "latest_at": "2026-10-14T05:37:36.450630Z",
-      "primary_item": {
-        "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
-        "title": "Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调人工智能模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-10-14T02:00:14Z",
-        "ai_score": 0.87,
         "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -385,19 +288,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9793,
+        "recency": 0.9118,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -420,6 +323,102 @@
         "published_at": "2026-10-14T23:39:08.393000Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_95760f1ce991",
+      "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+      "url": "https://www.aibase.com/news/31657",
+      "primary_url": "https://www.aibase.com/news/31657",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "url": "https://www.aibase.com/news/31657",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T06:02:54.493446Z"
+        },
+        {
+          "id": "c0cfe969c39f7691331e797a68d0a1742d9ea6ba",
+          "title": "AI 冲击叠加债务压力，Getty Images 启动全面财务重组",
+          "url": "https://www.aibase.com/zh/news/31657",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "url": "https://www.aibase.com/news/31657",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T06:02:54.493446Z"
+        },
+        {
+          "id": "c0cfe969c39f7691331e797a68d0a1742d9ea6ba",
+          "title": "AI 冲击叠加债务压力，Getty Images 启动全面财务重组",
+          "url": "https://www.aibase.com/zh/news/31657",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T06:02:54.493446Z",
+      "latest_at": "2026-10-15T06:02:54.493446Z",
+      "primary_item": {
+        "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+        "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+        "url": "https://www.aibase.com/news/31657",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-15T06:02:54.493446Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -481,15 +480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.913,
+        "recency": 0.8501,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -558,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8276,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -635,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8497,
+        "recency": 0.7911,
         "story_heat": 0.0
       },
       "enterprise_score": 14,
@@ -675,6 +674,178 @@
         "enterprise_topics": [],
         "enterprise_content_type": "technical_practice",
         "enterprise_reason": "内容类型：技术实践"
+      }
+    },
+    {
+      "story_id": "story_7a08ed71e8fb",
+      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+      "url": "https://x.com/Khazix0918/status/2110587546271191166",
+      "primary_url": "https://x.com/Khazix0918/status/2110587546271191166",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
+          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "url": "https://x.com/Khazix0918/status/2110587546271191166",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:24:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
+          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "url": "https://x.com/Khazix0918/status/2110587546271191166",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:24:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9765,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T04:24:18Z",
+      "latest_at": "2026-10-15T04:24:18Z",
+      "primary_item": {
+        "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
+        "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+        "url": "https://x.com/Khazix0918/status/2110587546271191166",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-15T04:24:18Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_tech",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_fdd47706687d",
+      "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+      "url": "https://www.aibase.com/news/31653",
+      "primary_url": "https://www.aibase.com/news/31653",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
+          "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "url": "https://www.aibase.com/news/31653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T06:02:54.493446Z"
+        },
+        {
+          "id": "a876130aaa139f1405ec825c20d75260e059d09e",
+          "title": "Anthropic 第三季度营收达 168 亿美元，计划 11 月启动 IPO 路演",
+          "url": "https://www.aibase.com/zh/news/31653",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
+          "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "url": "https://www.aibase.com/news/31653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T06:02:54.493446Z"
+        },
+        {
+          "id": "a876130aaa139f1405ec825c20d75260e059d09e",
+          "title": "Anthropic 第三季度营收达 168 亿美元，计划 11 月启动 IPO 路演",
+          "url": "https://www.aibase.com/zh/news/31653",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T06:02:54.493446Z",
+      "latest_at": "2026-10-15T06:02:54.493446Z",
+      "primary_item": {
+        "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
+        "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+        "url": "https://www.aibase.com/news/31653",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-15T06:02:54.493446Z",
+        "ai_score": 1.0,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -731,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.7907,
+      "importance": 0.7907,
+      "importance_score": 0.7907,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9732,
+        "recency": 0.9061,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -774,49 +945,49 @@
       }
     },
     {
-      "story_id": "story_6cc1a10c67da",
-      "title": "OpenAI加紧研发下一代旗舰模型，循环推理与安全对齐成关键",
-      "url": "https://www.aibase.com/news/31646",
-      "primary_url": "https://www.aibase.com/news/31646",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6cbde97d8260",
+      "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4eb55600860cfe8c5e46f442c81c421b1ad19ad6",
-          "title": "OpenAI加紧研发下一代旗舰模型，循环推理与安全对齐成关键",
-          "url": "https://www.aibase.com/news/31646",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T01:06:00.058337Z"
+          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:53:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "公众号：面壁智能（MiniCPM）"
       ],
       "items": [
         {
-          "id": "4eb55600860cfe8c5e46f442c81c421b1ad19ad6",
-          "title": "OpenAI加紧研发下一代旗舰模型，循环推理与安全对齐成关键",
-          "url": "https://www.aibase.com/news/31646",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T01:06:00.058337Z"
+          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:53:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9835,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -828,20 +999,19 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T01:06:00.058337Z",
-      "latest_at": "2026-10-15T01:06:00.058337Z",
+      "earliest_at": "2026-10-15T04:53:56Z",
+      "latest_at": "2026-10-15T04:53:56Z",
       "primary_item": {
-        "id": "4eb55600860cfe8c5e46f442c81c421b1ad19ad6",
-        "title": "OpenAI加紧研发下一代旗舰模型，循环推理与安全对齐成关键",
-        "url": "https://www.aibase.com/news/31646",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-15T01:06:00.058337Z",
+        "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+        "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-15T04:53:56Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "ai_tech",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -884,15 +1054,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9567,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -904,8 +1074,7 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-14T22:02:05Z",
       "latest_at": "2026-10-14T22:02:05Z",
@@ -926,84 +1095,8 @@
       }
     },
     {
-      "story_id": "story_e57c4ae91b90",
-      "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-      "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
-          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T02:58:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
-          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T02:58:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7265,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T02:58:37Z",
-      "latest_at": "2026-10-14T02:58:37Z",
-      "primary_item": {
-        "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
-        "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-        "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-14T02:58:37Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
       "story_id": "story_7d10f0ddfecf",
-      "title": "How Block is building AI-powered security with OpenAI technology",
+      "title": "Block 如何利用 OpenAI 技术构建人工智能驱动的安全 / How Block is building AI-powered security with OpenAI technology",
       "url": "https://openai.com/index/block-ai-powered-security",
       "primary_url": "https://openai.com/index/block-ai-powered-security",
       "source": "OpenAI News",
@@ -1011,7 +1104,7 @@
       "sources": [
         {
           "id": "7c321a63110d5ce8dcde3a9cee84ece42e1270f2",
-          "title": "How Block is building AI-powered security with OpenAI technology",
+          "title": "Block 如何利用 OpenAI 技术构建人工智能驱动的安全 / How Block is building AI-powered security with OpenAI technology",
           "url": "https://openai.com/index/block-ai-powered-security",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -1026,7 +1119,7 @@
       "items": [
         {
           "id": "7c321a63110d5ce8dcde3a9cee84ece42e1270f2",
-          "title": "How Block is building AI-powered security with OpenAI technology",
+          "title": "Block 如何利用 OpenAI 技术构建人工智能驱动的安全 / How Block is building AI-powered security with OpenAI technology",
           "url": "https://openai.com/index/block-ai-powered-security",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -1036,19 +1129,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.77,
+        "recency": 0.7169,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1064,7 +1157,7 @@
       "latest_at": "2026-10-14T07:00:00Z",
       "primary_item": {
         "id": "7c321a63110d5ce8dcde3a9cee84ece42e1270f2",
-        "title": "How Block is building AI-powered security with OpenAI technology",
+        "title": "Block 如何利用 OpenAI 技术构建人工智能驱动的安全 / How Block is building AI-powered security with OpenAI technology",
         "url": "https://openai.com/index/block-ai-powered-security",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
@@ -1113,15 +1206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9508,
+        "recency": 0.8852,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1151,6 +1244,102 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6ceafeef8e88",
+      "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
+      "url": "https://www.aibase.com/news/31654",
+      "primary_url": "https://www.aibase.com/news/31654",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "399c795740dc04a328d3471a8b24b78186908551",
+          "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
+          "url": "https://www.aibase.com/news/31654",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T06:02:54.493446Z"
+        },
+        {
+          "id": "143783649a3e2c44c423d1edcce08517dc82f204",
+          "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
+          "url": "https://www.aibase.com/zh/news/31654",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "399c795740dc04a328d3471a8b24b78186908551",
+          "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
+          "url": "https://www.aibase.com/news/31654",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T06:02:54.493446Z"
+        },
+        {
+          "id": "143783649a3e2c44c423d1edcce08517dc82f204",
+          "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
+          "url": "https://www.aibase.com/zh/news/31654",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T06:02:54.493446Z",
+      "latest_at": "2026-10-15T06:02:54.493446Z",
+      "primary_item": {
+        "id": "399c795740dc04a328d3471a8b24b78186908551",
+        "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
+        "url": "https://www.aibase.com/news/31654",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-15T06:02:54.493446Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -1188,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.95,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1225,6 +1414,81 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_69e251fa583c",
+      "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+      "url": "https://www.figma.com/blog/websites-with-payload-in-figma",
+      "primary_url": "https://www.figma.com/blog/websites-with-payload-in-figma",
+      "source": "Figma AI / Agent / Make",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8624b3b7cdaf7fae3a53ef7c750348dffebefb0c",
+          "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+          "url": "https://www.figma.com/blog/websites-with-payload-in-figma",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:50:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Figma AI / Agent / Make"
+      ],
+      "items": [
+        {
+          "id": "8624b3b7cdaf7fae3a53ef7c750348dffebefb0c",
+          "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+          "url": "https://www.figma.com/blog/websites-with-payload-in-figma",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:50:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9826,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 46,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "technical_practice",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-15T04:50:00Z",
+      "latest_at": "2026-10-15T04:50:00Z",
+      "primary_item": {
+        "id": "8624b3b7cdaf7fae3a53ef7c750348dffebefb0c",
+        "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+        "url": "https://www.figma.com/blog/websites-with-payload-in-figma",
+        "source": "Figma AI / Agent / Make",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-15T04:50:00Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "technical_practice",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1263,15 +1527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9333,
+        "recency": 0.869,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1304,299 +1568,75 @@
       }
     },
     {
-      "story_id": "story_f047c6140578",
-      "title": "马斯克旗下 xAI 发布 Grok Voice 3.0，定价仅 0.08 美元",
-      "url": "https://www.aibase.com/news/31645",
-      "primary_url": "https://www.aibase.com/news/31645",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e181547094b0",
+      "title": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "primary_url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "513f12f6cc27926d2fc532596246f2ae8cfe2140",
-          "title": "马斯克旗下 xAI 发布 Grok Voice 3.0，定价仅 0.08 美元",
-          "url": "https://www.aibase.com/news/31645",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T01:06:00.058337Z"
+          "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
+          "title": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
+          "url": "https://openai.com/index/third-moment-research",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T07:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "513f12f6cc27926d2fc532596246f2ae8cfe2140",
-          "title": "马斯克旗下 xAI 发布 Grok Voice 3.0，定价仅 0.08 美元",
-          "url": "https://www.aibase.com/news/31645",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-15T01:06:00.058337Z"
+          "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
+          "title": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
+          "url": "https://openai.com/index/third-moment-research",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7169,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
+      "enterprise_content_type": "research_report",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-15T01:06:00.058337Z",
-      "latest_at": "2026-10-15T01:06:00.058337Z",
+      "earliest_at": "2026-10-14T07:00:00Z",
+      "latest_at": "2026-10-14T07:00:00Z",
       "primary_item": {
-        "id": "513f12f6cc27926d2fc532596246f2ae8cfe2140",
-        "title": "马斯克旗下 xAI 发布 Grok Voice 3.0，定价仅 0.08 美元",
-        "url": "https://www.aibase.com/news/31645",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-15T01:06:00.058337Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_e7e1b249ba16",
-      "title": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜",
-      "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf69c00fca0d9deed40739db038a4dbf49c5b49c",
-          "title": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜",
-          "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T17:26:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "bf69c00fca0d9deed40739db038a4dbf49c5b49c",
-          "title": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜",
-          "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T17:26:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8953,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T17:26:20Z",
-      "latest_at": "2026-10-14T17:26:20Z",
-      "primary_item": {
-        "id": "bf69c00fca0d9deed40739db038a4dbf49c5b49c",
-        "title": "Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜",
-        "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-14T17:26:20Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_c5d6a757489c",
-      "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-      "url": "https://lovable.dev/blog/introducing-growth-tools",
-      "primary_url": "https://lovable.dev/blog/introducing-growth-tools",
-      "source": "Lovable Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a6de1b344b3075f2574be922812f989de06f906",
-          "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-          "url": "https://lovable.dev/blog/introducing-growth-tools",
-          "source": "Lovable Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T12:50:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lovable Blog"
-      ],
-      "items": [
-        {
-          "id": "8a6de1b344b3075f2574be922812f989de06f906",
-          "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-          "url": "https://lovable.dev/blog/introducing-growth-tools",
-          "source": "Lovable Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T12:50:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8377,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T12:50:00Z",
-      "latest_at": "2026-10-14T12:50:00Z",
-      "primary_item": {
-        "id": "8a6de1b344b3075f2574be922812f989de06f906",
-        "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-        "url": "https://lovable.dev/blog/introducing-growth-tools",
-        "source": "Lovable Blog",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-14T12:50:00Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_378737ffe80d",
-      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "primary_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "source": "MIT News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-          "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MIT News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-          "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8643,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T15:00:00Z",
-      "latest_at": "2026-10-14T15:00:00Z",
-      "primary_item": {
-        "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-        "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-        "source": "MIT News（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-14T15:00:00Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
+        "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
+        "title": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
+        "url": "https://openai.com/index/third-moment-research",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-14T07:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "agent_workflow",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
