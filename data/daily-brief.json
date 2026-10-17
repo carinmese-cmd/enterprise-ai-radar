@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T04:44:50.272170Z",
+  "generated_at": "2026-10-17T08:55:57.014748Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_7f873c5bdbd5",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4798,
-      "importance": 0.4798,
-      "importance_score": 0.4798,
+      "score": 0.4716,
+      "importance": 0.4716,
+      "importance_score": 0.4716,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7722,
+        "recency": 0.7269,
         "story_heat": 0.0
       },
       "enterprise_score": 70,
@@ -80,6 +80,85 @@
         ],
         "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估"
+      }
+    },
+    {
+      "story_id": "story_ee3a68a328cc",
+      "title": "从零手搓 RAG 系列之给大模型接上知识库",
+      "url": "https://juejin.cn/post/7696354031849652259",
+      "primary_url": "https://juejin.cn/post/7696354031849652259",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6a5849a0b9aea2a2dcc1002f84fe3a91d11f9836",
+          "title": "从零手搓 RAG 系列之给大模型接上知识库",
+          "url": "https://juejin.cn/post/7696354031849652259",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:56:51.404000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "items": [
+        {
+          "id": "6a5849a0b9aea2a2dcc1002f84fe3a91d11f9836",
+          "title": "从零手搓 RAG 系列之给大模型接上知识库",
+          "url": "https://juejin.cn/post/7696354031849652259",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:56:51.404000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 64,
+      "enterprise_importance_score": 66,
+      "enterprise_primary_topic": "enterprise_knowledge_rag",
+      "enterprise_topics": [
+        "enterprise_knowledge_rag"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：企业知识库与RAG",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-17T08:56:51.404000Z",
+      "latest_at": "2026-10-17T08:56:51.404000Z",
+      "primary_item": {
+        "id": "6a5849a0b9aea2a2dcc1002f84fe3a91d11f9836",
+        "title": "从零手搓 RAG 系列之给大模型接上知识库",
+        "url": "https://juejin.cn/post/7696354031849652259",
+        "source": "juejin",
+        "source_name": "NewsNow",
+        "published_at": "2026-10-17T08:56:51.404000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 64,
+        "enterprise_primary_topic": "enterprise_knowledge_rag",
+        "enterprise_topics": [
+          "enterprise_knowledge_rag"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：企业知识库与RAG"
       }
     }
   ]
