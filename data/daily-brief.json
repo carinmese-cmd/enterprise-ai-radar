@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T17:40:24.828308Z",
+  "generated_at": "2026-10-18T19:51:52.575331Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9398,
+        "recency": 0.9105,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -97,6 +97,82 @@
         "enterprise_topics": [],
         "enterprise_content_type": "research_report",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_e2a6e519f65e",
+      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "primary_url": "https://x.com/arena/status/2111894091168682086",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T18:56:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T18:56:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9867,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "纯模型跑分或榜单信号降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-18T18:56:03Z",
+      "latest_at": "2026-10-18T18:56:03Z",
+      "primary_item": {
+        "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+        "url": "https://x.com/arena/status/2111894091168682086",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-18T18:56:03Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "纯模型跑分或榜单信号降权"
       }
     },
     {
@@ -153,15 +229,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.8783,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -284,15 +360,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6386,
+      "importance": 0.6386,
+      "importance_score": 0.6386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9689,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -316,101 +392,6 @@
         "source_name": "WaytoAGI",
         "published_at": "2026-10-18T17:40:24.828308Z",
         "ai_score": 0.65,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_6435f671229b",
-      "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "primary_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-          "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
-        },
-        {
-          "id": "a8e852fbf29e63ae7c1014f0494504038b5f66bc",
-          "title": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-17T18:48:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-          "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
-        },
-        {
-          "id": "a8e852fbf29e63ae7c1014f0494504038b5f66bc",
-          "title": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-17T18:48:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6231,
-      "importance": 0.6231,
-      "importance_score": 0.6231,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.7187,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 39,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-17T18:48:08Z",
-      "latest_at": "2026-10-17T18:48:08Z",
-      "primary_item": {
-        "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-        "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media",
-        "published_at": "2026-10-17T18:48:08Z",
-        "ai_score": 0.82,
         "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -510,15 +491,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5737,
-      "importance": 0.5737,
-      "importance_score": 0.5737,
+      "score": 0.5688,
+      "importance": 0.5688,
+      "importance_score": 0.5688,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8774,
+        "recency": 0.8501,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -623,15 +604,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5487,
-      "importance": 0.5487,
-      "importance_score": 0.5487,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8775,
+        "recency": 0.8501,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -664,111 +645,92 @@
       }
     },
     {
-      "story_id": "story_59f1f537529d",
-      "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "primary_url": "https://github.com/openai/codex/issues/25921",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_774f7412d1a3",
+      "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+      "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+      "primary_url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
-          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T04:10:14.045000Z"
-        },
-        {
-          "id": "e2e55f8176afb0338615148683031564635977cb",
-          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News (黑客新闻)",
+          "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+          "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-17T17:45:08Z"
+          "published_at": "2026-10-18T18:35:01Z"
         },
         {
-          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z"
+          "id": "853d2d29f362ac6d3c4cb62dc59457a9f3b054e1",
+          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+          "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T23:08:30Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)"
       ],
       "items": [
         {
-          "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
-          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T04:10:14.045000Z"
-        },
-        {
-          "id": "e2e55f8176afb0338615148683031564635977cb",
-          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News (黑客新闻)",
+          "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+          "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-17T17:45:08Z"
+          "published_at": "2026-10-18T18:35:01Z"
         },
         {
-          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z"
+          "id": "853d2d29f362ac6d3c4cb62dc59457a9f3b054e1",
+          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+          "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T23:08:30Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8228,
-        "story_heat": 0.5
+        "recency": 0.9817,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T17:45:08Z",
-      "latest_at": "2026-10-18T04:10:14.045000Z",
+      "earliest_at": "2026-10-17T23:08:30Z",
+      "latest_at": "2026-10-18T18:35:01Z",
       "primary_item": {
-        "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
-        "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-        "url": "https://github.com/openai/codex/issues/25921",
-        "source": "github.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-10-18T04:10:14.045000Z",
+        "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+        "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+        "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-18T18:35:01Z",
         "ai_score": 0.65,
-        "ai_label": "developer_tool",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -830,15 +792,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9617,
+        "recency": 0.9318,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -924,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9584,
+        "recency": 0.9286,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1018,15 +980,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9553,
+        "recency": 0.9256,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1112,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9548,
+        "recency": 0.925,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1206,15 +1168,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9144,
+        "recency": 0.886,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1300,15 +1262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9264,
+        "recency": 0.8976,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1394,15 +1356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9258,
+        "recency": 0.897,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1427,307 +1389,6 @@
         "published_at": "2026-10-18T12:20:14.517000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_9d2648978eb9",
-      "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-      "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-      "primary_url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f98664fdc5675e3724fb764f49a48f969cd48852",
-          "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T23:23:46Z"
-        },
-        {
-          "id": "93190fad900950861945a10623b4be6d5e4266a6",
-          "title": "《废除人工智能！宣言》",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "abolish-ai.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.393000Z"
-        },
-        {
-          "id": "0a8113a0233d89752b4c875f31f01f0658007775",
-          "title": "《废除人工智能！宣言》 / Abolish AI! Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:25:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "abolish-ai.net"
-      ],
-      "items": [
-        {
-          "id": "f98664fdc5675e3724fb764f49a48f969cd48852",
-          "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T23:23:46Z"
-        },
-        {
-          "id": "93190fad900950861945a10623b4be6d5e4266a6",
-          "title": "《废除人工智能！宣言》",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "abolish-ai.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.393000Z"
-        },
-        {
-          "id": "0a8113a0233d89752b4c875f31f01f0658007775",
-          "title": "《废除人工智能！宣言》 / Abolish AI! Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:25:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.768,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:25:58Z",
-      "latest_at": "2026-10-17T23:23:46Z",
-      "primary_item": {
-        "id": "f98664fdc5675e3724fb764f49a48f969cd48852",
-        "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-        "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-10-17T23:23:46Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_500318713ba8",
-      "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-      "url": "https://pwn.ai/blog/pwnescape",
-      "primary_url": "https://pwn.ai/blog/pwnescape",
-      "source": "pwn.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "pwn.ai"
-      ],
-      "items": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7163,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:24:39Z",
-      "latest_at": "2026-10-17T18:34:07.206000Z",
-      "primary_item": {
-        "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-        "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-        "url": "https://pwn.ai/blog/pwnescape",
-        "source": "pwn.ai",
-        "source_name": "Buzzing",
-        "published_at": "2026-10-17T18:34:07.206000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_be4d830bb768",
-      "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-      "url": "https://www.ithome.com/1/014/456.htm",
-      "primary_url": "https://www.ithome.com/1/014/456.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
-          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T02:06:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
-          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T02:06:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8469,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T02:06:43Z",
-      "latest_at": "2026-10-18T06:10:09.874808Z",
-      "primary_item": {
-        "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-        "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-        "url": "https://www.ithome.com/1/014/456.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "infra_compute",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1789,15 +1450,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5196,
-      "importance": 0.5196,
-      "importance_score": 0.5196,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8544,
+        "recency": 0.8278,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1820,6 +1481,193 @@
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli",
         "published_at": "2026-10-18T06:46:50Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_be4d830bb768",
+      "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+      "url": "https://www.ithome.com/1/014/456.htm",
+      "primary_url": "https://www.ithome.com/1/014/456.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
+          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+          "url": "https://www.ithome.com/1/014/456.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
+          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
+          "url": "https://www.ithome.com/1/014/456.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T02:06:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
+          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+          "url": "https://www.ithome.com/1/014/456.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
+          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
+          "url": "https://www.ithome.com/1/014/456.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T02:06:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8206,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T02:06:43Z",
+      "latest_at": "2026-10-18T06:10:09.874808Z",
+      "primary_item": {
+        "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
+        "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+        "url": "https://www.ithome.com/1/014/456.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "infra_compute",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_32b83c7f52bb",
+      "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "primary_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        },
+        {
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        },
+        {
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5076,
+      "importance": 0.5076,
+      "importance_score": 0.5076,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7876,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T03:19:49Z",
+      "latest_at": "2026-10-18T03:19:49Z",
+      "primary_item": {
+        "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+        "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-10-18T03:19:49Z",
         "ai_score": 0.65,
         "ai_label": "curated_hotlist",
         "enterprise_score": 0,
@@ -1883,15 +1731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7893,
+        "recency": 0.7647,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1924,67 +1772,68 @@
       }
     },
     {
-      "story_id": "story_32b83c7f52bb",
-      "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "primary_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_1ef3aa7eb1be",
+      "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
+      "url": "https://www.ithome.com/1/014/439.htm",
+      "primary_url": "https://www.ithome.com/1/014/439.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
+          "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
+          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
+          "url": "https://www.ithome.com/1/014/439.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
+          "id": "85cb8869520983a90656abf5044f8cdb945b3556",
+          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
+          "url": "https://www.ithome.com/1/014/439.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:35:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
+          "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
+          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
+          "url": "https://www.ithome.com/1/014/439.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
+          "id": "85cb8869520983a90656abf5044f8cdb945b3556",
+          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
+          "url": "https://www.ithome.com/1/014/439.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:35:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8129,
+        "recency": 0.7647,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1998,17 +1847,111 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T03:19:49Z",
-      "latest_at": "2026-10-18T03:19:49Z",
+      "earliest_at": "2026-10-18T00:35:36Z",
+      "latest_at": "2026-10-18T01:17:15.752432Z",
       "primary_item": {
-        "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
-        "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-10-18T03:19:49Z",
+        "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
+        "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
+        "url": "https://www.ithome.com/1/014/439.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
         "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ff1fbf23f1e4",
+      "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
+      "url": "https://www.huxiu.com/article/4898351.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4898351.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "db592c5364f48a22e912fe447ce2d45872d0036f",
+          "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
+          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3ddc7306b22c14b5cd22cc27dd4a2eb15f07a985",
+          "title": "观察｜AI时代，不敢裁员也不愿招聘：中国企业的“不裁只冻”困局",
+          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:37:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "db592c5364f48a22e912fe447ce2d45872d0036f",
+          "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
+          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3ddc7306b22c14b5cd22cc27dd4a2eb15f07a985",
+          "title": "观察｜AI时代，不敢裁员也不愿招聘：中国企业的“不裁只冻”困局",
+          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:37:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7647,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T00:37:56Z",
+      "latest_at": "2026-10-18T01:17:15.752432Z",
+      "primary_item": {
+        "id": "db592c5364f48a22e912fe447ce2d45872d0036f",
+        "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
+        "url": "https://www.huxiu.com/article/4898351.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
