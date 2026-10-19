@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:33:00.074172Z",
+  "generated_at": "2026-10-19T17:15:21.118854Z",
   "window_hours": 24,
   "total_items": 2,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9228,
+        "recency": 0.8376,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
@@ -60,8 +60,7 @@
       "enterprise_is_relevant": true,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-19T04:59:02.840679Z",
       "latest_at": "2026-10-19T04:59:02.840679Z",
@@ -99,40 +98,10 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T21:17:07.202000Z"
-        },
-        {
-          "id": "35bf5259f64b595623b17a39d9903c02d5abef04",
-          "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
-          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T19:24:00Z"
-        },
-        {
-          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
-          "title": "网站正纷纷关闭人工智能客服 / Websites are closing their doors to AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T14:58:10Z"
-        },
-        {
-          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://news.ycombinator.com/item?id=50141657",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T14:58:10Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot (科技资讯)",
-        "hackernews",
         "www.theverge.com"
       ],
       "items": [
@@ -144,47 +113,20 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-18T21:17:07.202000Z"
-        },
-        {
-          "id": "35bf5259f64b595623b17a39d9903c02d5abef04",
-          "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
-          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T19:24:00Z"
-        },
-        {
-          "id": "ae825252a9f148246dbfeafc7a71e208b69d23e5",
-          "title": "网站正纷纷关闭人工智能客服 / Websites are closing their doors to AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T14:58:10Z"
-        },
-        {
-          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://news.ycombinator.com/item?id=50141657",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T14:58:10Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.4757,
+      "importance": 0.4757,
+      "importance_score": 0.4757,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8257,
-        "story_heat": 0.75
+        "recency": 0.7495,
+        "story_heat": 0.0
       },
       "enterprise_score": 62,
       "enterprise_importance_score": 64,
@@ -195,11 +137,11 @@
       "enterprise_content_type": "general_news",
       "enterprise_reason": "主题命中：智能客服",
       "enterprise_is_relevant": true,
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
-        "multi_source"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-18T14:58:10Z",
+      "earliest_at": "2026-10-18T21:17:07.202000Z",
       "latest_at": "2026-10-18T21:17:07.202000Z",
       "primary_item": {
         "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
