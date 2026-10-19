@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-10-19T00:17:47.065756Z",
+  "generated_at": "2026-10-19T04:59:02.840679Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
+    {
+      "story_id": "story_2762ef1cbb60",
+      "title": "Character.AI 破产后续：迪士尼接盘 60 余人，三年豪掷 1.8 亿美元薪酬",
+      "url": "https://www.aibase.com/news/31705",
+      "primary_url": "https://www.aibase.com/news/31705",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2fc052e406256cd125466795a74d8c134c664ad4",
+          "title": "Character.AI 破产后续：迪士尼接盘 60 余人，三年豪掷 1.8 亿美元薪酬",
+          "url": "https://www.aibase.com/news/31705",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T04:59:02.840679Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2fc052e406256cd125466795a74d8c134c664ad4",
+          "title": "Character.AI 破产后续：迪士尼接盘 60 余人，三年豪掷 1.8 亿美元薪酬",
+          "url": "https://www.aibase.com/news/31705",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T04:59:02.840679Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 63,
+      "enterprise_importance_score": 72,
+      "enterprise_primary_topic": "hr_ai",
+      "enterprise_topics": [
+        "hr_ai"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：人力资源AI",
+      "enterprise_is_relevant": true,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T04:59:02.840679Z",
+      "latest_at": "2026-10-19T04:59:02.840679Z",
+      "primary_item": {
+        "id": "2fc052e406256cd125466795a74d8c134c664ad4",
+        "title": "Character.AI 破产后续：迪士尼接盘 60 余人，三年豪掷 1.8 亿美元薪酬",
+        "url": "https://www.aibase.com/news/31705",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-19T04:59:02.840679Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 63,
+        "enterprise_primary_topic": "hr_ai",
+        "enterprise_topics": [
+          "hr_ai"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：人力资源AI"
+      }
+    },
     {
       "story_id": "story_79619743255e",
       "title": "网站正纷纷关闭人工智能客服",
@@ -95,15 +175,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5881,
-      "importance": 0.5881,
-      "importance_score": 0.5881,
+      "score": 0.5769,
+      "importance": 0.5769,
+      "importance_score": 0.5769,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9575,
+        "recency": 0.8948,
         "story_heat": 0.75
       },
       "enterprise_score": 62,
