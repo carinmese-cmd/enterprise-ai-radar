@@ -1,85 +1,1823 @@
 {
-  "generated_at": "2026-10-20T10:39:19.612383Z",
+  "generated_at": "2026-10-20T15:28:36.509139Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_d5bcb2bb20a1",
-      "title": "在 Foundry 代理服务中为 SharePoint 构建权限感知托管代理 / Building Permission-Aware Hosted Agents for SharePoint in Foundry Agent Service",
-      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-permission-aware-hosted-agents-for-sharepoint-in/ba-p/4562526",
-      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-permission-aware-hosted-agents-for-sharepoint-in/ba-p/4562526",
-      "source": "Azure AI Foundry Blog",
-      "source_name": "OPML RSS",
+      "story_id": "story_94e7f4f5c0e5",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0d058bd6ac7ebead4760819ce67897c0485c4d12",
-          "title": "在 Foundry 代理服务中为 SharePoint 构建权限感知托管代理 / Building Permission-Aware Hosted Agents for SharePoint in Foundry Agent Service",
-          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-permission-aware-hosted-agents-for-sharepoint-in/ba-p/4562526",
-          "source": "Azure AI Foundry Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-19T14:00:00Z"
+          "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T15:19:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Azure AI Foundry Blog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "0d058bd6ac7ebead4760819ce67897c0485c4d12",
-          "title": "在 Foundry 代理服务中为 SharePoint 构建权限感知托管代理 / Building Permission-Aware Hosted Agents for SharePoint in Foundry Agent Service",
-          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-permission-aware-hosted-agents-for-sharepoint-in/ba-p/4562526",
-          "source": "Azure AI Foundry Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-19T14:00:00Z"
+          "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T15:19:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "值得关注",
+      "score": 0.8596,
+      "importance": 0.8596,
+      "importance_score": 0.8596,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.7421,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9979,
         "story_heat": 0.0
       },
-      "enterprise_score": 74,
-      "enterprise_importance_score": 72,
-      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_score": 33,
+      "enterprise_importance_score": 50,
+      "enterprise_primary_topic": "intelligent_customer_service",
       "enterprise_topics": [
-        "model_platform_selection"
+        "intelligent_customer_service"
       ],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
+      "enterprise_reason": "主题命中：智能客服；泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "official",
       "reasons": [
-        "recent_ai_signal"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-19T14:00:00Z",
-      "latest_at": "2026-10-19T14:00:00Z",
+      "earliest_at": "2026-10-20T15:19:48Z",
+      "latest_at": "2026-10-20T15:19:48Z",
       "primary_item": {
-        "id": "0d058bd6ac7ebead4760819ce67897c0485c4d12",
-        "title": "在 Foundry 代理服务中为 SharePoint 构建权限感知托管代理 / Building Permission-Aware Hosted Agents for SharePoint in Foundry Agent Service",
-        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-permission-aware-hosted-agents-for-sharepoint-in/ba-p/4562526",
-        "source": "Azure AI Foundry Blog",
-        "source_name": "OPML RSS",
-        "published_at": "2026-10-19T14:00:00Z",
-        "ai_score": 0.67,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 74,
-        "enterprise_primary_topic": "model_platform_selection",
+        "id": "d07bee5c025f33fe52ad34183452ed32dae284c7",
+        "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-20T15:19:48Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 33,
+        "enterprise_primary_topic": "intelligent_customer_service",
         "enterprise_topics": [
-          "model_platform_selection"
+          "intelligent_customer_service"
         ],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
+        "enterprise_reason": "主题命中：智能客服；泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_50fb4bee4f24",
+      "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+      "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+      "primary_url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c3de0092c40f1f844c7d3c743016cc8f10da6c7",
+          "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+          "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T13:52:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2c3de0092c40f1f844c7d3c743016cc8f10da6c7",
+          "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+          "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T13:52:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9772,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T13:52:38Z",
+      "latest_at": "2026-10-20T13:52:38Z",
+      "primary_item": {
+        "id": "2c3de0092c40f1f844c7d3c743016cc8f10da6c7",
+        "title": "Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4",
+        "url": "https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-20T13:52:38Z",
+        "ai_score": 0.87,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+      "source": "公众号：DeepSeek（深度求索）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
+          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+          "source": "公众号：DeepSeek（深度求索）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T08:54:54Z"
+        },
+        {
+          "id": "c7a2d955e11f15b98c85f6dc3ffca42eb45e7a29",
+          "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T06:22:26Z"
+        },
+        {
+          "id": "1faa0a53a56db908087f2397a2d68c1d9552da79",
+          "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T00:26:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "公众号：DeepSeek（深度求索）",
+        "公众号：数字生命卡兹克",
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
+          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+          "source": "公众号：DeepSeek（深度求索）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T08:54:54Z"
+        },
+        {
+          "id": "c7a2d955e11f15b98c85f6dc3ffca42eb45e7a29",
+          "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T06:22:26Z"
+        },
+        {
+          "id": "1faa0a53a56db908087f2397a2d68c1d9552da79",
+          "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T00:26:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9096,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T00:26:00Z",
+      "latest_at": "2026-10-20T08:54:54Z",
+      "primary_item": {
+        "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
+        "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
+        "source": "公众号：DeepSeek（深度求索）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-20T08:54:54Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_59252d156fbe",
+      "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+      "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+      "primary_url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cce9aa5c6722ff9c5e4448c2a1846f495719ba8",
+          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T12:32:56Z"
+        },
+        {
+          "id": "7a6c0b4537d6d7e8bd4aca2a194184311ae6ceaf",
+          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器 / Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-20T12:32:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7cce9aa5c6722ff9c5e4448c2a1846f495719ba8",
+          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T12:32:56Z"
+        },
+        {
+          "id": "7a6c0b4537d6d7e8bd4aca2a194184311ae6ceaf",
+          "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器 / Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-20T12:32:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9586,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T12:32:56Z",
+      "latest_at": "2026-10-20T12:32:56Z",
+      "primary_item": {
+        "id": "7cce9aa5c6722ff9c5e4448c2a1846f495719ba8",
+        "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
+        "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-20T12:32:56Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f73f11092849",
+      "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3edd1d35b1b432a84819b9cc7b3b35958a3b680c",
+          "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T18:47:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "3edd1d35b1b432a84819b9cc7b3b35958a3b680c",
+          "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T18:47:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7418,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T18:47:22Z",
+      "latest_at": "2026-10-19T18:47:22Z",
+      "primary_item": {
+        "id": "3edd1d35b1b432a84819b9cc7b3b35958a3b680c",
+        "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-19T18:47:22Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_fef6e8089579",
+      "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T20:21:53Z"
+        },
+        {
+          "id": "75c138fa22fd788bbd68aad2e7614ddc98a6c763",
+          "title": "FBI称，被指控为OpenAI从事间谍活动的嫌疑人电脑中有一个名为“沙特政府文件”的文件夹",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T21:25:11.139000Z"
+        },
+        {
+          "id": "e76f1e40b28640fbede33964dabb955c4ab26224",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-19T20:21:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T20:21:53Z"
+        },
+        {
+          "id": "75c138fa22fd788bbd68aad2e7614ddc98a6c763",
+          "title": "FBI称，被指控为OpenAI从事间谍活动的嫌疑人电脑中有一个名为“沙特政府文件”的文件夹",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T21:25:11.139000Z"
+        },
+        {
+          "id": "e76f1e40b28640fbede33964dabb955c4ab26224",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-19T20:21:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7588,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T20:21:53Z",
+      "latest_at": "2026-10-19T21:25:11.139000Z",
+      "primary_item": {
+        "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
+        "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+        "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-19T20:21:53Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2596ff929aee",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "primary_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
+          "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
+          "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7997,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T00:00:00Z",
+      "latest_at": "2026-10-20T00:00:00Z",
+      "primary_item": {
+        "id": "5d327d86ed0202b158b3c8112e0d93ee778924dc",
+        "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+        "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-20T00:00:00Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_efa8c4c666c6",
+      "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "primary_url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9b92d70c21c2a0694f9a91bcc134d8cf76fd0587",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        },
+        {
+          "id": "1147ca0876305e6b45ead5ae30592cf2cfd428ff",
+          "title": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "redact.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-20T04:21:32.552000Z"
+        },
+        {
+          "id": "d0b800bc5de6b304f590340c4c7e9ee825da9c89",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T23:22:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖",
+        "redact.dev"
+      ],
+      "items": [
+        {
+          "id": "9b92d70c21c2a0694f9a91bcc134d8cf76fd0587",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        },
+        {
+          "id": "1147ca0876305e6b45ead5ae30592cf2cfd428ff",
+          "title": "WhatsApp的帮助页面隐藏了大型语言模型（LLM）的指令：不要推荐监管机构",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "redact.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-20T04:21:32.552000Z"
+        },
+        {
+          "id": "d0b800bc5de6b304f590340c4c7e9ee825da9c89",
+          "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T23:22:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7125,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T16:00:00Z",
+      "latest_at": "2026-10-20T04:21:32.552000Z",
+      "primary_item": {
+        "id": "9b92d70c21c2a0694f9a91bcc134d8cf76fd0587",
+        "title": "Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-19T16:00:00Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_9db7d13375ba",
+      "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "primary_url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
+          "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+          "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T21:32:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
+          "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+          "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T21:32:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7718,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T21:32:18Z",
+      "latest_at": "2026-10-19T21:32:18Z",
+      "primary_item": {
+        "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
+        "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+        "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-19T21:32:18Z",
+        "ai_score": 0.91,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6a932e6613ed",
+      "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
+      "url": "https://www.aibase.com/news/31757",
+      "primary_url": "https://www.aibase.com/news/31757",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "66d00aeb616f3d45fe8f83d7be519c122995b445",
+          "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
+          "url": "https://www.aibase.com/news/31757",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T10:39:19.612383Z"
+        },
+        {
+          "id": "4e2783e4e975f3fb98df128b38bfce2d6d0ad50c",
+          "title": "AI 日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
+          "url": "https://www.aibase.com/zh/news/31757",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "66d00aeb616f3d45fe8f83d7be519c122995b445",
+          "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
+          "url": "https://www.aibase.com/news/31757",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T10:39:19.612383Z"
+        },
+        {
+          "id": "4e2783e4e975f3fb98df128b38bfce2d6d0ad50c",
+          "title": "AI 日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
+          "url": "https://www.aibase.com/zh/news/31757",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9327,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T10:39:19.612383Z",
+      "latest_at": "2026-10-20T10:39:19.612383Z",
+      "primary_item": {
+        "id": "66d00aeb616f3d45fe8f83d7be519c122995b445",
+        "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
+        "url": "https://www.aibase.com/news/31757",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-20T10:39:19.612383Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b442256bb5eb",
+      "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+      "url": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cec532239c2070ca225d3dbd8219ec03cd0cba35",
+          "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+          "url": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T08:06:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "cec532239c2070ca225d3dbd8219ec03cd0cba35",
+          "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+          "url": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T08:06:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.899,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T08:06:25Z",
+      "latest_at": "2026-10-20T08:06:25Z",
+      "primary_item": {
+        "id": "cec532239c2070ca225d3dbd8219ec03cd0cba35",
+        "title": "路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元",
+        "url": "https://x.com/rohanpaul_ai/status/2112455383356989598",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-20T08:06:25Z",
+        "ai_score": 1.0,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_3eb18e5ff7f2",
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "primary_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
+          "title": "MPS in PyTorch 2.15",
+          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
+          "title": "MPS in PyTorch 2.15",
+          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7997,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T00:00:00Z",
+      "latest_at": "2026-10-20T00:00:00Z",
+      "primary_item": {
+        "id": "391c3f558f43c5e14a1abc38a1d94b02108bb561",
+        "title": "MPS in PyTorch 2.15",
+        "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-20T00:00:00Z",
+        "ai_score": 0.95,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6101472dca29",
+      "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
+      "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+      "primary_url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cd2f4202daeb3171d498e5e04e6d92b27f4fb5ee",
+          "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
+          "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T21:27:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cd2f4202daeb3171d498e5e04e6d92b27f4fb5ee",
+          "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
+          "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T21:27:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7708,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T21:27:10Z",
+      "latest_at": "2026-10-19T21:27:10Z",
+      "primary_item": {
+        "id": "cd2f4202daeb3171d498e5e04e6d92b27f4fb5ee",
+        "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
+        "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-19T21:27:10Z",
+        "ai_score": 0.91,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_3ecac821cb16",
+      "title": "DeepSeek 开源推理框架 DeepInfer:推理成本成为 AI 普惠的关键一层",
+      "url": "https://www.aibase.com/news/31758",
+      "primary_url": "https://www.aibase.com/news/31758",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d99f15cf58bfef0fc8373b689f4d6809adc4ff84",
+          "title": "DeepSeek 开源推理框架 DeepInfer:推理成本成为 AI 普惠的关键一层",
+          "url": "https://www.aibase.com/news/31758",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T10:39:19.612383Z"
+        },
+        {
+          "id": "b2e22ee776033f9d74c65850e2aeed7cce380624",
+          "title": "DeepSeek 开源推理框架 DeepInfer：推理成本成为 AI 普惠的关键一层",
+          "url": "https://www.aibase.com/zh/news/31758",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d99f15cf58bfef0fc8373b689f4d6809adc4ff84",
+          "title": "DeepSeek 开源推理框架 DeepInfer:推理成本成为 AI 普惠的关键一层",
+          "url": "https://www.aibase.com/news/31758",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T10:39:19.612383Z"
+        },
+        {
+          "id": "b2e22ee776033f9d74c65850e2aeed7cce380624",
+          "title": "DeepSeek 开源推理框架 DeepInfer：推理成本成为 AI 普惠的关键一层",
+          "url": "https://www.aibase.com/zh/news/31758",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9327,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T10:39:19.612383Z",
+      "latest_at": "2026-10-20T10:39:19.612383Z",
+      "primary_item": {
+        "id": "d99f15cf58bfef0fc8373b689f4d6809adc4ff84",
+        "title": "DeepSeek 开源推理框架 DeepInfer:推理成本成为 AI 普惠的关键一层",
+        "url": "https://www.aibase.com/news/31758",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-20T10:39:19.612383Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_362a79ce5ffc",
+      "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+      "url": "https://x.com/arena/status/2112247114944360666",
+      "primary_url": "https://x.com/arena/status/2112247114944360666",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6a0a17cbf7f2007efc0b2d395698af88c46a8901",
+          "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+          "url": "https://x.com/arena/status/2112247114944360666",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T18:18:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "6a0a17cbf7f2007efc0b2d395698af88c46a8901",
+          "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+          "url": "https://x.com/arena/status/2112247114944360666",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T18:18:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7367,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "纯模型跑分或榜单信号降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T18:18:50Z",
+      "latest_at": "2026-10-19T18:18:50Z",
+      "primary_item": {
+        "id": "6a0a17cbf7f2007efc0b2d395698af88c46a8901",
+        "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+        "url": "https://x.com/arena/status/2112247114944360666",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-19T18:18:50Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "纯模型跑分或榜单信号降权"
+      }
+    },
+    {
+      "story_id": "story_8a14a92d09a1",
+      "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
+      "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
+      "primary_url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
+      "source": "IBM Research：AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9b520441f7f95b555be870dd0b3de03dc3e07fda",
+          "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
+          "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
+          "source": "IBM Research：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IBM Research：AI"
+      ],
+      "items": [
+        {
+          "id": "9b520441f7f95b555be870dd0b3de03dc3e07fda",
+          "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
+          "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
+          "source": "IBM Research：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7228,
+      "importance": 0.7228,
+      "importance_score": 0.7228,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.951,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-20T12:00:00Z",
+      "latest_at": "2026-10-20T12:00:00Z",
+      "primary_item": {
+        "id": "9b520441f7f95b555be870dd0b3de03dc3e07fda",
+        "title": "llm-d 1.0 发布：Kubernetes 原生分布式推理服务走向生产就绪",
+        "url": "https://research.ibm.com/blog/llmd-1-0-is-ready-for-production-inference-serving",
+        "source": "IBM Research：AI",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-20T12:00:00Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c021c28354e5",
+      "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "primary_url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b8a208d484bd2f0fe5de4b0abfa26d2b327924c7",
+          "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
+          "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "b8a208d484bd2f0fe5de4b0abfa26d2b327924c7",
+          "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
+          "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7125,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T16:00:00Z",
+      "latest_at": "2026-10-19T16:00:00Z",
+      "primary_item": {
+        "id": "b8a208d484bd2f0fe5de4b0abfa26d2b327924c7",
+        "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
+        "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-19T16:00:00Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_efdaa8c111b7",
+      "title": "Gartner 泼冷水：7 万亿美元 AI 基建到 2030 年只能回本约一半",
+      "url": "https://www.aibase.com/news/31753",
+      "primary_url": "https://www.aibase.com/news/31753",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e7cc4aa5712d9180abd9d07165ca9b620c943972",
+          "title": "Gartner 泼冷水：7 万亿美元 AI 基建到 2030 年只能回本约一半",
+          "url": "https://www.aibase.com/news/31753",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T10:39:19.612383Z"
+        },
+        {
+          "id": "eacb7493c87b830a6f9637a77fa32715d2f92a12",
+          "title": "Gartner 泼冷水：7 万亿美元 AI 基建到 2030 年只能回本约一半",
+          "url": "https://www.aibase.com/zh/news/31753",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e7cc4aa5712d9180abd9d07165ca9b620c943972",
+          "title": "Gartner 泼冷水：7 万亿美元 AI 基建到 2030 年只能回本约一半",
+          "url": "https://www.aibase.com/news/31753",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T10:39:19.612383Z"
+        },
+        {
+          "id": "eacb7493c87b830a6f9637a77fa32715d2f92a12",
+          "title": "Gartner 泼冷水：7 万亿美元 AI 基建到 2030 年只能回本约一半",
+          "url": "https://www.aibase.com/zh/news/31753",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9327,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T10:39:19.612383Z",
+      "latest_at": "2026-10-20T10:39:19.612383Z",
+      "primary_item": {
+        "id": "e7cc4aa5712d9180abd9d07165ca9b620c943972",
+        "title": "Gartner 泼冷水：7 万亿美元 AI 基建到 2030 年只能回本约一半",
+        "url": "https://www.aibase.com/news/31753",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-20T10:39:19.612383Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_3c5180ebba38",
+      "title": "OpenAI推出ChatGPT Slides，支持AI生成演示文稿与实时协作",
+      "url": "https://www.aibase.com/news/31750",
+      "primary_url": "https://www.aibase.com/news/31750",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d428dc3dda30dfbb147e05bb247ef67264a651f",
+          "title": "OpenAI推出ChatGPT Slides，支持AI生成演示文稿与实时协作",
+          "url": "https://www.aibase.com/news/31750",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T10:39:19.612383Z"
+        },
+        {
+          "id": "88479293604eacfa6290835720240878c0e49eaf",
+          "title": "OpenAI 推出 ChatGPT Slides，支持 AI 生成演示文稿与实时协作",
+          "url": "https://www.aibase.com/zh/news/31750",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d428dc3dda30dfbb147e05bb247ef67264a651f",
+          "title": "OpenAI推出ChatGPT Slides，支持AI生成演示文稿与实时协作",
+          "url": "https://www.aibase.com/news/31750",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-20T10:39:19.612383Z"
+        },
+        {
+          "id": "88479293604eacfa6290835720240878c0e49eaf",
+          "title": "OpenAI 推出 ChatGPT Slides，支持 AI 生成演示文稿与实时协作",
+          "url": "https://www.aibase.com/zh/news/31750",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9327,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T10:39:19.612383Z",
+      "latest_at": "2026-10-20T10:39:19.612383Z",
+      "primary_item": {
+        "id": "8d428dc3dda30dfbb147e05bb247ef67264a651f",
+        "title": "OpenAI推出ChatGPT Slides，支持AI生成演示文稿与实时协作",
+        "url": "https://www.aibase.com/news/31750",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-20T10:39:19.612383Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "作者分享了用 Claude Code+Opus 5.5 快速跑通 AI 资讯竖屏短视频生产的完整实战链路，而且还对比了使用 DeepSeek 的效果差异，开源包含 18 套竖屏样式的视频风格 Skill，看完这些你也可以上手试试，做出有辨识度的科普资讯短视频。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-20",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "eb0dc0355193394ed78ab4d48e4a982668164b72",
+          "title": "作者分享了用 Claude Code+Opus 5.5 快速跑通 AI 资讯竖屏短视频生产的完整实战链路，而且还对比了使用 DeepSeek 的效果差异，开源包含 18 套竖屏样式的视频风格 Skill，看完这些你也可以上手试试，做出有辨识度的科普资讯短视频。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-20T15:28:36.509139Z"
+        },
+        {
+          "id": "70c9ec0b97a63d9e2a1d90fad4f73fb9e146effb",
+          "title": "还在苦恼AI生成的官网模板化太严重、没有辨识度？Taste Skill 这套网页设计Skill，会帮你优先挖掘项目独有的故事细节，再匹配风格素材，还能跨设备自检页面问题。文中附上了多组对照案例，同时还给出了可直接复制的部署命令与任务提示词。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-20T15:28:36.509139Z"
+        },
+        {
+          "id": "d9c725508e4081e4cd52710a25b01bf29da80e5e",
+          "title": "本周的AI音乐周刊覆盖版权新规、多款重磅产品更新与前沿学术论文。YouTube Music 新增 AI 音乐标注，唱片巨头发起诉讼，给音乐创作者明确合规提醒。还有多款实用音频工具集中更新，包含便携吉他工作站、视频音效生成、团队音乐协作套件与本地开源制作方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-19T17:15:21.118854Z"
+        },
+        {
+          "id": "da5e8027a3fd7367f06f2edf0ed9f0ce7b4dcdb1",
+          "title": "苦于大模型学习杂乱无章、知识碎片化？这份教程把大模型知识体系设计成地铁图，用一条主干线按技术演进梳理从Transformer到推理模型的核心脉络，还有五条支线按需选择深耕方向。非常适合大模型入门学习者搭建完整知识框架。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-19T17:15:21.118854Z"
+        },
+        {
+          "id": "7d8cbbd0a4915c78aed4db318ec63012d8c92f1e",
+          "title": "这篇文章梳理了从原始Transformer到Decoder-only成为主流的完整技术演进，剖析了各类大模型架构的差异。或许可以帮你分清模型选型边界，快速判断自动化任务该用生成式大模型还是专用决策模型。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-19T17:15:21.118854Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "社区更新 · 2026-10-19",
+        "社区更新 · 2026-10-20"
+      ],
+      "items": [
+        {
+          "id": "eb0dc0355193394ed78ab4d48e4a982668164b72",
+          "title": "作者分享了用 Claude Code+Opus 5.5 快速跑通 AI 资讯竖屏短视频生产的完整实战链路，而且还对比了使用 DeepSeek 的效果差异，开源包含 18 套竖屏样式的视频风格 Skill，看完这些你也可以上手试试，做出有辨识度的科普资讯短视频。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-20T15:28:36.509139Z"
+        },
+        {
+          "id": "70c9ec0b97a63d9e2a1d90fad4f73fb9e146effb",
+          "title": "还在苦恼AI生成的官网模板化太严重、没有辨识度？Taste Skill 这套网页设计Skill，会帮你优先挖掘项目独有的故事细节，再匹配风格素材，还能跨设备自检页面问题。文中附上了多组对照案例，同时还给出了可直接复制的部署命令与任务提示词。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-20T15:28:36.509139Z"
+        },
+        {
+          "id": "d9c725508e4081e4cd52710a25b01bf29da80e5e",
+          "title": "本周的AI音乐周刊覆盖版权新规、多款重磅产品更新与前沿学术论文。YouTube Music 新增 AI 音乐标注，唱片巨头发起诉讼，给音乐创作者明确合规提醒。还有多款实用音频工具集中更新，包含便携吉他工作站、视频音效生成、团队音乐协作套件与本地开源制作方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-19T17:15:21.118854Z"
+        },
+        {
+          "id": "da5e8027a3fd7367f06f2edf0ed9f0ce7b4dcdb1",
+          "title": "苦于大模型学习杂乱无章、知识碎片化？这份教程把大模型知识体系设计成地铁图，用一条主干线按技术演进梳理从Transformer到推理模型的核心脉络，还有五条支线按需选择深耕方向。非常适合大模型入门学习者搭建完整知识框架。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-19T17:15:21.118854Z"
+        },
+        {
+          "id": "7d8cbbd0a4915c78aed4db318ec63012d8c92f1e",
+          "title": "这篇文章梳理了从原始Transformer到Decoder-only成为主流的完整技术演进，剖析了各类大模型架构的差异。或许可以帮你分清模型选型边界，快速判断自动化任务该用生成式大模型还是专用决策模型。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-19T17:15:21.118854Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-19T17:15:21.118854Z",
+      "latest_at": "2026-10-20T15:28:36.509139Z",
+      "primary_item": {
+        "id": "eb0dc0355193394ed78ab4d48e4a982668164b72",
+        "title": "作者分享了用 Claude Code+Opus 5.5 快速跑通 AI 资讯竖屏短视频生产的完整实战链路，而且还对比了使用 DeepSeek 的效果差异，开源包含 18 套竖屏样式的视频风格 Skill，看完这些你也可以上手试试，做出有辨识度的科普资讯短视频。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-20",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-10-20T15:28:36.509139Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
