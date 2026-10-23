@@ -1,164 +1,1648 @@
 {
-  "generated_at": "2026-10-23T05:06:08.747967Z",
+  "generated_at": "2026-10-23T15:15:10.343169Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_b55cd21f9293",
-      "title": "Building a Self-Updating RAG System: Handling Document Uploads, Updates and Deletions",
-      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-a-self-updating-rag-system-handling-document-uploads/ba-p/4564036",
-      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-a-self-updating-rag-system-handling-document-uploads/ba-p/4564036",
-      "source": "Azure AI Foundry Blog",
-      "source_name": "OPML RSS",
+      "story_id": "story_15c1f8ef7a58",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "154d08c39973e9cfc903044d6ff960dc5d598d68",
-          "title": "Building a Self-Updating RAG System: Handling Document Uploads, Updates and Deletions",
-          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-a-self-updating-rag-system-handling-document-uploads/ba-p/4564036",
-          "source": "Azure AI Foundry Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-22T14:00:00Z"
+          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z"
+        },
+        {
+          "id": "e1d2c5ed7c0f8bbfecc8099a9fff2e82e164f12f",
+          "title": "OpenAI and Poland's NASK partner to advance AI safety and security",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Azure AI Foundry Blog"
+        "OpenAI News",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "154d08c39973e9cfc903044d6ff960dc5d598d68",
-          "title": "Building a Self-Updating RAG System: Handling Document Uploads, Updates and Deletions",
-          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-a-self-updating-rag-system-handling-document-uploads/ba-p/4564036",
-          "source": "Azure AI Foundry Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-22T14:00:00Z"
+          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z"
+        },
+        {
+          "id": "e1d2c5ed7c0f8bbfecc8099a9fff2e82e164f12f",
+          "title": "OpenAI and Poland's NASK partner to advance AI safety and security",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
-      "importance_label": "值得关注",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.8041,
-        "story_heat": 0.0
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8023,
+        "story_heat": 0.25
       },
-      "enterprise_score": 64,
-      "enterprise_importance_score": 68,
-      "enterprise_primary_topic": "enterprise_knowledge_rag",
-      "enterprise_topics": [
-        "enterprise_knowledge_rag"
-      ],
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：企业知识库与RAG",
-      "enterprise_is_relevant": true,
-      "category": "watch",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
       "reasons": [
-        "recent_ai_signal"
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-22T14:00:00Z",
-      "latest_at": "2026-10-22T14:00:00Z",
+      "earliest_at": "2026-10-23T00:00:00Z",
+      "latest_at": "2026-10-23T15:15:10.343169Z",
       "primary_item": {
-        "id": "154d08c39973e9cfc903044d6ff960dc5d598d68",
-        "title": "Building a Self-Updating RAG System: Handling Document Uploads, Updates and Deletions",
-        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/building-a-self-updating-rag-system-handling-document-uploads/ba-p/4564036",
-        "source": "Azure AI Foundry Blog",
-        "source_name": "OPML RSS",
-        "published_at": "2026-10-22T14:00:00Z",
-        "ai_score": 0.67,
-        "ai_label": "ai_general",
-        "enterprise_score": 64,
-        "enterprise_primary_topic": "enterprise_knowledge_rag",
-        "enterprise_topics": [
-          "enterprise_knowledge_rag"
-        ],
+        "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-23T00:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：企业知识库与RAG"
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
-      "story_id": "story_12ec41c01fdf",
-      "title": "调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%",
-      "url": "https://juejin.cn/post/7698568843102617626",
-      "primary_url": "https://juejin.cn/post/7698568843102617626",
-      "source": "掘金 · 人工智能本周最热",
-      "source_name": "TopHub",
+      "story_id": "story_6430909168b5",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "primary_url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1a35c03f659a2a0fbb9f1a4609fde1f0a2e9c7d2",
-          "title": "调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%",
-          "url": "https://juejin.cn/post/7698568843102617626",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "掘金 · 人工智能本周最热"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "1a35c03f659a2a0fbb9f1a4609fde1f0a2e9c7d2",
-          "title": "调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%",
-          "url": "https://juejin.cn/post/7698568843102617626",
-          "source": "掘金 · 人工智能本周最热",
+          "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8023,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:00:00Z",
+      "latest_at": "2026-10-23T00:00:00Z",
+      "primary_item": {
+        "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
+        "title": "Does Your Model Run on AWS Trainium? Look It Up",
+        "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-23T00:00:00Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ab26bfe89fae",
+      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:17:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:17:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8058,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:17:51Z",
+      "latest_at": "2026-10-23T00:17:51Z",
+      "primary_item": {
+        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-23T00:17:51Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_27825e300358",
+      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "primary_url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T19:00:00Z"
+        },
+        {
+          "id": "310820cdf721111236b65ce4e938bec86febfd74",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T19:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T19:00:00Z"
+        },
+        {
+          "id": "310820cdf721111236b65ce4e938bec86febfd74",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T19:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7464,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T19:00:00Z",
+      "latest_at": "2026-10-22T19:00:00Z",
+      "primary_item": {
+        "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+        "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+        "url": "https://openai.com/index/decisions-api",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-22T19:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_67b631b72742",
+      "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+      "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
+      "primary_url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
+          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T09:49:38Z"
+        },
+        {
+          "id": "1a77a9e08964efb2308393e7b973530112597b65",
+          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
+          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-23T09:49:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
+          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T09:49:38Z"
+        },
+        {
+          "id": "1a77a9e08964efb2308393e7b973530112597b65",
+          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
+          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-23T09:49:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9246,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T09:49:38Z",
+      "latest_at": "2026-10-23T09:49:38Z",
+      "primary_item": {
+        "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
+        "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
+        "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-23T09:49:38Z",
+        "ai_score": 1.0,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_84c9b1a9d2cd",
+      "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+      "url": "https://www.aibase.com/news/31840",
+      "primary_url": "https://www.aibase.com/news/31840",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "url": "https://www.aibase.com/news/31840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T15:15:10.343169Z"
+        },
+        {
+          "id": "80781206b89f926192edc350689c8ee3e1c86a4b",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "url": "https://www.aibase.com/zh/news/31840",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         }
       ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "url": "https://www.aibase.com/news/31840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T15:15:10.343169Z"
+        },
+        {
+          "id": "80781206b89f926192edc350689c8ee3e1c86a4b",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "url": "https://www.aibase.com/zh/news/31840",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T15:15:10.343169Z",
+      "latest_at": "2026-10-23T15:15:10.343169Z",
+      "primary_item": {
+        "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+        "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+        "url": "https://www.aibase.com/news/31840",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-23T15:15:10.343169Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_95eb6975ad24",
+      "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
+          "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T22:24:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
+          "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T22:24:34Z"
+        }
+      ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4732,
-      "importance": 0.4732,
-      "importance_score": 0.4732,
-      "importance_label": "值得关注",
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7358,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7841,
         "story_heat": 0.0
       },
-      "enterprise_score": 67,
-      "enterprise_importance_score": 66,
-      "enterprise_primary_topic": "model_platform_selection",
-      "enterprise_topics": [
-        "model_platform_selection"
-      ],
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
       "reasons": [
-        "recent_ai_signal"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-22T07:51:25.382215Z",
-      "latest_at": "2026-10-22T07:51:25.382215Z",
+      "earliest_at": "2026-10-22T22:24:34Z",
+      "latest_at": "2026-10-22T22:24:34Z",
       "primary_item": {
-        "id": "1a35c03f659a2a0fbb9f1a4609fde1f0a2e9c7d2",
-        "title": "调用量霸榜12天！神秘兔子真身是MiniMax，新模型成本降70%",
-        "url": "https://juejin.cn/post/7698568843102617626",
-        "source": "掘金 · 人工智能本周最热",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 67,
-        "enterprise_primary_topic": "model_platform_selection",
-        "enterprise_topics": [
-          "model_platform_selection"
-        ],
+        "id": "07204776abfe7c72a874d53eb6d5212bde479474",
+        "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-22T22:24:34Z",
+        "ai_score": 0.95,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_be8869e5946c",
+      "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T22:19:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T22:19:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7831,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T22:19:17Z",
+      "latest_at": "2026-10-22T22:19:17Z",
+      "primary_item": {
+        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
+        "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
+        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-22T22:19:17Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_09b7a14f7eef",
+      "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+      "url": "https://www.ithome.com/1/017/113.htm",
+      "primary_url": "https://www.ithome.com/1/017/113.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
+          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "url": "https://www.ithome.com/1/017/113.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T09:17:16.350000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
+          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+          "url": "https://www.ithome.com/1/017/113.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T09:17:16.350000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9175,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T09:17:16.350000Z",
+      "latest_at": "2026-10-23T09:17:16.350000Z",
+      "primary_item": {
+        "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
+        "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
+        "url": "https://www.ithome.com/1/017/113.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-23T09:17:16.350000Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6cfce92e8394",
+      "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+      "url": "https://www.aibase.com/news/31841",
+      "primary_url": "https://www.aibase.com/news/31841",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "url": "https://www.aibase.com/news/31841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T15:15:10.343169Z"
+        },
+        {
+          "id": "31ad8763a49e91820a0ce1b99ee495df8b2ecb87",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家「与 DNA 对话」",
+          "url": "https://www.aibase.com/zh/news/31841",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "url": "https://www.aibase.com/news/31841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T15:15:10.343169Z"
+        },
+        {
+          "id": "31ad8763a49e91820a0ce1b99ee495df8b2ecb87",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家「与 DNA 对话」",
+          "url": "https://www.aibase.com/zh/news/31841",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T15:15:10.343169Z",
+      "latest_at": "2026-10-23T15:15:10.343169Z",
+      "primary_item": {
+        "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+        "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+        "url": "https://www.aibase.com/news/31841",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-23T15:15:10.343169Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_0038c49ecae2",
+      "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+      "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
+          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T06:04:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
+          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T06:04:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.876,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T06:04:55Z",
+      "latest_at": "2026-10-23T06:04:55Z",
+      "primary_item": {
+        "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
+        "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
+        "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-23T06:04:55Z",
+        "ai_score": 1.0,
+        "ai_label": "research_paper",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8df1fc6c1920",
+      "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
+      "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+      "primary_url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+      "source": "英国 AI Security Institute：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cb9c1ab5be5b2ce39dba094ef84b4f28355aa7db",
+          "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
+          "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+          "source": "英国 AI Security Institute：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T23:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "英国 AI Security Institute：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "cb9c1ab5be5b2ce39dba094ef84b4f28355aa7db",
+          "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
+          "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+          "source": "英国 AI Security Institute：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T23:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7908,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 45,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T23:00:00Z",
+      "latest_at": "2026-10-22T23:00:00Z",
+      "primary_item": {
+        "id": "cb9c1ab5be5b2ce39dba094ef84b4f28355aa7db",
+        "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
+        "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+        "source": "英国 AI Security Institute：Blog（网页）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-22T23:00:00Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_658f804bcd1d",
+      "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7654,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T20:44:28Z",
+      "latest_at": "2026-10-22T20:44:28Z",
+      "primary_item": {
+        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+        "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
+        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-22T20:44:28Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_bf6986b39fbc",
+      "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "primary_url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2ba55aa13fe4e1bd4aacce8ea1424d5acb01bb40",
+          "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
+          "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "2ba55aa13fe4e1bd4aacce8ea1424d5acb01bb40",
+          "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
+          "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7148,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 44,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T16:00:00Z",
+      "latest_at": "2026-10-22T16:00:00Z",
+      "primary_item": {
+        "id": "2ba55aa13fe4e1bd4aacce8ea1424d5acb01bb40",
+        "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
+        "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-22T16:00:00Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_9e1ae24ea61d",
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T20:04:24Z"
+        },
+        {
+          "id": "1beed41df013e8cf0fc60c38661e7145eeb7a344",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actio...",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-22T20:04:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Claude",
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T20:04:24Z"
+        },
+        {
+          "id": "1beed41df013e8cf0fc60c38661e7145eeb7a344",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans. Rather than asking you to approve each step, an automated check blocks risky actio...",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-22T20:04:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7581,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T20:04:24Z",
+      "latest_at": "2026-10-22T20:04:24Z",
+      "primary_item": {
+        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+        "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+        "url": "https://x.com/claudeai/status/2113360845409583307",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-22T20:04:24Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_eaa0ebff7daf",
+      "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
+          "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T16:11:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
+          "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T16:11:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7168,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T16:11:31Z",
+      "latest_at": "2026-10-22T16:11:31Z",
+      "primary_item": {
+        "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
+        "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-22T16:11:31Z",
+        "ai_score": 0.95,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_3992fc4ed3eb",
+      "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
+          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T19:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
+          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T19:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7546,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T19:45:00Z",
+      "latest_at": "2026-10-22T19:45:00Z",
+      "primary_item": {
+        "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
+        "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-22T19:45:00Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_e7e58cd7761f",
+      "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+      "url": "https://microsoft.ai/news/building-medical-superintelligence",
+      "primary_url": "https://microsoft.ai/news/building-medical-superintelligence",
+      "source": "Microsoft AI：官方博客（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
+          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+          "url": "https://microsoft.ai/news/building-medical-superintelligence",
+          "source": "Microsoft AI：官方博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T18:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Microsoft AI：官方博客（网页）"
+      ],
+      "items": [
+        {
+          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
+          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+          "url": "https://microsoft.ai/news/building-medical-superintelligence",
+          "source": "Microsoft AI：官方博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T18:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7359,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 45,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T18:01:00Z",
+      "latest_at": "2026-10-22T18:01:00Z",
+      "primary_item": {
+        "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
+        "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+        "url": "https://microsoft.ai/news/building-medical-superintelligence",
+        "source": "Microsoft AI：官方博客（网页）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-22T18:01:00Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a14d9858d209",
+      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+      "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+      "primary_url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+      "source": "Newcomer 新闻长文（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+          "source": "Newcomer 新闻长文（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:53:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Newcomer 新闻长文（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+          "source": "Newcomer 新闻长文（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:53:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7137,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 44,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T15:53:55Z",
+      "latest_at": "2026-10-22T15:53:55Z",
+      "primary_item": {
+        "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+        "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+        "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+        "source": "Newcomer 新闻长文（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-22T15:53:55Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_425c4ed491e2",
+      "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+      "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+      "primary_url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+      "source": "Redwood Research：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
+          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+          "source": "Redwood Research：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:32:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Redwood Research：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
+          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+          "source": "Redwood Research：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T15:32:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.71,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T15:32:17Z",
+      "latest_at": "2026-10-22T15:32:17Z",
+      "primary_item": {
+        "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
+        "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
+        "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+        "source": "Redwood Research：Blog（RSS）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-22T15:32:17Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
