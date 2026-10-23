@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-22T18:04:15.469510Z",
+  "generated_at": "2026-10-23T05:06:08.747967Z",
   "window_hours": 24,
-  "total_items": 3,
+  "total_items": 2,
   "items": [
     {
       "story_id": "story_b55cd21f9293",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9429,
+        "recency": 0.8041,
         "story_heat": 0.0
       },
       "enterprise_score": 64,
-      "enterprise_importance_score": 69,
+      "enterprise_importance_score": 68,
       "enterprise_primary_topic": "enterprise_knowledge_rag",
       "enterprise_topics": [
         "enterprise_knowledge_rag"
@@ -117,19 +117,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
+      "score": 0.4732,
+      "importance": 0.4732,
+      "importance_score": 0.4732,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8629,
+        "recency": 0.7358,
         "story_heat": 0.0
       },
       "enterprise_score": 67,
-      "enterprise_importance_score": 67,
+      "enterprise_importance_score": 66,
       "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
         "model_platform_selection"
@@ -159,85 +159,6 @@
         ],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_f7d8ac1cf78c",
-      "title": "沃尔玛推出人工智能客服工具，帮助顾客购物",
-      "url": "https://reut.rs/4zP6rKI",
-      "primary_url": "https://reut.rs/4zP6rKI",
-      "source": "reut.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cd849738bf6c058cf9e3ca1fd58ed5a8771fa784",
-          "title": "沃尔玛推出人工智能客服工具，帮助顾客购物",
-          "url": "https://reut.rs/4zP6rKI",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T21:45:06.292000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "reut.rs"
-      ],
-      "items": [
-        {
-          "id": "cd849738bf6c058cf9e3ca1fd58ed5a8771fa784",
-          "title": "沃尔玛推出人工智能客服工具，帮助顾客购物",
-          "url": "https://reut.rs/4zP6rKI",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T21:45:06.292000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.475,
-      "importance": 0.475,
-      "importance_score": 0.475,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7457,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 62,
-      "enterprise_importance_score": 64,
-      "enterprise_primary_topic": "intelligent_customer_service",
-      "enterprise_topics": [
-        "intelligent_customer_service"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：智能客服",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-10-21T21:45:06.292000Z",
-      "latest_at": "2026-10-21T21:45:06.292000Z",
-      "primary_item": {
-        "id": "cd849738bf6c058cf9e3ca1fd58ed5a8771fa784",
-        "title": "沃尔玛推出人工智能客服工具，帮助顾客购物",
-        "url": "https://reut.rs/4zP6rKI",
-        "source": "reut.rs",
-        "source_name": "Buzzing",
-        "published_at": "2026-10-21T21:45:06.292000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 62,
-        "enterprise_primary_topic": "intelligent_customer_service",
-        "enterprise_topics": [
-          "intelligent_customer_service"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：智能客服"
       }
     }
   ]
