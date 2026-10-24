@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:25:44.744728Z",
+  "generated_at": "2026-10-24T00:52:30.605841Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8974,
-      "importance": 0.8974,
-      "importance_score": 0.8974,
+      "score": 0.8922,
+      "importance": 0.8922,
+      "importance_score": 0.8922,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8357,
+        "recency": 0.8067,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -131,6 +131,102 @@
         "published_at": "2026-10-23T10:00:00Z",
         "ai_score": 0.91,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_62c869d7dbe2",
+      "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z"
+        },
+        {
+          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
+          "title": "使用 Teams 中的 GitHub 应用将通知转换为代码 / Turn notifications into code with the GitHub app in Teams",
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z"
+        },
+        {
+          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
+          "title": "使用 Teams 中的 GitHub 应用将通知转换为代码 / Turn notifications into code with the GitHub app in Teams",
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8684,
+      "importance": 0.8684,
+      "importance_score": 0.8684,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9524,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T21:29:58Z",
+      "latest_at": "2026-10-23T21:29:58Z",
+      "primary_item": {
+        "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+        "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-23T21:29:58Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -173,19 +269,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9148,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "research_report",
@@ -216,21 +312,21 @@
       }
     },
     {
-      "story_id": "story_62c869d7dbe2",
-      "title": "Turn notifications into code with the GitHub app in Teams",
-      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "story_id": "story_ba4d3ab8dded",
+      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
-          "title": "Turn notifications into code with the GitHub app in Teams",
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z"
+          "published_at": "2026-10-23T23:42:03Z"
         }
       ],
       "source_count": 1,
@@ -239,26 +335,26 @@
       ],
       "items": [
         {
-          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
-          "title": "Turn notifications into code with the GitHub app in Teams",
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z"
+          "published_at": "2026-10-23T23:42:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9867,
+        "recency": 0.9832,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -274,17 +370,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T21:29:58Z",
-      "latest_at": "2026-10-23T21:29:58Z",
+      "earliest_at": "2026-10-23T23:42:03Z",
+      "latest_at": "2026-10-23T23:42:03Z",
       "primary_item": {
-        "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
-        "title": "Turn notifications into code with the GitHub app in Teams",
-        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
-        "published_at": "2026-10-23T21:29:58Z",
+        "published_at": "2026-10-23T23:42:03Z",
         "ai_score": 0.87,
-        "ai_label": "ai_general",
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -327,19 +423,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9246,
+        "recency": 0.8925,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -370,229 +466,74 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.164.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_3130243d7b87",
+      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+      "url": "https://x.com/OpenAI/status/2113766354386084338",
+      "primary_url": "https://x.com/OpenAI/status/2113766354386084338",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-          "title": "Codex CLI 0.164.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
+          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
+          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+          "url": "https://x.com/OpenAI/status/2113766354386084338",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T22:55:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "X：OpenAI (@OpenAI)"
       ],
       "items": [
         {
-          "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-          "title": "Codex CLI 0.164.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
+          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
+          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+          "url": "https://x.com/OpenAI/status/2113766354386084338",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T22:55:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
-      "importance_label": "官方更新",
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7233,
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 33,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T00:00:00Z",
+      "earliest_at": "2026-10-23T22:55:45Z",
+      "latest_at": "2026-10-23T22:55:45Z",
       "primary_item": {
-        "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
-        "title": "Codex CLI 0.164.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-10-23T00:00:00Z",
-        "ai_score": 0.98,
+        "id": "8955336bb918f3a84db49c7d425f022048fe0904",
+        "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+        "url": "https://x.com/OpenAI/status/2113766354386084338",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-23T22:55:45Z",
+        "ai_score": 1.0,
         "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_2d587e070d12",
-      "title": "EMU deletions fix",
-      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU deletions fix",
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU deletions fix",
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9508,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T18:56:18Z",
-      "latest_at": "2026-10-23T18:56:18Z",
-      "primary_item": {
-        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-        "title": "EMU deletions fix",
-        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-10-23T18:56:18Z",
-        "ai_score": 0.87,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_6430909168b5",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "primary_url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-          "title": "Does Your Model Run on AWS Trainium? Look It Up",
-          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-          "title": "Does Your Model Run on AWS Trainium? Look It Up",
-          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7233,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T00:00:00Z",
-      "primary_item": {
-        "id": "84c7447f6830a11c70e161779cc185595db8c6cf",
-        "title": "Does Your Model Run on AWS Trainium? Look It Up",
-        "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-10-23T00:00:00Z",
-        "ai_score": 0.95,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -635,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9113,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -730,19 +671,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8336,
+        "recency": 0.8047,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -770,6 +711,83 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_2d587e070d12",
+      "title": "EMU 删除修复 / EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU 删除修复 / EMU deletions fix",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU 删除修复 / EMU deletions fix",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9178,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T18:56:18Z",
+      "latest_at": "2026-10-23T18:56:18Z",
+      "primary_item": {
+        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+        "title": "EMU 删除修复 / EMU deletions fix",
+        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-23T18:56:18Z",
+        "ai_score": 0.87,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -826,15 +844,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9016,
+        "recency": 0.8703,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -903,15 +921,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -979,15 +997,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1012,180 +1030,6 @@
         "source_name": "AI HOT",
         "published_at": "2026-10-23T18:58:15Z",
         "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_15c1f8ef7a58",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "primary_url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
-        },
-        {
-          "id": "e1d2c5ed7c0f8bbfecc8099a9fff2e82e164f12f",
-          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland's NASK partner to advance AI safety and security",
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:00:00Z"
-        },
-        {
-          "id": "e1d2c5ed7c0f8bbfecc8099a9fff2e82e164f12f",
-          "title": "OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland's NASK partner to advance AI safety and security",
-          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7233,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:00:00Z",
-      "latest_at": "2026-10-23T15:15:10.343169Z",
-      "primary_item": {
-        "id": "630bfc3514ea5821d0559d703bba5e93973627a1",
-        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-10-23T00:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_09f5c3d32ac1",
-      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.899,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T15:03:30Z",
-      "latest_at": "2026-10-23T15:03:30Z",
-      "primary_item": {
-        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-10-23T15:03:30Z",
-        "ai_score": 0.87,
         "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -1229,19 +1073,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8272,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1304,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8984,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1398,15 +1242,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9016,
+        "recency": 0.8703,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1475,15 +1319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7897,
+        "recency": 0.7623,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1516,96 +1360,21 @@
       }
     },
     {
-      "story_id": "story_8df1fc6c1920",
-      "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
-      "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-      "primary_url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-      "source": "英国 AI Security Institute：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cb9c1ab5be5b2ce39dba094ef84b4f28355aa7db",
-          "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
-          "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-          "source": "英国 AI Security Institute：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T23:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "英国 AI Security Institute：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "cb9c1ab5be5b2ce39dba094ef84b4f28355aa7db",
-          "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
-          "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-          "source": "英国 AI Security Institute：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T23:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.713,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 44,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-22T23:00:00Z",
-      "latest_at": "2026-10-22T23:00:00Z",
-      "primary_item": {
-        "id": "cb9c1ab5be5b2ce39dba094ef84b4f28355aa7db",
-        "title": "AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为",
-        "url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
-        "source": "英国 AI Security Institute：Blog（网页）",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-22T23:00:00Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_ab26bfe89fae",
-      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "story_id": "story_09f5c3d32ac1",
+      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z"
+          "published_at": "2026-10-23T15:03:30Z"
         }
       ],
       "source_count": 1,
@@ -1614,33 +1383,33 @@
       ],
       "items": [
         {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z"
+          "published_at": "2026-10-23T15:03:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7264,
+        "ai_relevance": 0.87,
+        "recency": 0.8678,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 33,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
+      "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "official",
@@ -1649,21 +1418,376 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T00:17:51Z",
-      "latest_at": "2026-10-23T00:17:51Z",
+      "earliest_at": "2026-10-23T15:03:30Z",
+      "latest_at": "2026-10-23T15:03:30Z",
       "primary_item": {
-        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
-        "published_at": "2026-10-23T00:17:51Z",
-        "ai_score": 0.91,
-        "ai_label": "developer_tool",
+        "published_at": "2026-10-23T15:03:30Z",
+        "ai_score": 0.87,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_64c61b157a38",
+      "title": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
+      "url": "https://www.aibase.com/news/31823",
+      "primary_url": "https://www.aibase.com/news/31823",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c854c2aca73b5e6b2dbabad274f3414ed93ea607",
+          "title": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
+          "url": "https://www.aibase.com/news/31823",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T05:06:08.747967Z"
+        },
+        {
+          "id": "3adaf85eed289bff342d4067d079082fe715ed34",
+          "title": "Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 转向 Dia",
+          "url": "https://www.aibase.com/zh/news/31823",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c854c2aca73b5e6b2dbabad274f3414ed93ea607",
+          "title": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
+          "url": "https://www.aibase.com/news/31823",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T05:06:08.747967Z"
+        },
+        {
+          "id": "3adaf85eed289bff342d4067d079082fe715ed34",
+          "title": "Arc 浏览器将于 12 月 22 日停止服务，The Browser Company 转向 Dia",
+          "url": "https://www.aibase.com/zh/news/31823",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7516,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T05:06:08.747967Z",
+      "latest_at": "2026-10-23T05:06:08.747967Z",
+      "primary_item": {
+        "id": "c854c2aca73b5e6b2dbabad274f3414ed93ea607",
+        "title": "Arc浏览器将于12月22日停止服务，The Browser Company转向Dia",
+        "url": "https://www.aibase.com/news/31823",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-23T05:06:08.747967Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_3414c57dca00",
+      "title": "Canva推出Craft图像生成模型，支持2K分辨率与超宽画幅",
+      "url": "https://www.aibase.com/news/31829",
+      "primary_url": "https://www.aibase.com/news/31829",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0e007c572de60ab75eb311bb4c0467fc526051a5",
+          "title": "Canva推出Craft图像生成模型，支持2K分辨率与超宽画幅",
+          "url": "https://www.aibase.com/news/31829",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T05:06:08.747967Z"
+        },
+        {
+          "id": "995114f6bd41a61bf09744345c8340c9de215848",
+          "title": "Canva 推出 Craft 图像生成模型，支持 2K 分辨率与超宽画幅",
+          "url": "https://www.aibase.com/zh/news/31829",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0e007c572de60ab75eb311bb4c0467fc526051a5",
+          "title": "Canva推出Craft图像生成模型，支持2K分辨率与超宽画幅",
+          "url": "https://www.aibase.com/news/31829",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T05:06:08.747967Z"
+        },
+        {
+          "id": "995114f6bd41a61bf09744345c8340c9de215848",
+          "title": "Canva 推出 Craft 图像生成模型，支持 2K 分辨率与超宽画幅",
+          "url": "https://www.aibase.com/zh/news/31829",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7516,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T05:06:08.747967Z",
+      "latest_at": "2026-10-23T05:06:08.747967Z",
+      "primary_item": {
+        "id": "0e007c572de60ab75eb311bb4c0467fc526051a5",
+        "title": "Canva推出Craft图像生成模型，支持2K分辨率与超宽画幅",
+        "url": "https://www.aibase.com/news/31829",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-23T05:06:08.747967Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-23",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "d5cf45f99571712240e0661c28cb0299cdce15fe",
+          "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "9c19f0e94af1d61a9600e2fef113709a6f569dae",
+          "title": "为什么只用 5.2 万条示例、训练 3 小时，就能把只会续写的 LLaMA 变成会听指令的助手，却依然会答错坦桑尼亚首都？关键在于，指令微调主要改变模型“怎么回答”，不会凭空补充知识。这篇文章适合想入门大模型后训练的开发者，读完你也能把指令微调的原理、流程与边界一次理顺。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "718a5eea9c229bcf1ce02a119f3e1dbf2f1329c3",
+          "title": "京东 Aidol 创造营里，29 支队伍用 48 小时把创意变成Demo：听障者做 AI 街舞辅助，轮椅用户尝试意念控制，羽毛球教练独立开发陪练设备。小歪从导师视角记录了一场 AI 时代的黑客松。一起看看她都看到了哪些有趣的幕后故事！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "71cc7c4f894b855731e44f806760668b9e0e9f70",
+          "title": "很多新手依赖“许愿式编程”快速产原型，却极易留下安全漏洞与技术烂摊子。作者分享了了一套可直接发给AI的审查提示词，搭配完整上线检查清单，让AI逐项核验权限隔离、支付逻辑、数据安全与代码规范，优先揪出数据泄露、服务宕机等高风险问题。当然，这份工具只能降低隐患，真正稳定的付费产品，依然离不开人把控架构、排查Bug与维护运维。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "4c0ec921ae1c1c0d001a955fd7c76134f8710a77",
+          "title": "想靠 Claude Opus 5.5 生成视频却总踩坑？这份指南梳理了全套技术栈，覆盖 Canvas、Three.js、Remotion 等方案，拆解了16类视频场景，配套可直接复制的风格+技术提示词。同时还汇总了8款开箱即用的开源Skill，从科普水墨、产品拆解到像素RPG都有成熟模板，帮你精准控制画面质感、镜头语言，不用反复试错，高效产出风格稳定的代码动画短片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "0eaeb75873cbc7ac92ca9b5fdb8bd43e1d46820d",
+          "title": "是不是也被Codex杂乱的聊天列表困住？同一件事散在多处，找历史对话如同开盲盒。作者开源了聊天整理Skill，选定范围后，它会自动生成规范标题与项目分组方案，帮你把零散的对话收拢成清晰可追溯的项目资料库。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "社区更新 · 2026-10-23"
+      ],
+      "items": [
+        {
+          "id": "d5cf45f99571712240e0661c28cb0299cdce15fe",
+          "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "9c19f0e94af1d61a9600e2fef113709a6f569dae",
+          "title": "为什么只用 5.2 万条示例、训练 3 小时，就能把只会续写的 LLaMA 变成会听指令的助手，却依然会答错坦桑尼亚首都？关键在于，指令微调主要改变模型“怎么回答”，不会凭空补充知识。这篇文章适合想入门大模型后训练的开发者，读完你也能把指令微调的原理、流程与边界一次理顺。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "718a5eea9c229bcf1ce02a119f3e1dbf2f1329c3",
+          "title": "京东 Aidol 创造营里，29 支队伍用 48 小时把创意变成Demo：听障者做 AI 街舞辅助，轮椅用户尝试意念控制，羽毛球教练独立开发陪练设备。小歪从导师视角记录了一场 AI 时代的黑客松。一起看看她都看到了哪些有趣的幕后故事！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "71cc7c4f894b855731e44f806760668b9e0e9f70",
+          "title": "很多新手依赖“许愿式编程”快速产原型，却极易留下安全漏洞与技术烂摊子。作者分享了了一套可直接发给AI的审查提示词，搭配完整上线检查清单，让AI逐项核验权限隔离、支付逻辑、数据安全与代码规范，优先揪出数据泄露、服务宕机等高风险问题。当然，这份工具只能降低隐患，真正稳定的付费产品，依然离不开人把控架构、排查Bug与维护运维。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "4c0ec921ae1c1c0d001a955fd7c76134f8710a77",
+          "title": "想靠 Claude Opus 5.5 生成视频却总踩坑？这份指南梳理了全套技术栈，覆盖 Canvas、Three.js、Remotion 等方案，拆解了16类视频场景，配套可直接复制的风格+技术提示词。同时还汇总了8款开箱即用的开源Skill，从科普水墨、产品拆解到像素RPG都有成熟模板，帮你精准控制画面质感、镜头语言，不用反复试错，高效产出风格稳定的代码动画短片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        },
+        {
+          "id": "0eaeb75873cbc7ac92ca9b5fdb8bd43e1d46820d",
+          "title": "是不是也被Codex杂乱的聊天列表困住？同一件事散在多处，找历史对话如同开盲盒。作者开源了聊天整理Skill，选定范围后，它会自动生成规范标题与项目分组方案，帮你把零散的对话收拢成清晰可追溯的项目资料库。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-23",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-23T19:22:19.994560Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6554,
+      "importance": 0.6554,
+      "importance_score": 0.6554,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9236,
+        "story_heat": 1.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T19:22:19.994560Z",
+      "latest_at": "2026-10-23T19:22:19.994560Z",
+      "primary_item": {
+        "id": "d5cf45f99571712240e0661c28cb0299cdce15fe",
+        "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-23",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-10-23T19:22:19.994560Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
