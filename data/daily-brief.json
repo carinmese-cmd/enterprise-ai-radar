@@ -1,164 +1,1954 @@
 {
-  "generated_at": "2026-10-25T09:57:18.240424Z",
+  "generated_at": "2026-10-25T14:04:15.640784Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_10a868fca6ac",
-      "title": "[分享创造] deepseek-web-retrieval：可靠的 DeepSeek Search&Fetch API 的 Coding Agent 集成",
-      "url": "https://www.v2ex.com/t/1251562",
-      "primary_url": "https://www.v2ex.com/t/1251562",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
+      "story_id": "story_1f039fd87625",
+      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+      "url": "https://x.com/emollick/status/2114001653879672877",
+      "primary_url": "https://x.com/emollick/status/2114001653879672877",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "67f284d5e38a6bc7fef51228606827bafca70bb8",
-          "title": "[分享创造] deepseek-web-retrieval：可靠的 DeepSeek Search&Fetch API 的 Coding Agent 集成",
-          "url": "https://www.v2ex.com/t/1251562",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T14:02:49Z"
+          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "url": "https://x.com/emollick/status/2114001653879672877",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T14:30:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "V2EX (创意工作者社区)"
+        "X：Ethan Mollick (@emollick)"
       ],
       "items": [
         {
-          "id": "67f284d5e38a6bc7fef51228606827bafca70bb8",
-          "title": "[分享创造] deepseek-web-retrieval：可靠的 DeepSeek Search&Fetch API 的 Coding Agent 集成",
-          "url": "https://www.v2ex.com/t/1251562",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T14:02:49Z"
+          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "url": "https://x.com/emollick/status/2114001653879672877",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T14:30:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4758,
-      "importance": 0.4758,
-      "importance_score": 0.4758,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7116,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-24T14:30:45Z",
+      "latest_at": "2026-10-24T14:30:45Z",
+      "primary_item": {
+        "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+        "url": "https://x.com/emollick/status/2114001653879672877",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-24T14:30:45Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b366ba776fde",
+      "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T13:25:32Z"
+        },
+        {
+          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T13:25:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T13:25:32Z"
+        },
+        {
+          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T13:25:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6138,
+      "importance": 0.6138,
+      "importance_score": 0.6138,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9907,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T13:25:32Z",
+      "latest_at": "2026-10-25T13:25:32Z",
+      "primary_item": {
+        "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+        "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "source": "The Verge",
+        "source_name": "Curated Media",
+        "published_at": "2026-10-25T13:25:32Z",
+        "ai_score": 0.68,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-24",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T09:57:18.240424Z"
+        },
+        {
+          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
+          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T09:57:18.240424Z"
+        },
+        {
+          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
+          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T09:57:18.240424Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-10-24"
+      ],
+      "items": [
+        {
+          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T09:57:18.240424Z"
+        },
+        {
+          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
+          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T09:57:18.240424Z"
+        },
+        {
+          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
+          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T09:57:18.240424Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6088,
+      "importance": 0.6088,
+      "importance_score": 0.6088,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9423,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T09:57:18.240424Z",
+      "latest_at": "2026-10-25T09:57:18.240424Z",
+      "primary_item": {
+        "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+        "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-24",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-10-25T09:57:18.240424Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2325af3360e0",
+      "title": "Cerebras 部署了万亿参数的人工智能模型",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "www.cerebras.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.cerebras.ai"
+      ],
+      "items": [
+        {
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T07:05:49.244000Z"
+        },
+        {
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T01:33:49Z"
+        },
+        {
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://news.ycombinator.com/item?id=50227356",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T01:33:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9042,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T01:33:49Z",
+      "latest_at": "2026-10-25T07:05:49.244000Z",
+      "primary_item": {
+        "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+        "title": "Cerebras 部署了万亿参数的人工智能模型",
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "source": "www.cerebras.ai",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-25T07:05:49.244000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_117d2cb5f38a",
+      "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "primary_url": "https://github.com/AgriciDaniel/claude-seo",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T13:46:15.865000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T13:46:15.865000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7501,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "enterprise_score": 89,
-      "enterprise_importance_score": 79,
-      "enterprise_primary_topic": "enterprise_knowledge_rag",
-      "enterprise_topics": [
-        "enterprise_knowledge_rag"
-      ],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：技术实践；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
       "category": "watch",
       "reasons": [
-        "recent_ai_signal"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-24T14:02:49Z",
-      "latest_at": "2026-10-24T14:02:49Z",
+      "earliest_at": "2026-10-25T13:46:15.865000Z",
+      "latest_at": "2026-10-25T14:04:15.640784Z",
       "primary_item": {
-        "id": "67f284d5e38a6bc7fef51228606827bafca70bb8",
-        "title": "[分享创造] deepseek-web-retrieval：可靠的 DeepSeek Search&Fetch API 的 Coding Agent 集成",
-        "url": "https://www.v2ex.com/t/1251562",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow",
-        "published_at": "2026-10-24T14:02:49Z",
+        "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+        "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
+        "url": "https://github.com/AgriciDaniel/claude-seo",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub",
+        "published_at": null,
         "ai_score": 0.65,
         "ai_label": "model_release",
-        "enterprise_score": 89,
-        "enterprise_primary_topic": "enterprise_knowledge_rag",
-        "enterprise_topics": [
-          "enterprise_knowledge_rag"
-        ],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：技术实践；包含实施、架构、指标或结果信号"
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
-      "story_id": "story_bf31302982e0",
-      "title": "Letta 的状态代理工程副驾驶：核心内存、共享状态、语义检索、自定义工具、流媒体和便携式代理工作流程 / Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
-      "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial",
-      "primary_url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial",
-      "source": "MarkTechPost Research",
-      "source_name": "Curated Media",
+      "story_id": "story_6e302e797ec7",
+      "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+      "url": "https://www.huxiu.com/article/4900298.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900298.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "549886e6668615bbe3841d4b45ef4c0ee1c9cb8c",
-          "title": "Letta 的状态代理工程副驾驶：核心内存、共享状态、语义检索、自定义工具、流媒体和便携式代理工作流程 / Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
-          "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-24T10:29:31Z"
+          "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
+          "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d6912c9a5e200e7a736bea7d9c4d1db53fd7a013",
+          "title": "CCTV曝光假冒400服务热线黑产：被投毒的大模型，不能再走“竞价排名”老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T11:58:59Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "MarkTechPost Research"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "549886e6668615bbe3841d4b45ef4c0ee1c9cb8c",
-          "title": "Letta 的状态代理工程副驾驶：核心内存、共享状态、语义检索、自定义工具、流媒体和便携式代理工作流程 / Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
-          "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-24T10:29:31Z"
+          "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
+          "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d6912c9a5e200e7a736bea7d9c4d1db53fd7a013",
+          "title": "CCTV曝光假冒400服务热线黑产：被投毒的大模型，不能再走“竞价排名”老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T11:58:59Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5256,
-        "source_tier": 0.58,
-        "ai_relevance": 0.73,
-        "recency": 0.7126,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "enterprise_score": 74,
-      "enterprise_importance_score": 77,
-      "enterprise_primary_topic": "enterprise_knowledge_rag",
-      "enterprise_topics": [
-        "enterprise_knowledge_rag"
-      ],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：技术实践",
-      "enterprise_is_relevant": true,
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
       "category": "watch",
       "reasons": [
-        "recent_ai_signal"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-24T10:29:31Z",
-      "latest_at": "2026-10-24T10:29:31Z",
+      "earliest_at": "2026-10-25T11:58:59Z",
+      "latest_at": "2026-10-25T14:04:15.640784Z",
       "primary_item": {
-        "id": "549886e6668615bbe3841d4b45ef4c0ee1c9cb8c",
-        "title": "Letta 的状态代理工程副驾驶：核心内存、共享状态、语义检索、自定义工具、流媒体和便携式代理工作流程 / Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
-        "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial",
-        "source": "MarkTechPost Research",
-        "source_name": "Curated Media",
-        "published_at": "2026-10-24T10:29:31Z",
-        "ai_score": 0.73,
+        "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
+        "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+        "url": "https://www.huxiu.com/article/4900298.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d3af181c96b1",
+      "title": "1505年纽伦堡骑士的工具手册",
+      "url": "https://loeffelholz-codex.org/en",
+      "primary_url": "https://loeffelholz-codex.org/en",
+      "source": "loeffelholz-codex.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
+          "title": "1505年纽伦堡骑士的工具手册",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:48:50.500000Z"
+        },
+        {
+          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
+          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:37:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "loeffelholz-codex.org"
+      ],
+      "items": [
+        {
+          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
+          "title": "1505年纽伦堡骑士的工具手册",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:48:50.500000Z"
+        },
+        {
+          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
+          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:37:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.982,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T12:37:54Z",
+      "latest_at": "2026-10-25T12:48:50.500000Z",
+      "primary_item": {
+        "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
+        "title": "1505年纽伦堡骑士的工具手册",
+        "url": "https://loeffelholz-codex.org/en",
+        "source": "loeffelholz-codex.org",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-25T12:48:50.500000Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_81c8fd74d5e2",
+      "title": "为什么人工智能生成的语言这么难懂？",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "primary_url": "https://arxiv.org/abs/2610.29162",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0af8ca4b122746efe09059bba6b54dd4b5085bcd",
+          "title": "为什么人工智能生成的语言这么难懂？",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:04:53.068000Z"
+        },
+        {
+          "id": "879fc971a93f7c2827fe677aba2181d5ffdf67cd",
+          "title": "为什么人工智能生成的语言这么难懂？ / Why is AI generated language so hard to understand?",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:04:57Z"
+        },
+        {
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0af8ca4b122746efe09059bba6b54dd4b5085bcd",
+          "title": "为什么人工智能生成的语言这么难懂？",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:04:53.068000Z"
+        },
+        {
+          "id": "879fc971a93f7c2827fe677aba2181d5ffdf67cd",
+          "title": "为什么人工智能生成的语言这么难懂？ / Why is AI generated language so hard to understand?",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:04:57Z"
+        },
+        {
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.829,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T18:04:57Z",
+      "latest_at": "2026-10-25T01:04:53.068000Z",
+      "primary_item": {
+        "id": "0af8ca4b122746efe09059bba6b54dd4b5085bcd",
+        "title": "为什么人工智能生成的语言这么难懂？",
+        "url": "https://arxiv.org/abs/2610.29162",
+        "source": "arxiv.org",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-25T01:04:53.068000Z",
+        "ai_score": 0.65,
         "ai_label": "research_paper",
-        "enterprise_score": 74,
-        "enterprise_primary_topic": "enterprise_knowledge_rag",
-        "enterprise_topics": [
-          "enterprise_knowledge_rag"
-        ],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：技术实践"
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_074b7d5e1602",
+      "title": "科技行业以外尚未出现人工智能带来回报的迹象",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "www.apollo.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cee1b9009ac684fdfc06fa5c0a868ff4b811e98a",
+          "title": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "www.apollo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:04:53.332000Z"
+        },
+        {
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
+          "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T19:47:19Z"
+        },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "url": "https://news.ycombinator.com/item?id=50224463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T19:47:19Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.apollo.com"
+      ],
+      "items": [
+        {
+          "id": "cee1b9009ac684fdfc06fa5c0a868ff4b811e98a",
+          "title": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "www.apollo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:04:53.332000Z"
+        },
+        {
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
+          "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T19:47:19Z"
+        },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "url": "https://news.ycombinator.com/item?id=50224463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T19:47:19Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.829,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T19:47:19Z",
+      "latest_at": "2026-10-25T01:04:53.332000Z",
+      "primary_item": {
+        "id": "cee1b9009ac684fdfc06fa5c0a868ff4b811e98a",
+        "title": "科技行业以外尚未出现人工智能带来回报的迹象",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "source": "www.apollo.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-25T01:04:53.332000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8f5707e9a13c",
+      "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "www.apricitas.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "www.apricitas.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:05:14.415000Z"
+        },
+        {
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.apricitas.io"
+      ],
+      "items": [
+        {
+          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "www.apricitas.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:05:14.415000Z"
+        },
+        {
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.829,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T23:11:54Z",
+      "latest_at": "2026-10-25T01:05:14.415000Z",
+      "primary_item": {
+        "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+        "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "www.apricitas.io",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-25T01:05:14.415000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a3b16960f1a4",
+      "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+      "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+      "primary_url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T11:14:34.160000Z"
+        },
+        {
+          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T11:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T11:14:34.160000Z"
+        },
+        {
+          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T11:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.96,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T11:00:01Z",
+      "latest_at": "2026-10-25T11:14:34.160000Z",
+      "primary_item": {
+        "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+        "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+        "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-25T11:14:34.160000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b82b80f16782",
+      "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "primary_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T09:51:17Z"
+        },
+        {
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://news.ycombinator.com/item?id=50229827",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T09:51:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T09:51:17Z"
+        },
+        {
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://news.ycombinator.com/item?id=50229827",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T09:51:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9409,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T09:51:17Z",
+      "latest_at": "2026-10-25T09:51:17Z",
+      "primary_item": {
+        "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+        "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+        "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-25T09:51:17Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_05be6d522a26",
+      "title": "星闪 3.0 标准成果发布：华为、中国移动、联想等共建，面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+      "url": "https://www.ithome.com/1/017/620.htm",
+      "primary_url": "https://www.ithome.com/1/017/620.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e6ede46ca592e437239e87b50bd40b612366aeb4",
+          "title": "星闪 3.0 标准成果发布：华为、中国移动、联想等共建，面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+          "url": "https://www.ithome.com/1/017/620.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T07:53:28Z"
+        },
+        {
+          "id": "f309fa4ebf1c6fbef31ab646256502975d7939fa",
+          "title": "星闪 3.0 标准成果发布：面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+          "url": "https://www.ithome.com/1/017/620.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T07:53:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "e6ede46ca592e437239e87b50bd40b612366aeb4",
+          "title": "星闪 3.0 标准成果发布：华为、中国移动、联想等共建，面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+          "url": "https://www.ithome.com/1/017/620.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T07:53:28Z"
+        },
+        {
+          "id": "f309fa4ebf1c6fbef31ab646256502975d7939fa",
+          "title": "星闪 3.0 标准成果发布：面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+          "url": "https://www.ithome.com/1/017/620.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T07:53:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9146,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T07:53:28Z",
+      "latest_at": "2026-10-25T07:53:28Z",
+      "primary_item": {
+        "id": "e6ede46ca592e437239e87b50bd40b612366aeb4",
+        "title": "星闪 3.0 标准成果发布：华为、中国移动、联想等共建，面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+        "url": "https://www.ithome.com/1/017/620.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-25T07:53:28Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6c85b701ec72",
+      "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+      "url": "https://www.v2ex.com/t/1251621",
+      "primary_url": "https://www.v2ex.com/t/1251621",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
+        },
+        {
+          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
+          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
+        },
+        {
+          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
+          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8695,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T04:23:27Z",
+      "latest_at": "2026-10-25T04:23:27Z",
+      "primary_item": {
+        "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+        "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+        "url": "https://www.v2ex.com/t/1251621",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-25T04:23:27Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_9c02d9c50f67",
+      "title": "总支出近亿，电视台掀起 AI 算力采购潮",
+      "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900312.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ec636c6227800af2da407d4bd3b13dfb0d673e13",
+          "title": "总支出近亿，电视台掀起 AI 算力采购潮",
+          "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e6ba976e6561308cca746e58cc8b97696263f2b0",
+          "title": "总支出近亿，电视台掀起AI算力采购潮",
+          "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T13:07:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "ec636c6227800af2da407d4bd3b13dfb0d673e13",
+          "title": "总支出近亿，电视台掀起 AI 算力采购潮",
+          "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e6ba976e6561308cca746e58cc8b97696263f2b0",
+          "title": "总支出近亿，电视台掀起AI算力采购潮",
+          "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T13:07:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T13:07:43Z",
+      "latest_at": "2026-10-25T14:04:15.640784Z",
+      "primary_item": {
+        "id": "ec636c6227800af2da407d4bd3b13dfb0d673e13",
+        "title": "总支出近亿，电视台掀起 AI 算力采购潮",
+        "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "infra_compute",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5a08291251a2",
+      "title": "Show HN: 偷走我的比特币 / Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com",
+      "primary_url": "https://stealmybitcoin.com",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+          "title": "Show HN: 偷走我的比特币 / Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        },
+        {
+          "id": "045a73c76c9450fdbfc4f25a8b1495bdfb9027db",
+          "title": "Show HN: 偷走我的比特币 / Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+          "title": "Show HN: 偷走我的比特币 / Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        },
+        {
+          "id": "045a73c76c9450fdbfc4f25a8b1495bdfb9027db",
+          "title": "Show HN: 偷走我的比特币 / Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.776,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T20:30:31Z",
+      "latest_at": "2026-10-24T20:30:31Z",
+      "primary_item": {
+        "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+        "title": "Show HN: 偷走我的比特币 / Show HN: Steal My Bitcoin",
+        "url": "https://stealmybitcoin.com",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-10-24T20:30:31Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
+          "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "225e40b97914be708a18f439528c4ff4427b9786",
+          "title": "聚类也能「开箱即用」了！人大等团队开源 TabClustPFN，给张表格就能自动分组",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069889&idx=3&sn=be03ed61a5b5eccacdb6e68cce1c5210",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
+          "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "225e40b97914be708a18f439528c4ff4427b9786",
+          "title": "聚类也能「开箱即用」了！人大等团队开源 TabClustPFN，给张表格就能自动分组",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069889&idx=3&sn=be03ed61a5b5eccacdb6e68cce1c5210",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9423,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T09:57:18.240424Z",
+      "latest_at": "2026-10-25T09:57:18.240424Z",
+      "primary_item": {
+        "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
+        "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "robotics",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_46dad15a371d",
+      "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "primary_url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
+          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
+        },
+        {
+          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
+          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
+          "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
+        },
+        {
+          "id": "f736dc2cd293f8565338b3f2d7870554ff5bd8a4",
+          "title": "类淋巴清除可减轻创伤性脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:19:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7518,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T18:19:05Z",
+      "latest_at": "2026-10-24T18:19:05Z",
+      "primary_item": {
+        "id": "600efd91d91e23ccbe312e7544e253891afcb87a",
+        "title": "类淋巴清除可减轻小鼠脑水肿和阿尔茨海默病病理 / Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+        "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-10-24T18:19:05Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_79c7fe33c787",
+      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "8edb78d4281318f7283191af552c8732be334942",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8edb78d4281318f7283191af552c8732be334942",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7228,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T15:35:17Z",
+      "latest_at": "2026-10-24T15:35:17Z",
+      "primary_item": {
+        "id": "8edb78d4281318f7283191af552c8732be334942",
+        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-10-24T15:35:17Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_28adfff6869c",
+      "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+      "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8773,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T02:00:00Z",
+      "latest_at": "2026-10-25T05:00:15.236902Z",
+      "primary_item": {
+        "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+        "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+        "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
