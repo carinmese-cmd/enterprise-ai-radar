@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T22:41:18.132298Z",
+  "generated_at": "2026-10-26T00:51:55.812774Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -165,19 +165,19 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6567,
-      "importance": 0.6567,
-      "importance_score": 0.6567,
+      "score": 0.6516,
+      "importance": 0.6516,
+      "importance_score": 0.6516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9308,
+        "recency": 0.902,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -258,15 +258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5929,
-      "importance": 0.5929,
-      "importance_score": 0.5929,
+      "score": 0.5881,
+      "importance": 0.5881,
+      "importance_score": 0.5881,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8748,
+        "recency": 0.8477,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -291,6 +291,119 @@
         "published_at": "2026-10-25T13:25:32Z",
         "ai_score": 0.68,
         "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c45c68dc9fe2",
+      "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+      "url": "https://minimaxir.com/2026/10/cheap-llms",
+      "primary_url": "https://minimaxir.com/2026/10/cheap-llms",
+      "source": "minimaxir.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dd0eeb1c2fefa99991592346220aef88720bcddf",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "minimaxir.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.635000Z"
+        },
+        {
+          "id": "c7e75cc75ed6b5e0ae917dd62311b533c42606a5",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T21:11:31Z"
+        },
+        {
+          "id": "861647ac8be026777114967923dba58a3ea0666d",
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://news.ycombinator.com/item?id=50236102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T21:11:31Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "minimaxir.com"
+      ],
+      "items": [
+        {
+          "id": "dd0eeb1c2fefa99991592346220aef88720bcddf",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "minimaxir.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.635000Z"
+        },
+        {
+          "id": "c7e75cc75ed6b5e0ae917dd62311b533c42606a5",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T21:11:31Z"
+        },
+        {
+          "id": "861647ac8be026777114967923dba58a3ea0666d",
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://news.ycombinator.com/item?id=50236102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T21:11:31Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5828,
+      "importance": 0.5828,
+      "importance_score": 0.5828,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.32,
+        "ai_relevance": 0.68,
+        "recency": 0.9971,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T21:11:31Z",
+      "latest_at": "2026-10-26T00:39:51.635000Z",
+      "primary_item": {
+        "id": "dd0eeb1c2fefa99991592346220aef88720bcddf",
+        "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+        "url": "https://minimaxir.com/2026/10/cheap-llms",
+        "source": "minimaxir.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-26T00:39:51.635000Z",
+        "ai_score": 0.68,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -371,15 +484,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5632,
-      "importance": 0.5632,
-      "importance_score": 0.5632,
+      "score": 0.5579,
+      "importance": 0.5579,
+      "importance_score": 0.5579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9577,
+        "recency": 0.9281,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -484,15 +597,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
+      "score": 0.5554,
+      "importance": 0.5554,
+      "importance_score": 0.5554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9435,
+        "recency": 0.9143,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -597,15 +710,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.558,
-      "importance": 0.558,
-      "importance_score": 0.558,
+      "score": 0.5529,
+      "importance": 0.5529,
+      "importance_score": 0.5529,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9291,
+        "recency": 0.9004,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -709,15 +822,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.553,
-      "importance": 0.553,
-      "importance_score": 0.553,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9011,
+        "recency": 0.8732,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -750,68 +863,68 @@
       }
     },
     {
-      "story_id": "story_c45c68dc9fe2",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms",
-      "primary_url": "https://minimaxir.com/2026/10/cheap-llms",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_9d2668796cd0",
+      "title": "离开华为的人：23 位 AI 创业者，18 家公司，一场门外的商业征程",
+      "url": "https://www.huxiu.com/article/4900357.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900357.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "c7e75cc75ed6b5e0ae917dd62311b533c42606a5",
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://minimaxir.com/2026/10/cheap-llms",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T21:11:31Z"
+          "id": "bb188228599803f8d52c7ef7142a32ab0738aeec",
+          "title": "离开华为的人：23 位 AI 创业者，18 家公司，一场门外的商业征程",
+          "url": "https://www.huxiu.com/article/4900357.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "861647ac8be026777114967923dba58a3ea0666d",
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://news.ycombinator.com/item?id=50236102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T21:11:31Z"
+          "id": "3f1b652aab3d6abd8a1063665400bc129d35614e",
+          "title": "离开华为的人：23位AI创业者，18家公司，一场门外的商业征程",
+          "url": "https://www.huxiu.com/article/4900357.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T00:07:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "c7e75cc75ed6b5e0ae917dd62311b533c42606a5",
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://minimaxir.com/2026/10/cheap-llms",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T21:11:31Z"
+          "id": "bb188228599803f8d52c7ef7142a32ab0738aeec",
+          "title": "离开华为的人：23 位 AI 创业者，18 家公司，一场门外的商业征程",
+          "url": "https://www.huxiu.com/article/4900357.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "861647ac8be026777114967923dba58a3ea0666d",
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://news.ycombinator.com/item?id=50236102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T21:11:31Z"
+          "id": "3f1b652aab3d6abd8a1063665400bc129d35614e",
+          "title": "离开华为的人：23位AI创业者，18家公司，一场门外的商业征程",
+          "url": "https://www.huxiu.com/article/4900357.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T00:07:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9786,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -825,15 +938,203 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T21:11:31Z",
-      "latest_at": "2026-10-25T21:11:31Z",
+      "earliest_at": "2026-10-26T00:07:47Z",
+      "latest_at": "2026-10-26T00:51:55.812774Z",
       "primary_item": {
-        "id": "c7e75cc75ed6b5e0ae917dd62311b533c42606a5",
-        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "url": "https://minimaxir.com/2026/10/cheap-llms",
+        "id": "bb188228599803f8d52c7ef7142a32ab0738aeec",
+        "title": "离开华为的人：23 位 AI 创业者，18 家公司，一场门外的商业征程",
+        "url": "https://www.huxiu.com/article/4900357.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_bf138b1722c9",
+      "title": "到2026年，“AI技能”将一文不值",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "primary_url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "source": "fishbowl.pastiche.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "38bb3d2296b1000ed25ae068f32fcd0c5ee7dfda",
+          "title": "到2026年，“AI技能”将一文不值",
+          "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+          "source": "fishbowl.pastiche.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.655000Z"
+        },
+        {
+          "id": "32db8afaea94b6f19b4106852db6dbbca78aed76",
+          "title": "到2026年，“AI技能”将一文不值 / “AI Skills” are worthless in 2026",
+          "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T00:23:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "fishbowl.pastiche.org"
+      ],
+      "items": [
+        {
+          "id": "38bb3d2296b1000ed25ae068f32fcd0c5ee7dfda",
+          "title": "到2026年，“AI技能”将一文不值",
+          "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+          "source": "fishbowl.pastiche.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.655000Z"
+        },
+        {
+          "id": "32db8afaea94b6f19b4106852db6dbbca78aed76",
+          "title": "到2026年，“AI技能”将一文不值 / “AI Skills” are worthless in 2026",
+          "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T00:23:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9971,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-26T00:23:42Z",
+      "latest_at": "2026-10-26T00:39:51.655000Z",
+      "primary_item": {
+        "id": "38bb3d2296b1000ed25ae068f32fcd0c5ee7dfda",
+        "title": "到2026年，“AI技能”将一文不值",
+        "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+        "source": "fishbowl.pastiche.org",
+        "source_name": "Buzzing",
+        "published_at": "2026-10-26T00:39:51.655000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_600522d60bd8",
+      "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "primary_url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "afc320d5880770f1a67597269edb3521d8ac2db0",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T22:49:06Z"
+        },
+        {
+          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T16:15:48.897000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "afc320d5880770f1a67597269edb3521d8ac2db0",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T22:49:06Z"
+        },
+        {
+          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T16:15:48.897000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9709,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T16:15:48.897000Z",
+      "latest_at": "2026-10-25T22:49:06Z",
+      "primary_item": {
+        "id": "afc320d5880770f1a67597269edb3521d8ac2db0",
+        "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+        "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli",
-        "published_at": "2026-10-25T21:11:31Z",
+        "published_at": "2026-10-25T22:49:06Z",
         "ai_score": 0.65,
         "ai_label": "curated_hotlist",
         "enterprise_score": 0,
@@ -916,15 +1217,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7984,
+        "recency": 0.7737,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -957,68 +1258,68 @@
       }
     },
     {
-      "story_id": "story_600522d60bd8",
-      "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
-      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-      "primary_url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_59ddf06fb26d",
+      "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+      "primary_url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
-          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
-          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T16:15:48.897000Z"
+          "id": "c4305701e1aaaa42f5cbd1650067e74e1037a58e",
+          "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T16:31:21Z"
         },
         {
-          "id": "bdec0c860887ebbad6f1aa29f69a62ec04593452",
-          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T16:02:08Z"
+          "id": "50d282df77a830680fe5f5bd7a07416336fbe67a",
+          "title": "人工智能“吞噬”数学的那一年",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:17:36.206000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "www.theatlantic.com"
       ],
       "items": [
         {
-          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
-          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
-          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T16:15:48.897000Z"
+          "id": "c4305701e1aaaa42f5cbd1650067e74e1037a58e",
+          "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T16:31:21Z"
         },
         {
-          "id": "bdec0c860887ebbad6f1aa29f69a62ec04593452",
-          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T16:02:08Z"
+          "id": "50d282df77a830680fe5f5bd7a07416336fbe67a",
+          "title": "人工智能“吞噬”数学的那一年",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:17:36.206000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9114,
+        "recency": 0.8865,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1032,15 +1333,15 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T16:02:08Z",
-      "latest_at": "2026-10-25T16:15:48.897000Z",
+      "earliest_at": "2026-10-25T12:17:36.206000Z",
+      "latest_at": "2026-10-25T16:31:21Z",
       "primary_item": {
-        "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
-        "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
-        "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-10-25T16:15:48.897000Z",
+        "id": "c4305701e1aaaa42f5cbd1650067e74e1037a58e",
+        "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
+        "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-25T16:31:21Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1104,15 +1405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.883,
+        "recency": 0.8557,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1145,68 +1446,67 @@
       }
     },
     {
-      "story_id": "story_6e302e797ec7",
-      "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
-      "url": "https://www.huxiu.com/article/4900298.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4900298.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_ef609c806a1f",
+      "title": "[上海] 代开 ChatGPT/Codex 会员，如果需要报销的朋友，可以沟通开票",
+      "url": "https://www.v2ex.com/t/1251697",
+      "primary_url": "https://www.v2ex.com/t/1251697",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
-          "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
-          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d6912c9a5e200e7a736bea7d9c4d1db53fd7a013",
-          "title": "CCTV曝光假冒400服务热线黑产：被投毒的大模型，不能再走“竞价排名”老路",
-          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "13547067ed4b7e6c255dc79eed197ded8586ac2e",
+          "title": "[上海] 代开 ChatGPT/Codex 会员，如果需要报销的朋友，可以沟通开票",
+          "url": "https://www.v2ex.com/t/1251697",
+          "source": "V2EX (创意工作者社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T11:58:59Z"
+          "published_at": "2026-10-25T14:05:00Z"
+        },
+        {
+          "id": "4ff16033c0a7a4adfa87f50054eb7d2682f1b9f3",
+          "title": "[推广] 代开 ChatGPT/Codex 会员，如果需要报销的朋友，可以沟通开票",
+          "url": "https://www.v2ex.com/t/1251697",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T14:05:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
-          "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
-          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d6912c9a5e200e7a736bea7d9c4d1db53fd7a013",
-          "title": "CCTV曝光假冒400服务热线黑产：被投毒的大模型，不能再走“竞价排名”老路",
-          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "13547067ed4b7e6c255dc79eed197ded8586ac2e",
+          "title": "[上海] 代开 ChatGPT/Codex 会员，如果需要报销的朋友，可以沟通开票",
+          "url": "https://www.v2ex.com/t/1251697",
+          "source": "V2EX (创意工作者社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T11:58:59Z"
+          "published_at": "2026-10-25T14:05:00Z"
+        },
+        {
+          "id": "4ff16033c0a7a4adfa87f50054eb7d2682f1b9f3",
+          "title": "[推广] 代开 ChatGPT/Codex 会员，如果需要报销的朋友，可以沟通开票",
+          "url": "https://www.v2ex.com/t/1251697",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T14:05:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.883,
+        "recency": 0.8558,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1220,15 +1520,15 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T11:58:59Z",
-      "latest_at": "2026-10-25T14:04:15.640784Z",
+      "earliest_at": "2026-10-25T14:05:00Z",
+      "latest_at": "2026-10-25T14:05:00Z",
       "primary_item": {
-        "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
-        "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
-        "url": "https://www.huxiu.com/article/4900298.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
+        "id": "13547067ed4b7e6c255dc79eed197ded8586ac2e",
+        "title": "[上海] 代开 ChatGPT/Codex 会员，如果需要报销的朋友，可以沟通开票",
+        "url": "https://www.v2ex.com/t/1251697",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-25T14:05:00Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -1239,109 +1539,90 @@
       }
     },
     {
-      "story_id": "story_8f5707e9a13c",
-      "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "www.apricitas.io",
+      "story_id": "story_a3b16960f1a4",
+      "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+      "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+      "primary_url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "www.apricitas.io",
+          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-25T01:05:14.415000Z"
+          "published_at": "2026-10-25T11:14:34.160000Z"
         },
         {
-          "id": "ada27b28b951c1af394a8344618ab84ab9ce6994",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T23:11:54Z"
-        },
-        {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
+          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T11:00:01Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.apricitas.io"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "www.apricitas.io",
+          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-25T01:05:14.415000Z"
+          "published_at": "2026-10-25T11:14:34.160000Z"
         },
         {
-          "id": "ada27b28b951c1af394a8344618ab84ab9ce6994",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T23:11:54Z"
-        },
-        {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
+          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T11:00:01Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5137,
+      "importance": 0.5137,
+      "importance_score": 0.5137,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.732,
-        "story_heat": 0.5
+        "recency": 0.8214,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T23:11:54Z",
-      "latest_at": "2026-10-25T01:05:14.415000Z",
+      "earliest_at": "2026-10-25T11:00:01Z",
+      "latest_at": "2026-10-25T11:14:34.160000Z",
       "primary_item": {
-        "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-        "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "source": "www.apricitas.io",
+        "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+        "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+        "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing",
-        "published_at": "2026-10-25T01:05:14.415000Z",
+        "published_at": "2026-10-25T11:14:34.160000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1404,15 +1685,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8076,
+        "recency": 0.7826,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1441,193 +1722,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_6c85b701ec72",
-      "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
-      "url": "https://www.v2ex.com/t/1251621",
-      "primary_url": "https://www.v2ex.com/t/1251621",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
-          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
-          "url": "https://www.v2ex.com/t/1251621",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T04:23:27Z"
-        },
-        {
-          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
-          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
-          "url": "https://www.v2ex.com/t/1251621",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T04:23:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
-          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
-          "url": "https://www.v2ex.com/t/1251621",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T04:23:27Z"
-        },
-        {
-          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
-          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
-          "url": "https://www.v2ex.com/t/1251621",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T04:23:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.504,
-      "importance": 0.504,
-      "importance_score": 0.504,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7678,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T04:23:27Z",
-      "latest_at": "2026-10-25T04:23:27Z",
-      "primary_item": {
-        "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
-        "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
-        "url": "https://www.v2ex.com/t/1251621",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow",
-        "published_at": "2026-10-25T04:23:27Z",
-        "ai_score": 0.65,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_59ddf06fb26d",
-      "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-      "primary_url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0fc4d5f6b57eb41cb44dc50d0f34eb12ea62a1f9",
-          "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
-          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T16:31:21Z"
-        },
-        {
-          "id": "50d282df77a830680fe5f5bd7a07416336fbe67a",
-          "title": "人工智能“吞噬”数学的那一年",
-          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T12:17:36.206000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theatlantic.com"
-      ],
-      "items": [
-        {
-          "id": "0fc4d5f6b57eb41cb44dc50d0f34eb12ea62a1f9",
-          "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
-          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-25T16:31:21Z"
-        },
-        {
-          "id": "50d282df77a830680fe5f5bd7a07416336fbe67a",
-          "title": "人工智能“吞噬”数学的那一年",
-          "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T12:17:36.206000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9148,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T12:17:36.206000Z",
-      "latest_at": "2026-10-25T16:31:21Z",
-      "primary_item": {
-        "id": "0fc4d5f6b57eb41cb44dc50d0f34eb12ea62a1f9",
-        "title": "人工智能“吞噬”数学的那一年 / A Mathematician Reads the AI Future",
-        "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-10-25T16:31:21Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1685,15 +1779,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4986,
-      "importance": 0.4986,
-      "importance_score": 0.4986,
+      "score": 0.4945,
+      "importance": 0.4945,
+      "importance_score": 0.4945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7376,
+        "recency": 0.7148,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1726,30 +1820,30 @@
       }
     },
     {
-      "story_id": "story_9c02d9c50f67",
-      "title": "总支出近亿，电视台掀起 AI 算力采购潮",
-      "url": "https://www.huxiu.com/article/4900312.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4900312.html?f=rss",
+      "story_id": "story_6e302e797ec7",
+      "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+      "url": "https://www.huxiu.com/article/4900298.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900298.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ec636c6227800af2da407d4bd3b13dfb0d673e13",
-          "title": "总支出近亿，电视台掀起 AI 算力采购潮",
-          "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+          "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
+          "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "e6ba976e6561308cca746e58cc8b97696263f2b0",
-          "title": "总支出近亿，电视台掀起AI算力采购潮",
-          "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+          "id": "d6912c9a5e200e7a736bea7d9c4d1db53fd7a013",
+          "title": "CCTV曝光假冒400服务热线黑产：被投毒的大模型，不能再走“竞价排名”老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T13:07:43Z"
+          "published_at": "2026-10-25T11:58:59Z"
         }
       ],
       "source_count": 2,
@@ -1759,35 +1853,35 @@
       ],
       "items": [
         {
-          "id": "ec636c6227800af2da407d4bd3b13dfb0d673e13",
-          "title": "总支出近亿，电视台掀起 AI 算力采购潮",
-          "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+          "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
+          "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "e6ba976e6561308cca746e58cc8b97696263f2b0",
-          "title": "总支出近亿，电视台掀起AI算力采购潮",
-          "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+          "id": "d6912c9a5e200e7a736bea7d9c4d1db53fd7a013",
+          "title": "CCTV曝光假冒400服务热线黑产：被投毒的大模型，不能再走“竞价排名”老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T13:07:43Z"
+          "published_at": "2026-10-25T11:58:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.883,
+        "recency": 0.8557,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1801,111 +1895,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T13:07:43Z",
+      "earliest_at": "2026-10-25T11:58:59Z",
       "latest_at": "2026-10-25T14:04:15.640784Z",
       "primary_item": {
-        "id": "ec636c6227800af2da407d4bd3b13dfb0d673e13",
-        "title": "总支出近亿，电视台掀起 AI 算力采购潮",
-        "url": "https://www.huxiu.com/article/4900312.html?f=rss",
+        "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
+        "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+        "url": "https://www.huxiu.com/article/4900298.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub",
         "published_at": null,
         "ai_score": 0.65,
-        "ai_label": "infra_compute",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a3b16960f1a4",
-      "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
-      "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-      "primary_url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
-          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
-          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T11:14:34.160000Z"
-        },
-        {
-          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
-          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
-          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T11:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
-          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
-          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T11:14:34.160000Z"
-        },
-        {
-          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
-          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
-          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-25T11:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8477,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T11:00:01Z",
-      "latest_at": "2026-10-25T11:14:34.160000Z",
-      "primary_item": {
-        "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
-        "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
-        "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-10-25T11:14:34.160000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1966,15 +1966,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.867,
+        "recency": 0.8401,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -2007,71 +2007,71 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_6c85b701ec72",
+      "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+      "url": "https://www.v2ex.com/t/1251621",
+      "primary_url": "https://www.v2ex.com/t/1251621",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
-          "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
         },
         {
-          "id": "225e40b97914be708a18f439528c4ff4427b9786",
-          "title": "聚类也能「开箱即用」了！人大等团队开源 TabClustPFN，给张表格就能自动分组",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069889&idx=3&sn=be03ed61a5b5eccacdb6e68cce1c5210",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
+          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
-          "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+          "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
         },
         {
-          "id": "225e40b97914be708a18f439528c4ff4427b9786",
-          "title": "聚类也能「开箱即用」了！人大等团队开源 TabClustPFN，给张表格就能自动分组",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069889&idx=3&sn=be03ed61a5b5eccacdb6e68cce1c5210",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "f34f54ac04453c0c4543ba748d9f78806f93bd47",
+          "title": "[分享发现] codex 最新的功能，居然和我之前做的小功能如此雷同",
+          "url": "https://www.v2ex.com/t/1251621",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T04:23:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.832,
+        "recency": 0.744,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -2081,17 +2081,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T09:57:18.240424Z",
-      "latest_at": "2026-10-25T09:57:18.240424Z",
+      "earliest_at": "2026-10-25T04:23:27Z",
+      "latest_at": "2026-10-25T04:23:27Z",
       "primary_item": {
-        "id": "c7540b3249fe3dea76b276256b006b3ce4e649d2",
-        "title": "机器人的 o1 时刻来了！哈佛、伯克利、英伟达推出探索 Scaling Law，五大基准平均领先 37.4 个点",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651069945&idx=2&sn=dc9829c3d689d8f2438948978e7607ac",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
+        "id": "cc2d7ced3e1cc17a855f7d2bf982d1c572787e2c",
+        "title": "[OpenAI] codex 最新的功能，居然和我之前做的小功能如此雷同",
+        "url": "https://www.v2ex.com/t/1251621",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-25T04:23:27Z",
         "ai_score": 0.65,
-        "ai_label": "robotics",
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
