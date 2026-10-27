@@ -1,94 +1,56 @@
 {
-  "generated_at": "2026-10-26T22:06:26.134384Z",
+  "generated_at": "2026-10-27T01:32:37.408761Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_1758535ac6be",
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "primary_url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "story_id": "story_250e5d8f3024",
+      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3f8e39fe57c3c3ce37f6fc37fb1bb7d911a004d0",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / Introducing GPT-6.1 Terra",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T00:00:00Z"
-        },
-        {
-          "id": "68bd6d4669105c8db9f04b501e55703c63527bbc",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T00:00:00Z"
-        },
-        {
-          "id": "07f434629f65d9ab5f255af50945bbe711f0dbf6",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / GPT-6.1 Terra",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T18:01:17Z"
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "3f8e39fe57c3c3ce37f6fc37fb1bb7d911a004d0",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / Introducing GPT-6.1 Terra",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T00:00:00Z"
-        },
-        {
-          "id": "68bd6d4669105c8db9f04b501e55703c63527bbc",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T00:00:00Z"
-        },
-        {
-          "id": "07f434629f65d9ab5f255af50945bbe711f0dbf6",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / GPT-6.1 Terra",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T18:01:17Z"
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8608,
-      "importance": 0.8608,
-      "importance_score": 0.8608,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7267,
-        "story_heat": 0.5
+        "recency": 0.9501,
+        "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 33,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -97,19 +59,18 @@
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T00:00:00Z",
-      "latest_at": "2026-10-26T18:01:17Z",
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
       "primary_item": {
-        "id": "3f8e39fe57c3c3ce37f6fc37fb1bb7d911a004d0",
-        "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本 / Introducing GPT-6.1 Terra",
-        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
-        "published_at": "2026-10-26T00:00:00Z",
+        "published_at": "2026-10-26T22:00:00Z",
         "ai_score": 0.95,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -154,15 +115,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9598,
+        "recency": 0.9133,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -193,6 +154,236 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ce5ce5fc43fb",
+      "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "primary_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "89b582e7caec66220ddc9fb1cd96cacb2dbcde2e",
+          "title": "Cohere 报告 Qwen3.8-Flash-Next 在沙箱测试中出现异常行为",
+          "url": "https://x.com/cohere/status/2114752002370544004",
+          "source": "X：Cohere（@cohere）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T16:12:22Z"
+        },
+        {
+          "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
+          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T10:14:20.569000Z"
+        },
+        {
+          "id": "e95e12cdd9a9dde6c55fba060d3c2dd2774685c5",
+          "title": "关于一款热门无限制权重AI模型的行为",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "cohere.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:25.645000Z"
+        },
+        {
+          "id": "36adb80d0de809ba07bedfccfc35b62682850691",
+          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为 / Concerning behavior from a popular open-weight AI model",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T16:35:44Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖",
+        "X：Cohere（@cohere）",
+        "cohere.com"
+      ],
+      "items": [
+        {
+          "id": "89b582e7caec66220ddc9fb1cd96cacb2dbcde2e",
+          "title": "Cohere 报告 Qwen3.8-Flash-Next 在沙箱测试中出现异常行为",
+          "url": "https://x.com/cohere/status/2114752002370544004",
+          "source": "X：Cohere（@cohere）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T16:12:22Z"
+        },
+        {
+          "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
+          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T10:14:20.569000Z"
+        },
+        {
+          "id": "e95e12cdd9a9dde6c55fba060d3c2dd2774685c5",
+          "title": "关于一款热门无限制权重AI模型的行为",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "cohere.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:25.645000Z"
+        },
+        {
+          "id": "36adb80d0de809ba07bedfccfc35b62682850691",
+          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为 / Concerning behavior from a popular open-weight AI model",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T16:35:44Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8017,
+        "story_heat": 0.75
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T10:14:20.569000Z",
+      "latest_at": "2026-10-26T22:44:25.645000Z",
+      "primary_item": {
+        "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
+        "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-26T10:14:20.569000Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_tech",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ada44178e0ce",
+      "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+      "url": "https://www.ithome.com/1/018/203.htm",
+      "primary_url": "https://www.ithome.com/1/018/203.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c38720d0bdaf05a780672a370538e81daa930717",
+          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T23:37:17.237000Z"
+        },
+        {
+          "id": "e26d3b0f8ef26b3a59376acb4f569e53a4f4b281",
+          "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T23:37:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "c38720d0bdaf05a780672a370538e81daa930717",
+          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T23:37:17.237000Z"
+        },
+        {
+          "id": "e26d3b0f8ef26b3a59376acb4f569e53a4f4b281",
+          "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T23:37:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9726,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T23:37:17Z",
+      "latest_at": "2026-10-26T23:37:17.237000Z",
+      "primary_item": {
+        "id": "c38720d0bdaf05a780672a370538e81daa930717",
+        "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+        "url": "https://www.ithome.com/1/018/203.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-26T23:37:17.237000Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -231,19 +422,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9156,
+        "recency": 0.8713,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -274,195 +465,79 @@
       }
     },
     {
-      "story_id": "story_ce5ce5fc43fb",
-      "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "primary_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "source": "Hacker News：AI 热帖",
+      "story_id": "story_6cbde97d8260",
+      "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "89b582e7caec66220ddc9fb1cd96cacb2dbcde2e",
-          "title": "Cohere 报告 Qwen3.8-Flash-Next 在沙箱测试中出现异常行为",
-          "url": "https://x.com/cohere/status/2114752002370544004",
-          "source": "X：Cohere（@cohere）",
+          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T16:12:22Z"
-        },
-        {
-          "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
-          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T10:14:20.569000Z"
-        },
-        {
-          "id": "36adb80d0de809ba07bedfccfc35b62682850691",
-          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为 / Concerning behavior from a popular open-weight AI model",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T16:35:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News：AI 热帖",
-        "X：Cohere（@cohere）"
-      ],
-      "items": [
-        {
-          "id": "89b582e7caec66220ddc9fb1cd96cacb2dbcde2e",
-          "title": "Cohere 报告 Qwen3.8-Flash-Next 在沙箱测试中出现异常行为",
-          "url": "https://x.com/cohere/status/2114752002370544004",
-          "source": "X：Cohere（@cohere）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T16:12:22Z"
-        },
-        {
-          "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
-          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T10:14:20.569000Z"
-        },
-        {
-          "id": "36adb80d0de809ba07bedfccfc35b62682850691",
-          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为 / Concerning behavior from a popular open-weight AI model",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T16:35:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8425,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T10:14:20.569000Z",
-      "latest_at": "2026-10-26T16:35:44Z",
-      "primary_item": {
-        "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
-        "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-26T10:14:20.569000Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_tech",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "GPT-6.1 Terra 的工作和法典 / GPT-6.1 Terra in Work and Codex",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e4fd071bf292f526a35284078aeb89828bebda80",
-          "title": "GPT-6.1 Terra 的工作和法典 / GPT-6.1 Terra in Work and Codex",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T00:00:00Z"
+          "published_at": "2026-10-27T00:05:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "e4fd071bf292f526a35284078aeb89828bebda80",
-          "title": "GPT-6.1 Terra 的工作和法典 / GPT-6.1 Terra in Work and Codex",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T00:00:00Z"
+          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:05:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
-      "importance_label": "官方更新",
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
+        "editorial": 0.88,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7267,
+        "recency": 0.9791,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 33,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
       "enterprise_is_relevant": false,
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T00:00:00Z",
-      "latest_at": "2026-10-26T00:00:00Z",
+      "earliest_at": "2026-10-27T00:05:00Z",
+      "latest_at": "2026-10-27T00:05:00Z",
       "primary_item": {
-        "id": "e4fd071bf292f526a35284078aeb89828bebda80",
-        "title": "GPT-6.1 Terra 的工作和法典 / GPT-6.1 Terra in Work and Codex",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-10-26T00:00:00Z",
+        "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+        "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-27T00:05:00Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -519,15 +594,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8861,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -596,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8863,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -631,6 +706,178 @@
         "published_at": "2026-10-26T13:45:00Z",
         "ai_score": 0.95,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_75e6cdb57059",
+      "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+      "url": "https://x.com/Khazix0918/status/2114878401190506902",
+      "primary_url": "https://x.com/Khazix0918/status/2114878401190506902",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:34:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:34:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9861,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:34:38Z",
+      "latest_at": "2026-10-27T00:34:38Z",
+      "primary_item": {
+        "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+        "url": "https://x.com/Khazix0918/status/2114878401190506902",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-27T00:34:38Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_201ca811c7d1",
+      "title": "微软 CEO 认错：曾以为 AI 越强越安全，如今不敢这么想了",
+      "url": "https://www.aibase.com/news/31876",
+      "primary_url": "https://www.aibase.com/news/31876",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2439550f4868e8a6983cd2020003ed4fd3f93b13",
+          "title": "微软 CEO 认错：曾以为 AI 越强越安全，如今不敢这么想了",
+          "url": "https://www.aibase.com/news/31876",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T01:32:37.408761Z"
+        },
+        {
+          "id": "39321344818a1c833ca842defa386037cf2407cd",
+          "title": "微软 CEO 认错：曾以为 AI 越强越安全，如今不敢这么想了",
+          "url": "https://www.aibase.com/zh/news/31876",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2439550f4868e8a6983cd2020003ed4fd3f93b13",
+          "title": "微软 CEO 认错：曾以为 AI 越强越安全，如今不敢这么想了",
+          "url": "https://www.aibase.com/news/31876",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T01:32:37.408761Z"
+        },
+        {
+          "id": "39321344818a1c833ca842defa386037cf2407cd",
+          "title": "微软 CEO 认错：曾以为 AI 越强越安全，如今不敢这么想了",
+          "url": "https://www.aibase.com/zh/news/31876",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T01:32:37.408761Z",
+      "latest_at": "2026-10-27T01:32:37.408761Z",
+      "primary_item": {
+        "id": "2439550f4868e8a6983cd2020003ed4fd3f93b13",
+        "title": "微软 CEO 认错：曾以为 AI 越强越安全，如今不敢这么想了",
+        "url": "https://www.aibase.com/news/31876",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-27T01:32:37.408761Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -673,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9516,
+        "recency": 0.9056,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -711,6 +958,463 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_64d59b55a8fb",
+      "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "primary_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2581cdd6919419121f3d538268f66dd68177284a",
+          "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2581cdd6919419121f3d538268f66dd68177284a",
+          "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7989,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T10:00:00Z",
+      "latest_at": "2026-10-26T10:00:00Z",
+      "primary_item": {
+        "id": "2581cdd6919419121f3d538268f66dd68177284a",
+        "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
+        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-10-26T10:00:00Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_bf81ae046163",
+      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+      "url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:24:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:24:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9151,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T19:24:11Z",
+      "latest_at": "2026-10-26T19:24:11Z",
+      "primary_item": {
+        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+        "url": "https://x.com/thsottiaux/status/2114800277677092936",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-26T19:24:11Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_3eb19ab037a0",
+      "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+      "url": "https://x.com/testingcatalog/status/2114696424021451174",
+      "primary_url": "https://x.com/testingcatalog/status/2114696424021451174",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
+          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+          "url": "https://x.com/testingcatalog/status/2114696424021451174",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T12:31:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "items": [
+        {
+          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
+          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+          "url": "https://x.com/testingcatalog/status/2114696424021451174",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T12:31:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8286,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T12:31:31Z",
+      "latest_at": "2026-10-26T12:31:31Z",
+      "primary_item": {
+        "id": "6966a925f9504e78c17a17e111bbabed438852f6",
+        "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+        "url": "https://x.com/testingcatalog/status/2114696424021451174",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-26T12:31:31Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_15c985181520",
+      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+      "url": "https://x.com/gdb/status/2114814747254432243",
+      "primary_url": "https://x.com/gdb/status/2114814747254432243",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9279,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T20:21:41Z",
+      "latest_at": "2026-10-26T20:21:41Z",
+      "primary_item": {
+        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-26T20:21:41Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ca658eeba187",
+      "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+      "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+      "primary_url": "https://x.com/ClementDelangue/status/2114713576296300604",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T13:39:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+      ],
+      "items": [
+        {
+          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T13:39:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8423,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T13:39:40Z",
+      "latest_at": "2026-10-26T13:39:40Z",
+      "primary_item": {
+        "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+        "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+        "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-26T13:39:40Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b09118234f85",
+      "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+      "url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "primary_url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9076,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T18:49:39Z",
+      "latest_at": "2026-10-26T18:49:39Z",
+      "primary_item": {
+        "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+        "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+        "url": "https://x.com/OpenRouter/status/2114791584755839168",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-26T18:49:39Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -768,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8697,
+        "recency": 0.8276,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -811,381 +1515,56 @@
       }
     },
     {
-      "story_id": "story_64d59b55a8fb",
-      "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "primary_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2581cdd6919419121f3d538268f66dd68177284a",
-          "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
-          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2581cdd6919419121f3d538268f66dd68177284a",
-          "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
-          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8396,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T10:00:00Z",
-      "latest_at": "2026-10-26T10:00:00Z",
-      "primary_item": {
-        "id": "2581cdd6919419121f3d538268f66dd68177284a",
-        "title": "ChatGPT 不断扩大的工作领域 / ChatGPT’s expanding world of work",
-        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-10-26T10:00:00Z",
-        "ai_score": 0.95,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a1177a9fbd20",
-      "title": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-      "url": "https://www.aibase.com/news/31867",
-      "primary_url": "https://www.aibase.com/news/31867",
+      "story_id": "story_965cddc2eb44",
+      "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+      "url": "https://www.aibase.com/news/31878",
+      "primary_url": "https://www.aibase.com/news/31878",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "70fd319da609127c991001981a9463d5ebfd0356",
-          "title": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-          "url": "https://www.aibase.com/news/31867",
+          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
+          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "url": "https://www.aibase.com/news/31878",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-26T11:52:43.131081Z"
-        },
-        {
-          "id": "7c182f0899875126d64f06096407745258a930bf",
-          "title": "三星电子宣布依托 AI 将新型半导体材料研发周期由 5 年缩短至 2 年",
-          "url": "https://www.aibase.com/zh/news/31867",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-27T01:32:37.408761Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "70fd319da609127c991001981a9463d5ebfd0356",
-          "title": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-          "url": "https://www.aibase.com/news/31867",
+          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
+          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "url": "https://www.aibase.com/news/31878",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-26T11:52:43.131081Z"
-        },
-        {
-          "id": "7c182f0899875126d64f06096407745258a930bf",
-          "title": "三星电子宣布依托 AI 将新型半导体材料研发周期由 5 年缩短至 2 年",
-          "url": "https://www.aibase.com/zh/news/31867",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-27T01:32:37.408761Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8627,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T11:52:43.131081Z",
-      "latest_at": "2026-10-26T11:52:43.131081Z",
-      "primary_item": {
-        "id": "70fd319da609127c991001981a9463d5ebfd0356",
-        "title": "三星电子宣布依托AI将新型半导体材料研发周期由5年缩短至2年",
-        "url": "https://www.aibase.com/news/31867",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-26T11:52:43.131081Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_bf81ae046163",
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-      "url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9617,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T19:24:11Z",
-      "latest_at": "2026-10-26T19:24:11Z",
-      "primary_item": {
-        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-        "url": "https://x.com/thsottiaux/status/2114800277677092936",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-26T19:24:11Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_15c985181520",
-      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "primary_url": "https://x.com/gdb/status/2114814747254432243",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9751,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T20:21:41Z",
-      "latest_at": "2026-10-26T20:21:41Z",
-      "primary_item": {
-        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-        "url": "https://x.com/gdb/status/2114814747254432243",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-26T20:21:41Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_3eb19ab037a0",
-      "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-      "url": "https://x.com/testingcatalog/status/2114696424021451174",
-      "primary_url": "https://x.com/testingcatalog/status/2114696424021451174",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
-          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-          "url": "https://x.com/testingcatalog/status/2114696424021451174",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T12:31:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
-          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-          "url": "https://x.com/testingcatalog/status/2114696424021451174",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T12:31:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8708,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
       "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
       "enterprise_is_relevant": false,
       "category": "industry",
@@ -1193,174 +1572,22 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T12:31:31Z",
-      "latest_at": "2026-10-26T12:31:31Z",
+      "earliest_at": "2026-10-27T01:32:37.408761Z",
+      "latest_at": "2026-10-27T01:32:37.408761Z",
       "primary_item": {
-        "id": "6966a925f9504e78c17a17e111bbabed438852f6",
-        "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-        "url": "https://x.com/testingcatalog/status/2114696424021451174",
-        "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-26T12:31:31Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_b09118234f85",
-      "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-      "url": "https://x.com/OpenRouter/status/2114791584755839168",
-      "primary_url": "https://x.com/OpenRouter/status/2114791584755839168",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
-          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-          "url": "https://x.com/OpenRouter/status/2114791584755839168",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T18:49:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
-          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-          "url": "https://x.com/OpenRouter/status/2114791584755839168",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T18:49:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9537,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T18:49:39Z",
-      "latest_at": "2026-10-26T18:49:39Z",
-      "primary_item": {
-        "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
-        "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-        "url": "https://x.com/OpenRouter/status/2114791584755839168",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-26T18:49:39Z",
+        "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
+        "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+        "url": "https://www.aibase.com/news/31878",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-10-27T01:32:37.408761Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_ca658eeba187",
-      "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-      "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-      "primary_url": "https://x.com/ClementDelangue/status/2114713576296300604",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
-          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T13:39:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
-      ],
-      "items": [
-        {
-          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
-          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T13:39:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8852,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T13:39:40Z",
-      "latest_at": "2026-10-26T13:39:40Z",
-      "primary_item": {
-        "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
-        "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-        "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-26T13:39:40Z",
-        "ai_score": 1.0,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "未命中明确企业AI业务场景"
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -1398,15 +1625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8993,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1431,252 +1658,6 @@
         "published_at": "2026-10-26T14:45:21Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_fba455db2553",
-      "title": "中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美",
-      "url": "https://www.aibase.com/news/31870",
-      "primary_url": "https://www.aibase.com/news/31870",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "32c167cee053b52d7c9fd72707e5c6ffe3f1f733",
-          "title": "中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美",
-          "url": "https://www.aibase.com/news/31870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T11:52:43.131081Z"
-        },
-        {
-          "id": "35c8c65516c592af7e8915ee2b7cd395170ad44e",
-          "title": "中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美",
-          "url": "https://www.aibase.com/zh/news/31870",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "32c167cee053b52d7c9fd72707e5c6ffe3f1f733",
-          "title": "中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美",
-          "url": "https://www.aibase.com/news/31870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-26T11:52:43.131081Z"
-        },
-        {
-          "id": "35c8c65516c592af7e8915ee2b7cd395170ad44e",
-          "title": "中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美",
-          "url": "https://www.aibase.com/zh/news/31870",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8627,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T11:52:43.131081Z",
-      "latest_at": "2026-10-26T11:52:43.131081Z",
-      "primary_item": {
-        "id": "32c167cee053b52d7c9fd72707e5c6ffe3f1f733",
-        "title": "中国 AI 包揽全球调用榜前五，周调用量连续 26 周超美",
-        "url": "https://www.aibase.com/news/31870",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-10-26T11:52:43.131081Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a2fb86a56177",
-      "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-      "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-      "primary_url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-      "source": "Gamma Changelog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd965b4d43c511de74cc2536000ae0bf5f28b3a0",
-          "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-          "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-          "source": "Gamma Changelog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:14:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gamma Changelog"
-      ],
-      "items": [
-        {
-          "id": "cd965b4d43c511de74cc2536000ae0bf5f28b3a0",
-          "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-          "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-          "source": "Gamma Changelog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:14:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9594,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T19:14:26Z",
-      "latest_at": "2026-10-26T19:14:26Z",
-      "primary_item": {
-        "id": "cd965b4d43c511de74cc2536000ae0bf5f28b3a0",
-        "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-        "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-        "source": "Gamma Changelog",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-26T19:14:26Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_79c6ea4f54ca",
-      "title": "Krea 推出面向 Adobe Premiere 的插件",
-      "url": "https://x.com/krea_ai/status/2114741513867395527",
-      "primary_url": "https://x.com/krea_ai/status/2114741513867395527",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
-          "title": "Krea 推出面向 Adobe Premiere 的插件",
-          "url": "https://x.com/krea_ai/status/2114741513867395527",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T15:30:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
-          "title": "Krea 推出面向 Adobe Premiere 的插件",
-          "url": "https://x.com/krea_ai/status/2114741513867395527",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T15:30:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9091,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T15:30:41Z",
-      "latest_at": "2026-10-26T15:30:41Z",
-      "primary_item": {
-        "id": "48bc8cb1be87c483fcca0c44702500731d28b1c6",
-        "title": "Krea 推出面向 Adobe Premiere 的插件",
-        "url": "https://x.com/krea_ai/status/2114741513867395527",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-26T15:30:41Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
