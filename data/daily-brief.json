@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T19:24:19.314329Z",
+  "generated_at": "2026-10-31T22:38:11.742536Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_6cbde97d8260",
@@ -75,19 +75,19 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7563,
+        "recency": 0.7218,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 45,
+      "enterprise_importance_score": 44,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "technical_practice",
@@ -114,102 +114,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_07912041c313",
-      "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-      "primary_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "54f951a0716a2535d221a0d96f93423786bdd543",
-          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T21:17:40Z"
-        },
-        {
-          "id": "74ba714180c342f7b6868d9344c840a58d7faa53",
-          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T21:17:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "54f951a0716a2535d221a0d96f93423786bdd543",
-          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T21:17:40Z"
-        },
-        {
-          "id": "74ba714180c342f7b6868d9344c840a58d7faa53",
-          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T21:17:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7267,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T21:17:40Z",
-      "latest_at": "2026-10-30T21:17:40Z",
-      "primary_item": {
-        "id": "54f951a0716a2535d221a0d96f93423786bdd543",
-        "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
-        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-30T21:17:40Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -267,15 +171,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7939,
+        "recency": 0.7577,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -307,82 +211,6 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_ec6a0a4e6dc9",
-      "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-      "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-      "primary_url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-      "source": "Wiz：Research（安全研究）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
-          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T22:51:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Wiz：Research（安全研究）"
-      ],
-      "items": [
-        {
-          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
-          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T22:51:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7433,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T22:51:44Z",
-      "latest_at": "2026-10-30T22:51:44Z",
-      "primary_item": {
-        "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
-        "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-        "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-        "source": "Wiz：Research（安全研究）",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-30T22:51:44Z",
-        "ai_score": 1.0,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -439,15 +267,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7703,
+        "recency": 0.7352,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -479,6 +307,81 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_ec6a0a4e6dc9",
+      "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+      "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+      "primary_url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+      "source": "Wiz：Research（安全研究）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
+          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T22:51:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Wiz：Research（安全研究）"
+      ],
+      "items": [
+        {
+          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
+          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T22:51:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7094,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-30T22:51:44Z",
+      "latest_at": "2026-10-30T22:51:44Z",
+      "primary_item": {
+        "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
+        "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+        "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+        "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT",
+        "published_at": "2026-10-30T22:51:44Z",
+        "ai_score": 1.0,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -516,19 +419,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7465,
+        "recency": 0.7124,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 45,
+      "enterprise_importance_score": 44,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "technical_practice",
@@ -557,220 +460,108 @@
       }
     },
     {
-      "story_id": "story_1ad66cf690a9",
-      "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-      "primary_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_381223935ae3",
+      "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
-          "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T21:52:03Z"
+          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
+          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z"
         },
         {
-          "id": "45c2be5e007df5d29badf0af4d892942cd6262e7",
-          "title": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T23:08:12Z"
+          "id": "44b7463c3cff3ffb0426ffb964509b84d32ba725",
+          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T10:30:11Z"
         },
         {
-          "id": "0ce31924f1081ac47f59e7be5d0b6f32edf79348",
-          "title": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T21:52:03Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
-          "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T21:52:03Z"
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T10:30:11Z"
         },
         {
-          "id": "45c2be5e007df5d29badf0af4d892942cd6262e7",
-          "title": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T23:08:12Z"
-        },
-        {
-          "id": "0ce31924f1081ac47f59e7be5d0b6f32edf79348",
-          "title": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T21:52:03Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6381,
-      "importance": 0.6381,
-      "importance_score": 0.6381,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7327,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 39,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T21:52:03Z",
-      "latest_at": "2026-10-30T23:08:12Z",
-      "primary_item": {
-        "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
-        "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media",
-        "published_at": "2026-10-30T21:52:03Z",
-        "ai_score": 0.79,
-        "ai_label": "industry_business",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-30",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "85830b2518ee1285c5ae490ecc541b8a71a08681",
-          "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T19:31:59.281649Z"
-        },
-        {
-          "id": "9668bafd82ced4970e06a69d9b8e9e313f0d2951",
-          "title": "不少人把精力放在临时提示词上，却忽视了AGENTS.md、CLAUDE.md的巨大价值。它能沉淀项目固定约定，明确技术栈、执行命令、代码风格与操作边界，避免每次对话重复沟通，防止 Agent 擅自重构、编造命令、过度设计。文中附有适配Codex与Claude Code的可直接套用的模板，可以帮你稳定Agent输出，减少反复沟通，让代码交付可控、风格统一。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T19:31:59.281649Z"
-        },
-        {
-          "id": "d671e7c3e58ce7b05a374ade34e8d1cf9382fc5f",
-          "title": "大多数智能体项目起步方式相同：最强的模型、长长的提示词、精彩的演示。随后真正的任务到来，一周之内你发现数字与源头不符、上下文丢失，有一天还出现一封未经任何人批准的客户邮件。一起来看看到底如何构建生产级智能体！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T19:31:59.281649Z"
-        },
-        {
-          "id": "ebfbb4b4c9c9f6c1875ff9af2c3a85dbb9430f20",
-          "title": "火爆出圈的DSH Go，是社区打造的安卓端DSH客户端，免Root就能在手机本地跑Agent脚本，一键无缝接力电脑任务。除了支持任务中途插话调整需求，还可授权AI操控手机完成日程等操作，同时对支付、验证码等高风险行为也做了严格限制。一起上手试试，随时随地调度DeepSeek Harness处理代码、数据任务。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T19:31:59.281649Z"
+          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-10-30"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "85830b2518ee1285c5ae490ecc541b8a71a08681",
-          "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T19:31:59.281649Z"
+          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
+          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z"
         },
         {
-          "id": "9668bafd82ced4970e06a69d9b8e9e313f0d2951",
-          "title": "不少人把精力放在临时提示词上，却忽视了AGENTS.md、CLAUDE.md的巨大价值。它能沉淀项目固定约定，明确技术栈、执行命令、代码风格与操作边界，避免每次对话重复沟通，防止 Agent 擅自重构、编造命令、过度设计。文中附有适配Codex与Claude Code的可直接套用的模板，可以帮你稳定Agent输出，减少反复沟通，让代码交付可控、风格统一。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T19:31:59.281649Z"
+          "id": "44b7463c3cff3ffb0426ffb964509b84d32ba725",
+          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T10:30:11Z"
         },
         {
-          "id": "d671e7c3e58ce7b05a374ade34e8d1cf9382fc5f",
-          "title": "大多数智能体项目起步方式相同：最强的模型、长长的提示词、精彩的演示。随后真正的任务到来，一周之内你发现数字与源头不符、上下文丢失，有一天还出现一封未经任何人批准的客户邮件。一起来看看到底如何构建生产级智能体！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T19:31:59.281649Z"
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T10:30:11Z"
         },
         {
-          "id": "ebfbb4b4c9c9f6c1875ff9af2c3a85dbb9430f20",
-          "title": "火爆出圈的DSH Go，是社区打造的安卓端DSH客户端，免Root就能在手机本地跑Agent脚本，一键无缝接力电脑任务。除了支持任务中途插话调整需求，还可授权AI操控手机完成日程等操作，同时对支付、验证码等高风险行为也做了严格限制。一起上手试试，随时随地调度DeepSeek Harness处理代码、数据任务。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T19:31:59.281649Z"
+          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5917,
-      "importance": 0.5917,
-      "importance_score": 0.5917,
+      "score": 0.5669,
+      "importance": 0.5669,
+      "importance_score": 0.5669,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7084,
+        "recency": 0.8393,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 39,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -780,17 +571,111 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-30T19:31:59.281649Z",
-      "latest_at": "2026-10-30T19:31:59.281649Z",
+      "earliest_at": "2026-10-31T10:30:11Z",
+      "latest_at": "2026-10-31T10:30:11Z",
       "primary_item": {
-        "id": "85830b2518ee1285c5ae490ecc541b8a71a08681",
-        "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-30",
-        "source_name": "WaytoAGI",
-        "published_at": "2026-10-30T19:31:59.281649Z",
+        "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
+        "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-31T10:30:11Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_588a54d100e6",
+      "title": "亚马逊关于人工智能使用的混合信息备忘录让其员工感到不寒而栗 / Amazon sends chills through its workforce with mixed message memo about AI use",
+      "url": "https://news.ycombinator.com/item?id=50318063",
+      "primary_url": "https://news.ycombinator.com/item?id=50318063",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7cdc789181fe11538f84fbfe3c6c35f31f5688fd",
+          "title": "亚马逊关于人工智能使用的混合信息备忘录让其员工感到不寒而栗 / Amazon sends chills through its workforce with mixed message memo about AI use",
+          "url": "https://news.ycombinator.com/item?id=50318063",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T17:21:16Z"
+        },
+        {
+          "id": "4aef478e30d49e837fcfa452fc1595f9cdaacbf1",
+          "title": "亚马逊关于人工智能使用的混合信息备忘录让其员工感到不寒而栗 / Amazon sends chills through its workforce with mixed message memo about AI use",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T17:21:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7cdc789181fe11538f84fbfe3c6c35f31f5688fd",
+          "title": "亚马逊关于人工智能使用的混合信息备忘录让其员工感到不寒而栗 / Amazon sends chills through its workforce with mixed message memo about AI use",
+          "url": "https://news.ycombinator.com/item?id=50318063",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T17:21:16Z"
+        },
+        {
+          "id": "4aef478e30d49e837fcfa452fc1595f9cdaacbf1",
+          "title": "亚马逊关于人工智能使用的混合信息备忘录让其员工感到不寒而栗 / Amazon sends chills through its workforce with mixed message memo about AI use",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T17:21:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9266,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T17:21:16Z",
+      "latest_at": "2026-10-31T17:21:16Z",
+      "primary_item": {
+        "id": "7cdc789181fe11538f84fbfe3c6c35f31f5688fd",
+        "title": "亚马逊关于人工智能使用的混合信息备忘录让其员工感到不寒而栗 / Amazon sends chills through its workforce with mixed message memo about AI use",
+        "url": "https://news.ycombinator.com/item?id=50318063",
+        "source": "hackernews",
+        "source_name": "NewsNow",
+        "published_at": "2026-10-31T17:21:16Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -852,15 +737,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9441,
+        "recency": 0.9011,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -893,191 +778,97 @@
       }
     },
     {
-      "story_id": "story_5b0ac3b976a1",
-      "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
-          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T14:29:03Z"
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
-          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T14:29:03Z"
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9314,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T14:29:03Z",
-      "latest_at": "2026-10-31T14:29:03Z",
-      "primary_item": {
-        "id": "3f177b06167d62c2517789bc881e85ec2139520f",
-        "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow",
-        "published_at": "2026-10-31T14:29:03Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_17eb77de1744",
-      "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-      "primary_url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "story_id": "story_3939c0f03049",
+      "title": "Anthropic 的 Claude AI 阻止视频游戏克隆和逆向工程 / Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "id": "65b21b642d8f146f0491d55bfcd35ce60d3819b3",
+          "title": "Anthropic 的 Claude AI 阻止视频游戏克隆和逆向工程 / Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T13:25:10Z"
+          "published_at": "2026-10-31T13:25:00Z"
         },
         {
-          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "url": "https://news.ycombinator.com/item?id=50315990",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T13:25:10Z"
+          "id": "8b5ede716658bfcec74494f13c4083a8b07f000f",
+          "title": "Anthropic 的 Claude AI 阻止视频游戏克隆和逆向工程 / Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+          "url": "https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T12:37:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews"
+        "Reddit (热门)"
       ],
       "items": [
         {
-          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "id": "65b21b642d8f146f0491d55bfcd35ce60d3819b3",
+          "title": "Anthropic 的 Claude AI 阻止视频游戏克隆和逆向工程 / Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T13:25:10Z"
+          "published_at": "2026-10-31T13:25:00Z"
         },
         {
-          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "url": "https://news.ycombinator.com/item?id=50315990",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T13:25:10Z"
+          "id": "8b5ede716658bfcec74494f13c4083a8b07f000f",
+          "title": "Anthropic 的 Claude AI 阻止视频游戏克隆和逆向工程 / Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+          "url": "https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T12:37:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9172,
+        "recency": 0.8753,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_content_type": "technical_practice",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
       "enterprise_is_relevant": false,
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T13:25:10Z",
-      "latest_at": "2026-10-31T13:25:10Z",
+      "earliest_at": "2026-10-31T12:37:31Z",
+      "latest_at": "2026-10-31T13:25:00Z",
       "primary_item": {
-        "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
-        "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-        "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+        "id": "65b21b642d8f146f0491d55bfcd35ce60d3819b3",
+        "title": "Anthropic 的 Claude AI 阻止视频游戏克隆和逆向工程 / Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli",
-        "published_at": "2026-10-31T13:25:10Z",
+        "published_at": "2026-10-31T13:25:00Z",
         "ai_score": 0.65,
         "ai_label": "curated_hotlist",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
+        "enterprise_content_type": "technical_practice",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -1133,15 +924,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9164,
+        "recency": 0.8746,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1166,6 +957,100 @@
         "published_at": "2026-10-31T13:21:30Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_e07ec5d69c95",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z"
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z"
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9579,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T19:39:19Z",
+      "latest_at": "2026-10-31T19:39:19Z",
+      "primary_item": {
+        "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+        "title": "Anthropic blocks users for anything touching training larger models",
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-31T19:39:19Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1227,15 +1112,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7842,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1268,67 +1153,68 @@
       }
     },
     {
-      "story_id": "story_381223935ae3",
-      "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_17eb77de1744",
+      "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "primary_url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z"
+          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T13:25:10Z"
         },
         {
-          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z"
+          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "url": "https://news.ycombinator.com/item?id=50315990",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T13:25:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-          "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z"
+          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T13:25:10Z"
         },
         {
-          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
-          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
-          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T10:30:11Z"
+          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "url": "https://news.ycombinator.com/item?id=50315990",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T13:25:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8794,
+        "recency": 0.8754,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1342,15 +1228,109 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T10:30:11Z",
-      "latest_at": "2026-10-31T10:30:11Z",
+      "earliest_at": "2026-10-31T13:25:10Z",
+      "latest_at": "2026-10-31T13:25:10Z",
       "primary_item": {
-        "id": "8b33746b2bb7821b85d3927a406702d63e12eda9",
-        "title": "算一算：我们是如何接管 ChatGPT 帐户的 / Do the math: How we took over ChatGPT accounts",
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
+        "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-10-31T13:25:10Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_82785ab4f152",
+      "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "primary_url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "63d90804ed54c6547e80db24ef6a8d726d747a74",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T18:50:34Z"
+        },
+        {
+          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "url": "https://news.ycombinator.com/item?id=50318871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:50:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "63d90804ed54c6547e80db24ef6a8d726d747a74",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T18:50:34Z"
+        },
+        {
+          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "url": "https://news.ycombinator.com/item?id=50318871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:50:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9467,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T18:50:34Z",
+      "latest_at": "2026-10-31T18:50:34Z",
+      "primary_item": {
+        "id": "63d90804ed54c6547e80db24ef6a8d726d747a74",
+        "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow",
-        "published_at": "2026-10-31T10:30:11Z",
+        "published_at": "2026-10-31T18:50:34Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -1361,165 +1341,72 @@
       }
     },
     {
-      "story_id": "story_6bd66c2203f9",
-      "title": "人工智能让磁带存储重获新生，最大制造商计划大幅提高产量 / Magnetic tape storage sees second lease of life thanks to AI, largest manufacturer plans huge production ramp-up",
-      "url": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
-      "primary_url": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_5b0ac3b976a1",
+      "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "2a444d1a4d935082f52002d03d5c535a405d76d1",
-          "title": "人工智能让磁带存储重获新生，最大制造商计划大幅提高产量 / Magnetic tape storage sees second lease of life thanks to AI, largest manufacturer plans huge production ramp-up",
-          "url": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T14:29:03Z"
         },
         {
-          "id": "06fe3d25e289d31bf668f00cf2b2d7fc379e4ec9",
-          "title": "得益于人工智能，磁带存储迎来了第二次生命——现在其最大的制造商正计划大幅提高产量 / Magnetic tape storage is seeing a second lease of life thanks to AI — and now its largest manufacturer is planning a huge ramp-up in production",
-          "url": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T22:10:00Z"
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "TechRadar"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "2a444d1a4d935082f52002d03d5c535a405d76d1",
-          "title": "人工智能让磁带存储重获新生，最大制造商计划大幅提高产量 / Magnetic tape storage sees second lease of life thanks to AI, largest manufacturer plans huge production ramp-up",
-          "url": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T14:29:03Z"
         },
         {
-          "id": "06fe3d25e289d31bf668f00cf2b2d7fc379e4ec9",
-          "title": "得益于人工智能，磁带存储迎来了第二次生命——现在其最大的制造商正计划大幅提高产量 / Magnetic tape storage is seeing a second lease of life thanks to AI — and now its largest manufacturer is planning a huge ramp-up in production",
-          "url": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T22:10:00Z"
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5006,
-      "importance": 0.5006,
-      "importance_score": 0.5006,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7488,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 25,
-      "enterprise_importance_score": 50,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "technical_practice",
-      "enterprise_reason": "内容类型：技术实践；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T22:10:00Z",
-      "latest_at": "2026-10-30T23:22:08.503117Z",
-      "primary_item": {
-        "id": "2a444d1a4d935082f52002d03d5c535a405d76d1",
-        "title": "人工智能让磁带存储重获新生，最大制造商计划大幅提高产量 / Magnetic tape storage sees second lease of life thanks to AI, largest manufacturer plans huge production ramp-up",
-        "url": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 25,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "technical_practice",
-        "enterprise_reason": "内容类型：技术实践；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_d435d2c68f3c",
-      "title": "CVE 10.0：CVE-2026-112816，Canonical LXD，无需 emudhra / CVE 10.0: CVE-2026-112816, Canonical LXD, no emudhra required",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-112816",
-      "primary_url": "https://www.cve.org/CVERecord?id=CVE-2026-112816",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f46ad0f524f5d1a4d6e2753fa7d52ca31876ab47",
-          "title": "CVE 10.0：CVE-2026-112816，Canonical LXD，无需 emudhra / CVE 10.0: CVE-2026-112816, Canonical LXD, no emudhra required",
-          "url": "https://www.cve.org/CVERecord?id=CVE-2026-112816",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T22:26:29Z"
-        },
-        {
-          "id": "ee721095d66fd7d993bf427580f327a58a57ee18",
-          "title": "CVE 10.0：CVE-2026-112816，无需 emudhra / CVE 10.0: CVE-2026-112816, no emudhra required",
-          "url": "https://www.cve.org/CVERecord?id=CVE-2026-112816",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T22:26:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "f46ad0f524f5d1a4d6e2753fa7d52ca31876ab47",
-          "title": "CVE 10.0：CVE-2026-112816，Canonical LXD，无需 emudhra / CVE 10.0: CVE-2026-112816, Canonical LXD, no emudhra required",
-          "url": "https://www.cve.org/CVERecord?id=CVE-2026-112816",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T22:26:29Z"
-        },
-        {
-          "id": "ee721095d66fd7d993bf427580f327a58a57ee18",
-          "title": "CVE 10.0：CVE-2026-112816，无需 emudhra / CVE 10.0: CVE-2026-112816, no emudhra required",
-          "url": "https://www.cve.org/CVERecord?id=CVE-2026-112816",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T22:26:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7388,
+        "recency": 0.8889,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1529,17 +1416,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-30T22:26:29Z",
-      "latest_at": "2026-10-30T22:26:29Z",
+      "earliest_at": "2026-10-31T14:29:03Z",
+      "latest_at": "2026-10-31T14:29:03Z",
       "primary_item": {
-        "id": "f46ad0f524f5d1a4d6e2753fa7d52ca31876ab47",
-        "title": "CVE 10.0：CVE-2026-112816，Canonical LXD，无需 emudhra / CVE 10.0: CVE-2026-112816, Canonical LXD, no emudhra required",
-        "url": "https://www.cve.org/CVERecord?id=CVE-2026-112816",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-10-30T22:26:29Z",
+        "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+        "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-31T14:29:03Z",
         "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
