@@ -1,102 +1,171 @@
 {
-  "generated_at": "2026-11-01T01:40:05.863572Z",
+  "generated_at": "2026-11-01T08:25:13.536157Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 16,
   "items": [
     {
-      "story_id": "story_8ebddbd33edc",
-      "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-      "url": "https://www.ithome.com/1/020/444.htm",
-      "primary_url": "https://www.ithome.com/1/020/444.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "很多团队把一批重复任务全都塞给 Agent：让它自己规划、调工具、反复判断。Demo 看着很聪明，到了真实应用场景里却很慢、很贵、每次走法不同，出了错也很难复现。作者这篇文章给了更务实的分流方式，适合正在做 AI 自动化的人，先判断任务该交给谁，成本和稳定性也都会更可控。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-31",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
-          "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-          "url": "https://www.ithome.com/1/020/444.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T03:25:09.697000Z"
+          "id": "a1cca03321b255f0fa47117f5f8145ed922ae5db",
+          "title": "很多团队把一批重复任务全都塞给 Agent：让它自己规划、调工具、反复判断。Demo 看着很聪明，到了真实应用场景里却很慢、很贵、每次走法不同，出了错也很难复现。作者这篇文章给了更务实的分流方式，适合正在做 AI 自动化的人，先判断任务该交给谁，成本和稳定性也都会更可控。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
         },
         {
-          "id": "df25ae683c04240e7ccdefbfefc1a0ee749c4adc",
-          "title": "Anthropic 未来“隐性债务”规模近 9000 亿美元，人类史上最大 IPO 招股文件暗藏细节",
-          "url": "https://www.ithome.com/1/020/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T03:25:09Z"
+          "id": "ad1ccfdbb7f3cf84d291808c3afe9c6e11b2fdb6",
+          "title": "智能体上线后，最容易掉进一个循环：用户报错就改 Prompt，改完觉得好了，过两天又在别的场景翻车。问题在于，团队只有零散反馈，没有一套把失败沉淀成改进的机制。作者这篇文章分享了三套互补的迭代思路，或许会给大家有所帮助！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
+        },
+        {
+          "id": "47a58b7642861d6b4bc7fd677dc1daf16e8a83ca",
+          "title": "最近 Jev 带火的「决策模型」，把分类做成了一个新赛道：给一段内容、几道问题和候选答案，它直接返回标签与置信度。普通 LLM 要逐 token 生成 JSON，它却能一次并行回答多题，输入便宜、没有输出 token 成本。作者以 Perplexity Decider 为例，拆开了背后的完整机制。想搞懂 Jev 与决策 API 为什么突然火起来，这篇值得细读。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
+        },
+        {
+          "id": "4519dbee3eadc44e2fbe06e2079136322b27b400",
+          "title": "老金以他自身的课程、品牌商单、软件交付三种业务复盘了单月近 9.4 万流水，适合想靠 AI 接单或做一人公司的朋友，读完你或许会更加清楚该从哪一单开始、怎么少踩坑。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
+        },
+        {
+          "id": "bd0a0736d5b715999119cf59de07f437df6c4777",
+          "title": "这份月度开源模型汇总帮我们打捞了信息流里容易错过的新模型，同时覆盖OCR、语音、文生图、科研、游戏智能体等多元方向，适合开发者快速筛选适配私有部署、Agent、RAG和端侧场景的底座。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
+        },
+        {
+          "id": "49221a6cc674f2a1a64c816f9bf2776c9dea396b",
+          "title": "这篇文章拆解了 DeepSeek Harness 的 Super-agent 工程方案，为想搭建团队研发智能体、个人长期在线助手的开发者，提供了一套可落地的分布式架构参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 6,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家·人工智能"
+        "社区更新 · 2026-10-31"
       ],
       "items": [
         {
-          "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
-          "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-          "url": "https://www.ithome.com/1/020/444.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T03:25:09.697000Z"
+          "id": "a1cca03321b255f0fa47117f5f8145ed922ae5db",
+          "title": "很多团队把一批重复任务全都塞给 Agent：让它自己规划、调工具、反复判断。Demo 看着很聪明，到了真实应用场景里却很慢、很贵、每次走法不同，出了错也很难复现。作者这篇文章给了更务实的分流方式，适合正在做 AI 自动化的人，先判断任务该交给谁，成本和稳定性也都会更可控。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
         },
         {
-          "id": "df25ae683c04240e7ccdefbfefc1a0ee749c4adc",
-          "title": "Anthropic 未来“隐性债务”规模近 9000 亿美元，人类史上最大 IPO 招股文件暗藏细节",
-          "url": "https://www.ithome.com/1/020/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T03:25:09Z"
+          "id": "ad1ccfdbb7f3cf84d291808c3afe9c6e11b2fdb6",
+          "title": "智能体上线后，最容易掉进一个循环：用户报错就改 Prompt，改完觉得好了，过两天又在别的场景翻车。问题在于，团队只有零散反馈，没有一套把失败沉淀成改进的机制。作者这篇文章分享了三套互补的迭代思路，或许会给大家有所帮助！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
+        },
+        {
+          "id": "47a58b7642861d6b4bc7fd677dc1daf16e8a83ca",
+          "title": "最近 Jev 带火的「决策模型」，把分类做成了一个新赛道：给一段内容、几道问题和候选答案，它直接返回标签与置信度。普通 LLM 要逐 token 生成 JSON，它却能一次并行回答多题，输入便宜、没有输出 token 成本。作者以 Perplexity Decider 为例，拆开了背后的完整机制。想搞懂 Jev 与决策 API 为什么突然火起来，这篇值得细读。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
+        },
+        {
+          "id": "4519dbee3eadc44e2fbe06e2079136322b27b400",
+          "title": "老金以他自身的课程、品牌商单、软件交付三种业务复盘了单月近 9.4 万流水，适合想靠 AI 接单或做一人公司的朋友，读完你或许会更加清楚该从哪一单开始、怎么少踩坑。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
+        },
+        {
+          "id": "bd0a0736d5b715999119cf59de07f437df6c4777",
+          "title": "这份月度开源模型汇总帮我们打捞了信息流里容易错过的新模型，同时覆盖OCR、语音、文生图、科研、游戏智能体等多元方向，适合开发者快速筛选适配私有部署、Agent、RAG和端侧场景的底座。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
+        },
+        {
+          "id": "49221a6cc674f2a1a64c816f9bf2776c9dea396b",
+          "title": "这篇文章拆解了 DeepSeek Harness 的 Super-agent 工程方案，为想搭建团队研发智能体、个人长期在线助手的开发者，提供了一套可落地的分布式架构参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-01T08:25:13.536157Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
-      "importance_label": "行业动态",
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7252,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-31T03:25:09Z",
-      "latest_at": "2026-10-31T03:25:09.697000Z",
+      "earliest_at": "2026-11-01T08:25:13.536157Z",
+      "latest_at": "2026-11-01T08:25:13.536157Z",
       "primary_item": {
-        "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
-        "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
-        "url": "https://www.ithome.com/1/020/444.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT",
-        "published_at": "2026-10-31T03:25:09.697000Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
+        "id": "a1cca03321b255f0fa47117f5f8145ed922ae5db",
+        "title": "很多团队把一批重复任务全都塞给 Agent：让它自己规划、调工具、反复判断。Demo 看着很聪明，到了真实应用场景里却很慢、很贵、每次走法不同，出了错也很难复现。作者这篇文章给了更务实的分流方式，适合正在做 AI 自动化的人，先判断任务该交给谁，成本和稳定性也都会更可控。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-31",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-11-01T08:25:13.536157Z",
+        "ai_score": 0.65,
+        "ai_label": "agent_workflow",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -189,15 +258,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5604,
-      "importance": 0.5604,
-      "importance_score": 0.5604,
+      "score": 0.547,
+      "importance": 0.547,
+      "importance_score": 0.547,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8033,
+        "recency": 0.7287,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -222,6 +291,475 @@
         "published_at": "2026-10-31T10:30:11Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a009392b06c4",
+      "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
+      "url": "https://www.ithome.com/1/020/747.htm",
+      "primary_url": "https://www.ithome.com/1/020/747.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7c77f40f95767d6b3a54236157236e89c7b90b4b",
+          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
+          "url": "https://www.ithome.com/1/020/747.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9edbac5b4c706291c6fd6dd356daee4c0593f65d",
+          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己“看起来像 AI”过不了初筛",
+          "url": "https://www.ithome.com/1/020/747.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T07:46:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7c77f40f95767d6b3a54236157236e89c7b90b4b",
+          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
+          "url": "https://www.ithome.com/1/020/747.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9edbac5b4c706291c6fd6dd356daee4c0593f65d",
+          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己“看起来像 AI”过不了初筛",
+          "url": "https://www.ithome.com/1/020/747.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T07:46:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T07:46:59Z",
+      "latest_at": "2026-11-01T08:25:13.536157Z",
+      "primary_item": {
+        "id": "7c77f40f95767d6b3a54236157236e89c7b90b4b",
+        "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己「看起来像 AI」过不了初筛",
+        "url": "https://www.ithome.com/1/020/747.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_82785ab4f152",
+      "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "primary_url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:50:34Z"
+        },
+        {
+          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "url": "https://news.ycombinator.com/item?id=50318871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:50:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:50:34Z"
+        },
+        {
+          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "url": "https://news.ycombinator.com/item?id=50318871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:50:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.822,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T18:50:34Z",
+      "latest_at": "2026-10-31T18:50:34Z",
+      "primary_item": {
+        "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+        "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-10-31T18:50:34Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_761e5e0baaa4",
+      "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "primary_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T06:06:19Z"
+        },
+        {
+          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "url": "https://news.ycombinator.com/item?id=50323088",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T06:06:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T06:06:19Z"
+        },
+        {
+          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
+          "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+          "url": "https://news.ycombinator.com/item?id=50323088",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T06:06:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9671,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T06:06:19Z",
+      "latest_at": "2026-11-01T06:06:19Z",
+      "primary_item": {
+        "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+        "title": "JavaScript 框架的人工智能成本 / The AI cost of JavaScript frameworks",
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-11-01T06:06:19Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_24ee0d11b76f",
+      "title": "Orkas-AI / Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "primary_url": "https://github.com/Orkas-AI/Orkas",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a5f68ec81f5c3482fb6d9b967c116e03a12e2f53",
+          "title": "Orkas-AI / Orkas",
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
+          "title": "Orkas-AI /      Orkas",
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:58:50.565000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "a5f68ec81f5c3482fb6d9b967c116e03a12e2f53",
+          "title": "Orkas-AI / Orkas",
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
+          "title": "Orkas-AI /      Orkas",
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:58:50.565000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7823,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T14:58:50.565000Z",
+      "latest_at": "2026-10-31T15:25:22.615004Z",
+      "primary_item": {
+        "id": "a5f68ec81f5c3482fb6d9b967c116e03a12e2f53",
+        "title": "Orkas-AI / Orkas",
+        "url": "https://github.com/Orkas-AI/Orkas",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_48e9e5f72786",
+      "title": "[分享创造] ai 把我的电脑弄挂了，我该怎么办？",
+      "url": "https://www.v2ex.com/t/1253449",
+      "primary_url": "https://www.v2ex.com/t/1253449",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2a20eaa4b251d03b03be9719e18af05debc4773d",
+          "title": "[分享创造] ai 把我的电脑弄挂了，我该怎么办？",
+          "url": "https://www.v2ex.com/t/1253449",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T13:21:30Z"
+        },
+        {
+          "id": "8daa43649635b6fd4dbb5db83c2b017d4c781211",
+          "title": "[推广] ai 把我的电脑弄挂了，我该怎么办？",
+          "url": "https://www.v2ex.com/t/1253449",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T13:21:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "2a20eaa4b251d03b03be9719e18af05debc4773d",
+          "title": "[分享创造] ai 把我的电脑弄挂了，我该怎么办？",
+          "url": "https://www.v2ex.com/t/1253449",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T13:21:30Z"
+        },
+        {
+          "id": "8daa43649635b6fd4dbb5db83c2b017d4c781211",
+          "title": "[推广] ai 把我的电脑弄挂了，我该怎么办？",
+          "url": "https://www.v2ex.com/t/1253449",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T13:21:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7594,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T13:21:30Z",
+      "latest_at": "2026-10-31T13:21:30Z",
+      "primary_item": {
+        "id": "2a20eaa4b251d03b03be9719e18af05debc4773d",
+        "title": "[分享创造] ai 把我的电脑弄挂了，我该怎么办？",
+        "url": "https://www.v2ex.com/t/1253449",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-31T13:21:30Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -282,15 +820,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5302,
-      "importance": 0.5302,
-      "importance_score": 0.5302,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9135,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -376,19 +914,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5106,
+      "importance": 0.5106,
+      "importance_score": 0.5106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8869,
+        "recency": 0.8045,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -417,165 +955,170 @@
       }
     },
     {
-      "story_id": "story_24ee0d11b76f",
-      "title": "Orkas-AI / Orkas",
-      "url": "https://github.com/Orkas-AI/Orkas",
-      "primary_url": "https://github.com/Orkas-AI/Orkas",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a5f68ec81f5c3482fb6d9b967c116e03a12e2f53",
-          "title": "Orkas-AI / Orkas",
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
-          "title": "Orkas-AI /      Orkas",
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:58:50.565000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "a5f68ec81f5c3482fb6d9b967c116e03a12e2f53",
-          "title": "Orkas-AI / Orkas",
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
-          "title": "Orkas-AI /      Orkas",
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:58:50.565000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8625,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T14:58:50.565000Z",
-      "latest_at": "2026-10-31T15:25:22.615004Z",
-      "primary_item": {
-        "id": "a5f68ec81f5c3482fb6d9b967c116e03a12e2f53",
-        "title": "Orkas-AI / Orkas",
-        "url": "https://github.com/Orkas-AI/Orkas",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub",
-        "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_48e9e5f72786",
-      "title": "[分享创造] ai 把我的电脑弄挂了，我该怎么办？",
-      "url": "https://www.v2ex.com/t/1253449",
-      "primary_url": "https://www.v2ex.com/t/1253449",
-      "source": "V2EX (创意工作者社区)",
+      "story_id": "story_2a10a176a3e7",
+      "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "primary_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "2a20eaa4b251d03b03be9719e18af05debc4773d",
-          "title": "[分享创造] ai 把我的电脑弄挂了，我该怎么办？",
-          "url": "https://www.v2ex.com/t/1253449",
-          "source": "V2EX (创意工作者社区)",
+          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+          "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T13:21:30Z"
+          "published_at": "2026-11-01T02:19:53Z"
         },
         {
-          "id": "8daa43649635b6fd4dbb5db83c2b017d4c781211",
-          "title": "[推广] ai 把我的电脑弄挂了，我该怎么办？",
-          "url": "https://www.v2ex.com/t/1253449",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T13:21:30Z"
+          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
+          "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://news.ycombinator.com/item?id=50322173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T02:19:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "V2EX (创意工作者社区)"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "2a20eaa4b251d03b03be9719e18af05debc4773d",
-          "title": "[分享创造] ai 把我的电脑弄挂了，我该怎么办？",
-          "url": "https://www.v2ex.com/t/1253449",
-          "source": "V2EX (创意工作者社区)",
+          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+          "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T13:21:30Z"
+          "published_at": "2026-11-01T02:19:53Z"
         },
         {
-          "id": "8daa43649635b6fd4dbb5db83c2b017d4c781211",
-          "title": "[推广] ai 把我的电脑弄挂了，我该怎么办？",
-          "url": "https://www.v2ex.com/t/1253449",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T13:21:30Z"
+          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
+          "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://news.ycombinator.com/item?id=50322173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T02:19:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8371,
+        "recency": 0.9158,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 58,
+      "enterprise_importance_score": 62,
+      "enterprise_primary_topic": "evaluation_governance",
+      "enterprise_topics": [
+        "evaluation_governance"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：AI应用评估与治理",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T02:19:53Z",
+      "latest_at": "2026-11-01T02:19:53Z",
+      "primary_item": {
+        "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+        "title": "巴西法院对在法庭备案中迅速注入的律师进行制裁 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-11-01T02:19:53Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 58,
+        "enterprise_primary_topic": "evaluation_governance",
+        "enterprise_topics": [
+          "evaluation_governance"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：AI应用评估与治理"
+      }
+    },
+    {
+      "story_id": "story_5b0ac3b976a1",
+      "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
+          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T14:29:03Z"
+        },
+        {
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
+          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T14:29:03Z"
+        },
+        {
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5047,
+      "importance": 0.5047,
+      "importance_score": 0.5047,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7718,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -585,17 +1128,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T13:21:30Z",
-      "latest_at": "2026-10-31T13:21:30Z",
+      "earliest_at": "2026-10-31T14:29:03Z",
+      "latest_at": "2026-10-31T14:29:03Z",
       "primary_item": {
-        "id": "2a20eaa4b251d03b03be9719e18af05debc4773d",
-        "title": "[分享创造] ai 把我的电脑弄挂了，我该怎么办？",
-        "url": "https://www.v2ex.com/t/1253449",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow",
-        "published_at": "2026-10-31T13:21:30Z",
+        "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
+        "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-10-31T14:29:03Z",
         "ai_score": 0.65,
-        "ai_label": "ai_general",
+        "ai_label": "curated_hotlist",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -657,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9462,
+        "recency": 0.8583,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -690,194 +1233,6 @@
         "published_at": "2026-10-31T21:50:13Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_5b0ac3b976a1",
-      "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
-          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T14:29:03Z"
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
-          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T14:29:03Z"
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8509,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T14:29:03Z",
-      "latest_at": "2026-10-31T14:29:03Z",
-      "primary_item": {
-        "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
-        "title": "恶意软件利用法学硕士根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-10-31T14:29:03Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_e07ec5d69c95",
-      "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z"
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z"
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9168,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T19:39:19Z",
-      "latest_at": "2026-10-31T19:39:19Z",
-      "primary_item": {
-        "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-        "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow",
-        "published_at": "2026-10-31T19:39:19Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -939,15 +1294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8378,
+        "recency": 0.76,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -980,30 +1335,30 @@
       }
     },
     {
-      "story_id": "story_82785ab4f152",
-      "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-      "primary_url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "story_id": "story_85c82f0a9571",
+      "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "primary_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "63d90804ed54c6547e80db24ef6a8d726d747a74",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T18:50:34Z"
+          "published_at": "2026-10-31T21:49:07Z"
         },
         {
-          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "url": "https://news.ycombinator.com/item?id=50318871",
+          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "url": "https://news.ycombinator.com/item?id=50320588",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T18:50:34Z"
+          "published_at": "2026-10-31T21:49:07Z"
         }
       ],
       "source_count": 2,
@@ -1013,35 +1368,35 @@
       ],
       "items": [
         {
-          "id": "63d90804ed54c6547e80db24ef6a8d726d747a74",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T18:50:34Z"
+          "published_at": "2026-10-31T21:49:07Z"
         },
         {
-          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "url": "https://news.ycombinator.com/item?id=50318871",
+          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "url": "https://news.ycombinator.com/item?id=50320588",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T18:50:34Z"
+          "published_at": "2026-10-31T21:49:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9061,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1055,15 +1410,15 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T18:50:34Z",
-      "latest_at": "2026-10-31T18:50:34Z",
+      "earliest_at": "2026-10-31T21:49:07Z",
+      "latest_at": "2026-10-31T21:49:07Z",
       "primary_item": {
-        "id": "63d90804ed54c6547e80db24ef6a8d726d747a74",
-        "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+        "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+        "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow",
-        "published_at": "2026-10-31T18:50:34Z",
+        "published_at": "2026-10-31T21:49:07Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -1127,19 +1482,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8379,
+        "recency": 0.76,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1160,6 +1515,100 @@
         "published_at": "2026-10-31T13:25:10Z",
         "ai_score": 0.65,
         "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_e07ec5d69c95",
+      "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z"
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z"
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5155,
+      "importance": 0.5155,
+      "importance_score": 0.5155,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8317,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T19:39:19Z",
+      "latest_at": "2026-10-31T19:39:19Z",
+      "primary_item": {
+        "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+        "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-10-31T19:39:19Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
