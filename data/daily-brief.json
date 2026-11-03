@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-11-03T17:25:50.545553Z",
+  "generated_at": "2026-11-03T22:24:56.015181Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
+    {
+      "story_id": "story_51a16b58b850",
+      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T20:24:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T20:24:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9713,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 65,
+      "enterprise_importance_score": 65,
+      "enterprise_primary_topic": "intelligent_customer_service",
+      "enterprise_topics": [
+        "intelligent_customer_service"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：智能客服",
+      "enterprise_is_relevant": true,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T20:24:07Z",
+      "latest_at": "2026-11-03T20:24:07Z",
+      "primary_item": {
+        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-03T20:24:07Z",
+        "ai_score": 0.87,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 65,
+        "enterprise_primary_topic": "intelligent_customer_service",
+        "enterprise_topics": [
+          "intelligent_customer_service"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：智能客服"
+      }
+    },
     {
       "story_id": "story_943cbb693238",
       "title": "Salesforce 宣布计划收购人工智能联络中心自动化软件提供商 Cresta；资料来源：Salesforce 同意为 Cresta 支付 2.7B 美元（信息） / Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
@@ -38,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4835,
-      "importance": 0.4835,
-      "importance_score": 0.4835,
+      "score": 0.4736,
+      "importance": 0.4736,
+      "importance_score": 0.4736,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7926,
+        "recency": 0.7375,
         "story_heat": 0.0
       },
       "enterprise_score": 62,
