@@ -1,24 +1,254 @@
 {
-  "generated_at": "2026-11-04T17:38:58.882104Z",
+  "generated_at": "2026-11-04T22:59:32.566837Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_51a16b58b850",
-      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "story_id": "story_3a06f84c0f51",
+      "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z"
+        },
+        {
+          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
+          "title": "OpenAI将收购Pierre Computer Company",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T21:12:50.695000Z"
+        },
+        {
+          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
+          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "14f67dac200d99bd459aee85f954bcea7af5d7c0",
+          "title": "Pierre Computer 被 OpenAI 收购 / Pierre Computer is being acquired by OpenAI",
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z"
+        },
+        {
+          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
+          "title": "OpenAI将收购Pierre Computer Company",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T21:12:50.695000Z"
+        },
+        {
+          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
+          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "14f67dac200d99bd459aee85f954bcea7af5d7c0",
+          "title": "Pierre Computer 被 OpenAI 收购 / Pierre Computer is being acquired by OpenAI",
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.9312,
+      "importance": 0.9312,
+      "importance_score": 0.9312,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8846,
+        "story_heat": 1.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T14:30:00Z",
+      "latest_at": "2026-11-04T21:12:50.695000Z",
+      "primary_item": {
+        "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+        "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-04T14:30:00Z",
+        "ai_score": 0.91,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5afc49da7bd4",
+      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T17:50:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T17:50:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9282,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T17:50:10Z",
+      "latest_at": "2026-11-04T17:50:10Z",
+      "primary_item": {
+        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-04T17:50:10Z",
+        "ai_score": 0.95,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a05548ef29e1",
+      "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+      "primary_url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+          "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
+          "published_at": "2026-11-04T19:10:40Z"
         }
       ],
       "source_count": 1,
@@ -27,61 +257,1692 @@
       ],
       "items": [
         {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+          "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
+          "published_at": "2026-11-04T19:10:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7358,
+        "ai_relevance": 0.91,
+        "recency": 0.9464,
         "story_heat": 0.0
       },
-      "enterprise_score": 65,
-      "enterprise_importance_score": 63,
-      "enterprise_primary_topic": "intelligent_customer_service",
-      "enterprise_topics": [
-        "intelligent_customer_service"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：智能客服",
-      "enterprise_is_relevant": true,
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
       "category": "official",
       "reasons": [
         "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T20:24:07Z",
-      "latest_at": "2026-11-03T20:24:07Z",
+      "earliest_at": "2026-11-04T19:10:40Z",
+      "latest_at": "2026-11-04T19:10:40Z",
       "primary_item": {
-        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+        "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+        "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+        "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
-        "published_at": "2026-11-03T20:24:07Z",
+        "published_at": "2026-11-04T19:10:40Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_03daee1e1f91",
+      "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+      "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+      "primary_url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
+          "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+          "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T20:04:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
+          "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+          "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T20:04:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9588,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T20:04:52Z",
+      "latest_at": "2026-11-04T20:04:52Z",
+      "primary_item": {
+        "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
+        "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+        "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-04T20:04:52Z",
         "ai_score": 0.87,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 65,
-        "enterprise_primary_topic": "intelligent_customer_service",
-        "enterprise_topics": [
-          "intelligent_customer_service"
-        ],
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：智能客服"
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_75679f5aa60b",
+      "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.7938,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T07:00:00Z",
+      "latest_at": "2026-11-04T07:00:00Z",
+      "primary_item": {
+        "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+        "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-04T07:00:00Z",
+        "ai_score": 0.94,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d3b38be87eda",
+      "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+      "url": "https://www.aibase.com/news/32091",
+      "primary_url": "https://www.aibase.com/news/32091",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3811967584c703c8d62335daebae484c6912011d",
+          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "url": "https://www.aibase.com/news/32091",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T17:38:58.882104Z"
+        },
+        {
+          "id": "22f9bdcb0b1e174ba0a7c811d8a89687f923a4e1",
+          "title": "用自家大模型造自己的「芯」：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "url": "https://www.aibase.com/zh/news/32091",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3811967584c703c8d62335daebae484c6912011d",
+          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "url": "https://www.aibase.com/news/32091",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T17:38:58.882104Z"
+        },
+        {
+          "id": "22f9bdcb0b1e174ba0a7c811d8a89687f923a4e1",
+          "title": "用自家大模型造自己的「芯」：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "url": "https://www.aibase.com/zh/news/32091",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9257,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T17:38:58.882104Z",
+      "latest_at": "2026-11-04T17:38:58.882104Z",
+      "primary_item": {
+        "id": "3811967584c703c8d62335daebae484c6912011d",
+        "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+        "url": "https://www.aibase.com/news/32091",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-04T17:38:58.882104Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a4f4c423c542",
+      "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8053,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T08:00:00Z",
+      "latest_at": "2026-11-04T08:00:00Z",
+      "primary_item": {
+        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+        "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-04T08:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_0f281cabd4f6",
+      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7231,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:32:19Z",
+      "latest_at": "2026-11-04T00:32:19Z",
+      "primary_item": {
+        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-04T00:32:19Z",
+        "ai_score": 0.91,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a3e2c85538d7",
+      "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
+      "url": "https://www.aibase.com/news/32073",
+      "primary_url": "https://www.aibase.com/news/32073",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "040260493ae6687c9548b3fa2322c47c4aa6c257",
+          "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
+          "url": "https://www.aibase.com/news/32073",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "c80540cad9382470d920bea4d7d71a438dd93b9e",
+          "title": "Claude 给自己发「身份证」：Anthropic 用零知识证明斩断套壳灰产",
+          "url": "https://www.aibase.com/zh/news/32073",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "040260493ae6687c9548b3fa2322c47c4aa6c257",
+          "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
+          "url": "https://www.aibase.com/news/32073",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "c80540cad9382470d920bea4d7d71a438dd93b9e",
+          "title": "Claude 给自己发「身份证」：Anthropic 用零知识证明斩断套壳灰产",
+          "url": "https://www.aibase.com/zh/news/32073",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8252,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T09:41:04.188153Z",
+      "latest_at": "2026-11-04T09:41:04.188153Z",
+      "primary_item": {
+        "id": "040260493ae6687c9548b3fa2322c47c4aa6c257",
+        "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
+        "url": "https://www.aibase.com/news/32073",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-04T09:41:04.188153Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_bf25be8f8779",
+      "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "primary_url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
+          "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
+          "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7175,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:00:00Z",
+      "latest_at": "2026-11-04T00:00:00Z",
+      "primary_item": {
+        "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
+        "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "url": "https://openai.com/index/devrev-enterprise-self-service",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-04T00:00:00Z",
+        "ai_score": 0.98,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_060903e444ef",
+      "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+      "url": "https://www.aibase.com/news/32089",
+      "primary_url": "https://www.aibase.com/news/32089",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "url": "https://www.aibase.com/news/32089",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "e593635ac3a6bb9c3c5684bade03e59e7a591f42",
+          "title": "OpenAI 员工的「副业」硬件：GPT-6 Astra 一周出图、一月出样",
+          "url": "https://www.aibase.com/zh/news/32089",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "url": "https://www.aibase.com/news/32089",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "e593635ac3a6bb9c3c5684bade03e59e7a591f42",
+          "title": "OpenAI 员工的「副业」硬件：GPT-6 Astra 一周出图、一月出样",
+          "url": "https://www.aibase.com/zh/news/32089",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8252,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T09:41:04.188153Z",
+      "latest_at": "2026-11-04T09:41:04.188153Z",
+      "primary_item": {
+        "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+        "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+        "url": "https://www.aibase.com/news/32089",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-04T09:41:04.188153Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_406ac5e8ed29",
+      "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
+      "url": "https://www.aibase.com/news/32088",
+      "primary_url": "https://www.aibase.com/news/32088",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
+          "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
+          "url": "https://www.aibase.com/news/32088",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "3958348ece77cfb6db31b1395522770d31a57b53",
+          "title": "一个人一天搞定：Windows 11 原生测速工具背后的「AI 副驾」模式",
+          "url": "https://www.aibase.com/zh/news/32088",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
+          "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
+          "url": "https://www.aibase.com/news/32088",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "3958348ece77cfb6db31b1395522770d31a57b53",
+          "title": "一个人一天搞定：Windows 11 原生测速工具背后的「AI 副驾」模式",
+          "url": "https://www.aibase.com/zh/news/32088",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8252,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T09:41:04.188153Z",
+      "latest_at": "2026-11-04T09:41:04.188153Z",
+      "primary_item": {
+        "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
+        "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
+        "url": "https://www.aibase.com/news/32088",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-04T09:41:04.188153Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI 能批量写内容，很多账号却越发越像：有曝光，没信任；有选题，没客户。问题常常出在只顾发帖，却没想清楚“这个人为什么值得被长期关注”。Doe Koe这篇最新文章适合创作者细读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-04",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "4c9ad69b0699cf817793363fdddb7cce23c9e8a1",
+          "title": "AI 能批量写内容，很多账号却越发越像：有曝光，没信任；有选题，没客户。问题常常出在只顾发帖，却没想清楚“这个人为什么值得被长期关注”。Doe Koe这篇最新文章适合创作者细读。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T22:59:32.566837Z"
+        },
+        {
+          "id": "2aefdd84ad23661de91c67107f4938d8bc87701d",
+          "title": "让 Codex 修个小问题，它却“改—全量测—再改”。跑上半天，额度和耐心一起见底；更糟的是，一堆测试通过，真正点运行还是报错。作者给出一套可直接塞进 AGENTS.md 的收口办法。常用Codex、Claude Code却总被“自我循环”拖慢的人，可以照着改一次规则试一试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T22:59:32.566837Z"
+        },
+        {
+          "id": "8b1a716245e4c3b78d0f5fdda55fea2f841ec5e0",
+          "title": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "6506e130fa84760be9abc76291e62ffc465f6464",
+          "title": "作者这篇笔记梳理了快手企业 AI 落地经验，给出了一个可落地的解法：先沉淀员工经验为共享能力，再重构分工；以小团队模式压缩交付链路，搭配需求风险分级的智能质检体系，同时搭建统一底座与积分机制管控成本。这套兼顾试点试错和企业治理的思路，可以帮大小团队避开 Agent 孤岛、空转、质量失控等问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "765d4a810d4ed582609e61df09786a602cc0b4f8",
+          "title": "卡兹克将自用的Agent自动化系统重构后，开源了Agent-Autoloop。整套架构采用插件化设计，事件、模型、通知通道均可自由接入，适配绝大多数主流Agent。文中还展示了大量可直接复用的自动化场景，个人和团队都能快速搭建自主流转、按需人工审批的智能工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "6f1ba51a2a0d6b9778e7e64069bda9d1d5b7c28e",
+          "title": "最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。很多人说没看懂，也有很多人说，这就是自己工作的日常。作者这篇文章就是想跟大家聊一下，过去这一年观察到的Agent产品工具的演进逻辑。可能从这个过程回顾，有机会帮助我们更好理解，发生了什么？为什么走到了现在。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "社区更新 · 2026-11-03",
+        "社区更新 · 2026-11-04"
+      ],
+      "items": [
+        {
+          "id": "4c9ad69b0699cf817793363fdddb7cce23c9e8a1",
+          "title": "AI 能批量写内容，很多账号却越发越像：有曝光，没信任；有选题，没客户。问题常常出在只顾发帖，却没想清楚“这个人为什么值得被长期关注”。Doe Koe这篇最新文章适合创作者细读。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T22:59:32.566837Z"
+        },
+        {
+          "id": "2aefdd84ad23661de91c67107f4938d8bc87701d",
+          "title": "让 Codex 修个小问题，它却“改—全量测—再改”。跑上半天，额度和耐心一起见底；更糟的是，一堆测试通过，真正点运行还是报错。作者给出一套可直接塞进 AGENTS.md 的收口办法。常用Codex、Claude Code却总被“自我循环”拖慢的人，可以照着改一次规则试一试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T22:59:32.566837Z"
+        },
+        {
+          "id": "8b1a716245e4c3b78d0f5fdda55fea2f841ec5e0",
+          "title": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "6506e130fa84760be9abc76291e62ffc465f6464",
+          "title": "作者这篇笔记梳理了快手企业 AI 落地经验，给出了一个可落地的解法：先沉淀员工经验为共享能力，再重构分工；以小团队模式压缩交付链路，搭配需求风险分级的智能质检体系，同时搭建统一底座与积分机制管控成本。这套兼顾试点试错和企业治理的思路，可以帮大小团队避开 Agent 孤岛、空转、质量失控等问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "765d4a810d4ed582609e61df09786a602cc0b4f8",
+          "title": "卡兹克将自用的Agent自动化系统重构后，开源了Agent-Autoloop。整套架构采用插件化设计，事件、模型、通知通道均可自由接入，适配绝大多数主流Agent。文中还展示了大量可直接复用的自动化场景，个人和团队都能快速搭建自主流转、按需人工审批的智能工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "6f1ba51a2a0d6b9778e7e64069bda9d1d5b7c28e",
+          "title": "最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。很多人说没看懂，也有很多人说，这就是自己工作的日常。作者这篇文章就是想跟大家聊一下，过去这一年观察到的Agent产品工具的演进逻辑。可能从这个过程回顾，有机会帮助我们更好理解，发生了什么？为什么走到了现在。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T09:41:04.188153Z",
+      "latest_at": "2026-11-04T22:59:32.566837Z",
+      "primary_item": {
+        "id": "4c9ad69b0699cf817793363fdddb7cce23c9e8a1",
+        "title": "AI 能批量写内容，很多账号却越发越像：有曝光，没信任；有选题，没客户。问题常常出在只顾发帖，却没想清楚“这个人为什么值得被长期关注”。Doe Koe这篇最新文章适合创作者细读。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-04",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-11-04T22:59:32.566837Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_959e571f7fa2",
+      "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+      "url": "https://www.aibase.com/news/32081",
+      "primary_url": "https://www.aibase.com/news/32081",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "436f600a520e291d8dd2807b50c2df2d9288bf24",
+          "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+          "url": "https://www.aibase.com/news/32081",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "917f30c87b1b5e8a654ae1e6a74e40b0db0a4bf8",
+          "title": "普林斯顿 AI Lab 推出 SSoN 基准，人类准确率 83.3% 而大模型最高仅 39.7%",
+          "url": "https://www.aibase.com/zh/news/32081",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "436f600a520e291d8dd2807b50c2df2d9288bf24",
+          "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+          "url": "https://www.aibase.com/news/32081",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "917f30c87b1b5e8a654ae1e6a74e40b0db0a4bf8",
+          "title": "普林斯顿 AI Lab 推出 SSoN 基准，人类准确率 83.3% 而大模型最高仅 39.7%",
+          "url": "https://www.aibase.com/zh/news/32081",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8252,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T09:41:04.188153Z",
+      "latest_at": "2026-11-04T09:41:04.188153Z",
+      "primary_item": {
+        "id": "436f600a520e291d8dd2807b50c2df2d9288bf24",
+        "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+        "url": "https://www.aibase.com/news/32081",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-04T09:41:04.188153Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b6ceabf91c49",
+      "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "primary_url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T20:23:24Z"
+        },
+        {
+          "id": "74c50caeb57913861aee1bd42d65236d7219279e",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&T’s smart security system",
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:23:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T20:23:24Z"
+        },
+        {
+          "id": "74c50caeb57913861aee1bd42d65236d7219279e",
+          "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&T’s smart security system",
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:23:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6213,
+      "importance": 0.6213,
+      "importance_score": 0.6213,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9631,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T20:23:24Z",
+      "latest_at": "2026-11-04T20:23:24Z",
+      "primary_item": {
+        "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+        "title": "Gemini for Home 现已接入 AT&T 的智能安全系统 / Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "source": "The Verge",
+        "source_name": "Curated Media",
+        "published_at": "2026-11-04T20:23:24Z",
+        "ai_score": 0.71,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_3c3e473ac1e6",
+      "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
+      "url": "https://www.aibase.com/news/32078",
+      "primary_url": "https://www.aibase.com/news/32078",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3e4a2d043c1ed3be3e2bd80c6a6e9e267c5bda27",
+          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
+          "url": "https://www.aibase.com/news/32078",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "b06f085076d31661f40dd9dee286f16d3e09b2e6",
+          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打「真干活」",
+          "url": "https://www.aibase.com/zh/news/32078",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3e4a2d043c1ed3be3e2bd80c6a6e9e267c5bda27",
+          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
+          "url": "https://www.aibase.com/news/32078",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T09:41:04.188153Z"
+        },
+        {
+          "id": "b06f085076d31661f40dd9dee286f16d3e09b2e6",
+          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打「真干活」",
+          "url": "https://www.aibase.com/zh/news/32078",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8252,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T09:41:04.188153Z",
+      "latest_at": "2026-11-04T09:41:04.188153Z",
+      "primary_item": {
+        "id": "3e4a2d043c1ed3be3e2bd80c6a6e9e267c5bda27",
+        "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
+        "url": "https://www.aibase.com/news/32078",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-04T09:41:04.188153Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_tech",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_15bb7fa68b6a",
+      "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+      "url": "https://www.aibase.com/news/32066",
+      "primary_url": "https://www.aibase.com/news/32066",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:29:42.213118Z"
+        },
+        {
+          "id": "464590bf4f93c631368599f2e6420f452a889b37",
+          "title": "2027 年起 K-12 学生账户 AI 与搜索服务将默认关闭，禁用 AI 将连带失去传统搜索",
+          "url": "https://www.aibase.com/zh/news/32066",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:29:42.213118Z"
+        },
+        {
+          "id": "464590bf4f93c631368599f2e6420f452a889b37",
+          "title": "2027 年起 K-12 学生账户 AI 与搜索服务将默认关闭，禁用 AI 将连带失去传统搜索",
+          "url": "https://www.aibase.com/zh/news/32066",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7438,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-04T02:29:42.213118Z",
+      "latest_at": "2026-11-04T02:29:42.213118Z",
+      "primary_item": {
+        "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+        "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+        "url": "https://www.aibase.com/news/32066",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-04T02:29:42.213118Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d94c9f77ddaf",
+      "title": "大型语言模型可证明推理方面的进展",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "primary_url": "https://www.anthropic.com/research/provable-inference",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+          "title": "大型语言模型可证明推理方面的进展",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T19:37:46.946000Z"
+        },
+        {
+          "id": "348d9e158e28595c981f0e9a280b0642db152915",
+          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T17:17:46Z"
+        },
+        {
+          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
+          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-04T07:57:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+          "title": "大型语言模型可证明推理方面的进展",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T19:37:46.946000Z"
+        },
+        {
+          "id": "348d9e158e28595c981f0e9a280b0642db152915",
+          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T17:17:46Z"
+        },
+        {
+          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
+          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-04T07:57:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5623,
+      "importance": 0.5623,
+      "importance_score": 0.5623,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9526,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T07:57:06Z",
+      "latest_at": "2026-11-04T19:37:46.946000Z",
+      "primary_item": {
+        "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+        "title": "大型语言模型可证明推理方面的进展",
+        "url": "https://www.anthropic.com/research/provable-inference",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-04T19:37:46.946000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_68c44263a0af",
+      "title": "人工智能正迫使我们偿还40年的技术债务",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "spectrum.ieee.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
+          "title": "人工智能正迫使我们偿还40年的技术债务",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.120000Z"
+        },
+        {
+          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
+          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T11:52:17Z"
+        },
+        {
+          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
+          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
+          "url": "https://news.ycombinator.com/item?id=50364336",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T11:52:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
+          "title": "人工智能正迫使我们偿还40年的技术债务",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T15:21:22.120000Z"
+        },
+        {
+          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
+          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T11:52:17Z"
+        },
+        {
+          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
+          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
+          "url": "https://news.ycombinator.com/item?id=50364336",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T11:52:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.552,
+      "importance": 0.552,
+      "importance_score": 0.552,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8956,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T11:52:17Z",
+      "latest_at": "2026-11-04T15:21:22.120000Z",
+      "primary_item": {
+        "id": "62b2d59afbeb268e0ba276277eed31188601add7",
+        "title": "人工智能正迫使我们偿还40年的技术债务",
+        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "source": "spectrum.ieee.org",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-04T15:21:22.120000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_tech",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_44e59e6a2681",
+      "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技”",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2fd845ccee8c23a6dd227c995dcf7a5c23e0f63d",
+          "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技”",
+          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T22:01:05.600000Z"
+        },
+        {
+          "id": "88a51c67600aa0279065b7a62d33a67f6a0f1f27",
+          "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技” / Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:55:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "2fd845ccee8c23a6dd227c995dcf7a5c23e0f63d",
+          "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技”",
+          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T22:01:05.600000Z"
+        },
+        {
+          "id": "88a51c67600aa0279065b7a62d33a67f6a0f1f27",
+          "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技” / Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:55:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.986,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T20:55:50Z",
+      "latest_at": "2026-11-04T22:01:05.600000Z",
+      "primary_item": {
+        "id": "2fd845ccee8c23a6dd227c995dcf7a5c23e0f63d",
+        "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技”",
+        "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-04T22:01:05.600000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
