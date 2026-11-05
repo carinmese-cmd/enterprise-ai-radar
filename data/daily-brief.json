@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:59:32.566837Z",
+  "generated_at": "2026-11-05T03:17:25.467693Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -113,15 +113,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9312,
-      "importance": 0.9312,
-      "importance_score": 0.9312,
+      "score": 0.9216,
+      "importance": 0.9216,
+      "importance_score": 0.9216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8846,
+        "recency": 0.8314,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -191,19 +191,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8471,
-      "importance": 0.8471,
-      "importance_score": 0.8471,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9282,
+        "recency": 0.8724,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -268,19 +268,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9464,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -307,6 +307,103 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a4f4c423c542",
+      "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z"
+        },
+        {
+          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
+          "title": "通往root的路径少了1000条简体中文（大陆）",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:01:04.884000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T08:00:00Z"
+        },
+        {
+          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
+          "title": "通往root的路径少了1000条简体中文（大陆）",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:01:04.884000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7569,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T08:00:00Z",
+      "latest_at": "2026-11-05T02:01:04.884000Z",
+      "primary_item": {
+        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+        "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-04T08:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -345,19 +442,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9588,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -380,6 +477,198 @@
         "published_at": "2026-11-04T20:04:52Z",
         "ai_score": 0.87,
         "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c9b06f08e9dd",
+      "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+      "url": "https://www.aibase.com/news/32094",
+      "primary_url": "https://www.aibase.com/news/32094",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
+          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "url": "https://www.aibase.com/news/32094",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T03:17:25.467693Z"
+        },
+        {
+          "id": "a6c2f6e446eef37aae1573490c3c10f1bdab005c",
+          "title": "40 年未解的「细胞穹窿」，被 Claude 拽进结构生物学视野",
+          "url": "https://www.aibase.com/zh/news/32094",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
+          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "url": "https://www.aibase.com/news/32094",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T03:17:25.467693Z"
+        },
+        {
+          "id": "a6c2f6e446eef37aae1573490c3c10f1bdab005c",
+          "title": "40 年未解的「细胞穹窿」，被 Claude 拽进结构生物学视野",
+          "url": "https://www.aibase.com/zh/news/32094",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T03:17:25.467693Z",
+      "latest_at": "2026-11-05T03:17:25.467693Z",
+      "primary_item": {
+        "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
+        "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+        "url": "https://www.aibase.com/news/32094",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-05T03:17:25.467693Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_e71913b2d362",
+      "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+      "url": "https://www.aibase.com/news/32098",
+      "primary_url": "https://www.aibase.com/news/32098",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
+          "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "url": "https://www.aibase.com/news/32098",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T03:17:25.467693Z"
+        },
+        {
+          "id": "652c7b48f1bb603d732dec2c4ebf0a768ad61f75",
+          "title": "OpenAI 在 ChatGPT 内置 GIF 生成器，由未公开 Images2.6 模型驱动",
+          "url": "https://www.aibase.com/zh/news/32098",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
+          "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "url": "https://www.aibase.com/news/32098",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T03:17:25.467693Z"
+        },
+        {
+          "id": "652c7b48f1bb603d732dec2c4ebf0a768ad61f75",
+          "title": "OpenAI 在 ChatGPT 内置 GIF 生成器，由未公开 Images2.6 模型驱动",
+          "url": "https://www.aibase.com/zh/news/32098",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T03:17:25.467693Z",
+      "latest_at": "2026-11-05T03:17:25.467693Z",
+      "primary_item": {
+        "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
+        "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+        "url": "https://www.aibase.com/news/32098",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-05T03:17:25.467693Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -422,19 +711,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7938,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -465,26 +754,26 @@
       }
     },
     {
-      "story_id": "story_d3b38be87eda",
-      "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-      "url": "https://www.aibase.com/news/32091",
-      "primary_url": "https://www.aibase.com/news/32091",
+      "story_id": "story_74b22be63824",
+      "title": "国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+      "url": "https://www.aibase.com/news/32107",
+      "primary_url": "https://www.aibase.com/news/32107",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3811967584c703c8d62335daebae484c6912011d",
-          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-          "url": "https://www.aibase.com/news/32091",
+          "id": "cb9b39e3853ef1ef2e47b826724e391709ec60e3",
+          "title": "国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+          "url": "https://www.aibase.com/news/32107",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T17:38:58.882104Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "22f9bdcb0b1e174ba0a7c811d8a89687f923a4e1",
-          "title": "用自家大模型造自己的「芯」：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-          "url": "https://www.aibase.com/zh/news/32091",
+          "id": "a813b7c6ed295ca8d648655f5d1a8834ae1e8421",
+          "title": "国产 RNA 生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+          "url": "https://www.aibase.com/zh/news/32107",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -498,18 +787,18 @@
       ],
       "items": [
         {
-          "id": "3811967584c703c8d62335daebae484c6912011d",
-          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-          "url": "https://www.aibase.com/news/32091",
+          "id": "cb9b39e3853ef1ef2e47b826724e391709ec60e3",
+          "title": "国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+          "url": "https://www.aibase.com/news/32107",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T17:38:58.882104Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "22f9bdcb0b1e174ba0a7c811d8a89687f923a4e1",
-          "title": "用自家大模型造自己的「芯」：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-          "url": "https://www.aibase.com/zh/news/32091",
+          "id": "a813b7c6ed295ca8d648655f5d1a8834ae1e8421",
+          "title": "国产 RNA 生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+          "url": "https://www.aibase.com/zh/news/32107",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -518,19 +807,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9257,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -542,15 +831,15 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T17:38:58.882104Z",
-      "latest_at": "2026-11-04T17:38:58.882104Z",
+      "earliest_at": "2026-11-05T03:17:25.467693Z",
+      "latest_at": "2026-11-05T03:17:25.467693Z",
       "primary_item": {
-        "id": "3811967584c703c8d62335daebae484c6912011d",
-        "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-        "url": "https://www.aibase.com/news/32091",
+        "id": "cb9b39e3853ef1ef2e47b826724e391709ec60e3",
+        "title": "国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+        "url": "https://www.aibase.com/news/32107",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-04T17:38:58.882104Z",
+        "published_at": "2026-11-05T03:17:25.467693Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -561,180 +850,26 @@
       }
     },
     {
-      "story_id": "story_a4f4c423c542",
-      "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T08:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T08:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8053,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T08:00:00Z",
-      "latest_at": "2026-11-04T08:00:00Z",
-      "primary_item": {
-        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-        "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
-        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-04T08:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_0f281cabd4f6",
-      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T00:32:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T00:32:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7231,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T00:32:19Z",
-      "latest_at": "2026-11-04T00:32:19Z",
-      "primary_item": {
-        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-04T00:32:19Z",
-        "ai_score": 0.91,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a3e2c85538d7",
-      "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
-      "url": "https://www.aibase.com/news/32073",
-      "primary_url": "https://www.aibase.com/news/32073",
+      "story_id": "story_0dc9f04eea2e",
+      "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+      "url": "https://www.aibase.com/news/32100",
+      "primary_url": "https://www.aibase.com/news/32100",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "040260493ae6687c9548b3fa2322c47c4aa6c257",
-          "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
-          "url": "https://www.aibase.com/news/32073",
+          "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "url": "https://www.aibase.com/news/32100",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "c80540cad9382470d920bea4d7d71a438dd93b9e",
-          "title": "Claude 给自己发「身份证」：Anthropic 用零知识证明斩断套壳灰产",
-          "url": "https://www.aibase.com/zh/news/32073",
+          "id": "c381e2f1ce313019c68b84bb8ead960c17cf54a7",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源榜",
+          "url": "https://www.aibase.com/zh/news/32100",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -748,18 +883,18 @@
       ],
       "items": [
         {
-          "id": "040260493ae6687c9548b3fa2322c47c4aa6c257",
-          "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
-          "url": "https://www.aibase.com/news/32073",
+          "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "url": "https://www.aibase.com/news/32100",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "c80540cad9382470d920bea4d7d71a438dd93b9e",
-          "title": "Claude 给自己发「身份证」：Anthropic 用零知识证明斩断套壳灰产",
-          "url": "https://www.aibase.com/zh/news/32073",
+          "id": "c381e2f1ce313019c68b84bb8ead960c17cf54a7",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源榜",
+          "url": "https://www.aibase.com/zh/news/32100",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -768,23 +903,23 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8252,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_reason": "纯模型跑分或榜单信号降权",
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
@@ -792,122 +927,45 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T09:41:04.188153Z",
-      "latest_at": "2026-11-04T09:41:04.188153Z",
+      "earliest_at": "2026-11-05T03:17:25.467693Z",
+      "latest_at": "2026-11-05T03:17:25.467693Z",
       "primary_item": {
-        "id": "040260493ae6687c9548b3fa2322c47c4aa6c257",
-        "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
-        "url": "https://www.aibase.com/news/32073",
+        "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+        "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+        "url": "https://www.aibase.com/news/32100",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-04T09:41:04.188153Z",
+        "published_at": "2026-11-05T03:17:25.467693Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "agent_workflow",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
+        "enterprise_reason": "纯模型跑分或榜单信号降权"
       }
     },
     {
-      "story_id": "story_bf25be8f8779",
-      "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "primary_url": "https://openai.com/index/devrev-enterprise-self-service",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
-          "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
-          "url": "https://openai.com/index/devrev-enterprise-self-service",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
-          "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
-          "url": "https://openai.com/index/devrev-enterprise-self-service",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.8151,
-      "importance_score": 0.8151,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7175,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T00:00:00Z",
-      "latest_at": "2026-11-04T00:00:00Z",
-      "primary_item": {
-        "id": "f14c8960ca4ca928d24de781588cbd0ace163b4b",
-        "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务 / DevRev delivers autonomous self-service with GPT-6.1 Sol",
-        "url": "https://openai.com/index/devrev-enterprise-self-service",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-04T00:00:00Z",
-        "ai_score": 0.98,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_060903e444ef",
-      "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-      "url": "https://www.aibase.com/news/32089",
-      "primary_url": "https://www.aibase.com/news/32089",
+      "story_id": "story_3084408fb14d",
+      "title": "美国中期选举变\"数据中心公投\"：76% 选民反对，AI 基建撞上地方墙",
+      "url": "https://www.aibase.com/news/32106",
+      "primary_url": "https://www.aibase.com/news/32106",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
-          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "url": "https://www.aibase.com/news/32089",
+          "id": "8e4fbcca8e6911874aea20d617eaeb144698e8e4",
+          "title": "美国中期选举变\"数据中心公投\"：76% 选民反对，AI 基建撞上地方墙",
+          "url": "https://www.aibase.com/news/32106",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "e593635ac3a6bb9c3c5684bade03e59e7a591f42",
-          "title": "OpenAI 员工的「副业」硬件：GPT-6 Astra 一周出图、一月出样",
-          "url": "https://www.aibase.com/zh/news/32089",
+          "id": "eb47595e4e042d6e03c6809f865b91ace3a92366",
+          "title": "美国中期选举变「数据中心公投」：76% 选民反对，AI 基建撞上地方墙",
+          "url": "https://www.aibase.com/zh/news/32106",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -921,18 +979,18 @@
       ],
       "items": [
         {
-          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
-          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "url": "https://www.aibase.com/news/32089",
+          "id": "8e4fbcca8e6911874aea20d617eaeb144698e8e4",
+          "title": "美国中期选举变\"数据中心公投\"：76% 选民反对，AI 基建撞上地方墙",
+          "url": "https://www.aibase.com/news/32106",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "e593635ac3a6bb9c3c5684bade03e59e7a591f42",
-          "title": "OpenAI 员工的「副业」硬件：GPT-6 Astra 一周出图、一月出样",
-          "url": "https://www.aibase.com/zh/news/32089",
+          "id": "eb47595e4e042d6e03c6809f865b91ace3a92366",
+          "title": "美国中期选举变「数据中心公投」：76% 选民反对，AI 基建撞上地方墙",
+          "url": "https://www.aibase.com/zh/news/32106",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -941,19 +999,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8252,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -965,111 +1023,15 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T09:41:04.188153Z",
-      "latest_at": "2026-11-04T09:41:04.188153Z",
+      "earliest_at": "2026-11-05T03:17:25.467693Z",
+      "latest_at": "2026-11-05T03:17:25.467693Z",
       "primary_item": {
-        "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
-        "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-        "url": "https://www.aibase.com/news/32089",
+        "id": "8e4fbcca8e6911874aea20d617eaeb144698e8e4",
+        "title": "美国中期选举变\"数据中心公投\"：76% 选民反对，AI 基建撞上地方墙",
+        "url": "https://www.aibase.com/news/32106",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-04T09:41:04.188153Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_406ac5e8ed29",
-      "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
-      "url": "https://www.aibase.com/news/32088",
-      "primary_url": "https://www.aibase.com/news/32088",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
-          "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
-          "url": "https://www.aibase.com/news/32088",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
-        },
-        {
-          "id": "3958348ece77cfb6db31b1395522770d31a57b53",
-          "title": "一个人一天搞定：Windows 11 原生测速工具背后的「AI 副驾」模式",
-          "url": "https://www.aibase.com/zh/news/32088",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
-          "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
-          "url": "https://www.aibase.com/news/32088",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
-        },
-        {
-          "id": "3958348ece77cfb6db31b1395522770d31a57b53",
-          "title": "一个人一天搞定：Windows 11 原生测速工具背后的「AI 副驾」模式",
-          "url": "https://www.aibase.com/zh/news/32088",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8252,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T09:41:04.188153Z",
-      "latest_at": "2026-11-04T09:41:04.188153Z",
-      "primary_item": {
-        "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
-        "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
-        "url": "https://www.aibase.com/news/32088",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-04T09:41:04.188153Z",
+        "published_at": "2026-11-05T03:17:25.467693Z",
         "ai_score": 1.0,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1205,15 +1167,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6584,
+      "importance": 0.6584,
+      "importance_score": 0.6584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9398,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -1246,26 +1208,26 @@
       }
     },
     {
-      "story_id": "story_959e571f7fa2",
-      "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
-      "url": "https://www.aibase.com/news/32081",
-      "primary_url": "https://www.aibase.com/news/32081",
+      "story_id": "story_c0470d4e8e3a",
+      "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+      "url": "https://www.aibase.com/news/32102",
+      "primary_url": "https://www.aibase.com/news/32102",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "436f600a520e291d8dd2807b50c2df2d9288bf24",
-          "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
-          "url": "https://www.aibase.com/news/32081",
+          "id": "d94f43e4c340e1344d11d93cbf910534aa2b01c6",
+          "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+          "url": "https://www.aibase.com/news/32102",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "917f30c87b1b5e8a654ae1e6a74e40b0db0a4bf8",
-          "title": "普林斯顿 AI Lab 推出 SSoN 基准，人类准确率 83.3% 而大模型最高仅 39.7%",
-          "url": "https://www.aibase.com/zh/news/32081",
+          "id": "413ffd4f4975a9e23df4531377e8784dec8ddfab",
+          "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+          "url": "https://www.aibase.com/zh/news/32102",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1279,18 +1241,18 @@
       ],
       "items": [
         {
-          "id": "436f600a520e291d8dd2807b50c2df2d9288bf24",
-          "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
-          "url": "https://www.aibase.com/news/32081",
+          "id": "d94f43e4c340e1344d11d93cbf910534aa2b01c6",
+          "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+          "url": "https://www.aibase.com/news/32102",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "917f30c87b1b5e8a654ae1e6a74e40b0db0a4bf8",
-          "title": "普林斯顿 AI Lab 推出 SSoN 基准，人类准确率 83.3% 而大模型最高仅 39.7%",
-          "url": "https://www.aibase.com/zh/news/32081",
+          "id": "413ffd4f4975a9e23df4531377e8784dec8ddfab",
+          "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+          "url": "https://www.aibase.com/zh/news/32102",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1299,19 +1261,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8252,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1323,21 +1285,117 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T09:41:04.188153Z",
-      "latest_at": "2026-11-04T09:41:04.188153Z",
+      "earliest_at": "2026-11-05T03:17:25.467693Z",
+      "latest_at": "2026-11-05T03:17:25.467693Z",
       "primary_item": {
-        "id": "436f600a520e291d8dd2807b50c2df2d9288bf24",
-        "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
-        "url": "https://www.aibase.com/news/32081",
+        "id": "d94f43e4c340e1344d11d93cbf910534aa2b01c6",
+        "title": "谷歌为 Anthropic 190 亿美元数据中心项目提供信用护航",
+        "url": "https://www.aibase.com/news/32102",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-04T09:41:04.188153Z",
+        "published_at": "2026-11-05T03:17:25.467693Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c15488cc5333",
+      "title": "豆包工作首次接入第三方模型，首批上线Kimi、智谱与DeepSeek",
+      "url": "https://www.aibase.com/news/32104",
+      "primary_url": "https://www.aibase.com/news/32104",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "00e7d0a82033731f9d08903fd4c4b2c9221f7438",
+          "title": "豆包工作首次接入第三方模型，首批上线Kimi、智谱与DeepSeek",
+          "url": "https://www.aibase.com/news/32104",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T03:17:25.467693Z"
+        },
+        {
+          "id": "f92573722125223ea58a849e5be47377b91bc0a7",
+          "title": "豆包工作首次接入第三方模型，首批上线 Kimi、智谱与 DeepSeek",
+          "url": "https://www.aibase.com/zh/news/32104",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "00e7d0a82033731f9d08903fd4c4b2c9221f7438",
+          "title": "豆包工作首次接入第三方模型，首批上线Kimi、智谱与DeepSeek",
+          "url": "https://www.aibase.com/news/32104",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T03:17:25.467693Z"
+        },
+        {
+          "id": "f92573722125223ea58a849e5be47377b91bc0a7",
+          "title": "豆包工作首次接入第三方模型，首批上线 Kimi、智谱与 DeepSeek",
+          "url": "https://www.aibase.com/zh/news/32104",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T03:17:25.467693Z",
+      "latest_at": "2026-11-05T03:17:25.467693Z",
+      "primary_item": {
+        "id": "00e7d0a82033731f9d08903fd4c4b2c9221f7438",
+        "title": "豆包工作首次接入第三方模型，首批上线Kimi、智谱与DeepSeek",
+        "url": "https://www.aibase.com/news/32104",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-05T03:17:25.467693Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
+        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1394,15 +1452,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6213,
-      "importance": 0.6213,
-      "importance_score": 0.6213,
+      "score": 0.6109,
+      "importance": 0.6109,
+      "importance_score": 0.6109,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9631,
+        "recency": 0.9052,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1435,26 +1493,26 @@
       }
     },
     {
-      "story_id": "story_3c3e473ac1e6",
-      "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
-      "url": "https://www.aibase.com/news/32078",
-      "primary_url": "https://www.aibase.com/news/32078",
+      "story_id": "story_beb63bcdac84",
+      "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
+      "url": "https://www.aibase.com/news/32101",
+      "primary_url": "https://www.aibase.com/news/32101",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3e4a2d043c1ed3be3e2bd80c6a6e9e267c5bda27",
-          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
-          "url": "https://www.aibase.com/news/32078",
+          "id": "d68b049d904e7639ad73c9fe1f469b189067d237",
+          "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
+          "url": "https://www.aibase.com/news/32101",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "b06f085076d31661f40dd9dee286f16d3e09b2e6",
-          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打「真干活」",
-          "url": "https://www.aibase.com/zh/news/32078",
+          "id": "eb77861d750b9462030bf1732d9e2d465ad7036d",
+          "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1 支撑长程任务",
+          "url": "https://www.aibase.com/zh/news/32101",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1468,18 +1526,18 @@
       ],
       "items": [
         {
-          "id": "3e4a2d043c1ed3be3e2bd80c6a6e9e267c5bda27",
-          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
-          "url": "https://www.aibase.com/news/32078",
+          "id": "d68b049d904e7639ad73c9fe1f469b189067d237",
+          "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
+          "url": "https://www.aibase.com/news/32101",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T09:41:04.188153Z"
+          "published_at": "2026-11-05T03:17:25.467693Z"
         },
         {
-          "id": "b06f085076d31661f40dd9dee286f16d3e09b2e6",
-          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打「真干活」",
-          "url": "https://www.aibase.com/zh/news/32078",
+          "id": "eb77861d750b9462030bf1732d9e2d465ad7036d",
+          "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1 支撑长程任务",
+          "url": "https://www.aibase.com/zh/news/32101",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1488,19 +1546,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8252,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1512,16 +1570,129 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T09:41:04.188153Z",
-      "latest_at": "2026-11-04T09:41:04.188153Z",
+      "earliest_at": "2026-11-05T03:17:25.467693Z",
+      "latest_at": "2026-11-05T03:17:25.467693Z",
       "primary_item": {
-        "id": "3e4a2d043c1ed3be3e2bd80c6a6e9e267c5bda27",
-        "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
-        "url": "https://www.aibase.com/news/32078",
+        "id": "d68b049d904e7639ad73c9fe1f469b189067d237",
+        "title": "雷军晒小米机器人做家务视频，Xiaomi-Robotics-1支撑长程任务",
+        "url": "https://www.aibase.com/news/32101",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-04T09:41:04.188153Z",
+        "published_at": "2026-11-05T03:17:25.467693Z",
         "ai_score": 1.0,
+        "ai_label": "robotics",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_9082a853a58f",
+      "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "www.qualcomm.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "www.qualcomm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T01:44:43.584000Z"
+        },
+        {
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI 加速卡，128GB，548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.qualcomm.com"
+      ],
+      "items": [
+        {
+          "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "www.qualcomm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T01:44:43.584000Z"
+        },
+        {
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI 加速卡，128GB，548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5668,
+      "importance": 0.5668,
+      "importance_score": 0.5668,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9779,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T19:55:14Z",
+      "latest_at": "2026-11-05T01:44:43.584000Z",
+      "primary_item": {
+        "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+        "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+        "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "source": "www.qualcomm.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-05T01:44:43.584000Z",
+        "ai_score": 0.65,
         "ai_label": "ai_tech",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -1531,92 +1702,110 @@
       }
     },
     {
-      "story_id": "story_15bb7fa68b6a",
-      "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
-      "url": "https://www.aibase.com/news/32066",
-      "primary_url": "https://www.aibase.com/news/32066",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_46f48fe38746",
+      "title": "现在什么都是AI骗局了",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
+      "primary_url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
+      "source": "www.davidralphlewis.co.uk",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
-          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
-          "url": "https://www.aibase.com/news/32066",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T02:29:42.213118Z"
+          "id": "6f9612dcd0fafdb78fd9a6c73b14286b49e648c7",
+          "title": "现在什么都是AI骗局了",
+          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
+          "source": "www.davidralphlewis.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T23:04:46.586000Z"
         },
         {
-          "id": "464590bf4f93c631368599f2e6420f452a889b37",
-          "title": "2027 年起 K-12 学生账户 AI 与搜索服务将默认关闭，禁用 AI 将连带失去传统搜索",
-          "url": "https://www.aibase.com/zh/news/32066",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b46ffa43ce901131c7c8376d9d0a0625b2d50fde",
+          "title": "现在什么都是AI骗局了 / Everything is an AI scam now",
+          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T21:05:19Z"
+        },
+        {
+          "id": "4e77359facaae44f6ef5fdb17e154475c8a8bfe0",
+          "title": "现在一切都是人工智能骗局 / Everything is an AI scam now",
+          "url": "https://news.ycombinator.com/item?id=50371508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T21:05:19Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.davidralphlewis.co.uk"
       ],
       "items": [
         {
-          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
-          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
-          "url": "https://www.aibase.com/news/32066",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T02:29:42.213118Z"
+          "id": "6f9612dcd0fafdb78fd9a6c73b14286b49e648c7",
+          "title": "现在什么都是AI骗局了",
+          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
+          "source": "www.davidralphlewis.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T23:04:46.586000Z"
         },
         {
-          "id": "464590bf4f93c631368599f2e6420f452a889b37",
-          "title": "2027 年起 K-12 学生账户 AI 与搜索服务将默认关闭，禁用 AI 将连带失去传统搜索",
-          "url": "https://www.aibase.com/zh/news/32066",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b46ffa43ce901131c7c8376d9d0a0625b2d50fde",
+          "title": "现在什么都是AI骗局了 / Everything is an AI scam now",
+          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T21:05:19Z"
+        },
+        {
+          "id": "4e77359facaae44f6ef5fdb17e154475c8a8bfe0",
+          "title": "现在一切都是人工智能骗局 / Everything is an AI scam now",
+          "url": "https://news.ycombinator.com/item?id=50371508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T21:05:19Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5602,
+      "importance": 0.5602,
+      "importance_score": 0.5602,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7438,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.941,
+        "story_heat": 0.5
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-04T02:29:42.213118Z",
-      "latest_at": "2026-11-04T02:29:42.213118Z",
+      "earliest_at": "2026-11-04T21:05:19Z",
+      "latest_at": "2026-11-04T23:04:46.586000Z",
       "primary_item": {
-        "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
-        "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
-        "url": "https://www.aibase.com/news/32066",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-04T02:29:42.213118Z",
-        "ai_score": 1.0,
+        "id": "6f9612dcd0fafdb78fd9a6c73b14286b49e648c7",
+        "title": "现在什么都是AI骗局了",
+        "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
+        "source": "www.davidralphlewis.co.uk",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-04T23:04:46.586000Z",
+        "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -1698,15 +1887,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5623,
-      "importance": 0.5623,
-      "importance_score": 0.5623,
+      "score": 0.5519,
+      "importance": 0.5519,
+      "importance_score": 0.5519,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9526,
+        "recency": 0.8953,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1739,181 +1928,68 @@
       }
     },
     {
-      "story_id": "story_68c44263a0af",
-      "title": "人工智能正迫使我们偿还40年的技术债务",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "spectrum.ieee.org",
+      "story_id": "story_0a437d67f2ef",
+      "title": "图 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "primary_url": "https://openai.com/index/introducing-images-2-6",
+      "source": "openai.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
+          "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+          "title": "图 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "openai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z"
+          "published_at": "2026-11-05T02:17:02.236000Z"
         },
         {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "id": "764fca460568a3a59b474225bdad8d9fcd4be7cb",
+          "title": "图 2.6 / Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z"
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z"
-        },
-        {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z"
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.552,
-      "importance": 0.552,
-      "importance_score": 0.552,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8956,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T11:52:17Z",
-      "latest_at": "2026-11-04T15:21:22.120000Z",
-      "primary_item": {
-        "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-        "title": "人工智能正迫使我们偿还40年的技术债务",
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "source": "spectrum.ieee.org",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-04T15:21:22.120000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_tech",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_44e59e6a2681",
-      "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技”",
-      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2fd845ccee8c23a6dd227c995dcf7a5c23e0f63d",
-          "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技”",
-          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T22:01:05.600000Z"
-        },
-        {
-          "id": "88a51c67600aa0279065b7a62d33a67f6a0f1f27",
-          "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技” / Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-04T20:55:50Z"
+          "published_at": "2026-11-04T23:35:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
+        "Hacker News (黑客新闻)",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "2fd845ccee8c23a6dd227c995dcf7a5c23e0f63d",
-          "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技”",
-          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
-          "source": "arstechnica.com",
+          "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+          "title": "图 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "openai.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-04T22:01:05.600000Z"
+          "published_at": "2026-11-05T02:17:02.236000Z"
         },
         {
-          "id": "88a51c67600aa0279065b7a62d33a67f6a0f1f27",
-          "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技” / Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-04T20:55:50Z"
+          "id": "764fca460568a3a59b474225bdad8d9fcd4be7cb",
+          "title": "图 2.6 / Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T23:35:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.986,
+        "recency": 0.9856,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1927,17 +2003,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-04T20:55:50Z",
-      "latest_at": "2026-11-04T22:01:05.600000Z",
+      "earliest_at": "2026-11-04T23:35:44Z",
+      "latest_at": "2026-11-05T02:17:02.236000Z",
       "primary_item": {
-        "id": "2fd845ccee8c23a6dd227c995dcf7a5c23e0f63d",
-        "title": "科技巨头声称选民对人工智能的反感是“反特朗普”而非“反科技”",
-        "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
-        "source": "arstechnica.com",
+        "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+        "title": "图 2.6",
+        "url": "https://openai.com/index/introducing-images-2-6",
+        "source": "openai.com",
         "source_name": "Buzzing",
-        "published_at": "2026-11-04T22:01:05.600000Z",
+        "published_at": "2026-11-05T02:17:02.236000Z",
         "ai_score": 0.65,
-        "ai_label": "ai_general",
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
