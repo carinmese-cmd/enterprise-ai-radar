@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T03:45:23.355555Z",
+  "generated_at": "2026-11-07T10:47:19.142263Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "items": [
     {
       "story_id": "story_2f5738134e40",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "enterprise_score": 85,
@@ -80,85 +80,6 @@
         ],
         "enterprise_content_type": "technical_practice",
         "enterprise_reason": "主题命中：企业知识库与RAG；内容类型：技术实践；包含实施、架构、指标或结果信号"
-      }
-    },
-    {
-      "story_id": "story_904574e3ce24",
-      "title": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch / Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-      "primary_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "a083df87ab926f077df046d5b4f5535de7485c65",
-          "title": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch / Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-06T06:28:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "a083df87ab926f077df046d5b4f5535de7485c65",
-          "title": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch / Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-06T06:28:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5761,
-      "importance": 0.5761,
-      "importance_score": 0.5761,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7354,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 69,
-      "enterprise_importance_score": 71,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-06T06:28:32Z",
-      "latest_at": "2026-11-06T06:28:32Z",
-      "primary_item": {
-        "id": "a083df87ab926f077df046d5b4f5535de7485c65",
-        "title": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch / Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media",
-        "published_at": "2026-11-06T06:28:32Z",
-        "ai_score": 0.76,
-        "ai_label": "research_paper",
-        "enterprise_score": 69,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
       }
     }
   ]
