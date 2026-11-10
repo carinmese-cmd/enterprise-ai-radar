@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:22:04.315507Z",
+  "generated_at": "2026-11-10T23:36:10.529072Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,19 +95,19 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9211,
-      "importance": 0.9211,
-      "importance_score": 0.9211,
+      "score": 0.9084,
+      "importance": 0.9084,
+      "importance_score": 0.9084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9673,
+        "recency": 0.8968,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -135,6 +135,527 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5ca4dc7b6d88",
+      "title": "ChatGPT 推出 Businesses 功能 / Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "primary_url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
+          "title": "ChatGPT 推出 Businesses 功能 / Introducing Businesses in ChatGPT",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T10:00:00Z"
+        },
+        {
+          "id": "d27d12ad7df386ed5607e7542c816ba3b80c099c",
+          "title": "ChatGPT 推出 Businesses 功能",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "17515df339b0007fe180b131a39f23e42fe67482",
+          "title": "ChatGPT 推出 Businesses 功能 / Businesses in ChatGPT – OpenAI",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T18:10:40Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
+          "title": "ChatGPT 推出 Businesses 功能 / Introducing Businesses in ChatGPT",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T10:00:00Z"
+        },
+        {
+          "id": "d27d12ad7df386ed5607e7542c816ba3b80c099c",
+          "title": "ChatGPT 推出 Businesses 功能",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "17515df339b0007fe180b131a39f23e42fe67482",
+          "title": "ChatGPT 推出 Businesses 功能 / Businesses in ChatGPT – OpenAI",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T18:10:40Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8779,
+      "importance": 0.8779,
+      "importance_score": 0.8779,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8217,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T10:00:00Z",
+      "latest_at": "2026-11-10T23:36:10.529072Z",
+      "primary_item": {
+        "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
+        "title": "ChatGPT 推出 Businesses 功能 / Introducing Businesses in ChatGPT",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T10:00:00Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_0fe8b882dbb9",
+      "title": "Gemini 4 Carbon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:26:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:26:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9418,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T19:26:51Z",
+      "latest_at": "2026-11-10T19:26:51Z",
+      "primary_item": {
+        "id": "1bd788375c49e28109adc857f73168083f54024c",
+        "title": "Gemini 4 Carbon in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T19:26:51Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b73105fe4ec5",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence: New features, on more devices",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence: New features, on more devices",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9357,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T19:00:00Z",
+      "latest_at": "2026-11-10T19:00:00Z",
+      "primary_item": {
+        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+        "title": "Gemini Intelligence: New features, on more devices",
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T19:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_724fae925148",
+      "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "primary_url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
+          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
+          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7112,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T00:00:00Z",
+      "latest_at": "2026-11-10T00:00:00Z",
+      "primary_item": {
+        "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
+        "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
+        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T00:00:00Z",
+        "ai_score": 0.98,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.167.1 / Codex CLI 0.167.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
+          "title": "法典 CLI 0.167.1 / Codex CLI 0.167.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
+          "title": "法典 CLI 0.167.1 / Codex CLI 0.167.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7112,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T00:00:00Z",
+      "latest_at": "2026-11-10T00:00:00Z",
+      "primary_item": {
+        "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
+        "title": "法典 CLI 0.167.1 / Codex CLI 0.167.1",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T00:00:00Z",
+        "ai_score": 0.98,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f8c1a7370c13",
+      "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+          "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:02:28Z"
+        },
+        {
+          "id": "1aa5a410901b2fb1ab7ac790c14001d5c3c5465c",
+          "title": "AlphaProof 代码 / AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T12:11:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+          "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:02:28Z"
+        },
+        {
+          "id": "1aa5a410901b2fb1ab7ac790c14001d5c3c5465c",
+          "title": "AlphaProof 代码 / AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T12:11:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8462,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T12:02:28Z",
+      "latest_at": "2026-11-10T12:11:12Z",
+      "primary_item": {
+        "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+        "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T12:02:28Z",
+        "ai_score": 0.87,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -192,15 +713,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8486,
+        "recency": 0.7868,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -270,19 +791,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9254,
+        "recency": 0.858,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -347,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9814,
+        "recency": 0.91,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -390,17 +911,17 @@
       }
     },
     {
-      "story_id": "story_724fae925148",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "primary_url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "story_id": "story_3229de0d9192",
+      "title": "拥抱决策模型 / Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "primary_url": "https://huggingface.co/blog/decision",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "id": "2aa75c357740c94768091126824fe0a964128bf5",
+          "title": "拥抱决策模型 / Decision Models in Hugging Face",
+          "url": "https://huggingface.co/blog/decision",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -413,9 +934,9 @@
       ],
       "items": [
         {
-          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "id": "2aa75c357740c94768091126824fe0a964128bf5",
+          "title": "拥抱决策模型 / Decision Models in Hugging Face",
+          "url": "https://huggingface.co/blog/decision",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -424,19 +945,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.767,
+        "ai_relevance": 0.95,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -451,111 +972,14 @@
       "earliest_at": "2026-11-10T00:00:00Z",
       "latest_at": "2026-11-10T00:00:00Z",
       "primary_item": {
-        "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-        "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+        "id": "2aa75c357740c94768091126824fe0a964128bf5",
+        "title": "拥抱决策模型 / Decision Models in Hugging Face",
+        "url": "https://huggingface.co/blog/decision",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates",
         "published_at": "2026-11-10T00:00:00Z",
-        "ai_score": 0.98,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_f8c1a7370c13",
-      "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-          "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:02:28Z"
-        },
-        {
-          "id": "1aa5a410901b2fb1ab7ac790c14001d5c3c5465c",
-          "title": "AlphaProof 代码 / AlphaProof Code",
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T12:11:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-          "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:02:28Z"
-        },
-        {
-          "id": "1aa5a410901b2fb1ab7ac790c14001d5c3c5465c",
-          "title": "AlphaProof 代码 / AlphaProof Code",
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T12:11:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8533,
-      "importance": 0.8533,
-      "importance_score": 0.8533,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9127,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T12:02:28Z",
-      "latest_at": "2026-11-10T12:11:12Z",
-      "primary_item": {
-        "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-        "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T12:02:28Z",
-        "ai_score": 0.87,
-        "ai_label": "ai_product_update",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -598,19 +1022,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9121,
+        "recency": 0.8457,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -633,6 +1057,102 @@
         "published_at": "2026-11-10T12:00:00Z",
         "ai_score": 0.91,
         "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f330d43fbc24",
+      "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
+      "url": "https://www.aibase.com/news/32206",
+      "primary_url": "https://www.aibase.com/news/32206",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
+          "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
+          "url": "https://www.aibase.com/news/32206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T10:36:57.723680Z"
+        },
+        {
+          "id": "7c0f40aeabe304d91532d347b21828a579e92faf",
+          "title": "美团开源 LongCat-2.5，长序列 SFT 单卡吞吐较 DDP 提升 86%",
+          "url": "https://www.aibase.com/zh/news/32206",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
+          "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
+          "url": "https://www.aibase.com/news/32206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T10:36:57.723680Z"
+        },
+        {
+          "id": "7c0f40aeabe304d91532d347b21828a579e92faf",
+          "title": "美团开源 LongCat-2.5，长序列 SFT 单卡吞吐较 DDP 提升 86%",
+          "url": "https://www.aibase.com/zh/news/32206",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.829,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T10:36:57.723680Z",
+      "latest_at": "2026-11-10T10:36:57.723680Z",
+      "primary_item": {
+        "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
+        "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
+        "url": "https://www.aibase.com/news/32206",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-10T10:36:57.723680Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_tech",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -675,19 +1195,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9434,
+        "recency": 0.8747,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -752,19 +1272,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9389,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -787,333 +1307,6 @@
         "published_at": "2026-11-10T14:00:00Z",
         "ai_score": 0.87,
         "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_3229de0d9192",
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "primary_url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2aa75c357740c94768091126824fe0a964128bf5",
-          "title": "Decision Models in Hugging Face",
-          "url": "https://huggingface.co/blog/decision",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "2aa75c357740c94768091126824fe0a964128bf5",
-          "title": "Decision Models in Hugging Face",
-          "url": "https://huggingface.co/blog/decision",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.767,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T00:00:00Z",
-      "latest_at": "2026-11-10T00:00:00Z",
-      "primary_item": {
-        "id": "2aa75c357740c94768091126824fe0a964128bf5",
-        "title": "Decision Models in Hugging Face",
-        "url": "https://huggingface.co/blog/decision",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T00:00:00Z",
-        "ai_score": 0.95,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_f330d43fbc24",
-      "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
-      "url": "https://www.aibase.com/news/32206",
-      "primary_url": "https://www.aibase.com/news/32206",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
-          "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
-          "url": "https://www.aibase.com/news/32206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T10:36:57.723680Z"
-        },
-        {
-          "id": "7c0f40aeabe304d91532d347b21828a579e92faf",
-          "title": "美团开源 LongCat-2.5，长序列 SFT 单卡吞吐较 DDP 提升 86%",
-          "url": "https://www.aibase.com/zh/news/32206",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
-          "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
-          "url": "https://www.aibase.com/news/32206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T10:36:57.723680Z"
-        },
-        {
-          "id": "7c0f40aeabe304d91532d347b21828a579e92faf",
-          "title": "美团开源 LongCat-2.5，长序列 SFT 单卡吞吐较 DDP 提升 86%",
-          "url": "https://www.aibase.com/zh/news/32206",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8941,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T10:36:57.723680Z",
-      "latest_at": "2026-11-10T10:36:57.723680Z",
-      "primary_item": {
-        "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
-        "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
-        "url": "https://www.aibase.com/news/32206",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-10T10:36:57.723680Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_tech",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_01a8528fa117",
-      "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "primary_url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8735,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T09:00:00Z",
-      "latest_at": "2026-11-10T09:00:00Z",
-      "primary_item": {
-        "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-        "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T09:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_7da1b2b4758f",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-      "primary_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "798822270fdec7fd185863f89fd0c703c44e5310",
-          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T19:51:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "798822270fdec7fd185863f89fd0c703c44e5310",
-          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T19:51:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.97,
-        "recency": 0.7225,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T19:51:47Z",
-      "latest_at": "2026-11-09T19:51:47Z",
-      "primary_item": {
-        "id": "798822270fdec7fd185863f89fd0c703c44e5310",
-        "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-09T19:51:47Z",
-        "ai_score": 0.97,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1175,15 +1368,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1218,21 +1411,21 @@
       }
     },
     {
-      "story_id": "story_9c331579e229",
-      "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "story_id": "story_01a8528fa117",
+      "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "primary_url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
+          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T19:00:00Z"
+          "published_at": "2026-11-10T09:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1241,33 +1434,33 @@
       ],
       "items": [
         {
-          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
+          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T19:00:00Z"
+          "published_at": "2026-11-10T09:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7136,
+        "ai_relevance": 0.91,
+        "recency": 0.8099,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 33,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
+      "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "official",
@@ -1276,21 +1469,98 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T19:00:00Z",
-      "latest_at": "2026-11-09T19:00:00Z",
+      "earliest_at": "2026-11-10T09:00:00Z",
+      "latest_at": "2026-11-10T09:00:00Z",
       "primary_item": {
-        "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-        "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
+        "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
+        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
-        "published_at": "2026-11-09T19:00:00Z",
-        "ai_score": 0.95,
-        "ai_label": "model_release",
+        "published_at": "2026-11-10T09:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6590936a5723",
+      "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
+          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T10:34:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
+          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T10:34:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8285,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T10:34:35Z",
+      "latest_at": "2026-11-10T10:34:35Z",
+      "primary_item": {
+        "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
+        "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+        "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T10:34:35Z",
+        "ai_score": 0.87,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1348,15 +1618,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1444,15 +1714,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1479,454 +1749,6 @@
         "published_at": "2026-11-10T10:36:57.723680Z",
         "ai_score": 1.0,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-10",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "bfecd76b45b3b8ba9abe0981a5daf7816f721287",
-          "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "bf187b40bff373478fa2f5fc455f4e4f5953051e",
-          "title": "MiniMax 开源 H3-Image 图像模型，10秒就能产出4096×4096的4K高清图，兼顾细节真实感、出色指令理解，最多支持16张参考图，而且还是同档位主流工具的5至7折。不管是二次微调的开发者，还是追求高效出图的创作者，都能拿到高性价比的视觉生成方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "1fb2cf77f756934d0f9bb0161c43c32efef157ff",
-          "title": "作者在灰度到 GPT-6.2 Sol 后，连跑了代码动画、交互式 3D、网站设计和 AI 剪辑等案例，还放出了成片供大家对照。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "611cf806de943f7793ea7d1e9bd3ad797a9f92fb",
-          "title": "作者用豆包里的 Seedream 5.5，给 LLM 推理和后训练画了三张原理图。第一张定稿之后，又在同一个对话里对它连续提了 30 轮修改，每轮改一两处。看看最终生成的效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "fbcd0136c7b6f0a33a1d3d66d88bca68e10a94a2",
-          "title": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "b4a366110171601f07211cc746d49bd030541736",
-          "title": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "877f79f6b04953d6bb433d131590bc83b7a65010",
-          "title": "AI 写代码越来越快，产品也越来越容易做出来，可哪些细节能让用户真正放心？Mole 作者花两个月做了不少“慢活”：装卸 853 款 Mac 软件验证清理边界，逐个检查 AI 工具留下的数据，谨慎保护会话和未提交的代码；还给未激活的用户补发邮件，听完反馈再改图标和文案。想看看好体验是怎么一点点磨出来的，可以借鉴下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        },
-        {
-          "id": "465026c06b2b12299be44418269386ed9f0af5ac",
-          "title": "作者做了五种风格完全不同的 AI 视频：史诗短片、3D 诗意短片、认知思维、剧情故事、vibe 知识大赏。这篇每种风格挑一条代表作，给你讲清楚一个想法怎么一步步做成片子：用了哪些 AI、分几步走、每一步的提示词，还有每条片子踩过的坑。2D、3D 都有。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        },
-        {
-          "id": "5c376ee26824d645f7f41c1f97ae29f4e09e98f0",
-          "title": "想大幅压减Agent的运行成本？这套Jev+Kimi K3的方案不容错过。Jev专门负责智能体里大量选择、分类这种轻量决策，响应快、价格极低，依靠校准置信度做路由；判断存疑的复杂任务自动流转给Kimi K3兜底，高危操作交由人工审核。文中附带API示例、编写规范、缺陷边界以及邮件筛查、网页浏览等实测案例，可以帮你搭建可控、省钱的智能体工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        },
-        {
-          "id": "b574fed18d9902df7db4c6d81bcf7b184aae9eb8",
-          "title": "本周的AI 音乐周刊汇集行业诉讼、工具新品与前沿论文：Suno 遭版权方起诉，敲响 AI 音色仿制的合规警钟；ElevenLabs 打通 SoundCloud 一键分发，多款 DAW、分轨、管弦演奏工具集中更新，大幅优化制作人工作流。同时还有 5 篇高质量论文，覆盖音乐生成、音源分离、评测数据集等方向，适合音乐创作者、音频工程师快速掌握行业动态与可落地的新技术。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        },
-        {
-          "id": "1a1d92a16857ffc9707d23c15580e2eee44a9b5c",
-          "title": "海辛和阿文用 150 道盲测题比较了 Seedream 5.5、GPT Image 2.6 和 Nano Banana Pro：在他们的测试里，Seedream 的写实质感和连续局部修改很亮眼，多数时候能只动指定区域；但严格遵循指令、像素风等场景仍有短板，改得太久也可能整图重画。做商业素材、IP 配图或经常反复改稿的朋友，可以看看这组具体案例，再拿自己常画的题材试一轮。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        }
-      ],
-      "source_count": 11,
-      "source_names": [
-        "社区更新 · 2026-11-09",
-        "社区更新 · 2026-11-10"
-      ],
-      "items": [
-        {
-          "id": "bfecd76b45b3b8ba9abe0981a5daf7816f721287",
-          "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "bf187b40bff373478fa2f5fc455f4e4f5953051e",
-          "title": "MiniMax 开源 H3-Image 图像模型，10秒就能产出4096×4096的4K高清图，兼顾细节真实感、出色指令理解，最多支持16张参考图，而且还是同档位主流工具的5至7折。不管是二次微调的开发者，还是追求高效出图的创作者，都能拿到高性价比的视觉生成方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "1fb2cf77f756934d0f9bb0161c43c32efef157ff",
-          "title": "作者在灰度到 GPT-6.2 Sol 后，连跑了代码动画、交互式 3D、网站设计和 AI 剪辑等案例，还放出了成片供大家对照。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "611cf806de943f7793ea7d1e9bd3ad797a9f92fb",
-          "title": "作者用豆包里的 Seedream 5.5，给 LLM 推理和后训练画了三张原理图。第一张定稿之后，又在同一个对话里对它连续提了 30 轮修改，每轮改一两处。看看最终生成的效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "fbcd0136c7b6f0a33a1d3d66d88bca68e10a94a2",
-          "title": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "b4a366110171601f07211cc746d49bd030541736",
-          "title": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-10T18:22:04.315507Z"
-        },
-        {
-          "id": "877f79f6b04953d6bb433d131590bc83b7a65010",
-          "title": "AI 写代码越来越快，产品也越来越容易做出来，可哪些细节能让用户真正放心？Mole 作者花两个月做了不少“慢活”：装卸 853 款 Mac 软件验证清理边界，逐个检查 AI 工具留下的数据，谨慎保护会话和未提交的代码；还给未激活的用户补发邮件，听完反馈再改图标和文案。想看看好体验是怎么一点点磨出来的，可以借鉴下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        },
-        {
-          "id": "465026c06b2b12299be44418269386ed9f0af5ac",
-          "title": "作者做了五种风格完全不同的 AI 视频：史诗短片、3D 诗意短片、认知思维、剧情故事、vibe 知识大赏。这篇每种风格挑一条代表作，给你讲清楚一个想法怎么一步步做成片子：用了哪些 AI、分几步走、每一步的提示词，还有每条片子踩过的坑。2D、3D 都有。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        },
-        {
-          "id": "5c376ee26824d645f7f41c1f97ae29f4e09e98f0",
-          "title": "想大幅压减Agent的运行成本？这套Jev+Kimi K3的方案不容错过。Jev专门负责智能体里大量选择、分类这种轻量决策，响应快、价格极低，依靠校准置信度做路由；判断存疑的复杂任务自动流转给Kimi K3兜底，高危操作交由人工审核。文中附带API示例、编写规范、缺陷边界以及邮件筛查、网页浏览等实测案例，可以帮你搭建可控、省钱的智能体工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        },
-        {
-          "id": "b574fed18d9902df7db4c6d81bcf7b184aae9eb8",
-          "title": "本周的AI 音乐周刊汇集行业诉讼、工具新品与前沿论文：Suno 遭版权方起诉，敲响 AI 音色仿制的合规警钟；ElevenLabs 打通 SoundCloud 一键分发，多款 DAW、分轨、管弦演奏工具集中更新，大幅优化制作人工作流。同时还有 5 篇高质量论文，覆盖音乐生成、音源分离、评测数据集等方向，适合音乐创作者、音频工程师快速掌握行业动态与可落地的新技术。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        },
-        {
-          "id": "1a1d92a16857ffc9707d23c15580e2eee44a9b5c",
-          "title": "海辛和阿文用 150 道盲测题比较了 Seedream 5.5、GPT Image 2.6 和 Nano Banana Pro：在他们的测试里，Seedream 的写实质感和连续局部修改很亮眼，多数时候能只动指定区域；但严格遵循指令、像素风等场景仍有短板，改得太久也可能整图重画。做商业素材、IP 配图或经常反复改稿的朋友，可以看看这组具体案例，再拿自己常画的题材试一轮。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T20:28:08.413150Z"
-        }
-      ],
-      "item_count": 11,
-      "duplicate_count": 11,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T20:28:08.413150Z",
-      "latest_at": "2026-11-10T18:22:04.315507Z",
-      "primary_item": {
-        "id": "bfecd76b45b3b8ba9abe0981a5daf7816f721287",
-        "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-10",
-        "source_name": "WaytoAGI",
-        "published_at": "2026-11-10T18:22:04.315507Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_eaaa126649ca",
-      "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-      "url": "https://www.aibase.com/news/32190",
-      "primary_url": "https://www.aibase.com/news/32190",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
-          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-          "url": "https://www.aibase.com/news/32190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T02:50:15.962323Z"
-        },
-        {
-          "id": "4fd6614f9626cc020240a42dd794f6e7cb519d7f",
-          "title": "Anthropic 发布 Claude Fable5.2 与 Mythos5.2：1000 个子智能体 8 天写出可启动操作系统",
-          "url": "https://www.aibase.com/zh/news/32190",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
-          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-          "url": "https://www.aibase.com/news/32190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T02:50:15.962323Z"
-        },
-        {
-          "id": "4fd6614f9626cc020240a42dd794f6e7cb519d7f",
-          "title": "Anthropic 发布 Claude Fable5.2 与 Mythos5.2：1000 个子智能体 8 天写出可启动操作系统",
-          "url": "https://www.aibase.com/zh/news/32190",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7991,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T02:50:15.962323Z",
-      "latest_at": "2026-11-10T02:50:15.962323Z",
-      "primary_item": {
-        "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
-        "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-        "url": "https://www.aibase.com/news/32190",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-10T02:50:15.962323Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_dc63a3bb68ae",
-      "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-      "url": "https://www.aibase.com/news/32188",
-      "primary_url": "https://www.aibase.com/news/32188",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
-          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-          "url": "https://www.aibase.com/news/32188",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T02:50:15.962323Z"
-        },
-        {
-          "id": "8e4d9fa0c2d267aff4bf337ac3081bfa451f9df6",
-          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-          "url": "https://www.aibase.com/zh/news/32188",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
-          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-          "url": "https://www.aibase.com/news/32188",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T02:50:15.962323Z"
-        },
-        {
-          "id": "8e4d9fa0c2d267aff4bf337ac3081bfa451f9df6",
-          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-          "url": "https://www.aibase.com/zh/news/32188",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7991,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T02:50:15.962323Z",
-      "latest_at": "2026-11-10T02:50:15.962323Z",
-      "primary_item": {
-        "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
-        "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-        "url": "https://www.aibase.com/news/32188",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-10T02:50:15.962323Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
