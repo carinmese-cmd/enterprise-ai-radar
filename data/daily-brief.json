@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:47:29.032544Z",
+  "generated_at": "2026-11-11T11:34:27.740780Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.899,
-      "importance": 0.899,
-      "importance_score": 0.899,
+      "score": 0.8828,
+      "importance": 0.8828,
+      "importance_score": 0.8828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8442,
+        "recency": 0.7545,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -139,278 +139,8 @@
       }
     },
     {
-      "story_id": "story_5ca4dc7b6d88",
-      "title": "ChatGPT 推出 Businesses 功能 / Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "primary_url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-          "title": "ChatGPT 推出 Businesses 功能 / Introducing Businesses in ChatGPT",
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:00:00Z"
-        },
-        {
-          "id": "d27d12ad7df386ed5607e7542c816ba3b80c099c",
-          "title": "ChatGPT 推出 Businesses 功能",
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "17515df339b0007fe180b131a39f23e42fe67482",
-          "title": "ChatGPT 推出 Businesses 功能 / Businesses in ChatGPT – OpenAI",
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:10:40Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-          "title": "ChatGPT 推出 Businesses 功能 / Introducing Businesses in ChatGPT",
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:00:00Z"
-        },
-        {
-          "id": "d27d12ad7df386ed5607e7542c816ba3b80c099c",
-          "title": "ChatGPT 推出 Businesses 功能",
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "17515df339b0007fe180b131a39f23e42fe67482",
-          "title": "ChatGPT 推出 Businesses 功能 / Businesses in ChatGPT – OpenAI",
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:10:40Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8692,
-      "importance": 0.8692,
-      "importance_score": 0.8692,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7734,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T10:00:00Z",
-      "latest_at": "2026-11-10T23:36:10.529072Z",
-      "primary_item": {
-        "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-        "title": "ChatGPT 推出 Businesses 功能 / Introducing Businesses in ChatGPT",
-        "url": "https://openai.com/index/introducing-businesses-chatgpt",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T10:00:00Z",
-        "ai_score": 0.95,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_871ae47d300c",
-      "title": "GitHub App support for Enterprise Copilot seat management",
-      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub App support for Enterprise Copilot seat management",
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub App support for Enterprise Copilot seat management",
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9491,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T00:10:31Z",
-      "latest_at": "2026-11-11T00:10:31Z",
-      "primary_item": {
-        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-        "title": "GitHub App support for Enterprise Copilot seat management",
-        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-11T00:10:31Z",
-        "ai_score": 0.91,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_b73105fe4ec5",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence: New features, on more devices",
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence: New features, on more devices",
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8808,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T19:00:00Z",
-      "latest_at": "2026-11-10T19:00:00Z",
-      "primary_item": {
-        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-        "title": "Gemini Intelligence: New features, on more devices",
-        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T19:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
       "story_id": "story_f28f90d2895a",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI News",
@@ -418,7 +148,7 @@
       "sources": [
         {
           "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
           "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -433,7 +163,7 @@
       "items": [
         {
           "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
           "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -471,13 +201,321 @@
       "latest_at": "2026-11-12T00:00:00Z",
       "primary_item": {
         "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
         "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
         "source": "OpenAI News",
         "source_name": "Official AI Updates",
         "published_at": "2026-11-12T00:00:00Z",
         "ai_score": 0.91,
         "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b22522d14a17",
+      "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "primary_url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T05:01:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T05:01:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9097,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T05:01:16Z",
+      "latest_at": "2026-11-11T05:01:16Z",
+      "primary_item": {
+        "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+        "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-11T05:01:16Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_14eef01dc0f4",
+      "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "primary_url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
+          "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
+          "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9635,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T09:00:00Z",
+      "latest_at": "2026-11-11T09:00:00Z",
+      "primary_item": {
+        "id": "b987ab812262afb4d370b04d94c99774bc976b63",
+        "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-11T09:00:00Z",
+        "ai_score": 0.87,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_871ae47d300c",
+      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8482,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T00:10:31Z",
+      "latest_at": "2026-11-11T00:10:31Z",
+      "primary_item": {
+        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-11T00:10:31Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_80b38ea7da37",
+      "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9497,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T08:00:00Z",
+      "latest_at": "2026-11-11T08:00:00Z",
+      "primary_item": {
+        "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+        "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-11T08:00:00Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -520,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8865,
+        "recency": 0.7922,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -555,6 +593,102 @@
         "published_at": "2026-11-10T19:26:51Z",
         "ai_score": 0.95,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f2f467c089d1",
+      "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+      "url": "https://www.aibase.com/news/32243",
+      "primary_url": "https://www.aibase.com/news/32243",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "782fa871de57efe38bbe7952348af6eae5568931",
+          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "url": "https://www.aibase.com/news/32243",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:34:27.740780Z"
+        },
+        {
+          "id": "ea1af221826efdc8c5c896867f6c2adcac2b6488",
+          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "url": "https://www.aibase.com/zh/news/32243",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "782fa871de57efe38bbe7952348af6eae5568931",
+          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "url": "https://www.aibase.com/news/32243",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:34:27.740780Z"
+        },
+        {
+          "id": "ea1af221826efdc8c5c896867f6c2adcac2b6488",
+          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "url": "https://www.aibase.com/zh/news/32243",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T11:34:27.740780Z",
+      "latest_at": "2026-11-11T11:34:27.740780Z",
+      "primary_item": {
+        "id": "782fa871de57efe38bbe7952348af6eae5568931",
+        "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+        "url": "https://www.aibase.com/news/32243",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-11T11:34:27.740780Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_tech",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -616,19 +750,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7966,
+        "recency": 0.7119,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -652,6 +786,179 @@
         "published_at": "2026-11-10T12:02:28Z",
         "ai_score": 0.87,
         "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b73105fe4ec5",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence: New features, on more devices",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence: New features, on more devices",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7871,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T19:00:00Z",
+      "latest_at": "2026-11-10T19:00:00Z",
+      "primary_item": {
+        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+        "title": "Gemini Intelligence: New features, on more devices",
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T19:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_81677a3ab592",
+      "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+      "url": "https://www.aibase.com/news/32249",
+      "primary_url": "https://www.aibase.com/news/32249",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
+          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "url": "https://www.aibase.com/news/32249",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:34:27.740780Z"
+        },
+        {
+          "id": "f347fe809e86302ef0dd11fecb9e4b950f158420",
+          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "url": "https://www.aibase.com/zh/news/32249",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
+          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "url": "https://www.aibase.com/news/32249",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:34:27.740780Z"
+        },
+        {
+          "id": "f347fe809e86302ef0dd11fecb9e4b950f158420",
+          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "url": "https://www.aibase.com/zh/news/32249",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T11:34:27.740780Z",
+      "latest_at": "2026-11-11T11:34:27.740780Z",
+      "primary_item": {
+        "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
+        "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+        "url": "https://www.aibase.com/news/32249",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-11T11:34:27.740780Z",
+        "ai_score": 1.0,
+        "ai_label": "industry_business",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -694,19 +1001,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8077,
+        "recency": 0.7218,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -734,295 +1041,6 @@
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_ac21b81512b6",
-      "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-      "url": "https://www.aibase.com/news/32237",
-      "primary_url": "https://www.aibase.com/news/32237",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "url": "https://www.aibase.com/news/32237",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
-        },
-        {
-          "id": "81e07b4ef74a8311b32049c51bb22cb25e2784cb",
-          "title": "AMD 推出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "url": "https://www.aibase.com/zh/news/32237",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "url": "https://www.aibase.com/news/32237",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
-        },
-        {
-          "id": "81e07b4ef74a8311b32049c51bb22cb25e2784cb",
-          "title": "AMD 推出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "url": "https://www.aibase.com/zh/news/32237",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T03:47:29.032544Z",
-      "latest_at": "2026-11-11T03:47:29.032544Z",
-      "primary_item": {
-        "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-        "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-        "url": "https://www.aibase.com/news/32237",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-11T03:47:29.032544Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_3588ceed4155",
-      "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "primary_url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
-          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
-          "url": "https://openai.com/index/ai-effect-on-freelance-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T07:00:00Z"
-        },
-        {
-          "id": "d58ebd9dd29eb37a395a86ebe2d6c0765af683d0",
-          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI's effect on freelance work",
-          "url": "https://openai.com/index/ai-effect-on-freelance-work",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:02:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
-          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
-          "url": "https://openai.com/index/ai-effect-on-freelance-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T07:00:00Z"
-        },
-        {
-          "id": "d58ebd9dd29eb37a395a86ebe2d6c0765af683d0",
-          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI's effect on freelance work",
-          "url": "https://openai.com/index/ai-effect-on-freelance-work",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:02:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7406,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T07:00:00Z",
-      "latest_at": "2026-11-10T18:02:54Z",
-      "primary_item": {
-        "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
-        "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
-        "url": "https://openai.com/index/ai-effect-on-freelance-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T07:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_86383943d07b",
-      "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-      "url": "https://www.aibase.com/news/32234",
-      "primary_url": "https://www.aibase.com/news/32234",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9a2633af544224057fd6dc1a20012d1a367c2a0b",
-          "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-          "url": "https://www.aibase.com/news/32234",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
-        },
-        {
-          "id": "946c4bda0a9bb6b5f7b6ae6164bed9a3c68c26f3",
-          "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-          "url": "https://www.aibase.com/zh/news/32234",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9a2633af544224057fd6dc1a20012d1a367c2a0b",
-          "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-          "url": "https://www.aibase.com/news/32234",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
-        },
-        {
-          "id": "946c4bda0a9bb6b5f7b6ae6164bed9a3c68c26f3",
-          "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-          "url": "https://www.aibase.com/zh/news/32234",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T03:47:29.032544Z",
-      "latest_at": "2026-11-11T03:47:29.032544Z",
-      "primary_item": {
-        "id": "9a2633af544224057fd6dc1a20012d1a367c2a0b",
-        "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-        "url": "https://www.aibase.com/news/32234",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-11T03:47:29.032544Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -1060,15 +1078,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8566,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1093,6 +1111,256 @@
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates",
         "published_at": "2026-11-10T17:04:10Z",
+        "ai_score": 0.87,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_46ecb159c153",
+      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7115,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T12:00:00Z",
+      "latest_at": "2026-11-10T12:00:00Z",
+      "primary_item": {
+        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T12:00:00Z",
+        "ai_score": 0.91,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8b09982dc041",
+      "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+      "url": "https://www.aibase.com/news/32253",
+      "primary_url": "https://www.aibase.com/news/32253",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
+          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "url": "https://www.aibase.com/news/32253",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:34:27.740780Z"
+        },
+        {
+          "id": "f8fd3db7aa278f5e85f3e1f53125abf85185bf59",
+          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "url": "https://www.aibase.com/zh/news/32253",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
+          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "url": "https://www.aibase.com/news/32253",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:34:27.740780Z"
+        },
+        {
+          "id": "f8fd3db7aa278f5e85f3e1f53125abf85185bf59",
+          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "url": "https://www.aibase.com/zh/news/32253",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T11:34:27.740780Z",
+      "latest_at": "2026-11-11T11:34:27.740780Z",
+      "primary_item": {
+        "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
+        "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+        "url": "https://www.aibase.com/news/32253",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-11T11:34:27.740780Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b7cb9f6e5192",
+      "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7359,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 33,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:20:05Z",
+      "latest_at": "2026-11-10T14:20:05Z",
+      "primary_item": {
+        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+        "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
+        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-10T14:20:05Z",
         "ai_score": 0.87,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1137,19 +1405,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8194,
+        "recency": 0.7323,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1180,26 +1448,26 @@
       }
     },
     {
-      "story_id": "story_6148cd86cce0",
-      "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-      "url": "https://www.aibase.com/news/32231",
-      "primary_url": "https://www.aibase.com/news/32231",
+      "story_id": "story_c6ba452028d3",
+      "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+      "url": "https://www.aibase.com/news/32251",
+      "primary_url": "https://www.aibase.com/news/32251",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1ff43ed24d4d03bd0eb6d95778d7ae9dc81c2ef4",
-          "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-          "url": "https://www.aibase.com/news/32231",
+          "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
+          "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "url": "https://www.aibase.com/news/32251",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
+          "published_at": "2026-11-11T11:34:27.740780Z"
         },
         {
-          "id": "9d6b9b6ae209aa2dcc6c87091739456678a77789",
-          "title": "ChatGPT 开启「商家门面」：12 亿周活变广告位，企业可认领资料、架设 AI 客服",
-          "url": "https://www.aibase.com/zh/news/32231",
+          "id": "6156579e7c050f1b91e4dff518975fc5b222a71d",
+          "title": "北京互联网法院：平台误判 AI 生成内容未标识构成违约",
+          "url": "https://www.aibase.com/zh/news/32251",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1213,18 +1481,18 @@
       ],
       "items": [
         {
-          "id": "1ff43ed24d4d03bd0eb6d95778d7ae9dc81c2ef4",
-          "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-          "url": "https://www.aibase.com/news/32231",
+          "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
+          "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "url": "https://www.aibase.com/news/32251",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
+          "published_at": "2026-11-11T11:34:27.740780Z"
         },
         {
-          "id": "9d6b9b6ae209aa2dcc6c87091739456678a77789",
-          "title": "ChatGPT 开启「商家门面」：12 亿周活变广告位，企业可认领资料、架设 AI 客服",
-          "url": "https://www.aibase.com/zh/news/32231",
+          "id": "6156579e7c050f1b91e4dff518975fc5b222a71d",
+          "title": "北京互联网法院：平台误判 AI 生成内容未标识构成违约",
+          "url": "https://www.aibase.com/zh/news/32251",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1257,15 +1525,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T03:47:29.032544Z",
-      "latest_at": "2026-11-11T03:47:29.032544Z",
+      "earliest_at": "2026-11-11T11:34:27.740780Z",
+      "latest_at": "2026-11-11T11:34:27.740780Z",
       "primary_item": {
-        "id": "1ff43ed24d4d03bd0eb6d95778d7ae9dc81c2ef4",
-        "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-        "url": "https://www.aibase.com/news/32231",
+        "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
+        "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+        "url": "https://www.aibase.com/news/32251",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-11T03:47:29.032544Z",
+        "published_at": "2026-11-11T11:34:27.740780Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ae72a094c442",
+      "title": "用 Claude 写开源驱动，引来 Synaptics 的 2.5 万美元索赔威胁",
+      "url": "https://www.aibase.com/news/32247",
+      "primary_url": "https://www.aibase.com/news/32247",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3932ee552ae0f3279aee6a391428312dc9e29347",
+          "title": "用 Claude 写开源驱动，引来 Synaptics 的 2.5 万美元索赔威胁",
+          "url": "https://www.aibase.com/news/32247",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:34:27.740780Z"
+        },
+        {
+          "id": "513a26a379a213d2067539e21bc89df3812a34de",
+          "title": "用 Claude 写开源驱动，引来 Synaptics 的 2.5 万美元索赔威胁",
+          "url": "https://www.aibase.com/zh/news/32247",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3932ee552ae0f3279aee6a391428312dc9e29347",
+          "title": "用 Claude 写开源驱动，引来 Synaptics 的 2.5 万美元索赔威胁",
+          "url": "https://www.aibase.com/news/32247",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:34:27.740780Z"
+        },
+        {
+          "id": "513a26a379a213d2067539e21bc89df3812a34de",
+          "title": "用 Claude 写开源驱动，引来 Synaptics 的 2.5 万美元索赔威胁",
+          "url": "https://www.aibase.com/zh/news/32247",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T11:34:27.740780Z",
+      "latest_at": "2026-11-11T11:34:27.740780Z",
+      "primary_item": {
+        "id": "3932ee552ae0f3279aee6a391428312dc9e29347",
+        "title": "用 Claude 写开源驱动，引来 Synaptics 的 2.5 万美元索赔威胁",
+        "url": "https://www.aibase.com/news/32247",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-11T11:34:27.740780Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -1276,498 +1640,163 @@
       }
     },
     {
-      "story_id": "story_46ecb159c153",
-      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2df82173bb28",
+      "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-10",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7961,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T12:00:00Z",
-      "latest_at": "2026-11-10T12:00:00Z",
-      "primary_item": {
-        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T12:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_b7cb9f6e5192",
-      "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
-      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-          "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
-          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:20:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-          "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
-          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:20:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8234,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T14:20:05Z",
-      "latest_at": "2026-11-10T14:20:05Z",
-      "primary_item": {
-        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-        "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
-        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T14:20:05Z",
-        "ai_score": 0.87,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_6b268d6df8e4",
-      "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
-      "url": "https://www.aibase.com/news/32222",
-      "primary_url": "https://www.aibase.com/news/32222",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb9e0e4b74081d64e1fb59c9121e443e6d49b1b2",
-          "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
-          "url": "https://www.aibase.com/news/32222",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
+          "id": "bfecd76b45b3b8ba9abe0981a5daf7816f721287",
+          "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
         },
         {
-          "id": "7ea94bfff0a1ee4f35d45aaf1ec7896b4a81b4e3",
-          "title": "MiniMax 开源 H3-Image：10 秒生成 16MP 图像，价格仅同档工具 50%–70%",
-          "url": "https://www.aibase.com/zh/news/32222",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bb9e0e4b74081d64e1fb59c9121e443e6d49b1b2",
-          "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
-          "url": "https://www.aibase.com/news/32222",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
+          "id": "bf187b40bff373478fa2f5fc455f4e4f5953051e",
+          "title": "MiniMax 开源 H3-Image 图像模型，10秒就能产出4096×4096的4K高清图，兼顾细节真实感、出色指令理解，最多支持16张参考图，而且还是同档位主流工具的5至7折。不管是二次微调的开发者，还是追求高效出图的创作者，都能拿到高性价比的视觉生成方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
         },
         {
-          "id": "7ea94bfff0a1ee4f35d45aaf1ec7896b4a81b4e3",
-          "title": "MiniMax 开源 H3-Image：10 秒生成 16MP 图像，价格仅同档工具 50%–70%",
-          "url": "https://www.aibase.com/zh/news/32222",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T03:47:29.032544Z",
-      "latest_at": "2026-11-11T03:47:29.032544Z",
-      "primary_item": {
-        "id": "bb9e0e4b74081d64e1fb59c9121e443e6d49b1b2",
-        "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
-        "url": "https://www.aibase.com/news/32222",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-11T03:47:29.032544Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_tech",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_01a8528fa117",
-      "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "primary_url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7623,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T09:00:00Z",
-      "latest_at": "2026-11-10T09:00:00Z",
-      "primary_item": {
-        "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-        "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T09:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_6590936a5723",
-      "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:34:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:34:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7799,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T10:34:35Z",
-      "latest_at": "2026-11-10T10:34:35Z",
-      "primary_item": {
-        "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-        "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-        "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-10T10:34:35Z",
-        "ai_score": 0.87,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_2479f0b88359",
-      "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在\"人\"",
-      "url": "https://www.aibase.com/news/32233",
-      "primary_url": "https://www.aibase.com/news/32233",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4da9ea72b9b078d7d2d0e468005b66a6f7cdc935",
-          "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在\"人\"",
-          "url": "https://www.aibase.com/news/32233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
+          "id": "1fb2cf77f756934d0f9bb0161c43c32efef157ff",
+          "title": "作者在灰度到 GPT-6.2 Sol 后，连跑了代码动画、交互式 3D、网站设计和 AI 剪辑等案例，还放出了成片供大家对照。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
         },
         {
-          "id": "5a0550c5b94c0df908a093f3853e04334508a7bf",
-          "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在「人」",
-          "url": "https://www.aibase.com/zh/news/32233",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "611cf806de943f7793ea7d1e9bd3ad797a9f92fb",
+          "title": "作者用豆包里的 Seedream 5.5，给 LLM 推理和后训练画了三张原理图。第一张定稿之后，又在同一个对话里对它连续提了 30 轮修改，每轮改一两处。看看最终生成的效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
+        },
+        {
+          "id": "fbcd0136c7b6f0a33a1d3d66d88bca68e10a94a2",
+          "title": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
+        },
+        {
+          "id": "b4a366110171601f07211cc746d49bd030541736",
+          "title": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 6,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "社区更新 · 2026-11-10"
       ],
       "items": [
         {
-          "id": "4da9ea72b9b078d7d2d0e468005b66a6f7cdc935",
-          "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在\"人\"",
-          "url": "https://www.aibase.com/news/32233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T03:47:29.032544Z"
+          "id": "bfecd76b45b3b8ba9abe0981a5daf7816f721287",
+          "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
         },
         {
-          "id": "5a0550c5b94c0df908a093f3853e04334508a7bf",
-          "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在「人」",
-          "url": "https://www.aibase.com/zh/news/32233",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "bf187b40bff373478fa2f5fc455f4e4f5953051e",
+          "title": "MiniMax 开源 H3-Image 图像模型，10秒就能产出4096×4096的4K高清图，兼顾细节真实感、出色指令理解，最多支持16张参考图，而且还是同档位主流工具的5至7折。不管是二次微调的开发者，还是追求高效出图的创作者，都能拿到高性价比的视觉生成方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
+        },
+        {
+          "id": "1fb2cf77f756934d0f9bb0161c43c32efef157ff",
+          "title": "作者在灰度到 GPT-6.2 Sol 后，连跑了代码动画、交互式 3D、网站设计和 AI 剪辑等案例，还放出了成片供大家对照。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
+        },
+        {
+          "id": "611cf806de943f7793ea7d1e9bd3ad797a9f92fb",
+          "title": "作者用豆包里的 Seedream 5.5，给 LLM 推理和后训练画了三张原理图。第一张定稿之后，又在同一个对话里对它连续提了 30 轮修改，每轮改一两处。看看最终生成的效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
+        },
+        {
+          "id": "fbcd0136c7b6f0a33a1d3d66d88bca68e10a94a2",
+          "title": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
+        },
+        {
+          "id": "b4a366110171601f07211cc746d49bd030541736",
+          "title": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T18:22:04.315507Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6296,
+      "importance": 0.6296,
+      "importance_score": 0.6296,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.78,
+        "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-11T03:47:29.032544Z",
-      "latest_at": "2026-11-11T03:47:29.032544Z",
+      "earliest_at": "2026-11-10T18:22:04.315507Z",
+      "latest_at": "2026-11-10T18:22:04.315507Z",
       "primary_item": {
-        "id": "4da9ea72b9b078d7d2d0e468005b66a6f7cdc935",
-        "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在\"人\"",
-        "url": "https://www.aibase.com/news/32233",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-11T03:47:29.032544Z",
-        "ai_score": 1.0,
-        "ai_label": "industry_business",
+        "id": "bfecd76b45b3b8ba9abe0981a5daf7816f721287",
+        "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-10",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-11-10T18:22:04.315507Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
