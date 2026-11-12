@@ -1,87 +1,8 @@
 {
-  "generated_at": "2026-11-12T17:20:26.903488Z",
+  "generated_at": "2026-11-12T22:48:12.088490Z",
   "window_hours": 24,
-  "total_items": 2,
+  "total_items": 1,
   "items": [
-    {
-      "story_id": "story_c28c00ec12e3",
-      "title": "美联航出于安全考虑，采取措施禁止人工智能客服进入其平台",
-      "url": "https://reut.rs/4kMtYYc",
-      "primary_url": "https://reut.rs/4kMtYYc",
-      "source": "reut.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dd7a1305465c0b38c75ba3c9fe45692b3de51a48",
-          "title": "美联航出于安全考虑，采取措施禁止人工智能客服进入其平台",
-          "url": "https://reut.rs/4kMtYYc",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T19:41:49.763000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "reut.rs"
-      ],
-      "items": [
-        {
-          "id": "dd7a1305465c0b38c75ba3c9fe45692b3de51a48",
-          "title": "美联航出于安全考虑，采取措施禁止人工智能客服进入其平台",
-          "url": "https://reut.rs/4kMtYYc",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T19:41:49.763000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.4725,
-      "importance": 0.4725,
-      "importance_score": 0.4725,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7316,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 73,
-      "enterprise_importance_score": 68,
-      "enterprise_primary_topic": "intelligent_customer_service",
-      "enterprise_topics": [
-        "intelligent_customer_service"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：智能客服；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-11T19:41:49.763000Z",
-      "latest_at": "2026-11-11T19:41:49.763000Z",
-      "primary_item": {
-        "id": "dd7a1305465c0b38c75ba3c9fe45692b3de51a48",
-        "title": "美联航出于安全考虑，采取措施禁止人工智能客服进入其平台",
-        "url": "https://reut.rs/4kMtYYc",
-        "source": "reut.rs",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-11T19:41:49.763000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 73,
-        "enterprise_primary_topic": "intelligent_customer_service",
-        "enterprise_topics": [
-          "intelligent_customer_service"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：智能客服；包含实施、架构、指标或结果信号"
-      }
-    },
     {
       "story_id": "story_aae421f45678",
       "title": "使用 Foundry Agent Service 构建代理 AI 应用程序的最佳实践 / Best practices for building agentic AI applications with Foundry Agent Service",
@@ -117,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7775,
+        "recency": 0.7186,
         "story_heat": 0.0
       },
       "enterprise_score": 63,
