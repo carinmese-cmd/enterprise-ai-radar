@@ -1,8 +1,104 @@
 {
-  "generated_at": "2026-11-13T03:01:50.096757Z",
+  "generated_at": "2026-11-13T11:18:58.744209Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aff218038415ee87812e41136d03188eae6f9248",
+          "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
+        },
+        {
+          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
+          "title": "法典 CLI 0.169.0 / Codex CLI 0.169.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "aff218038415ee87812e41136d03188eae6f9248",
+          "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
+        },
+        {
+          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
+          "title": "法典 CLI 0.169.0 / Codex CLI 0.169.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8639,
+      "importance": 0.8639,
+      "importance_score": 0.8639,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8492,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T00:00:00Z",
+      "latest_at": "2026-11-13T00:00:00Z",
+      "primary_item": {
+        "id": "aff218038415ee87812e41136d03188eae6f9248",
+        "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-13T00:00:00Z",
+        "ai_score": 0.98,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
     {
       "story_id": "story_a88bddb17214",
       "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
@@ -38,15 +134,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8921,
+        "recency": 0.7915,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -115,19 +211,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9423,
+        "recency": 0.836,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -192,15 +288,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9035,
+        "recency": 0.8016,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -269,15 +365,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8779,
+        "recency": 0.7789,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -346,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8777,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -423,19 +519,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9165,
+        "recency": 0.8132,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -457,6 +553,102 @@
         "source_name": "Official AI Updates",
         "published_at": "2026-11-12T20:59:36Z",
         "ai_score": 0.87,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_524073fec7c2",
+      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+      "url": "https://www.aibase.com/news/32309",
+      "primary_url": "https://www.aibase.com/news/32309",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "url": "https://www.aibase.com/news/32309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T11:18:58.744209Z"
+        },
+        {
+          "id": "1a4844a33884b7c8ec8fe4ccc031d88e9f8f27b2",
+          "title": "Happy 系列再添一员，阿里以端到端整曲生成切入 AI 音乐赛道",
+          "url": "https://www.aibase.com/zh/news/32309",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "url": "https://www.aibase.com/news/32309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T11:18:58.744209Z"
+        },
+        {
+          "id": "1a4844a33884b7c8ec8fe4ccc031d88e9f8f27b2",
+          "title": "Happy 系列再添一员，阿里以端到端整曲生成切入 AI 音乐赛道",
+          "url": "https://www.aibase.com/zh/news/32309",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T11:18:58.744209Z",
+      "latest_at": "2026-11-13T11:18:58.744209Z",
+      "primary_item": {
+        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "url": "https://www.aibase.com/news/32309",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-13T11:18:58.744209Z",
+        "ai_score": 1.0,
         "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -500,19 +692,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8049,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -535,102 +727,6 @@
         "published_at": "2026-11-12T12:00:00Z",
         "ai_score": 0.95,
         "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_54fb860333e6",
-      "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-      "url": "https://www.aibase.com/news/32296",
-      "primary_url": "https://www.aibase.com/news/32296",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
-          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-          "url": "https://www.aibase.com/news/32296",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
-        },
-        {
-          "id": "8dc92dfb2f3e43c353e79ac6490f4384f756967a",
-          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-          "url": "https://www.aibase.com/zh/news/32296",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
-          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-          "url": "https://www.aibase.com/news/32296",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
-        },
-        {
-          "id": "8dc92dfb2f3e43c353e79ac6490f4384f756967a",
-          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-          "url": "https://www.aibase.com/zh/news/32296",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T03:01:50.096757Z",
-      "latest_at": "2026-11-13T03:01:50.096757Z",
-      "primary_item": {
-        "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
-        "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
-        "url": "https://www.aibase.com/news/32296",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-13T03:01:50.096757Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -673,19 +769,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8362,
+        "recency": 0.7419,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -716,26 +812,26 @@
       }
     },
     {
-      "story_id": "story_eb35f364329c",
-      "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
-      "url": "https://www.aibase.com/news/32295",
-      "primary_url": "https://www.aibase.com/news/32295",
+      "story_id": "story_866eb7e208fb",
+      "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+      "url": "https://www.aibase.com/news/32317",
+      "primary_url": "https://www.aibase.com/news/32317",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
-          "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
-          "url": "https://www.aibase.com/news/32295",
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "url": "https://www.aibase.com/news/32317",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
+          "published_at": "2026-11-13T11:18:58.744209Z"
         },
         {
-          "id": "e90fafbc9c39e434bba20fbb702da3979d0d761b",
-          "title": "Anthropic 推出 Claude Meetings，可加入 Google Meet 参与会议",
-          "url": "https://www.aibase.com/zh/news/32295",
+          "id": "910c388ba88264abdab8b71511538601330598bb",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "url": "https://www.aibase.com/zh/news/32317",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -749,18 +845,18 @@
       ],
       "items": [
         {
-          "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
-          "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
-          "url": "https://www.aibase.com/news/32295",
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "url": "https://www.aibase.com/news/32317",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
+          "published_at": "2026-11-13T11:18:58.744209Z"
         },
         {
-          "id": "e90fafbc9c39e434bba20fbb702da3979d0d761b",
-          "title": "Anthropic 推出 Claude Meetings，可加入 Google Meet 参与会议",
-          "url": "https://www.aibase.com/zh/news/32295",
+          "id": "910c388ba88264abdab8b71511538601330598bb",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "url": "https://www.aibase.com/zh/news/32317",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -793,94 +889,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:01:50.096757Z",
-      "latest_at": "2026-11-13T03:01:50.096757Z",
+      "earliest_at": "2026-11-13T11:18:58.744209Z",
+      "latest_at": "2026-11-13T11:18:58.744209Z",
       "primary_item": {
-        "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
-        "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
-        "url": "https://www.aibase.com/news/32295",
+        "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+        "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "url": "https://www.aibase.com/news/32317",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-13T03:01:50.096757Z",
+        "published_at": "2026-11-13T11:18:58.744209Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_0990939c7d6e",
-      "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "primary_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56ac938b70352617ddc35b273b898745281efb48",
-          "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T09:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "56ac938b70352617ddc35b273b898745281efb48",
-          "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T09:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7764,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T09:30:00Z",
-      "latest_at": "2026-11-12T09:30:00Z",
-      "primary_item": {
-        "id": "56ac938b70352617ddc35b273b898745281efb48",
-        "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-12T09:30:00Z",
-        "ai_score": 0.95,
-        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -923,19 +942,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.836,
+        "recency": 0.7417,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -966,26 +985,26 @@
       }
     },
     {
-      "story_id": "story_c6b5946665ab",
-      "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
-      "url": "https://www.aibase.com/news/32294",
-      "primary_url": "https://www.aibase.com/news/32294",
+      "story_id": "story_8eb03feffba9",
+      "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+      "url": "https://www.aibase.com/news/32310",
+      "primary_url": "https://www.aibase.com/news/32310",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
-          "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
-          "url": "https://www.aibase.com/news/32294",
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "url": "https://www.aibase.com/news/32310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
+          "published_at": "2026-11-13T11:18:58.744209Z"
         },
         {
-          "id": "b9a162d5ef8f86de0a0904456e7e32bd13d7a735",
-          "title": "Meta 开放 Muse AI 电话代办功能，面向所有付费用户推出",
-          "url": "https://www.aibase.com/zh/news/32294",
+          "id": "849c1b96e3fbce05317ba8d23fd1b88eb4a0f0bf",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "url": "https://www.aibase.com/zh/news/32310",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -999,18 +1018,18 @@
       ],
       "items": [
         {
-          "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
-          "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
-          "url": "https://www.aibase.com/news/32294",
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "url": "https://www.aibase.com/news/32310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
+          "published_at": "2026-11-13T11:18:58.744209Z"
         },
         {
-          "id": "b9a162d5ef8f86de0a0904456e7e32bd13d7a735",
-          "title": "Meta 开放 Muse AI 电话代办功能，面向所有付费用户推出",
-          "url": "https://www.aibase.com/zh/news/32294",
+          "id": "849c1b96e3fbce05317ba8d23fd1b88eb4a0f0bf",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "url": "https://www.aibase.com/zh/news/32310",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1043,15 +1062,207 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:01:50.096757Z",
-      "latest_at": "2026-11-13T03:01:50.096757Z",
+      "earliest_at": "2026-11-13T11:18:58.744209Z",
+      "latest_at": "2026-11-13T11:18:58.744209Z",
       "primary_item": {
-        "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
-        "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
-        "url": "https://www.aibase.com/news/32294",
+        "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+        "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+        "url": "https://www.aibase.com/news/32310",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-13T03:01:50.096757Z",
+        "published_at": "2026-11-13T11:18:58.744209Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8325a72c1bcb",
+      "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+      "url": "https://www.aibase.com/news/32311",
+      "primary_url": "https://www.aibase.com/news/32311",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "url": "https://www.aibase.com/news/32311",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T11:18:58.744209Z"
+        },
+        {
+          "id": "9edc51abd656643b67a5b4066c93b709a28b0ddf",
+          "title": "OpenAI 上市前夜再融 150 亿美元，估值推至 1.25 万亿美元",
+          "url": "https://www.aibase.com/zh/news/32311",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "url": "https://www.aibase.com/news/32311",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T11:18:58.744209Z"
+        },
+        {
+          "id": "9edc51abd656643b67a5b4066c93b709a28b0ddf",
+          "title": "OpenAI 上市前夜再融 150 亿美元，估值推至 1.25 万亿美元",
+          "url": "https://www.aibase.com/zh/news/32311",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T11:18:58.744209Z",
+      "latest_at": "2026-11-13T11:18:58.744209Z",
+      "primary_item": {
+        "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+        "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+        "url": "https://www.aibase.com/news/32311",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-13T11:18:58.744209Z",
+        "ai_score": 1.0,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_9ec5c0fe02ca",
+      "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+      "url": "https://www.aibase.com/news/32305",
+      "primary_url": "https://www.aibase.com/news/32305",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/news/32305",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T11:18:58.744209Z"
+        },
+        {
+          "id": "818752449c56452427a32caa604c7ac2e368e5dc",
+          "title": "关停五年，「虾米」借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/zh/news/32305",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/news/32305",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T11:18:58.744209Z"
+        },
+        {
+          "id": "818752449c56452427a32caa604c7ac2e368e5dc",
+          "title": "关停五年，「虾米」借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/zh/news/32305",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T11:18:58.744209Z",
+      "latest_at": "2026-11-13T11:18:58.744209Z",
+      "primary_item": {
+        "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+        "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+        "url": "https://www.aibase.com/news/32305",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-13T11:18:58.744209Z",
         "ai_score": 1.0,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1062,26 +1273,26 @@
       }
     },
     {
-      "story_id": "story_9c40bf72aa75",
-      "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
-      "url": "https://www.aibase.com/news/32290",
-      "primary_url": "https://www.aibase.com/news/32290",
+      "story_id": "story_20109b501db8",
+      "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+      "url": "https://www.aibase.com/news/32306",
+      "primary_url": "https://www.aibase.com/news/32306",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e2ddc2de8e8ad8cb86a2912a54fe6f454d08a7de",
-          "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
-          "url": "https://www.aibase.com/news/32290",
+          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "url": "https://www.aibase.com/news/32306",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
+          "published_at": "2026-11-13T11:18:58.744209Z"
         },
         {
-          "id": "17bc6a3981e4aba50e7d1902f9fcf557f80e39c1",
-          "title": "Samsung 联合 Google 推出 AI 智能眼镜，12 月 10 日正式开售",
-          "url": "https://www.aibase.com/zh/news/32290",
+          "id": "81643533e39fe34a75926dc7dcc028b9288d5075",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "url": "https://www.aibase.com/zh/news/32306",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1095,18 +1306,18 @@
       ],
       "items": [
         {
-          "id": "e2ddc2de8e8ad8cb86a2912a54fe6f454d08a7de",
-          "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
-          "url": "https://www.aibase.com/news/32290",
+          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "url": "https://www.aibase.com/news/32306",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
+          "published_at": "2026-11-13T11:18:58.744209Z"
         },
         {
-          "id": "17bc6a3981e4aba50e7d1902f9fcf557f80e39c1",
-          "title": "Samsung 联合 Google 推出 AI 智能眼镜，12 月 10 日正式开售",
-          "url": "https://www.aibase.com/zh/news/32290",
+          "id": "81643533e39fe34a75926dc7dcc028b9288d5075",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "url": "https://www.aibase.com/zh/news/32306",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1139,113 +1350,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:01:50.096757Z",
-      "latest_at": "2026-11-13T03:01:50.096757Z",
+      "earliest_at": "2026-11-13T11:18:58.744209Z",
+      "latest_at": "2026-11-13T11:18:58.744209Z",
       "primary_item": {
-        "id": "e2ddc2de8e8ad8cb86a2912a54fe6f454d08a7de",
-        "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
-        "url": "https://www.aibase.com/news/32290",
+        "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
+        "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+        "url": "https://www.aibase.com/news/32306",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-13T03:01:50.096757Z",
+        "published_at": "2026-11-13T11:18:58.744209Z",
         "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_1195c1976809",
-      "title": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
-      "url": "https://www.aibase.com/news/32299",
-      "primary_url": "https://www.aibase.com/news/32299",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "029d08dfc5bdc4f1e2c9ade6682caebbf8abfc6e",
-          "title": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
-          "url": "https://www.aibase.com/news/32299",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
-        },
-        {
-          "id": "37e214a9e6345930e82e73ab0f9c1634c14498e4",
-          "title": "从超级小布到 AI 原生硬件，OPPO 加速拓展 AI 终端布局",
-          "url": "https://www.aibase.com/zh/news/32299",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "029d08dfc5bdc4f1e2c9ade6682caebbf8abfc6e",
-          "title": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
-          "url": "https://www.aibase.com/news/32299",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
-        },
-        {
-          "id": "37e214a9e6345930e82e73ab0f9c1634c14498e4",
-          "title": "从超级小布到 AI 原生硬件，OPPO 加速拓展 AI 终端布局",
-          "url": "https://www.aibase.com/zh/news/32299",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T03:01:50.096757Z",
-      "latest_at": "2026-11-13T03:01:50.096757Z",
-      "primary_item": {
-        "id": "029d08dfc5bdc4f1e2c9ade6682caebbf8abfc6e",
-        "title": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
-        "url": "https://www.aibase.com/news/32299",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-13T03:01:50.096757Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
+        "ai_label": "infra_compute",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1378,15 +1493,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6457,
-      "importance": 0.6457,
-      "importance_score": 0.6457,
+      "score": 0.628,
+      "importance": 0.628,
+      "importance_score": 0.628,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8694,
+        "recency": 0.7714,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -1419,26 +1534,26 @@
       }
     },
     {
-      "story_id": "story_08f7fb324451",
-      "title": "用你们自己的末日预言告你们：五家 AI 巨头遭起诉叫停",
-      "url": "https://www.aibase.com/news/32293",
-      "primary_url": "https://www.aibase.com/news/32293",
+      "story_id": "story_5851583e8c62",
+      "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+      "url": "https://www.aibase.com/news/32320",
+      "primary_url": "https://www.aibase.com/news/32320",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "40be781e933adfa9deaab3caf526fd98fe76fd4b",
-          "title": "用你们自己的末日预言告你们：五家 AI 巨头遭起诉叫停",
-          "url": "https://www.aibase.com/news/32293",
+          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "url": "https://www.aibase.com/news/32320",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
+          "published_at": "2026-11-13T11:18:58.744209Z"
         },
         {
-          "id": "e78aad9854e3bbb1e18cbea88a1af2531c5319c7",
-          "title": "用你们自己的末日预言告你们：五家 AI 巨头遭起诉叫停",
-          "url": "https://www.aibase.com/zh/news/32293",
+          "id": "2f547a924f2ec5d443e66d36c93c144e07f104c2",
+          "title": "腾讯混元发布实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "url": "https://www.aibase.com/zh/news/32320",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1452,18 +1567,18 @@
       ],
       "items": [
         {
-          "id": "40be781e933adfa9deaab3caf526fd98fe76fd4b",
-          "title": "用你们自己的末日预言告你们：五家 AI 巨头遭起诉叫停",
-          "url": "https://www.aibase.com/news/32293",
+          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "url": "https://www.aibase.com/news/32320",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
+          "published_at": "2026-11-13T11:18:58.744209Z"
         },
         {
-          "id": "e78aad9854e3bbb1e18cbea88a1af2531c5319c7",
-          "title": "用你们自己的末日预言告你们：五家 AI 巨头遭起诉叫停",
-          "url": "https://www.aibase.com/zh/news/32293",
+          "id": "2f547a924f2ec5d443e66d36c93c144e07f104c2",
+          "title": "腾讯混元发布实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "url": "https://www.aibase.com/zh/news/32320",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1496,17 +1611,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T03:01:50.096757Z",
-      "latest_at": "2026-11-13T03:01:50.096757Z",
+      "earliest_at": "2026-11-13T11:18:58.744209Z",
+      "latest_at": "2026-11-13T11:18:58.744209Z",
       "primary_item": {
-        "id": "40be781e933adfa9deaab3caf526fd98fe76fd4b",
-        "title": "用你们自己的末日预言告你们：五家 AI 巨头遭起诉叫停",
-        "url": "https://www.aibase.com/news/32293",
+        "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+        "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+        "url": "https://www.aibase.com/news/32320",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-13T03:01:50.096757Z",
+        "published_at": "2026-11-13T11:18:58.744209Z",
         "ai_score": 1.0,
-        "ai_label": "ai_general",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1515,183 +1630,87 @@
       }
     },
     {
-      "story_id": "story_1aaabb65e6a4",
-      "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-      "url": "https://www.aibase.com/news/32298",
-      "primary_url": "https://www.aibase.com/news/32298",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d20b3753c4aa40a3a664d40d45db583147ed5f9e",
-          "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-          "url": "https://www.aibase.com/news/32298",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
-        },
-        {
-          "id": "439813f4d21011619caaf938a9dfca103c687e27",
-          "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-          "url": "https://www.aibase.com/zh/news/32298",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d20b3753c4aa40a3a664d40d45db583147ed5f9e",
-          "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-          "url": "https://www.aibase.com/news/32298",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T03:01:50.096757Z"
-        },
-        {
-          "id": "439813f4d21011619caaf938a9dfca103c687e27",
-          "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-          "url": "https://www.aibase.com/zh/news/32298",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T03:01:50.096757Z",
-      "latest_at": "2026-11-13T03:01:50.096757Z",
-      "primary_item": {
-        "id": "d20b3753c4aa40a3a664d40d45db583147ed5f9e",
-        "title": "谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级",
-        "url": "https://www.aibase.com/news/32298",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-13T03:01:50.096757Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_10ab37804642",
-      "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "primary_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "source": "synthanatomy.com",
+      "story_id": "story_44da454e7900",
+      "title": "claude.ai、Claude Code 和 platform.claude.com 上错误率升高",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "primary_url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "source": "status.claude.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9f00fc2d629096721dffe633692930917d31a4d8",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-          "source": "synthanatomy.com",
+          "id": "ae10f011172bbdcccc32e5e80a58a600f0a92ca5",
+          "title": "claude.ai、Claude Code 和 platform.claude.com 上错误率升高",
+          "url": "https://status.claude.com/incidents/nn11wk485zfn",
+          "source": "status.claude.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-13T02:14:41.035000Z"
+          "published_at": "2026-11-13T10:59:45.170000Z"
         },
         {
-          "id": "1a2565d997e1904cdc3b056ec5deb97cd5b4f6fa",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "id": "460413b42f5815a82fb36194b4007457f155ee1b",
+          "title": "claude.ai、Claude Code 和 platform.claude.com 上错误率升高 / Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+          "url": "https://status.claude.com/incidents/nn11wk485zfn",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-12T21:09:49Z"
+          "published_at": "2026-11-13T10:18:13Z"
         },
         {
-          "id": "42aab307f2251f89fb6092215dd49118288ce466",
-          "title": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "url": "https://news.ycombinator.com/item?id=50474311",
+          "id": "02780f09067a88f3375b876212fbd026a4465dfa",
+          "title": "claude.ai、Claude Code 和 platform.claude.com 上的错误增加 / Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+          "url": "https://news.ycombinator.com/item?id=50481187",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T21:09:49Z"
+          "published_at": "2026-11-13T10:18:13Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "synthanatomy.com"
+        "status.claude.com"
       ],
       "items": [
         {
-          "id": "9f00fc2d629096721dffe633692930917d31a4d8",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-          "source": "synthanatomy.com",
+          "id": "ae10f011172bbdcccc32e5e80a58a600f0a92ca5",
+          "title": "claude.ai、Claude Code 和 platform.claude.com 上错误率升高",
+          "url": "https://status.claude.com/incidents/nn11wk485zfn",
+          "source": "status.claude.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-13T02:14:41.035000Z"
+          "published_at": "2026-11-13T10:59:45.170000Z"
         },
         {
-          "id": "1a2565d997e1904cdc3b056ec5deb97cd5b4f6fa",
-          "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "id": "460413b42f5815a82fb36194b4007457f155ee1b",
+          "title": "claude.ai、Claude Code 和 platform.claude.com 上错误率升高 / Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+          "url": "https://status.claude.com/incidents/nn11wk485zfn",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-12T21:09:49Z"
+          "published_at": "2026-11-13T10:18:13Z"
         },
         {
-          "id": "42aab307f2251f89fb6092215dd49118288ce466",
-          "title": "人工智能正在将苹果的应用程序审核流程变成合成开发人员的噩梦 / AI is turning Apple's app review process into a nightmare for synth developers",
-          "url": "https://news.ycombinator.com/item?id=50474311",
+          "id": "02780f09067a88f3375b876212fbd026a4465dfa",
+          "title": "claude.ai、Claude Code 和 platform.claude.com 上的错误增加 / Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+          "url": "https://news.ycombinator.com/item?id=50481187",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T21:09:49Z"
+          "published_at": "2026-11-13T10:18:13Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5688,
-      "importance": 0.5688,
-      "importance_score": 0.5688,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9887,
+        "recency": 0.9954,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1705,17 +1724,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-12T21:09:49Z",
-      "latest_at": "2026-11-13T02:14:41.035000Z",
+      "earliest_at": "2026-11-13T10:18:13Z",
+      "latest_at": "2026-11-13T10:59:45.170000Z",
       "primary_item": {
-        "id": "9f00fc2d629096721dffe633692930917d31a4d8",
-        "title": "人工智能正让苹果的应用审核流程成为合成器开发者的噩梦",
-        "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-        "source": "synthanatomy.com",
+        "id": "ae10f011172bbdcccc32e5e80a58a600f0a92ca5",
+        "title": "claude.ai、Claude Code 和 platform.claude.com 上错误率升高",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "source": "status.claude.com",
         "source_name": "Buzzing",
-        "published_at": "2026-11-13T02:14:41.035000Z",
+        "published_at": "2026-11-13T10:59:45.170000Z",
         "ai_score": 0.65,
-        "ai_label": "developer_tool",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1724,110 +1743,93 @@
       }
     },
     {
-      "story_id": "story_d096a8a420fb",
-      "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "primary_url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "source": "unemploymentlabs.com",
-      "source_name": "Buzzing",
+      "story_id": "story_54fb860333e6",
+      "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+      "url": "https://www.aibase.com/news/32296",
+      "primary_url": "https://www.aibase.com/news/32296",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "3cc68b936c74be55d2aa1a410005ad5136c7bb99",
-          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "source": "unemploymentlabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T00:06:45.255000Z"
+          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
+          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "url": "https://www.aibase.com/news/32296",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T03:01:50.096757Z"
         },
         {
-          "id": "6c312fc990ac4ab14722c951be8d91fc59de46bb",
-          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹” / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-12T21:56:11Z"
-        },
-        {
-          "id": "89eb990eb3ff3e0192a1fcf799f96b1d115e5be0",
-          "title": "中国前沿人工智能模型带有出口管制GPU的指纹 / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "url": "https://news.ycombinator.com/item?id=50474883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T21:56:11Z"
+          "id": "8dc92dfb2f3e43c353e79ac6490f4384f756967a",
+          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "url": "https://www.aibase.com/zh/news/32296",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "unemploymentlabs.com"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "3cc68b936c74be55d2aa1a410005ad5136c7bb99",
-          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "source": "unemploymentlabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T00:06:45.255000Z"
+          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
+          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "url": "https://www.aibase.com/news/32296",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T03:01:50.096757Z"
         },
         {
-          "id": "6c312fc990ac4ab14722c951be8d91fc59de46bb",
-          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹” / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-12T21:56:11Z"
-        },
-        {
-          "id": "89eb990eb3ff3e0192a1fcf799f96b1d115e5be0",
-          "title": "中国前沿人工智能模型带有出口管制GPU的指纹 / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-          "url": "https://news.ycombinator.com/item?id=50474883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-12T21:56:11Z"
+          "id": "8dc92dfb2f3e43c353e79ac6490f4384f756967a",
+          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "url": "https://www.aibase.com/zh/news/32296",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9587,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8872,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-12T21:56:11Z",
-      "latest_at": "2026-11-13T00:06:45.255000Z",
+      "earliest_at": "2026-11-13T03:01:50.096757Z",
+      "latest_at": "2026-11-13T03:01:50.096757Z",
       "primary_item": {
-        "id": "3cc68b936c74be55d2aa1a410005ad5136c7bb99",
-        "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
-        "url": "https://unemploymentlabs.com/checkpoint-forensics",
-        "source": "unemploymentlabs.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-13T00:06:45.255000Z",
-        "ai_score": 0.65,
+        "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
+        "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+        "url": "https://www.aibase.com/news/32296",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-13T03:01:50.096757Z",
+        "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
