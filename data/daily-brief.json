@@ -1,355 +1,8 @@
 {
-  "generated_at": "2026-11-14T13:52:03.664094Z",
+  "generated_at": "2026-11-14T18:53:56.531102Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_40e78db6601d",
-      "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
-        },
-        {
-          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:05:37Z"
-        },
-        {
-          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hugging Face Blog",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
-        },
-        {
-          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:05:37Z"
-        },
-        {
-          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8577,
-      "importance": 0.8577,
-      "importance_score": 0.8577,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7094,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T14:05:22Z",
-      "latest_at": "2026-11-14T02:05:37Z",
-      "primary_item": {
-        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-        "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-13T14:05:22Z",
-        "ai_score": 0.95,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_e8c3c469932b",
-      "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
-          "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:23:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
-          "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:23:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7549,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T18:23:48Z",
-      "latest_at": "2026-11-13T18:23:48Z",
-      "primary_item": {
-        "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
-        "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-13T18:23:48Z",
-        "ai_score": 0.95,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_5bf4951adbe9",
-      "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-          "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-          "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7188,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T15:00:00Z",
-      "latest_at": "2026-11-13T15:00:00Z",
-      "primary_item": {
-        "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-        "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
-        "url": "https://openai.com/index/introducing-chatgpt-wallet",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-13T15:00:00Z",
-        "ai_score": 0.95,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_2427bacb74a9",
-      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:00:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:00:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7507,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T18:00:39Z",
-      "latest_at": "2026-11-13T18:00:39Z",
-      "primary_item": {
-        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-13T18:00:39Z",
-        "ai_score": 0.98,
-        "ai_label": "robotics",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
     {
       "story_id": "story_bc1ca702be31",
       "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
@@ -385,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7801,
+        "recency": 0.7254,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -420,83 +73,6 @@
         "published_at": "2026-11-13T20:40:05Z",
         "ai_score": 0.91,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_8400bdfe1e2a",
-      "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "primary_url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T17:02:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T17:02:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7403,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 33,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T17:02:35Z",
-      "latest_at": "2026-11-13T17:02:35Z",
-      "primary_item": {
-        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-        "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-        "url": "https://huggingface.co/blog/allenai/xybench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-13T17:02:35Z",
-        "ai_score": 0.95,
-        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -539,15 +115,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9031,
+        "recency": 0.8398,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -559,8 +135,7 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-14T06:48:34.967251Z",
       "latest_at": "2026-11-14T06:48:34.967251Z",
@@ -581,91 +156,68 @@
       }
     },
     {
-      "story_id": "story_18a36c2817e7",
-      "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
-          "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:27:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
-          "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:27:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7555,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T18:27:13Z",
-      "latest_at": "2026-11-13T18:27:13Z",
-      "primary_item": {
-        "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
-        "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-13T18:27:13Z",
-        "ai_score": 0.91,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
       "story_id": "story_2df82173bb28",
-      "title": "WaytoAGI第七期AI硬件训练营顺利结营，超半数学员是零基础小白，依托EasyInput V2.0开发板，在8节课程、社群互助中跑通软硬件开发链路。大家从自身生活需求出发，产出育儿记录、英语学习、桌面工作台等大量落地作品。这篇文章完整收录了学员成长故事、实战金句与可复用踩坑经验，适合想入门 AI 硬件、动手把想法做成实体项目的创作者参考。",
+      "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-13",
+      "source": "社区更新 · 2026-11-14",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "705aa5a299a6a5c17acb294adee87486b65bd8c9",
+          "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "94b4742ba1bc4930b386af83e5194616ed0b9a7b",
+          "title": "作者分享了团队用 Hermes 连续实践 4 个月、每天处理 200 多项自动化任务的经验。希望大家在 Personal AI Agent 之外，也会对企业级 Agent OS 的设计、架构以及应用层有一些常规的认识。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "27f78ed922d255ca891f5e8f1c4bc62e0b27da6c",
+          "title": "你是不是也想用 AI 做科普动画，但装好Skill才发现输出的是网页。作者整理了 11 个项目，从讲解配图、交互演示到成片制作，逐一说明了能交付什么、需要哪些环境，以及费用可能花在哪。可以看看哪些适合你！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "3edfa2a14e7f0ff27fba227b1bd7e461df751dc3",
+          "title": "用 AI 写了不少内容，客户和合作机会却没增加？作者用 Grok Bot 搜集行业动态、潜在客户、赞助商和招聘线索，再用 Claude 整理内容策略、合作提案与服务方案，轻松实现在线月入一万美元。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "26bb9626130c005a2f90079d0ad38ffcf8d7f918",
+          "title": "老金从卖出第一套提示词的经历讲起，分享了普通人用 AI 变现的一条实际路径：从哪里找客户、哪些需求值得接、怎样把事情聊清楚并做好交付。如果你也想迈出第一步，不妨看看他的经验，找到自己能做、也有人愿意付钱的小生意。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "3b0de0480750c824c0880b704aae20e15982de51",
+          "title": "让AI把页面“做得高级一点”，改了几轮还是不满意？很多时候，我们缺的是具体的参考，以及说清“哪里好看”的能力。作者整理了 100 个设计网站，按视频、UI、前端交互、字体配色等 9 类划分，标明了用途和付费情况，方便按项目找灵感。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
           "id": "e2d1ebd590be4fb0b376b65e5e6b346c23a8b475",
           "title": "WaytoAGI第七期AI硬件训练营顺利结营，超半数学员是零基础小白，依托EasyInput V2.0开发板，在8节课程、社群互助中跑通软硬件开发链路。大家从自身生活需求出发，产出育儿记录、英语学习、桌面工作台等大量落地作品。这篇文章完整收录了学员成长故事、实战金句与可复用踩坑经验，适合想入门 AI 硬件、动手把想法做成实体项目的创作者参考。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -702,12 +254,67 @@
           "published_at": "2026-11-14T13:52:03.664094Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 10,
       "source_names": [
-        "社区更新 · 2026-11-13"
+        "社区更新 · 2026-11-13",
+        "社区更新 · 2026-11-14"
       ],
       "items": [
         {
+          "id": "705aa5a299a6a5c17acb294adee87486b65bd8c9",
+          "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "94b4742ba1bc4930b386af83e5194616ed0b9a7b",
+          "title": "作者分享了团队用 Hermes 连续实践 4 个月、每天处理 200 多项自动化任务的经验。希望大家在 Personal AI Agent 之外，也会对企业级 Agent OS 的设计、架构以及应用层有一些常规的认识。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "27f78ed922d255ca891f5e8f1c4bc62e0b27da6c",
+          "title": "你是不是也想用 AI 做科普动画，但装好Skill才发现输出的是网页。作者整理了 11 个项目，从讲解配图、交互演示到成片制作，逐一说明了能交付什么、需要哪些环境，以及费用可能花在哪。可以看看哪些适合你！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "3edfa2a14e7f0ff27fba227b1bd7e461df751dc3",
+          "title": "用 AI 写了不少内容，客户和合作机会却没增加？作者用 Grok Bot 搜集行业动态、潜在客户、赞助商和招聘线索，再用 Claude 整理内容策略、合作提案与服务方案，轻松实现在线月入一万美元。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "26bb9626130c005a2f90079d0ad38ffcf8d7f918",
+          "title": "老金从卖出第一套提示词的经历讲起，分享了普通人用 AI 变现的一条实际路径：从哪里找客户、哪些需求值得接、怎样把事情聊清楚并做好交付。如果你也想迈出第一步，不妨看看他的经验，找到自己能做、也有人愿意付钱的小生意。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
+          "id": "3b0de0480750c824c0880b704aae20e15982de51",
+          "title": "让AI把页面“做得高级一点”，改了几轮还是不满意？很多时候，我们缺的是具体的参考，以及说清“哪里好看”的能力。作者整理了 100 个设计网站，按视频、UI、前端交互、字体配色等 9 类划分，标明了用途和付费情况，方便按项目找灵感。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-14",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T18:53:56.531102Z"
+        },
+        {
           "id": "e2d1ebd590be4fb0b376b65e5e6b346c23a8b475",
           "title": "WaytoAGI第七期AI硬件训练营顺利结营，超半数学员是零基础小白，依托EasyInput V2.0开发板，在8节课程、社群互助中跑通软硬件开发链路。大家从自身生活需求出发，产出育儿记录、英语学习、桌面工作台等大量落地作品。这篇文章完整收录了学员成长故事、实战金句与可复用踩坑经验，适合想入门 AI 硬件、动手把想法做成实体项目的创作者参考。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -744,24 +351,24 @@
           "published_at": "2026-11-14T13:52:03.664094Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.75
+        "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 45,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
+      "enterprise_content_type": "technical_practice",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "multi_source",
@@ -769,90 +376,89 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-14T13:52:03.664094Z",
-      "latest_at": "2026-11-14T13:52:03.664094Z",
+      "latest_at": "2026-11-14T18:53:56.531102Z",
       "primary_item": {
-        "id": "e2d1ebd590be4fb0b376b65e5e6b346c23a8b475",
-        "title": "WaytoAGI第七期AI硬件训练营顺利结营，超半数学员是零基础小白，依托EasyInput V2.0开发板，在8节课程、社群互助中跑通软硬件开发链路。大家从自身生活需求出发，产出育儿记录、英语学习、桌面工作台等大量落地作品。这篇文章完整收录了学员成长故事、实战金句与可复用踩坑经验，适合想入门 AI 硬件、动手把想法做成实体项目的创作者参考。",
+        "id": "705aa5a299a6a5c17acb294adee87486b65bd8c9",
+        "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-13",
+        "source": "社区更新 · 2026-11-14",
         "source_name": "WaytoAGI",
-        "published_at": "2026-11-14T13:52:03.664094Z",
+        "published_at": "2026-11-14T18:53:56.531102Z",
         "ai_score": 0.65,
-        "ai_label": "infra_compute",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
+        "enterprise_content_type": "technical_practice",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
-      "story_id": "story_f17748102e2c",
-      "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-      "primary_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-      "source": "TechCrunch AI",
+      "story_id": "story_d46b516a4c83",
+      "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "01243e8890326cbc6dad58f0babc7f553d980032",
-          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-          "source": "TechCrunch AI",
+          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
+          "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-11-13T18:40:30Z"
+          "published_at": "2026-11-14T15:00:00Z"
         },
         {
-          "id": "432c078816438f63601a8a6739b57cbd88848b25",
-          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
-          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-          "source": "TechCrunch",
+          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
+          "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-13T18:40:30Z"
+          "published_at": "2026-11-14T15:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "01243e8890326cbc6dad58f0babc7f553d980032",
-          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-          "source": "TechCrunch AI",
+          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
+          "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-11-13T18:40:30Z"
+          "published_at": "2026-11-14T15:00:00Z"
         },
         {
-          "id": "432c078816438f63601a8a6739b57cbd88848b25",
-          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
-          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-          "source": "TechCrunch",
+          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
+          "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-13T18:40:30Z"
+          "published_at": "2026-11-14T15:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6135,
-      "importance": 0.6135,
-      "importance_score": 0.6135,
+      "score": 0.6181,
+      "importance": 0.6181,
+      "importance_score": 0.6181,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5616,
+        "editorial": 0.5112,
         "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7579,
+        "ai_relevance": 0.71,
+        "recency": 0.9453,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 40,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -862,17 +468,224 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-13T18:40:30Z",
-      "latest_at": "2026-11-13T18:40:30Z",
+      "earliest_at": "2026-11-14T15:00:00Z",
+      "latest_at": "2026-11-14T15:00:00Z",
       "primary_item": {
-        "id": "01243e8890326cbc6dad58f0babc7f553d980032",
-        "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-        "source": "TechCrunch AI",
+        "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
+        "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+        "source": "The Verge",
         "source_name": "Curated Media",
-        "published_at": "2026-11-13T18:40:30Z",
-        "ai_score": 0.78,
-        "ai_label": "research_paper",
+        "published_at": "2026-11-14T15:00:00Z",
+        "ai_score": 0.71,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ad8b3d5bdfd0",
+      "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "primary_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "513621aef39494027890f805c1c1ad382b301e15",
+          "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
+          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T15:08:44.571000Z"
+        },
+        {
+          "id": "436c91cb26bee0e4520161107dd762c23f236b53",
+          "title": "Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T15:04:15Z"
+        },
+        {
+          "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
+          "title": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+          "url": "https://news.ycombinator.com/item?id=50497589",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T15:04:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "513621aef39494027890f805c1c1ad382b301e15",
+          "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
+          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T15:08:44.571000Z"
+        },
+        {
+          "id": "436c91cb26bee0e4520161107dd762c23f236b53",
+          "title": "Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T15:04:15Z"
+        },
+        {
+          "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
+          "title": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+          "url": "https://news.ycombinator.com/item?id=50497589",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T15:04:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9472,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T15:04:15Z",
+      "latest_at": "2026-11-14T15:08:44.571000Z",
+      "primary_item": {
+        "id": "513621aef39494027890f805c1c1ad382b301e15",
+        "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
+        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+        "source": "github.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-14T15:08:44.571000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8f2daa11c505",
+      "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T14:09:25Z"
+        },
+        {
+          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "url": "https://news.ycombinator.com/item?id=50497155",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:09:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T14:09:25Z"
+        },
+        {
+          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "url": "https://news.ycombinator.com/item?id=50497155",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:09:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9338,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T14:09:25Z",
+      "latest_at": "2026-11-14T14:09:25Z",
+      "primary_item": {
+        "id": "521bf0670814346061bd747307a915a263dc009d",
+        "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-11-14T14:09:25Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -934,19 +747,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9299,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "research_report",
@@ -1028,15 +841,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9559,
+        "recency": 0.8889,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1061,6 +874,100 @@
         "published_at": "2026-11-14T10:44:27.205000Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_10c60fc60c0f",
+      "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "primary_url": "https://unsloth.ai/docs/models/qwen3.8",
+      "source": "unsloth.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "12903a53c9546f10f167828099cb78396294e480",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "unsloth.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.410000Z"
+        },
+        {
+          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:06:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "unsloth.ai"
+      ],
+      "items": [
+        {
+          "id": "12903a53c9546f10f167828099cb78396294e480",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "unsloth.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.410000Z"
+        },
+        {
+          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:06:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8862,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T00:06:04Z",
+      "latest_at": "2026-11-14T10:32:03.410000Z",
+      "primary_item": {
+        "id": "12903a53c9546f10f167828099cb78396294e480",
+        "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+        "url": "https://unsloth.ai/docs/models/qwen3.8",
+        "source": "unsloth.ai",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-14T10:32:03.410000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1122,15 +1029,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9532,
+        "recency": 0.8864,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1216,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9532,
+        "recency": 0.8864,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1249,100 +1156,6 @@
         "published_at": "2026-11-14T10:32:48.878000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_10c60fc60c0f",
-      "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "primary_url": "https://unsloth.ai/docs/models/qwen3.8",
-      "source": "unsloth.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "unsloth.ai"
-      ],
-      "items": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.953,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T00:06:04Z",
-      "latest_at": "2026-11-14T10:32:03.410000Z",
-      "primary_item": {
-        "id": "12903a53c9546f10f167828099cb78396294e480",
-        "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-        "url": "https://unsloth.ai/docs/models/qwen3.8",
-        "source": "unsloth.ai",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-14T10:32:03.410000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_product_update",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1423,15 +1236,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7941,
+        "recency": 0.7384,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1456,231 +1269,6 @@
         "published_at": "2026-11-13T21:53:54.735000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_e940fd987572",
-      "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "af47462fee284e66db42bf90310de7b0c0e09e1c",
-          "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
-          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T18:41:46.415000Z"
-        },
-        {
-          "id": "7cc7890601c605f9afb933f53b1256b8fe337eaa",
-          "title": "“超前于时代”：人工智能助力揭开这位改变数学史的学者笔记本中隐藏的发现 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T17:30:10Z"
-        },
-        {
-          "id": "7415aa86552bf46238efdb599bbc070915954d15",
-          "title": "“超前于时代”：人工智能助力揭开这位改变数学史的学者笔记本中隐藏的发现",
-          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T16:51:50.020000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "af47462fee284e66db42bf90310de7b0c0e09e1c",
-          "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
-          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T18:41:46.415000Z"
-        },
-        {
-          "id": "7cc7890601c605f9afb933f53b1256b8fe337eaa",
-          "title": "“超前于时代”：人工智能助力揭开这位改变数学史的学者笔记本中隐藏的发现 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T17:30:10Z"
-        },
-        {
-          "id": "7415aa86552bf46238efdb599bbc070915954d15",
-          "title": "“超前于时代”：人工智能助力揭开这位改变数学史的学者笔记本中隐藏的发现",
-          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T16:51:50.020000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7582,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T16:51:50.020000Z",
-      "latest_at": "2026-11-13T18:41:46.415000Z",
-      "primary_item": {
-        "id": "af47462fee284e66db42bf90310de7b0c0e09e1c",
-        "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
-        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-13T18:41:46.415000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T17:54:54.250000Z"
-        },
-        {
-          "id": "f8eb3fcad27cb89dc08a29cd24291f3745addd4c",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T15:08:44Z"
-        },
-        {
-          "id": "95d21eb882efec96a087f8f28005924a3282843d",
-          "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "url": "https://news.ycombinator.com/item?id=50484658",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-13T15:08:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T17:54:54.250000Z"
-        },
-        {
-          "id": "f8eb3fcad27cb89dc08a29cd24291f3745addd4c",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T15:08:44Z"
-        },
-        {
-          "id": "95d21eb882efec96a087f8f28005924a3282843d",
-          "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "url": "https://news.ycombinator.com/item?id=50484658",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-13T15:08:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7497,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T15:08:44Z",
-      "latest_at": "2026-11-13T17:54:54.250000Z",
-      "primary_item": {
-        "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
-        "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-        "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-13T17:54:54.250000Z",
-        "ai_score": 0.65,
-        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1742,19 +1330,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.5086,
+      "importance": 0.5086,
+      "importance_score": 0.5086,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8533,
+        "recency": 0.7935,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1836,15 +1424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5189,
-      "importance": 0.5189,
-      "importance_score": 0.5189,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8506,
+        "recency": 0.791,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1874,6 +1462,570 @@
         "enterprise_topics": [],
         "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_3f060b226b66",
+      "title": "Show HN：Agweb – 一款专为代理商设计的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "primary_url": "https://github.com/paul-nameless/agweb",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+          "title": "Show HN：Agweb – 一款专为代理商设计的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://github.com/paul-nameless/agweb",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T14:08:12Z"
+        },
+        {
+          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
+          "title": "Show HN：Agweb – 一款专为代理商设计的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://news.ycombinator.com/item?id=50497147",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:08:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+          "title": "Show HN：Agweb – 一款专为代理商设计的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://github.com/paul-nameless/agweb",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T14:08:12Z"
+        },
+        {
+          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
+          "title": "Show HN：Agweb – 一款专为代理商设计的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://news.ycombinator.com/item?id=50497147",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:08:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9335,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T14:08:12Z",
+      "latest_at": "2026-11-14T14:08:12Z",
+      "primary_item": {
+        "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+        "title": "Show HN：Agweb – 一款专为代理商设计的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+        "url": "https://github.com/paul-nameless/agweb",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-11-14T14:08:12Z",
+        "ai_score": 0.65,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_527bfb51e869",
+      "title": "英特尔联合 23 家韩国企业成立「K-AI 全栈联盟」，构建 AI 基础设施生态",
+      "url": "https://www.ithome.com/1/027/180.htm",
+      "primary_url": "https://www.ithome.com/1/027/180.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "34d690a7970f2da5066911215a5e8a0c0b31c1fb",
+          "title": "英特尔联合 23 家韩国企业成立「K-AI 全栈联盟」，构建 AI 基础设施生态",
+          "url": "https://www.ithome.com/1/027/180.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2941c2034655bbf2fd425297749690377ab41161",
+          "title": "英特尔联合 23 家韩国企业成立“K-AI 全栈联盟”，构建 AI 基础设施生态",
+          "url": "https://www.ithome.com/1/027/180.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T09:03:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "34d690a7970f2da5066911215a5e8a0c0b31c1fb",
+          "title": "英特尔联合 23 家韩国企业成立「K-AI 全栈联盟」，构建 AI 基础设施生态",
+          "url": "https://www.ithome.com/1/027/180.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2941c2034655bbf2fd425297749690377ab41161",
+          "title": "英特尔联合 23 家韩国企业成立“K-AI 全栈联盟”，构建 AI 基础设施生态",
+          "url": "https://www.ithome.com/1/027/180.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T09:03:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9299,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T09:03:04Z",
+      "latest_at": "2026-11-14T13:52:03.664094Z",
+      "primary_item": {
+        "id": "34d690a7970f2da5066911215a5e8a0c0b31c1fb",
+        "title": "英特尔联合 23 家韩国企业成立「K-AI 全栈联盟」，构建 AI 基础设施生态",
+        "url": "https://www.ithome.com/1/027/180.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_643f4f010bfe",
+      "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
+      "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
+      "primary_url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0487e816a59c8b0d92d54932262459c31a544f53",
+          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
+          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T00:02:21.523000Z"
+        },
+        {
+          "id": "64cd95e84c06932afd482b9e9d0dec67b9307860",
+          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任 / FAA SMART AI system vendor and  Microsoft both say ground stop isn't their fault",
+          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T23:49:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "0487e816a59c8b0d92d54932262459c31a544f53",
+          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
+          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T00:02:21.523000Z"
+        },
+        {
+          "id": "64cd95e84c06932afd482b9e9d0dec67b9307860",
+          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任 / FAA SMART AI system vendor and  Microsoft both say ground stop isn't their fault",
+          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T23:49:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7616,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T23:49:27Z",
+      "latest_at": "2026-11-14T00:02:21.523000Z",
+      "primary_item": {
+        "id": "0487e816a59c8b0d92d54932262459c31a544f53",
+        "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
+        "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-14T00:02:21.523000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d11365f0dd8c",
+      "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "primary_url": "https://atg.science/careers",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "9dd5d00576c2d903dcffa21c2c15faf5c5375649",
+          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "url": "https://atg.science/careers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T21:01:11Z"
+        },
+        {
+          "id": "95eb34b04dace089987da89f0718ac44919b2269",
+          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "url": "https://news.ycombinator.com/item?id=50489589",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T21:01:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9dd5d00576c2d903dcffa21c2c15faf5c5375649",
+          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "url": "https://atg.science/careers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T21:01:11Z"
+        },
+        {
+          "id": "95eb34b04dace089987da89f0718ac44919b2269",
+          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "url": "https://news.ycombinator.com/item?id=50489589",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T21:01:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.497,
+      "importance": 0.497,
+      "importance_score": 0.497,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7291,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T21:01:11Z",
+      "latest_at": "2026-11-13T21:01:11Z",
+      "primary_item": {
+        "id": "9dd5d00576c2d903dcffa21c2c15faf5c5375649",
+        "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+        "url": "https://atg.science/careers",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-11-13T21:01:11Z",
+        "ai_score": 0.65,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_30d42da4b4e8",
+      "title": "达里奥·阿莫德伊列举了4类他声称不会录用的员工——以及Anthropic公司真正看重的人才特质",
+      "url": "https://www.businessinsider.com/anthropic-dario-amodei-types-workers-hiring-culture-retention-2026-11",
+      "primary_url": "https://www.businessinsider.com/anthropic-dario-amodei-types-workers-hiring-culture-retention-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "90a834430240d6e7857b76aacfc0a537561c5dda",
+          "title": "达里奥·阿莫德伊列举了4类他声称不会录用的员工——以及Anthropic公司真正看重的人才特质",
+          "url": "https://www.businessinsider.com/anthropic-dario-amodei-types-workers-hiring-culture-retention-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T19:45:46.466000Z"
+        },
+        {
+          "id": "a14a3201c0c5d7cc66979a67c1fe022e458b6e8c",
+          "title": "达里奥·阿莫德伊列举了4类他声称不会录用的员工——以及Anthropic公司真正看重的人才特质 / The 4 types of people Dario Amodei said he won’t hire — and what Anthropic looks for instead",
+          "url": "https://www.businessinsider.com/anthropic-dario-amodei-types-workers-hiring-culture-retention-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T19:33:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "90a834430240d6e7857b76aacfc0a537561c5dda",
+          "title": "达里奥·阿莫德伊列举了4类他声称不会录用的员工——以及Anthropic公司真正看重的人才特质",
+          "url": "https://www.businessinsider.com/anthropic-dario-amodei-types-workers-hiring-culture-retention-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T19:45:46.466000Z"
+        },
+        {
+          "id": "a14a3201c0c5d7cc66979a67c1fe022e458b6e8c",
+          "title": "达里奥·阿莫德伊列举了4类他声称不会录用的员工——以及Anthropic公司真正看重的人才特质 / The 4 types of people Dario Amodei said he won’t hire — and what Anthropic looks for instead",
+          "url": "https://www.businessinsider.com/anthropic-dario-amodei-types-workers-hiring-culture-retention-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T19:33:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4947,
+      "importance": 0.4947,
+      "importance_score": 0.4947,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.716,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T19:33:42Z",
+      "latest_at": "2026-11-13T19:45:46.466000Z",
+      "primary_item": {
+        "id": "90a834430240d6e7857b76aacfc0a537561c5dda",
+        "title": "达里奥·阿莫德伊列举了4类他声称不会录用的员工——以及Anthropic公司真正看重的人才特质",
+        "url": "https://www.businessinsider.com/anthropic-dario-amodei-types-workers-hiring-culture-retention-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-13T19:45:46.466000Z",
+        "ai_score": 0.65,
+        "ai_label": "industry_business",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_a6c637a75751",
+      "title": "Anthropic首席执行官达里奥·阿莫德伊在推介IPO时表示，计算能力是一个“巨大的不确定性”",
+      "url": "https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11",
+      "primary_url": "https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c79a74b0aae8618d1f817a9a797cf9d02aecd2ea",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊在推介IPO时表示，计算能力是一个“巨大的不确定性”",
+          "url": "https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T19:29:43.481000Z"
+        },
+        {
+          "id": "ee61090a91ff93ddff3c03225022930bf2dd0384",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊在推介IPO时表示，计算能力是一个“巨大的不确定性” / CEO Dario Amodei says compute is the 'deepest business dilemma' facing Anthropic before its IPO",
+          "url": "https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T19:02:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "c79a74b0aae8618d1f817a9a797cf9d02aecd2ea",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊在推介IPO时表示，计算能力是一个“巨大的不确定性”",
+          "url": "https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T19:29:43.481000Z"
+        },
+        {
+          "id": "ee61090a91ff93ddff3c03225022930bf2dd0384",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊在推介IPO时表示，计算能力是一个“巨大的不确定性” / CEO Dario Amodei says compute is the 'deepest business dilemma' facing Anthropic before its IPO",
+          "url": "https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T19:02:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4942,
+      "importance": 0.4942,
+      "importance_score": 0.4942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7132,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T19:02:29Z",
+      "latest_at": "2026-11-13T19:29:43.481000Z",
+      "primary_item": {
+        "id": "c79a74b0aae8618d1f817a9a797cf9d02aecd2ea",
+        "title": "Anthropic首席执行官达里奥·阿莫德伊在推介IPO时表示，计算能力是一个“巨大的不确定性”",
+        "url": "https://www.businessinsider.com/anthropic-ipo-pitch-dario-amodei-compute-dilemma-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-13T19:29:43.481000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     }
   ]
