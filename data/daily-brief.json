@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T22:48:47.167847Z",
+  "generated_at": "2026-11-15T02:16:24.104375Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_53dbbc26da9d",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.755,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -276,15 +276,15 @@
       ],
       "item_count": 10,
       "duplicate_count": 10,
-      "score": 0.6593,
-      "importance": 0.6593,
-      "importance_score": 0.6593,
+      "score": 0.651,
+      "importance": 0.651,
+      "importance_score": 0.651,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.945,
+        "recency": 0.899,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -369,15 +369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6088,
-      "importance": 0.6088,
-      "importance_score": 0.6088,
+      "score": 0.6009,
+      "importance": 0.6009,
+      "importance_score": 0.6009,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8933,
+        "recency": 0.8498,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -410,138 +410,6 @@
       }
     },
     {
-      "story_id": "story_197819bcc934",
-      "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "www.techpowerup.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z"
-        },
-        {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Reddit (热门)",
-        "hackernews",
-        "www.techpowerup.com"
-      ],
-      "items": [
-        {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z"
-        },
-        {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5666,
-      "importance": 0.5666,
-      "importance_score": 0.5666,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8375,
-        "story_heat": 0.75
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T02:10:01Z",
-      "latest_at": "2026-11-14T10:32:03.584000Z",
-      "primary_item": {
-        "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-        "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "source": "www.techpowerup.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-14T10:32:03.584000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
       "story_id": "story_8f2daa11c505",
       "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
       "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
@@ -559,12 +427,12 @@
           "published_at": "2026-11-14T19:38:56.216000Z"
         },
         {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
           "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
           "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:09:25Z"
         },
         {
@@ -579,7 +447,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "developer.nvidia.com",
         "hackernews"
       ],
@@ -594,12 +462,12 @@
           "published_at": "2026-11-14T19:38:56.216000Z"
         },
         {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
           "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
           "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:09:25Z"
         },
         {
@@ -614,15 +482,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5628,
-      "importance": 0.5628,
-      "importance_score": 0.5628,
+      "score": 0.5544,
+      "importance": 0.5544,
+      "importance_score": 0.5544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9553,
+        "recency": 0.9088,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -727,15 +595,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8952,
+        "recency": 0.8516,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -760,6 +628,119 @@
         "published_at": "2026-11-14T15:08:44.571000Z",
         "ai_score": 0.65,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c6caa4d4f0b0",
+      "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "www.techpowerup.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "www.techpowerup.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.584000Z"
+        },
+        {
+          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:52:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.techpowerup.com"
+      ],
+      "items": [
+        {
+          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "www.techpowerup.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.584000Z"
+        },
+        {
+          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:52:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7967,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T02:52:59Z",
+      "latest_at": "2026-11-14T10:32:03.584000Z",
+      "primary_item": {
+        "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
+        "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "source": "www.techpowerup.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-14T10:32:03.584000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -821,15 +802,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8822,
+        "recency": 0.8392,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -915,15 +896,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8788,
+        "recency": 0.836,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -952,100 +933,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "research_report",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_10c60fc60c0f",
-      "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "primary_url": "https://unsloth.ai/docs/models/qwen3.8",
-      "source": "unsloth.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "f8ed6d9e4fb14a145d99f8970374b2ff8acb2de2",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "unsloth.ai"
-      ],
-      "items": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "f8ed6d9e4fb14a145d99f8970374b2ff8acb2de2",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8375,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T00:06:04Z",
-      "latest_at": "2026-11-14T10:32:03.410000Z",
-      "primary_item": {
-        "id": "12903a53c9546f10f167828099cb78396294e480",
-        "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-        "url": "https://unsloth.ai/docs/models/qwen3.8",
-        "source": "unsloth.ai",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-14T10:32:03.410000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1103,19 +990,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8377,
+        "recency": 0.7968,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1197,19 +1084,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8377,
+        "recency": 0.7968,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1290,19 +1177,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
+      "score": 0.5061,
+      "importance": 0.5061,
+      "importance_score": 0.5061,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8196,
+        "recency": 0.7796,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1384,15 +1271,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8788,
+        "recency": 0.836,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1415,100 +1302,6 @@
         "source": "Readhub · AI",
         "source_name": "TopHub",
         "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_643f4f010bfe",
-      "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-      "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-      "primary_url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0487e816a59c8b0d92d54932262459c31a544f53",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T00:02:21.523000Z"
-        },
-        {
-          "id": "64cd95e84c06932afd482b9e9d0dec67b9307860",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任 / FAA SMART AI system vendor and  Microsoft both say ground stop isn't their fault",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T23:49:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "0487e816a59c8b0d92d54932262459c31a544f53",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T00:02:21.523000Z"
-        },
-        {
-          "id": "64cd95e84c06932afd482b9e9d0dec67b9307860",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任 / FAA SMART AI system vendor and  Microsoft both say ground stop isn't their fault",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T23:49:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4954,
-      "importance": 0.4954,
-      "importance_score": 0.4954,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7197,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T23:49:27Z",
-      "latest_at": "2026-11-14T00:02:21.523000Z",
-      "primary_item": {
-        "id": "0487e816a59c8b0d92d54932262459c31a544f53",
-        "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-        "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-14T00:02:21.523000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
