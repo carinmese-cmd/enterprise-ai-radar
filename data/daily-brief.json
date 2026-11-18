@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:47:04.766801Z",
+  "generated_at": "2026-11-18T09:28:47.975025Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -94,15 +94,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9153,
-      "importance": 0.9153,
-      "importance_score": 0.9153,
+      "score": 0.8984,
+      "importance": 0.8984,
+      "importance_score": 0.8984,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8905,
+        "recency": 0.7968,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -130,6 +130,83 @@
         "published_at": "2026-11-17T17:45:00Z",
         "ai_score": 0.95,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.170.0 / Codex CLI 0.170.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "法典 CLI 0.170.0 / Codex CLI 0.170.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "法典 CLI 0.170.0 / Codex CLI 0.170.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8721,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
+      "primary_item": {
+        "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+        "title": "法典 CLI 0.170.0 / Codex CLI 0.170.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-18T00:00:00Z",
+        "ai_score": 0.98,
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -172,19 +249,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9244,
+        "recency": 0.8272,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -249,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8809,
+        "recency": 0.7882,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -283,6 +360,179 @@
         "source_name": "Official AI Updates",
         "published_at": "2026-11-17T17:00:00Z",
         "ai_score": 0.91,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6cab9c8cd383",
+      "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "primary_url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "806ec6838e0a5c9033d6008ec4d2459bc0ea282c",
+          "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "806ec6838e0a5c9033d6008ec4d2459bc0ea282c",
+          "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8721,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
+      "primary_item": {
+        "id": "806ec6838e0a5c9033d6008ec4d2459bc0ea282c",
+        "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-18T00:00:00Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_94eda07b2df7",
+      "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+      "url": "https://www.aibase.com/news/32379",
+      "primary_url": "https://www.aibase.com/news/32379",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:28:47.975025Z"
+        },
+        {
+          "id": "fe9e65cc78554995f0fc6cf4cee22f0df58c3792",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "url": "https://www.aibase.com/zh/news/32379",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:28:47.975025Z"
+        },
+        {
+          "id": "fe9e65cc78554995f0fc6cf4cee22f0df58c3792",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "url": "https://www.aibase.com/zh/news/32379",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T09:28:47.975025Z",
+      "latest_at": "2026-11-18T09:28:47.975025Z",
+      "primary_item": {
+        "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+        "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "url": "https://www.aibase.com/news/32379",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-18T09:28:47.975025Z",
+        "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -326,19 +576,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8947,
+        "recency": 0.8006,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 38,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "methodology_evaluation",
@@ -369,26 +619,26 @@
       }
     },
     {
-      "story_id": "story_b2cc2d8bba80",
-      "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-      "url": "https://www.aibase.com/news/32364",
-      "primary_url": "https://www.aibase.com/news/32364",
+      "story_id": "story_428eda40b59c",
+      "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+      "url": "https://www.aibase.com/news/32378",
+      "primary_url": "https://www.aibase.com/news/32378",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/news/32364",
+          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "url": "https://www.aibase.com/news/32378",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
+          "published_at": "2026-11-18T09:28:47.975025Z"
         },
         {
-          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/zh/news/32364",
+          "id": "ae77a6e6de86a79993ddff53e27acd3f8a6f4976",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "url": "https://www.aibase.com/zh/news/32378",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -402,18 +652,18 @@
       ],
       "items": [
         {
-          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/news/32364",
+          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "url": "https://www.aibase.com/news/32378",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
+          "published_at": "2026-11-18T09:28:47.975025Z"
         },
         {
-          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/zh/news/32364",
+          "id": "ae77a6e6de86a79993ddff53e27acd3f8a6f4976",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "url": "https://www.aibase.com/zh/news/32378",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -446,94 +696,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T01:47:04.766801Z",
-      "latest_at": "2026-11-18T01:47:04.766801Z",
+      "earliest_at": "2026-11-18T09:28:47.975025Z",
+      "latest_at": "2026-11-18T09:28:47.975025Z",
       "primary_item": {
-        "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
-        "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-        "url": "https://www.aibase.com/news/32364",
+        "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+        "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+        "url": "https://www.aibase.com/news/32378",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-18T01:47:04.766801Z",
+        "published_at": "2026-11-18T09:28:47.975025Z",
         "ai_score": 1.0,
-        "ai_label": "infra_compute",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_c6c361c53bc4",
-      "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T08:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T08:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7735,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T08:00:00Z",
-      "latest_at": "2026-11-17T08:00:00Z",
-      "primary_item": {
-        "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-        "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T08:00:00Z",
-        "ai_score": 0.95,
-        "ai_label": "model_release",
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -576,15 +749,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8938,
+        "recency": 0.7998,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -619,26 +792,26 @@
       }
     },
     {
-      "story_id": "story_206e059628fc",
-      "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-      "url": "https://www.aibase.com/news/32363",
-      "primary_url": "https://www.aibase.com/news/32363",
+      "story_id": "story_71759dcbf6fe",
+      "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+      "url": "https://www.aibase.com/news/32373",
+      "primary_url": "https://www.aibase.com/news/32373",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/news/32363",
+          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "url": "https://www.aibase.com/news/32373",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
+          "published_at": "2026-11-18T09:28:47.975025Z"
         },
         {
-          "id": "e51459edc2c9a959783269e01b7c6d0cfef2354c",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/zh/news/32363",
+          "id": "7563a4736dfee1c3fdb9143a165e85f2c6432c29",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "url": "https://www.aibase.com/zh/news/32373",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -652,18 +825,18 @@
       ],
       "items": [
         {
-          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/news/32363",
+          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "url": "https://www.aibase.com/news/32373",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
+          "published_at": "2026-11-18T09:28:47.975025Z"
         },
         {
-          "id": "e51459edc2c9a959783269e01b7c6d0cfef2354c",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/zh/news/32363",
+          "id": "7563a4736dfee1c3fdb9143a165e85f2c6432c29",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "url": "https://www.aibase.com/zh/news/32373",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -696,17 +869,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T01:47:04.766801Z",
-      "latest_at": "2026-11-18T01:47:04.766801Z",
+      "earliest_at": "2026-11-18T09:28:47.975025Z",
+      "latest_at": "2026-11-18T09:28:47.975025Z",
       "primary_item": {
-        "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
-        "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-        "url": "https://www.aibase.com/news/32363",
+        "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+        "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+        "url": "https://www.aibase.com/news/32373",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-18T01:47:04.766801Z",
+        "published_at": "2026-11-18T09:28:47.975025Z",
         "ai_score": 1.0,
-        "ai_label": "agent_workflow",
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -749,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8945,
+        "recency": 0.8004,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -792,26 +965,26 @@
       }
     },
     {
-      "story_id": "story_d9a715c18cda",
-      "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
-      "url": "https://www.aibase.com/news/32361",
-      "primary_url": "https://www.aibase.com/news/32361",
+      "story_id": "story_70ef7af10807",
+      "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+      "url": "https://www.aibase.com/news/32374",
+      "primary_url": "https://www.aibase.com/news/32374",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a3841b2747280a8653591ce23b5a3ea0ec9553f8",
-          "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
-          "url": "https://www.aibase.com/news/32361",
+          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "url": "https://www.aibase.com/news/32374",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
+          "published_at": "2026-11-18T09:28:47.975025Z"
         },
         {
-          "id": "92f4254154263e9e485ee1e48b5960b50f8c2150",
-          "title": "苏姿丰赞黄仁勋「杰出」，转头劝 AMD 少听噪音",
-          "url": "https://www.aibase.com/zh/news/32361",
+          "id": "b895a7d5c522a99038b353c0a0a420da0cb70b92",
+          "title": "微软发布首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "url": "https://www.aibase.com/zh/news/32374",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -825,18 +998,18 @@
       ],
       "items": [
         {
-          "id": "a3841b2747280a8653591ce23b5a3ea0ec9553f8",
-          "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
-          "url": "https://www.aibase.com/news/32361",
+          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "url": "https://www.aibase.com/news/32374",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
+          "published_at": "2026-11-18T09:28:47.975025Z"
         },
         {
-          "id": "92f4254154263e9e485ee1e48b5960b50f8c2150",
-          "title": "苏姿丰赞黄仁勋「杰出」，转头劝 AMD 少听噪音",
-          "url": "https://www.aibase.com/zh/news/32361",
+          "id": "b895a7d5c522a99038b353c0a0a420da0cb70b92",
+          "title": "微软发布首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "url": "https://www.aibase.com/zh/news/32374",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -869,17 +1042,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T01:47:04.766801Z",
-      "latest_at": "2026-11-18T01:47:04.766801Z",
+      "earliest_at": "2026-11-18T09:28:47.975025Z",
+      "latest_at": "2026-11-18T09:28:47.975025Z",
       "primary_item": {
-        "id": "a3841b2747280a8653591ce23b5a3ea0ec9553f8",
-        "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
-        "url": "https://www.aibase.com/news/32361",
+        "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+        "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+        "url": "https://www.aibase.com/news/32374",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-18T01:47:04.766801Z",
+        "published_at": "2026-11-18T09:28:47.975025Z",
         "ai_score": 1.0,
-        "ai_label": "ai_general",
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -922,15 +1095,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8938,
+        "recency": 0.7998,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -957,6 +1130,102 @@
         "published_at": "2026-11-17T18:00:35Z",
         "ai_score": 0.91,
         "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5d15407039aa",
+      "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+      "url": "https://www.aibase.com/news/32380",
+      "primary_url": "https://www.aibase.com/news/32380",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "url": "https://www.aibase.com/news/32380",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:28:47.975025Z"
+        },
+        {
+          "id": "85af2530fd1dd9c9a17eb94450591e9ff2e92ac8",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "url": "https://www.aibase.com/zh/news/32380",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "url": "https://www.aibase.com/news/32380",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:28:47.975025Z"
+        },
+        {
+          "id": "85af2530fd1dd9c9a17eb94450591e9ff2e92ac8",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "url": "https://www.aibase.com/zh/news/32380",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T09:28:47.975025Z",
+      "latest_at": "2026-11-18T09:28:47.975025Z",
+      "primary_item": {
+        "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+        "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+        "url": "https://www.aibase.com/news/32380",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-18T09:28:47.975025Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -999,15 +1268,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.894,
+        "recency": 0.8,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1034,82 +1303,6 @@
         "published_at": "2026-11-17T18:01:45Z",
         "ai_score": 0.91,
         "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_6ea4459b8832",
-      "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-      "url": "https://www.aibase.com/news/32366",
-      "primary_url": "https://www.aibase.com/news/32366",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "url": "https://www.aibase.com/news/32366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "url": "https://www.aibase.com/news/32366",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T01:47:04.766801Z",
-      "latest_at": "2026-11-18T01:47:04.766801Z",
-      "primary_item": {
-        "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-        "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-        "url": "https://www.aibase.com/news/32366",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-18T01:47:04.766801Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1242,19 +1435,19 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6535,
-      "importance": 0.6535,
-      "importance_score": 0.6535,
+      "score": 0.6363,
+      "importance": 0.6363,
+      "importance_score": 0.6363,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.913,
+        "recency": 0.817,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1317,15 +1510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8939,
+        "recency": 0.7999,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1360,78 +1553,98 @@
       }
     },
     {
-      "story_id": "story_acb02655dfee",
-      "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-      "url": "https://www.aibase.com/news/32367",
-      "primary_url": "https://www.aibase.com/news/32367",
+      "story_id": "story_b2cc2d8bba80",
+      "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+      "url": "https://www.aibase.com/news/32364",
+      "primary_url": "https://www.aibase.com/news/32364",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
-          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-          "url": "https://www.aibase.com/news/32367",
+          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/news/32364",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/zh/news/32364",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
-          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-          "url": "https://www.aibase.com/news/32367",
+          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/news/32364",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/zh/news/32364",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8948,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "research_report",
+      "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-18T01:47:04.766801Z",
       "latest_at": "2026-11-18T01:47:04.766801Z",
       "primary_item": {
-        "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
-        "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-        "url": "https://www.aibase.com/news/32367",
+        "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
+        "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+        "url": "https://www.aibase.com/news/32364",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-11-18T01:47:04.766801Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "infra_compute",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "research_report",
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1470,15 +1683,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8941,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -1513,206 +1726,72 @@
       }
     },
     {
-      "story_id": "story_b873786b7e72",
-      "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-      "url": "https://www.aibase.com/news/32362",
-      "primary_url": "https://www.aibase.com/news/32362",
+      "story_id": "story_206e059628fc",
+      "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+      "url": "https://www.aibase.com/news/32363",
+      "primary_url": "https://www.aibase.com/news/32363",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
-          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-          "url": "https://www.aibase.com/news/32362",
+          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
+          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+          "url": "https://www.aibase.com/news/32363",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "e51459edc2c9a959783269e01b7c6d0cfef2354c",
+          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+          "url": "https://www.aibase.com/zh/news/32363",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
-          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-          "url": "https://www.aibase.com/news/32362",
+          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
+          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+          "url": "https://www.aibase.com/news/32363",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "e51459edc2c9a959783269e01b7c6d0cfef2354c",
+          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+          "url": "https://www.aibase.com/zh/news/32363",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8948,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 43,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T01:47:04.766801Z",
-      "latest_at": "2026-11-18T01:47:04.766801Z",
-      "primary_item": {
-        "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
-        "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-        "url": "https://www.aibase.com/news/32362",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-18T01:47:04.766801Z",
-        "ai_score": 1.0,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
-      }
-    },
-    {
-      "story_id": "story_3549b02ad48b",
-      "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-      "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-      "primary_url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8938,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:35Z",
-      "latest_at": "2026-11-17T18:00:35Z",
-      "primary_item": {
-        "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-        "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-        "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T18:00:35Z",
-        "ai_score": 0.91,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_55a3797d7638",
-      "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-      "url": "https://www.aibase.com/news/32368",
-      "primary_url": "https://www.aibase.com/news/32368",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2e706587713054bad719dac00d9df6bb12895102",
-          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-          "url": "https://www.aibase.com/news/32368",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2e706587713054bad719dac00d9df6bb12895102",
-          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-          "url": "https://www.aibase.com/news/32368",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T01:47:04.766801Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 43,
+      "enterprise_importance_score": 42,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1720,20 +1799,21 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-18T01:47:04.766801Z",
       "latest_at": "2026-11-18T01:47:04.766801Z",
       "primary_item": {
-        "id": "2e706587713054bad719dac00d9df6bb12895102",
-        "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-        "url": "https://www.aibase.com/news/32368",
+        "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
+        "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+        "url": "https://www.aibase.com/news/32363",
         "source": "AIbase",
         "source_name": "AIbase",
         "published_at": "2026-11-18T01:47:04.766801Z",
         "ai_score": 1.0,
-        "ai_label": "ai_general",
+        "ai_label": "agent_workflow",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
