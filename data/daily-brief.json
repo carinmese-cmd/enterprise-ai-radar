@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:28:55.823352Z",
+  "generated_at": "2026-11-18T01:47:04.766801Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -94,19 +94,19 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9306,
-      "importance": 0.9306,
-      "importance_score": 0.9306,
+      "score": 0.9153,
+      "importance": 0.9153,
+      "importance_score": 0.9153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9753,
+        "recency": 0.8905,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -129,6 +129,160 @@
         "source_name": "Official AI Updates",
         "published_at": "2026-11-17T17:45:00Z",
         "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_96ff71f54c6e",
+      "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+      "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+      "primary_url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0ad6af5604b93c525219fd000498dfefa38664da",
+          "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T20:20:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0ad6af5604b93c525219fd000498dfefa38664da",
+          "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T20:20:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9244,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T20:20:29Z",
+      "latest_at": "2026-11-17T20:20:29Z",
+      "primary_item": {
+        "id": "0ad6af5604b93c525219fd000498dfefa38664da",
+        "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+        "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-17T20:20:29Z",
+        "ai_score": 0.95,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_cb1d8f8bc84f",
+      "title": "让双子座为你工作 / Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+      "primary_url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a378f6b72054358b31864e91b25bbacf73993e1",
+          "title": "让双子座为你工作 / Put Gemini to work for you",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "4a378f6b72054358b31864e91b25bbacf73993e1",
+          "title": "让双子座为你工作 / Put Gemini to work for you",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8809,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T17:00:00Z",
+      "latest_at": "2026-11-17T17:00:00Z",
+      "primary_item": {
+        "id": "4a378f6b72054358b31864e91b25bbacf73993e1",
+        "title": "让双子座为你工作 / Put Gemini to work for you",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-17T17:00:00Z",
+        "ai_score": 0.91,
         "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -172,19 +326,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8544,
-      "importance": 0.8544,
-      "importance_score": 0.8544,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.98,
+        "recency": 0.8947,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 39,
+      "enterprise_importance_score": 38,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "methodology_evaluation",
@@ -215,75 +369,94 @@
       }
     },
     {
-      "story_id": "story_cb1d8f8bc84f",
-      "title": "让双子座为你工作 / Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-      "primary_url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_b2cc2d8bba80",
+      "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+      "url": "https://www.aibase.com/news/32364",
+      "primary_url": "https://www.aibase.com/news/32364",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4a378f6b72054358b31864e91b25bbacf73993e1",
-          "title": "让双子座为你工作 / Put Gemini to work for you",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T17:00:00Z"
+          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/news/32364",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/zh/news/32364",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Google AI Blog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "4a378f6b72054358b31864e91b25bbacf73993e1",
-          "title": "让双子座为你工作 / Put Gemini to work for you",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T17:00:00Z"
+          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/news/32364",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "539e95c368d0006c0c9faab87caadf8a02600780",
+          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+          "url": "https://www.aibase.com/zh/news/32364",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9648,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T17:00:00Z",
-      "latest_at": "2026-11-17T17:00:00Z",
+      "earliest_at": "2026-11-18T01:47:04.766801Z",
+      "latest_at": "2026-11-18T01:47:04.766801Z",
       "primary_item": {
-        "id": "4a378f6b72054358b31864e91b25bbacf73993e1",
-        "title": "让双子座为你工作 / Put Gemini to work for you",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T17:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "model_release",
+        "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
+        "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
+        "url": "https://www.aibase.com/news/32364",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-18T01:47:04.766801Z",
+        "ai_score": 1.0,
+        "ai_label": "infra_compute",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -292,49 +465,49 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_c6c361c53bc4",
+      "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "738ec26a13b71b2ee98a6c4a3e530750589fcd43",
-          "title": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
+          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
+          "published_at": "2026-11-17T08:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "738ec26a13b71b2ee98a6c4a3e530750589fcd43",
-          "title": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
+          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
+          "published_at": "2026-11-17T08:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7548,
+        "ai_relevance": 0.95,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -350,16 +523,16 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
+      "earliest_at": "2026-11-17T08:00:00Z",
+      "latest_at": "2026-11-17T08:00:00Z",
       "primary_item": {
-        "id": "738ec26a13b71b2ee98a6c4a3e530750589fcd43",
-        "title": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
+        "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T00:00:00Z",
-        "ai_score": 1.0,
+        "published_at": "2026-11-17T08:00:00Z",
+        "ai_score": 0.95,
         "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -403,19 +576,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8542,
-      "importance": 0.8542,
-      "importance_score": 0.8542,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.979,
+        "recency": 0.8938,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -437,6 +610,352 @@
         "source_name": "Official AI Updates",
         "published_at": "2026-11-17T18:00:33Z",
         "ai_score": 0.94,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_206e059628fc",
+      "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+      "url": "https://www.aibase.com/news/32363",
+      "primary_url": "https://www.aibase.com/news/32363",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
+          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+          "url": "https://www.aibase.com/news/32363",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "e51459edc2c9a959783269e01b7c6d0cfef2354c",
+          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+          "url": "https://www.aibase.com/zh/news/32363",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
+          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+          "url": "https://www.aibase.com/news/32363",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "e51459edc2c9a959783269e01b7c6d0cfef2354c",
+          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+          "url": "https://www.aibase.com/zh/news/32363",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T01:47:04.766801Z",
+      "latest_at": "2026-11-18T01:47:04.766801Z",
+      "primary_item": {
+        "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
+        "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
+        "url": "https://www.aibase.com/news/32363",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-18T01:47:04.766801Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_0fb6d41b1c23",
+      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:03:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:03:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8945,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:03:42Z",
+      "latest_at": "2026-11-17T18:03:42Z",
+      "primary_item": {
+        "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-17T18:03:42Z",
+        "ai_score": 0.91,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d9a715c18cda",
+      "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
+      "url": "https://www.aibase.com/news/32361",
+      "primary_url": "https://www.aibase.com/news/32361",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a3841b2747280a8653591ce23b5a3ea0ec9553f8",
+          "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
+          "url": "https://www.aibase.com/news/32361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "92f4254154263e9e485ee1e48b5960b50f8c2150",
+          "title": "苏姿丰赞黄仁勋「杰出」，转头劝 AMD 少听噪音",
+          "url": "https://www.aibase.com/zh/news/32361",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a3841b2747280a8653591ce23b5a3ea0ec9553f8",
+          "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
+          "url": "https://www.aibase.com/news/32361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        },
+        {
+          "id": "92f4254154263e9e485ee1e48b5960b50f8c2150",
+          "title": "苏姿丰赞黄仁勋「杰出」，转头劝 AMD 少听噪音",
+          "url": "https://www.aibase.com/zh/news/32361",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T01:47:04.766801Z",
+      "latest_at": "2026-11-18T01:47:04.766801Z",
+      "primary_item": {
+        "id": "a3841b2747280a8653591ce23b5a3ea0ec9553f8",
+        "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
+        "url": "https://www.aibase.com/news/32361",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-18T01:47:04.766801Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2217122441a2",
+      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8938,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:00:35Z",
+      "latest_at": "2026-11-17T18:00:35Z",
+      "primary_item": {
+        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-17T18:00:35Z",
+        "ai_score": 0.91,
         "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -480,19 +999,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9792,
+        "recency": 0.894,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -523,149 +1042,53 @@
       }
     },
     {
-      "story_id": "story_0604bc2b50fc",
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "primary_url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-          "title": "Astra for Law leads in legal intelligence",
-          "url": "https://openai.com/index/astra-law-6-2",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-          "title": "Astra for Law leads in legal intelligence",
-          "url": "https://openai.com/index/astra-law-6-2",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7548,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-        "title": "Astra for Law leads in legal intelligence",
-        "url": "https://openai.com/index/astra-law-6-2",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T00:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_a66ba4e16ab5",
-      "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-      "url": "https://www.aibase.com/news/32357",
-      "primary_url": "https://www.aibase.com/news/32357",
+      "story_id": "story_6ea4459b8832",
+      "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+      "url": "https://www.aibase.com/news/32366",
+      "primary_url": "https://www.aibase.com/news/32366",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
-          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-          "url": "https://www.aibase.com/news/32357",
+          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
+          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "url": "https://www.aibase.com/news/32366",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "51e429d12803c2144011dd8cba627b237bc3f000",
-          "title": "亚马逊 Audible 推出 AI 音频发现功能与互动式「提问」工具",
-          "url": "https://www.aibase.com/zh/news/32357",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-18T01:47:04.766801Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
-          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-          "url": "https://www.aibase.com/news/32357",
+          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
+          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "url": "https://www.aibase.com/news/32366",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "51e429d12803c2144011dd8cba627b237bc3f000",
-          "title": "亚马逊 Audible 推出 AI 音频发现功能与互动式「提问」工具",
-          "url": "https://www.aibase.com/zh/news/32357",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-18T01:47:04.766801Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -673,694 +1096,20 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T10:54:14.156545Z",
-      "latest_at": "2026-11-17T10:54:14.156545Z",
+      "earliest_at": "2026-11-18T01:47:04.766801Z",
+      "latest_at": "2026-11-18T01:47:04.766801Z",
       "primary_item": {
-        "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
-        "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-        "url": "https://www.aibase.com/news/32357",
+        "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
+        "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+        "url": "https://www.aibase.com/news/32366",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-17T10:54:14.156545Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_0fb6d41b1c23",
-      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9797,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:03:42Z",
-      "latest_at": "2026-11-17T18:03:42Z",
-      "primary_item": {
-        "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T18:03:42Z",
-        "ai_score": 0.91,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_58da9c66b145",
-      "title": "为智利推出 OpenAI / Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "primary_url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-          "title": "为智利推出 OpenAI / Introducing OpenAI for Chile",
-          "url": "https://openai.com/index/introducing-openai-for-chile",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-          "title": "为智利推出 OpenAI / Introducing OpenAI for Chile",
-          "url": "https://openai.com/index/introducing-openai-for-chile",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7548,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-        "title": "为智利推出 OpenAI / Introducing OpenAI for Chile",
-        "url": "https://openai.com/index/introducing-openai-for-chile",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T00:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_50636b8e7e40",
-      "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
-      "url": "https://www.aibase.com/news/32360",
-      "primary_url": "https://www.aibase.com/news/32360",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "13d4daa48a13284566536b998414b13b1704f558",
-          "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
-          "url": "https://www.aibase.com/news/32360",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "6832add14957b4aeb3786b284b7d92574fc1e7a6",
-          "title": "李彦宏警告 AI 泡沫风险：算力投入巨大，应用落地仍不及预期",
-          "url": "https://www.aibase.com/zh/news/32360",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "13d4daa48a13284566536b998414b13b1704f558",
-          "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
-          "url": "https://www.aibase.com/news/32360",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "6832add14957b4aeb3786b284b7d92574fc1e7a6",
-          "title": "李彦宏警告 AI 泡沫风险：算力投入巨大，应用落地仍不及预期",
-          "url": "https://www.aibase.com/zh/news/32360",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T10:54:14.156545Z",
-      "latest_at": "2026-11-17T10:54:14.156545Z",
-      "primary_item": {
-        "id": "13d4daa48a13284566536b998414b13b1704f558",
-        "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
-        "url": "https://www.aibase.com/news/32360",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-17T10:54:14.156545Z",
-        "ai_score": 1.0,
-        "ai_label": "infra_compute",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_d463ce808607",
-      "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9793,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:02:05Z",
-      "latest_at": "2026-11-17T18:02:05Z",
-      "primary_item": {
-        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-        "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T18:02:05Z",
-        "ai_score": 0.91,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_590cb0b9c5dd",
-      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7548,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T00:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_3417af31f3ad",
-      "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
-      "url": "https://www.aibase.com/news/32355",
-      "primary_url": "https://www.aibase.com/news/32355",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
-          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
-          "url": "https://www.aibase.com/news/32355",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "97b2be1545cdb4e2ab1d54ff9be1064a2834a66c",
-          "title": "李飞飞加入 AMD！World Labs 正式并入，布局 3D 世界模型与机器人 AI",
-          "url": "https://www.aibase.com/zh/news/32355",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
-          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
-          "url": "https://www.aibase.com/news/32355",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "97b2be1545cdb4e2ab1d54ff9be1064a2834a66c",
-          "title": "李飞飞加入 AMD！World Labs 正式并入，布局 3D 世界模型与机器人 AI",
-          "url": "https://www.aibase.com/zh/news/32355",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T10:54:14.156545Z",
-      "latest_at": "2026-11-17T10:54:14.156545Z",
-      "primary_item": {
-        "id": "259a4016d26d9af14d2c8849095bc439edea0463",
-        "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
-        "url": "https://www.aibase.com/news/32355",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-17T10:54:14.156545Z",
+        "published_at": "2026-11-18T01:47:04.766801Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_2217122441a2",
-      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.979,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:35Z",
-      "latest_at": "2026-11-17T18:00:35Z",
-      "primary_item": {
-        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-17T18:00:35Z",
-        "ai_score": 0.91,
-        "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_f07d06bca77c",
-      "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
-      "url": "https://www.aibase.com/news/32351",
-      "primary_url": "https://www.aibase.com/news/32351",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8436e11b3f83fbadb8a6fb960e05daa76c8a5e2a",
-          "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
-          "url": "https://www.aibase.com/news/32351",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "09d27123b4ec0509f0a973731a33ff27f5accdfa",
-          "title": "苹果探索 AI 订阅变现，将云端智能使用额度与 iCloud+ 绑定",
-          "url": "https://www.aibase.com/zh/news/32351",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8436e11b3f83fbadb8a6fb960e05daa76c8a5e2a",
-          "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
-          "url": "https://www.aibase.com/news/32351",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "09d27123b4ec0509f0a973731a33ff27f5accdfa",
-          "title": "苹果探索 AI 订阅变现，将云端智能使用额度与 iCloud+ 绑定",
-          "url": "https://www.aibase.com/zh/news/32351",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T10:54:14.156545Z",
-      "latest_at": "2026-11-17T10:54:14.156545Z",
-      "primary_item": {
-        "id": "8436e11b3f83fbadb8a6fb960e05daa76c8a5e2a",
-        "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
-        "url": "https://www.aibase.com/news/32351",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-17T10:54:14.156545Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_tech",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1493,15 +1242,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6535,
+      "importance": 0.6535,
+      "importance_score": 0.6535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.913,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
@@ -1568,19 +1317,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9791,
+        "recency": 0.8939,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1611,99 +1360,232 @@
       }
     },
     {
-      "story_id": "story_13cee0bf600e",
-      "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
-      "url": "https://www.aibase.com/news/32356",
-      "primary_url": "https://www.aibase.com/news/32356",
+      "story_id": "story_acb02655dfee",
+      "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+      "url": "https://www.aibase.com/news/32367",
+      "primary_url": "https://www.aibase.com/news/32367",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
-          "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
-          "url": "https://www.aibase.com/news/32356",
+          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
+          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+          "url": "https://www.aibase.com/news/32367",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "03c3ba17332d6ad5311b46501e45af818da977f8",
-          "title": "谷歌地图 Ask Maps 迎重大更新：支持 AI 代打电话预约及智能行程规划",
-          "url": "https://www.aibase.com/zh/news/32356",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-18T01:47:04.766801Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
-          "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
-          "url": "https://www.aibase.com/news/32356",
+          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
+          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+          "url": "https://www.aibase.com/news/32367",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T10:54:14.156545Z"
-        },
-        {
-          "id": "03c3ba17332d6ad5311b46501e45af818da977f8",
-          "title": "谷歌地图 Ask Maps 迎重大更新：支持 AI 代打电话预约及智能行程规划",
-          "url": "https://www.aibase.com/zh/news/32356",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-18T01:47:04.766801Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "research_report",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T01:47:04.766801Z",
+      "latest_at": "2026-11-18T01:47:04.766801Z",
+      "primary_item": {
+        "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
+        "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+        "url": "https://www.aibase.com/news/32367",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-18T01:47:04.766801Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "research_report",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d463ce808607",
+      "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8941,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T10:54:14.156545Z",
-      "latest_at": "2026-11-17T10:54:14.156545Z",
+      "earliest_at": "2026-11-17T18:02:05Z",
+      "latest_at": "2026-11-17T18:02:05Z",
       "primary_item": {
-        "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
-        "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
-        "url": "https://www.aibase.com/news/32356",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-17T10:54:14.156545Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
+        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+        "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-17T18:02:05Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b873786b7e72",
+      "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+      "url": "https://www.aibase.com/news/32362",
+      "primary_url": "https://www.aibase.com/news/32362",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
+          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+          "url": "https://www.aibase.com/news/32362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
+          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+          "url": "https://www.aibase.com/news/32362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T01:47:04.766801Z",
+      "latest_at": "2026-11-18T01:47:04.766801Z",
+      "primary_item": {
+        "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
+        "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+        "url": "https://www.aibase.com/news/32362",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-18T01:47:04.766801Z",
+        "ai_score": 1.0,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -1741,19 +1623,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.979,
+        "recency": 0.8938,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1776,6 +1658,82 @@
         "published_at": "2026-11-17T18:00:35Z",
         "ai_score": 0.91,
         "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_55a3797d7638",
+      "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+      "url": "https://www.aibase.com/news/32368",
+      "primary_url": "https://www.aibase.com/news/32368",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2e706587713054bad719dac00d9df6bb12895102",
+          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "url": "https://www.aibase.com/news/32368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2e706587713054bad719dac00d9df6bb12895102",
+          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "url": "https://www.aibase.com/news/32368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T01:47:04.766801Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T01:47:04.766801Z",
+      "latest_at": "2026-11-18T01:47:04.766801Z",
+      "primary_item": {
+        "id": "2e706587713054bad719dac00d9df6bb12895102",
+        "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+        "url": "https://www.aibase.com/news/32368",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-18T01:47:04.766801Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
