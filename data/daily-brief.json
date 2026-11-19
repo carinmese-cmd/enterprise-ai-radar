@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T00:36:02.691301Z",
+  "generated_at": "2026-11-19T08:10:02.187769Z",
   "window_hours": 24,
-  "total_items": 4,
+  "total_items": 3,
   "items": [
     {
       "story_id": "story_475543a03700",
@@ -38,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8581,
+        "recency": 0.7692,
         "story_heat": 0.0
       },
       "enterprise_score": 77,
-      "enterprise_importance_score": 78,
+      "enterprise_importance_score": 77,
       "enterprise_primary_topic": "evaluation_governance",
       "enterprise_topics": [
         "evaluation_governance"
@@ -80,87 +80,6 @@
         ],
         "enterprise_content_type": "methodology_evaluation",
         "enterprise_reason": "主题命中：AI应用评估与治理；内容类型：方法与评估"
-      }
-    },
-    {
-      "story_id": "story_8b6ac2940fdc",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "primary_url": "https://openai.com/index/managing-frontier-ai-risk",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3318287fb79225b809e8c3bbdffecbd186893952",
-          "title": "Managing frontier AI risk: From training to deployment",
-          "url": "https://openai.com/index/managing-frontier-ai-risk",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3318287fb79225b809e8c3bbdffecbd186893952",
-          "title": "Managing frontier AI risk: From training to deployment",
-          "url": "https://openai.com/index/managing-frontier-ai-risk",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7644,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 76,
-      "enterprise_importance_score": 69,
-      "enterprise_primary_topic": "evaluation_governance",
-      "enterprise_topics": [
-        "evaluation_governance"
-      ],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号",
-      "enterprise_is_relevant": true,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T06:00:00Z",
-      "latest_at": "2026-11-18T06:00:00Z",
-      "primary_item": {
-        "id": "3318287fb79225b809e8c3bbdffecbd186893952",
-        "title": "Managing frontier AI risk: From training to deployment",
-        "url": "https://openai.com/index/managing-frontier-ai-risk",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-18T06:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 76,
-        "enterprise_primary_topic": "evaluation_governance",
-        "enterprise_topics": [
-          "evaluation_governance"
-        ],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：AI应用评估与治理；包含实施、架构、指标或结果信号"
       }
     },
     {
@@ -198,19 +117,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.4942,
-      "importance": 0.4942,
-      "importance_score": 0.4942,
+      "score": 0.4783,
+      "importance": 0.4783,
+      "importance_score": 0.4783,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8522,
+        "recency": 0.764,
         "story_heat": 0.0
       },
       "enterprise_score": 69,
-      "enterprise_importance_score": 68,
+      "enterprise_importance_score": 67,
       "enterprise_primary_topic": "evaluation_governance",
       "enterprise_topics": [
         "evaluation_governance"
@@ -277,19 +196,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9902,
+        "recency": 0.8877,
         "story_heat": 0.0
       },
       "enterprise_score": 67,
-      "enterprise_importance_score": 68,
+      "enterprise_importance_score": 67,
       "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
         "model_platform_selection"
