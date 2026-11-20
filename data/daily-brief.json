@@ -1,8 +1,87 @@
 {
-  "generated_at": "2026-11-20T04:53:57.911785Z",
+  "generated_at": "2026-11-20T13:43:34.886194Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 2,
   "items": [
+    {
+      "story_id": "story_6f2479372226",
+      "title": "Foundry Models 中的模型布线器：从一条线开始，智能布线，评估成本和质量 / Model router in Foundry Models: start in one line, route intelligently, evaluate cost and quality",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/model-router-in-foundry-models-start-in-one-line-route/ba-p/4573543",
+      "primary_url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/model-router-in-foundry-models-start-in-one-line-route/ba-p/4573543",
+      "source": "Azure AI Foundry Blog",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "c21df669e41893a6ff5bdd59e8fdc25fea413cab",
+          "title": "Foundry Models 中的模型布线器：从一条线开始，智能布线，评估成本和质量 / Model router in Foundry Models: start in one line, route intelligently, evaluate cost and quality",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/model-router-in-foundry-models-start-in-one-line-route/ba-p/4573543",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-19T21:56:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Azure AI Foundry Blog"
+      ],
+      "items": [
+        {
+          "id": "c21df669e41893a6ff5bdd59e8fdc25fea413cab",
+          "title": "Foundry Models 中的模型布线器：从一条线开始，智能布线，评估成本和质量 / Model router in Foundry Models: start in one line, route intelligently, evaluate cost and quality",
+          "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/model-router-in-foundry-models-start-in-one-line-route/ba-p/4573543",
+          "source": "Azure AI Foundry Blog",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-19T21:56:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.7962,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 70,
+      "enterprise_importance_score": 71,
+      "enterprise_primary_topic": "model_platform_selection",
+      "enterprise_topics": [
+        "model_platform_selection"
+      ],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号",
+      "enterprise_is_relevant": true,
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-11-19T21:56:49Z",
+      "latest_at": "2026-11-19T21:56:49Z",
+      "primary_item": {
+        "id": "c21df669e41893a6ff5bdd59e8fdc25fea413cab",
+        "title": "Foundry Models 中的模型布线器：从一条线开始，智能布线，评估成本和质量 / Model router in Foundry Models: start in one line, route intelligently, evaluate cost and quality",
+        "url": "https://techcommunity.microsoft.com/t5/microsoft-foundry-blog/model-router-in-foundry-models-start-in-one-line-route/ba-p/4573543",
+        "source": "Azure AI Foundry Blog",
+        "source_name": "OPML RSS",
+        "published_at": "2026-11-19T21:56:49Z",
+        "ai_score": 0.7,
+        "ai_label": "model_release",
+        "enterprise_score": 70,
+        "enterprise_primary_topic": "model_platform_selection",
+        "enterprise_topics": [
+          "model_platform_selection"
+        ],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "主题命中：模型与平台选型；包含实施、架构、指标或结果信号"
+      }
+    },
     {
       "story_id": "story_0e4e0130b9a8",
       "title": "Perplexity 推出用于故障转移和模型路由的 Orchestrator API / Perplexity Launches Orchestrator API for Failover and Model Routing",
@@ -38,19 +117,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8517,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "enterprise_score": 64,
-      "enterprise_importance_score": 70,
+      "enterprise_importance_score": 69,
       "enterprise_primary_topic": "model_platform_selection",
       "enterprise_topics": [
         "model_platform_selection"
