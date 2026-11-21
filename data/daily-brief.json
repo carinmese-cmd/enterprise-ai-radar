@@ -1,105 +1,8 @@
 {
-  "generated_at": "2026-11-21T02:55:00.598207Z",
+  "generated_at": "2026-11-21T10:27:14.800563Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_3ea993db7e3c",
-      "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "primary_url": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
-          "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
-          "url": "https://openai.com/index/combatting-adversarial-distillation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T10:00:00Z"
-        },
-        {
-          "id": "9450a2a6876b212df7b02ad48bfe43546ed7c265",
-          "title": "OpenAI 应对对抗性蒸馏的分层策略",
-          "url": "https://openai.com/index/combatting-adversarial-distillation",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
-          "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
-          "url": "https://openai.com/index/combatting-adversarial-distillation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T10:00:00Z"
-        },
-        {
-          "id": "9450a2a6876b212df7b02ad48bfe43546ed7c265",
-          "title": "OpenAI 应对对抗性蒸馏的分层策略",
-          "url": "https://openai.com/index/combatting-adversarial-distillation",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7833,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T10:00:00Z",
-      "latest_at": "2026-11-20T21:37:25.824428Z",
-      "primary_item": {
-        "id": "2dc91bf67ac1fa3b6b207e89864afed6725256e5",
-        "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
-        "url": "https://openai.com/index/combatting-adversarial-distillation",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-20T10:00:00Z",
-        "ai_score": 0.91,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
     {
       "story_id": "story_2f9d0bc4d147",
       "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
@@ -135,19 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9291,
+        "recency": 0.8333,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -212,19 +115,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.914,
+        "recency": 0.8198,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "product_update",
@@ -308,19 +211,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "recency": 0.7413,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -329,8 +232,7 @@
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T13:43:34.886194Z",
       "latest_at": "2026-11-20T13:43:34.886194Z",
@@ -385,19 +287,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8323,
+        "recency": 0.7464,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -481,19 +383,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "recency": 0.7413,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -502,8 +404,7 @@
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T13:43:34.886194Z",
       "latest_at": "2026-11-20T13:43:34.886194Z",
@@ -577,19 +478,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "recency": 0.7413,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -598,8 +499,7 @@
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T13:43:34.886194Z",
       "latest_at": "2026-11-20T13:43:34.886194Z",
@@ -673,19 +573,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "recency": 0.7413,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -694,8 +594,7 @@
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T13:43:34.886194Z",
       "latest_at": "2026-11-20T13:43:34.886194Z",
@@ -822,19 +721,19 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.656,
-      "importance": 0.656,
-      "importance_score": 0.656,
+      "score": 0.6388,
+      "importance": 0.6388,
+      "importance_score": 0.6388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9264,
+        "recency": 0.8309,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -916,19 +815,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "recency": 0.7413,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -937,8 +836,7 @@
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T13:43:34.886194Z",
       "latest_at": "2026-11-20T13:43:34.886194Z",
@@ -959,97 +857,77 @@
       }
     },
     {
-      "story_id": "story_210abe041d09",
-      "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-      "url": "https://www.aibase.com/news/32418",
-      "primary_url": "https://www.aibase.com/news/32418",
+      "story_id": "story_778321fbd15b",
+      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+      "url": "https://www.aibase.com/news/32446",
+      "primary_url": "https://www.aibase.com/news/32446",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7fbbb666388b426158218884787113a14cc30303",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "url": "https://www.aibase.com/news/32418",
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "url": "https://www.aibase.com/news/32446",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T04:53:57.911785Z"
-        },
-        {
-          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "url": "https://www.aibase.com/zh/news/32418",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T13:43:34.886194Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "7fbbb666388b426158218884787113a14cc30303",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "url": "https://www.aibase.com/news/32418",
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "url": "https://www.aibase.com/news/32446",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T04:53:57.911785Z"
-        },
-        {
-          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "url": "https://www.aibase.com/zh/news/32418",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T13:43:34.886194Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7276,
-        "story_heat": 0.25
+        "recency": 0.7413,
+        "story_heat": 0.0
       },
       "enterprise_score": 0,
       "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
+      "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-20T04:53:57.911785Z",
-      "latest_at": "2026-11-20T04:53:57.911785Z",
+      "earliest_at": "2026-11-20T13:43:34.886194Z",
+      "latest_at": "2026-11-20T13:43:34.886194Z",
       "primary_item": {
-        "id": "7fbbb666388b426158218884787113a14cc30303",
-        "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-        "url": "https://www.aibase.com/news/32418",
+        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "url": "https://www.aibase.com/news/32446",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-20T04:53:57.911785Z",
+        "published_at": "2026-11-20T13:43:34.886194Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
+        "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
@@ -1144,15 +1022,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5852,
-      "importance": 0.5852,
-      "importance_score": 0.5852,
+      "score": 0.5677,
+      "importance": 0.5677,
+      "importance_score": 0.5677,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9411,
+        "recency": 0.844,
         "story_heat": 0.75
       },
       "enterprise_score": 0,
@@ -1185,93 +1063,355 @@
       }
     },
     {
-      "story_id": "story_b228d0a88350",
-      "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-      "url": "https://www.aibase.com/news/32424",
-      "primary_url": "https://www.aibase.com/news/32424",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6e086317ffb3",
+      "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Leaky AI supply chain is exposing secret user data at an alarming rate",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
-          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "url": "https://www.aibase.com/news/32424",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T04:53:57.911785Z"
+          "id": "d70ff9f697e713fc369b928d4cbbddb9c9b0fa4b",
+          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Leaky AI supply chain is exposing secret user data at an alarming rate",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T21:53:39Z"
         },
         {
-          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
-          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
-          "url": "https://www.aibase.com/zh/news/32424",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "28f6af239630408ca28e45890037421894e9fc82",
+          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T21:12:51.754000Z"
+        },
+        {
+          "id": "ba9fbf177295d65953d03b2005b627fa3d3bbbb4",
+          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T20:59:08Z"
+        },
+        {
+          "id": "3676c675b1df2e2619f9f9030e7c7d6b61ae370a",
+          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T20:59:08Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Ars Technica",
+        "Ars Technica (科技媒体)",
+        "Hacker News · 24h最热",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
-          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "url": "https://www.aibase.com/news/32424",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T04:53:57.911785Z"
+          "id": "d70ff9f697e713fc369b928d4cbbddb9c9b0fa4b",
+          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Leaky AI supply chain is exposing secret user data at an alarming rate",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T21:53:39Z"
         },
         {
-          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
-          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
-          "url": "https://www.aibase.com/zh/news/32424",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "28f6af239630408ca28e45890037421894e9fc82",
+          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T21:12:51.754000Z"
+        },
+        {
+          "id": "ba9fbf177295d65953d03b2005b627fa3d3bbbb4",
+          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T20:59:08Z"
+        },
+        {
+          "id": "3676c675b1df2e2619f9f9030e7c7d6b61ae370a",
+          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T20:59:08Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5659,
+      "importance": 0.5659,
+      "importance_score": 0.5659,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7276,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8341,
+        "story_heat": 0.75
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-20T04:53:57.911785Z",
-      "latest_at": "2026-11-20T04:53:57.911785Z",
+      "earliest_at": "2026-11-20T20:59:08Z",
+      "latest_at": "2026-11-20T21:53:39Z",
       "primary_item": {
-        "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
-        "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-        "url": "https://www.aibase.com/news/32424",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-20T04:53:57.911785Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
+        "id": "d70ff9f697e713fc369b928d4cbbddb9c9b0fa4b",
+        "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Leaky AI supply chain is exposing secret user data at an alarming rate",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-11-20T21:53:39Z",
+        "ai_score": 0.65,
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_32a6def5ca55",
+      "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+      "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+      "primary_url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "d881189130388ecfd4e493aba95707c738c642c1",
+          "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:00:00Z"
+        },
+        {
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.777000Z"
+        },
+        {
+          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T17:44:01Z"
+        },
+        {
+          "id": "fe66d054a63bfefd331b10e7e5d6b3c2c8af7b32",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Markets plunge: Nasdaq erases 2026 gains, S&P, Dow in corrections",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T17:44:01Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Slashdot",
+        "www.nbcnews.com"
+      ],
+      "items": [
+        {
+          "id": "d881189130388ecfd4e493aba95707c738c642c1",
+          "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:00:00Z"
+        },
+        {
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.777000Z"
+        },
+        {
+          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T17:44:01Z"
+        },
+        {
+          "id": "fe66d054a63bfefd331b10e7e5d6b3c2c8af7b32",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Markets plunge: Nasdaq erases 2026 gains, S&P, Dow in corrections",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T17:44:01Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8234,
+        "story_heat": 0.75
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T17:44:01Z",
+      "latest_at": "2026-11-20T21:00:00Z",
+      "primary_item": {
+        "id": "d881189130388ecfd4e493aba95707c738c642c1",
+        "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+        "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+        "source": "Slashdot",
+        "source_name": "TechURLs",
+        "published_at": "2026-11-20T21:00:00Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+      }
+    },
+    {
+      "story_id": "story_e39169d6912b",
+      "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用「野蛮生长」",
+      "url": "https://www.ithome.com/1/030/421.htm",
+      "primary_url": "https://www.ithome.com/1/030/421.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ff68d093d8056577d7c2879d10d5fb6d17507b0c",
+          "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用「野蛮生长」",
+          "url": "https://www.ithome.com/1/030/421.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3c9f9c77a28c843d9dd0e3df33127438d051cfaa",
+          "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”",
+          "url": "https://www.ithome.com/1/030/421.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T09:22:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ff68d093d8056577d7c2879d10d5fb6d17507b0c",
+          "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用「野蛮生长」",
+          "url": "https://www.ithome.com/1/030/421.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3c9f9c77a28c843d9dd0e3df33127438d051cfaa",
+          "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”",
+          "url": "https://www.ithome.com/1/030/421.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T09:22:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T09:22:39Z",
+      "latest_at": "2026-11-21T10:27:14.800563Z",
+      "primary_item": {
+        "id": "ff68d093d8056577d7c2879d10d5fb6d17507b0c",
+        "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用「野蛮生长」",
+        "url": "https://www.ithome.com/1/030/421.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1352,15 +1492,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5591,
-      "importance": 0.5591,
-      "importance_score": 0.5591,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.935,
+        "recency": 0.8386,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1393,116 +1533,78 @@
       }
     },
     {
-      "story_id": "story_32a6def5ca55",
-      "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-      "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-      "primary_url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
+      "story_id": "story_e28be1686ff0",
+      "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+      "url": "https://www.aibase.com/news/32437",
+      "primary_url": "https://www.aibase.com/news/32437",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d881189130388ecfd4e493aba95707c738c642c1",
-          "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T21:00:00Z"
-        },
-        {
-          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "www.nbcnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T19:36:57.777000Z"
-        },
-        {
-          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T17:44:01Z"
+          "id": "661597afe549d2646ca98e70987d163eb6e66d52",
+          "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+          "url": "https://www.aibase.com/news/32437",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:43:34.886194Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot",
-        "www.nbcnews.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d881189130388ecfd4e493aba95707c738c642c1",
-          "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T21:00:00Z"
-        },
-        {
-          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "www.nbcnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T19:36:57.777000Z"
-        },
-        {
-          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T17:44:01Z"
+          "id": "661597afe549d2646ca98e70987d163eb6e66d52",
+          "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+          "url": "https://www.aibase.com/news/32437",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:43:34.886194Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9181,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7413,
+        "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 41,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-20T17:44:01Z",
-      "latest_at": "2026-11-20T21:00:00Z",
+      "earliest_at": "2026-11-20T13:43:34.886194Z",
+      "latest_at": "2026-11-20T13:43:34.886194Z",
       "primary_item": {
-        "id": "d881189130388ecfd4e493aba95707c738c642c1",
-        "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-        "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-        "source": "Slashdot",
-        "source_name": "TechURLs",
-        "published_at": "2026-11-20T21:00:00Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_product_update",
+        "id": "661597afe549d2646ca98e70987d163eb6e66d52",
+        "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+        "url": "https://www.aibase.com/news/32437",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-20T13:43:34.886194Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     },
     {
@@ -1578,19 +1680,19 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5528,
-      "importance": 0.5528,
-      "importance_score": 0.5528,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8999,
+        "recency": 0.8071,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1619,72 +1721,72 @@
       }
     },
     {
-      "story_id": "story_54ae3b6f147c",
-      "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-      "url": "https://www.ithome.com/1/030/322.htm",
-      "primary_url": "https://www.ithome.com/1/030/322.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_c82934c02ed9",
+      "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS",
+      "primary_url": "http://ricapar.net/ClawDOS",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "756f826e5fc05006f50f802145ca8a4ef351c5f4",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "ca2b0eef5b4cd71fe4ef0c4a9cda6f71e2f70e5e",
+          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
+          "url": "http://ricapar.net/ClawDOS",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-21T02:03:24Z"
+          "published_at": "2026-11-21T05:38:01Z"
+        },
+        {
+          "id": "676963c438105d647a6a86adcc682ef67e6ccf2b",
+          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
+          "url": "https://news.ycombinator.com/item?id=50586292",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T05:38:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "756f826e5fc05006f50f802145ca8a4ef351c5f4",
-          "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
-          "url": "https://www.ithome.com/1/030/322.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "ca2b0eef5b4cd71fe4ef0c4a9cda6f71e2f70e5e",
+          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
+          "url": "http://ricapar.net/ClawDOS",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-21T02:03:24Z"
+          "published_at": "2026-11-21T05:38:01Z"
+        },
+        {
+          "id": "676963c438105d647a6a86adcc682ef67e6ccf2b",
+          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
+          "url": "https://news.ycombinator.com/item?id=50586292",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T05:38:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9328,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1694,22 +1796,135 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T02:03:24Z",
-      "latest_at": "2026-11-21T02:55:00.598207Z",
+      "earliest_at": "2026-11-21T05:38:01Z",
+      "latest_at": "2026-11-21T05:38:01Z",
       "primary_item": {
-        "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
-        "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
-        "url": "https://www.ithome.com/1/030/322.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub",
-        "published_at": null,
+        "id": "ca2b0eef5b4cd71fe4ef0c4a9cda6f71e2f70e5e",
+        "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
+        "url": "http://ricapar.net/ClawDOS",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-11-21T05:38:01Z",
         "ai_score": 0.65,
-        "ai_label": "ai_general",
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
         "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_fd2811614640",
+      "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "primary_url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T16:08:55.353000Z"
+        },
+        {
+          "id": "d2e3e7de6b7ed4f502a7801cbe776e3951bbbf74",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T13:29:59Z"
+        },
+        {
+          "id": "6a779df66b08b1cf8872f96272a6a101fa887a76",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T13:29:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T16:08:55.353000Z"
+        },
+        {
+          "id": "d2e3e7de6b7ed4f502a7801cbe776e3951bbbf74",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T13:29:59Z"
+        },
+        {
+          "id": "6a779df66b08b1cf8872f96272a6a101fa887a76",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T13:29:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7677,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T13:29:59Z",
+      "latest_at": "2026-11-20T16:08:55.353000Z",
+      "primary_item": {
+        "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+        "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-20T16:08:55.353000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "泛科技、融资、消费或内容生成噪声降权"
       }
     },
     {
@@ -1766,15 +1981,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9603,
+        "recency": 0.8613,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1799,194 +2014,6 @@
         "published_at": "2026-11-21T00:06:54.148000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_5d3c25a64fe3",
-      "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T23:34:58.378000Z"
-        },
-        {
-          "id": "4b3ebdefb9aa8fc0f6a3fb122030d003063b6a2f",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:08:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T23:34:58.378000Z"
-        },
-        {
-          "id": "4b3ebdefb9aa8fc0f6a3fb122030d003063b6a2f",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:08:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.953,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T23:08:57Z",
-      "latest_at": "2026-11-20T23:34:58.378000Z",
-      "primary_item": {
-        "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-        "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-20T23:34:58.378000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_7f78d7354514",
-      "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-      "primary_url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T22:46:59Z"
-        },
-        {
-          "id": "b541e646d96c2e85906ab7faa674891db195cbc6",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:59:44.577000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T22:46:59Z"
-        },
-        {
-          "id": "b541e646d96c2e85906ab7faa674891db195cbc6",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:59:44.577000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9421,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T21:59:44.577000Z",
-      "latest_at": "2026-11-20T22:46:59Z",
-      "primary_item": {
-        "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
-        "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-        "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli",
-        "published_at": "2026-11-20T22:46:59Z",
-        "ai_score": 0.65,
-        "ai_label": "curated_hotlist",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
