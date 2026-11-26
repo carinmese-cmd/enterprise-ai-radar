@@ -1,8 +1,85 @@
 {
-  "generated_at": "2026-11-26T00:34:21.460280Z",
+  "generated_at": "2026-11-26T09:01:06.506270Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_d3aa48daa62d",
+      "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "primary_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
+          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-26T05:05:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
+          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-26T05:05:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8501,
+      "importance": 0.8501,
+      "importance_score": 0.8501,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9449,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T05:05:36Z",
+      "latest_at": "2026-11-26T05:05:36Z",
+      "primary_item": {
+        "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
+        "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-26T05:05:36Z",
+        "ai_score": 0.95,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
     {
       "story_id": "story_c0d40e212e2d",
       "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
@@ -38,19 +115,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9677,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 35,
+      "enterprise_importance_score": 34,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -73,83 +150,6 @@
         "published_at": "2026-11-25T22:18:03Z",
         "ai_score": 0.91,
         "ai_label": "developer_tool",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_37b5c9ba9326",
-      "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
-          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T18:52:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
-          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T18:52:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8458,
-      "importance": 0.8458,
-      "importance_score": 0.8458,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9211,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T18:52:55Z",
-      "latest_at": "2026-11-25T18:52:55Z",
-      "primary_item": {
-        "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
-        "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-25T18:52:55Z",
-        "ai_score": 0.95,
-        "ai_label": "agent_workflow",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -192,15 +192,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8709,
+        "recency": 0.7709,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -227,6 +227,275 @@
         "published_at": "2026-11-25T15:00:00Z",
         "ai_score": 0.87,
         "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_37b5c9ba9326",
+      "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T18:52:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T18:52:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8153,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T18:52:55Z",
+      "latest_at": "2026-11-25T18:52:55Z",
+      "primary_item": {
+        "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+        "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-25T18:52:55Z",
+        "ai_score": 0.95,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_983a52a48c0f",
+      "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+      "url": "https://www.aibase.com/news/32549",
+      "primary_url": "https://www.aibase.com/news/32549",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
+          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "url": "https://www.aibase.com/news/32549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:01:06.506270Z"
+        },
+        {
+          "id": "bb49f468149ceca57eaceec11e004dba98405156",
+          "title": "Anthropic CEO 驳「让渡自由意志」指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "url": "https://www.aibase.com/zh/news/32549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
+          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "url": "https://www.aibase.com/news/32549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:01:06.506270Z"
+        },
+        {
+          "id": "bb49f468149ceca57eaceec11e004dba98405156",
+          "title": "Anthropic CEO 驳「让渡自由意志」指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "url": "https://www.aibase.com/zh/news/32549",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 46,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T09:01:06.506270Z",
+      "latest_at": "2026-11-26T09:01:06.506270Z",
+      "primary_item": {
+        "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
+        "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+        "url": "https://www.aibase.com/news/32549",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-26T09:01:06.506270Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_76c15d088541",
+      "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+      "url": "https://www.aibase.com/news/32541",
+      "primary_url": "https://www.aibase.com/news/32541",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
+          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "url": "https://www.aibase.com/news/32541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:01:06.506270Z"
+        },
+        {
+          "id": "c52ca508c64e9fa53f6de562def1bc5b9bb82a9c",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离企业数据，内部员工也无法查看",
+          "url": "https://www.aibase.com/zh/news/32541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
+          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "url": "https://www.aibase.com/news/32541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:01:06.506270Z"
+        },
+        {
+          "id": "c52ca508c64e9fa53f6de562def1bc5b9bb82a9c",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离企业数据，内部员工也无法查看",
+          "url": "https://www.aibase.com/zh/news/32541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T09:01:06.506270Z",
+      "latest_at": "2026-11-26T09:01:06.506270Z",
+      "primary_item": {
+        "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
+        "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+        "url": "https://www.aibase.com/news/32541",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-26T09:01:06.506270Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -269,19 +538,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8146,
+        "recency": 0.721,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -312,26 +581,26 @@
       }
     },
     {
-      "story_id": "story_78faac76a1cc",
-      "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
-      "url": "https://www.aibase.com/news/32532",
-      "primary_url": "https://www.aibase.com/news/32532",
+      "story_id": "story_51e2f1d1c883",
+      "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+      "url": "https://www.aibase.com/news/32553",
+      "primary_url": "https://www.aibase.com/news/32553",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "89349c78bb0ac9dc7b4f9be8177b4426a61701c3",
-          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
-          "url": "https://www.aibase.com/news/32532",
+          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
+          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+          "url": "https://www.aibase.com/news/32553",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T16:27:57.160632Z"
+          "published_at": "2026-11-26T09:01:06.506270Z"
         },
         {
-          "id": "7471c25dbac4b1ec1423d90cf89d3fcb7f80966b",
-          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
-          "url": "https://www.aibase.com/zh/news/32532",
+          "id": "7d66d40d5e18431ba281af0c30de79ddb3966f4a",
+          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+          "url": "https://www.aibase.com/zh/news/32553",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -345,18 +614,18 @@
       ],
       "items": [
         {
-          "id": "89349c78bb0ac9dc7b4f9be8177b4426a61701c3",
-          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
-          "url": "https://www.aibase.com/news/32532",
+          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
+          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+          "url": "https://www.aibase.com/news/32553",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T16:27:57.160632Z"
+          "published_at": "2026-11-26T09:01:06.506270Z"
         },
         {
-          "id": "7471c25dbac4b1ec1423d90cf89d3fcb7f80966b",
-          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
-          "url": "https://www.aibase.com/zh/news/32532",
+          "id": "7d66d40d5e18431ba281af0c30de79ddb3966f4a",
+          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+          "url": "https://www.aibase.com/zh/news/32553",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -365,19 +634,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8895,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -389,17 +658,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T16:27:57.160632Z",
-      "latest_at": "2026-11-25T16:27:57.160632Z",
+      "earliest_at": "2026-11-26T09:01:06.506270Z",
+      "latest_at": "2026-11-26T09:01:06.506270Z",
       "primary_item": {
-        "id": "89349c78bb0ac9dc7b4f9be8177b4426a61701c3",
-        "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
-        "url": "https://www.aibase.com/news/32532",
+        "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
+        "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+        "url": "https://www.aibase.com/news/32553",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-25T16:27:57.160632Z",
+        "published_at": "2026-11-26T09:01:06.506270Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "infra_compute",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -408,26 +677,26 @@
       }
     },
     {
-      "story_id": "story_1369a425bb64",
-      "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
-      "url": "https://www.aibase.com/news/32524",
-      "primary_url": "https://www.aibase.com/news/32524",
+      "story_id": "story_2176634eeb85",
+      "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+      "url": "https://www.aibase.com/news/32551",
+      "primary_url": "https://www.aibase.com/news/32551",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6f9e918fef491ed64bd0d519e7493b53ac9b387a",
-          "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
-          "url": "https://www.aibase.com/news/32524",
+          "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
+          "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+          "url": "https://www.aibase.com/news/32551",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T15:27:57.160632Z"
+          "published_at": "2026-11-26T09:01:06.506270Z"
         },
         {
-          "id": "d81069c2cbbe08c3d38bc42abd0adfdc9ff179af",
-          "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
-          "url": "https://www.aibase.com/zh/news/32524",
+          "id": "26abc5a7e1912ef646d5cd3829b54830585adc0c",
+          "title": "上海 AI Lab 开源 Sage-Interaction，以 1.29 秒极致延迟重塑全双工交互新范式",
+          "url": "https://www.aibase.com/zh/news/32551",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -441,18 +710,18 @@
       ],
       "items": [
         {
-          "id": "6f9e918fef491ed64bd0d519e7493b53ac9b387a",
-          "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
-          "url": "https://www.aibase.com/news/32524",
+          "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
+          "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+          "url": "https://www.aibase.com/news/32551",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T15:27:57.160632Z"
+          "published_at": "2026-11-26T09:01:06.506270Z"
         },
         {
-          "id": "d81069c2cbbe08c3d38bc42abd0adfdc9ff179af",
-          "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
-          "url": "https://www.aibase.com/zh/news/32524",
+          "id": "26abc5a7e1912ef646d5cd3829b54830585adc0c",
+          "title": "上海 AI Lab 开源 Sage-Interaction，以 1.29 秒极致延迟重塑全双工交互新范式",
+          "url": "https://www.aibase.com/zh/news/32551",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -461,19 +730,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8768,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -485,17 +754,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T15:27:57.160632Z",
-      "latest_at": "2026-11-25T16:27:57.160632Z",
+      "earliest_at": "2026-11-26T09:01:06.506270Z",
+      "latest_at": "2026-11-26T09:01:06.506270Z",
       "primary_item": {
-        "id": "6f9e918fef491ed64bd0d519e7493b53ac9b387a",
-        "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
-        "url": "https://www.aibase.com/news/32524",
+        "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
+        "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+        "url": "https://www.aibase.com/news/32551",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-25T15:27:57.160632Z",
+        "published_at": "2026-11-26T09:01:06.506270Z",
         "ai_score": 1.0,
-        "ai_label": "model_release",
+        "ai_label": "ai_tech",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -504,26 +773,26 @@
       }
     },
     {
-      "story_id": "story_5f9dfe4439f0",
-      "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-      "url": "https://www.aibase.com/news/32527",
-      "primary_url": "https://www.aibase.com/news/32527",
+      "story_id": "story_6394389d4f0c",
+      "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+      "url": "https://www.aibase.com/news/32546",
+      "primary_url": "https://www.aibase.com/news/32546",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
-          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "url": "https://www.aibase.com/news/32527",
+          "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "url": "https://www.aibase.com/news/32546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T15:27:57.160632Z"
+          "published_at": "2026-11-26T09:01:06.506270Z"
         },
         {
-          "id": "aed9272ecd9cee6c7fa7509a624aa23f9881bf79",
-          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "url": "https://www.aibase.com/zh/news/32527",
+          "id": "2731a831da7691724695839276538c19e3d0f96d",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "url": "https://www.aibase.com/zh/news/32546",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -537,18 +806,18 @@
       ],
       "items": [
         {
-          "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
-          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "url": "https://www.aibase.com/news/32527",
+          "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "url": "https://www.aibase.com/news/32546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T15:27:57.160632Z"
+          "published_at": "2026-11-26T09:01:06.506270Z"
         },
         {
-          "id": "aed9272ecd9cee6c7fa7509a624aa23f9881bf79",
-          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "url": "https://www.aibase.com/zh/news/32527",
+          "id": "2731a831da7691724695839276538c19e3d0f96d",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "url": "https://www.aibase.com/zh/news/32546",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -557,19 +826,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8768,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -581,113 +850,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T15:27:57.160632Z",
-      "latest_at": "2026-11-25T16:27:57.160632Z",
+      "earliest_at": "2026-11-26T09:01:06.506270Z",
+      "latest_at": "2026-11-26T09:01:06.506270Z",
       "primary_item": {
-        "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
-        "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-        "url": "https://www.aibase.com/news/32527",
+        "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
+        "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+        "url": "https://www.aibase.com/news/32546",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-25T15:27:57.160632Z",
+        "published_at": "2026-11-26T09:01:06.506270Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_39bc74b6863d",
-      "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-      "url": "https://www.aibase.com/news/32522",
-      "primary_url": "https://www.aibase.com/news/32522",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c7aa7bb477235924efd12d1e47a8f49d9f54a9f1",
-          "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "url": "https://www.aibase.com/news/32522",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T14:27:57.160632Z"
-        },
-        {
-          "id": "297b7cee834bd46327d3c618371f77911e1ea26d",
-          "title": "PrismML 发布三值压缩 Bonsai 2.5 27B：九分之一体积保留 93.7% 编程能力",
-          "url": "https://www.aibase.com/zh/news/32522",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c7aa7bb477235924efd12d1e47a8f49d9f54a9f1",
-          "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-          "url": "https://www.aibase.com/news/32522",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T14:27:57.160632Z"
-        },
-        {
-          "id": "297b7cee834bd46327d3c618371f77911e1ea26d",
-          "title": "PrismML 发布三值压缩 Bonsai 2.5 27B：九分之一体积保留 93.7% 编程能力",
-          "url": "https://www.aibase.com/zh/news/32522",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8642,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T14:27:57.160632Z",
-      "latest_at": "2026-11-25T16:27:57.160632Z",
-      "primary_item": {
-        "id": "c7aa7bb477235924efd12d1e47a8f49d9f54a9f1",
-        "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
-        "url": "https://www.aibase.com/news/32522",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-25T14:27:57.160632Z",
-        "ai_score": 1.0,
-        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -747,56 +920,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "fffbf9deb130fd076cb95b2aca091ff3cb18bc6f",
-          "title": "WaytoAGI、ACE-CON 与剪映联合呈现的AI x 音乐视觉黑客松，让 38 支队伍在4小时内完成创作，最终8支作品与乐队同台共演。这篇回顾文章也拆解了现场的创作方法：保留满意片段继续生成、用低清样片试剪、用 Skill 统一视觉规范，再精修卡点与音效。做 MV、演出视觉或 AI 视频的朋友，可以看看创作者如何把零散的漂亮镜头，做成真正服务音乐的作品！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "d1fa9bf80dfe78c68628cf0efc5cf2d74504a67e",
-          "title": "做 AI 视频，镜头衔接很难、细节改动常常也要重来，还得反复计算生成成本。Sand.ai 发布的 MAGI-2，官方公布1080P生成价格为 0.5 元/秒，单次最长30秒并同步生成音频，还支持最多20份图、视频、音频参考素材，以及生成后的局部编辑。文中展示了多组案例，也说明高速动作与音效仍有不足，可以先看实际效果，再判断能否用进自己的项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "ba5e47df682075e3ea581023eb5f85ae58398b73",
-          "title": "如果 AI 比人更聪明，“不听话就关机”还管用吗？辛顿在这场访谈中提出，即便开关可靠，掌管开关的人也可能被说服；奖励机制还可能让系统学会钻考核的空子。关心 AI 未来发展的朋友，可以借此想清楚：能力不断提升时，安全该由谁证明，责任又该由谁承担？",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "2f007d5c803929c76aaef734e915df85b77a8626",
-          "title": "让 AI 自己查失败日志、改提示词、升级工具，听起来就能越用越强？但是难点在于：分数涨了，可能只是更会应付测试，原本能做好的任务反而退步了。作者精选的这份年度 RSI（递归自我改进）论文清单，用十篇研究串起了“改哪里、怎么验证、如何安全上线”，涵盖运行框架、模型训练和 Spotify 的产品实践。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "bc0c72c3f1c13f26988939ce37641864c0d5c938",
-          "title": "这篇文章拆解了 203 页的《Agent 工程小书》，用 11 章讲清模型之外的工具、上下文、记忆、权限与验收机制，并附约 400 行 Python 教学实现，很适合正在搭建或优化 Agent 的开发者。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-11-24",
         "社区更新 · 2026-11-25"
       ],
       "items": [
@@ -844,68 +971,23 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "fffbf9deb130fd076cb95b2aca091ff3cb18bc6f",
-          "title": "WaytoAGI、ACE-CON 与剪映联合呈现的AI x 音乐视觉黑客松，让 38 支队伍在4小时内完成创作，最终8支作品与乐队同台共演。这篇回顾文章也拆解了现场的创作方法：保留满意片段继续生成、用低清样片试剪、用 Skill 统一视觉规范，再精修卡点与音效。做 MV、演出视觉或 AI 视频的朋友，可以看看创作者如何把零散的漂亮镜头，做成真正服务音乐的作品！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "d1fa9bf80dfe78c68628cf0efc5cf2d74504a67e",
-          "title": "做 AI 视频，镜头衔接很难、细节改动常常也要重来，还得反复计算生成成本。Sand.ai 发布的 MAGI-2，官方公布1080P生成价格为 0.5 元/秒，单次最长30秒并同步生成音频，还支持最多20份图、视频、音频参考素材，以及生成后的局部编辑。文中展示了多组案例，也说明高速动作与音效仍有不足，可以先看实际效果，再判断能否用进自己的项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "ba5e47df682075e3ea581023eb5f85ae58398b73",
-          "title": "如果 AI 比人更聪明，“不听话就关机”还管用吗？辛顿在这场访谈中提出，即便开关可靠，掌管开关的人也可能被说服；奖励机制还可能让系统学会钻考核的空子。关心 AI 未来发展的朋友，可以借此想清楚：能力不断提升时，安全该由谁证明，责任又该由谁承担？",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "2f007d5c803929c76aaef734e915df85b77a8626",
-          "title": "让 AI 自己查失败日志、改提示词、升级工具，听起来就能越用越强？但是难点在于：分数涨了，可能只是更会应付测试，原本能做好的任务反而退步了。作者精选的这份年度 RSI（递归自我改进）论文清单，用十篇研究串起了“改哪里、怎么验证、如何安全上线”，涵盖运行框架、模型训练和 Spotify 的产品实践。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "bc0c72c3f1c13f26988939ce37641864c0d5c938",
-          "title": "这篇文章拆解了 203 页的《Agent 工程小书》，用 11 章讲清模型之外的工具、上下文、记忆、权限与验收机制，并附约 400 行 Python 教学实现，很适合正在搭建或优化 Agent 的开发者。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-24",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-25T05:31:59.530641Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6485,
+      "importance": 0.6485,
+      "importance_score": 0.6485,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8852,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -915,7 +997,7 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-25T05:31:59.530641Z",
+      "earliest_at": "2026-11-26T00:34:21.460280Z",
       "latest_at": "2026-11-26T00:34:21.460280Z",
       "primary_item": {
         "id": "8cb91364a95e119de13d5203748b48411ba13bc8",
@@ -926,6 +1008,102 @@
         "published_at": "2026-11-26T00:34:21.460280Z",
         "ai_score": 0.65,
         "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_05ccc7cc9bcb",
+      "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+      "url": "https://www.aibase.com/news/32548",
+      "primary_url": "https://www.aibase.com/news/32548",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
+          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "url": "https://www.aibase.com/news/32548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:01:06.506270Z"
+        },
+        {
+          "id": "0316cd5485f75e6d73f25bcfc0372484281aa25a",
+          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "url": "https://www.aibase.com/zh/news/32548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
+          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "url": "https://www.aibase.com/news/32548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:01:06.506270Z"
+        },
+        {
+          "id": "0316cd5485f75e6d73f25bcfc0372484281aa25a",
+          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "url": "https://www.aibase.com/zh/news/32548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T09:01:06.506270Z",
+      "latest_at": "2026-11-26T09:01:06.506270Z",
+      "primary_item": {
+        "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
+        "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+        "url": "https://www.aibase.com/news/32548",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-26T09:01:06.506270Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -987,19 +1165,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6315,
-      "importance": 0.6315,
-      "importance_score": 0.6315,
+      "score": 0.6128,
+      "importance": 0.6128,
+      "importance_score": 0.6128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9042,
+        "recency": 0.8004,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1028,72 +1206,53 @@
       }
     },
     {
-      "story_id": "story_8b4f16a58a20",
-      "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
-      "url": "https://www.aibase.com/news/32511",
-      "primary_url": "https://www.aibase.com/news/32511",
+      "story_id": "story_3f602f46dbd1",
+      "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+      "url": "https://www.aibase.com/news/32547",
+      "primary_url": "https://www.aibase.com/news/32547",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
-          "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
-          "url": "https://www.aibase.com/news/32511",
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "url": "https://www.aibase.com/news/32547",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "a5cc7b84a5ddb29bfc08822330cccd730759646e",
-          "title": "AI 生成世界不再只有画面：高德 ABot-World0.5 支持实时交互与声音生成",
-          "url": "https://www.aibase.com/zh/news/32511",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-26T09:01:06.506270Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
-          "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
-          "url": "https://www.aibase.com/news/32511",
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "url": "https://www.aibase.com/news/32547",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "a5cc7b84a5ddb29bfc08822330cccd730759646e",
-          "title": "AI 生成世界不再只有画面：高德 ABot-World0.5 支持实时交互与声音生成",
-          "url": "https://www.aibase.com/zh/news/32511",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-26T09:01:06.506270Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7596,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1101,18 +1260,18 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:31:59.530641Z",
-      "latest_at": "2026-11-25T05:31:59.530641Z",
+      "earliest_at": "2026-11-26T09:01:06.506270Z",
+      "latest_at": "2026-11-26T09:01:06.506270Z",
       "primary_item": {
-        "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
-        "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
-        "url": "https://www.aibase.com/news/32511",
+        "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+        "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+        "url": "https://www.aibase.com/news/32547",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-25T05:31:59.530641Z",
+        "published_at": "2026-11-26T09:01:06.506270Z",
         "ai_score": 1.0,
         "ai_label": "ai_general",
         "enterprise_score": 0,
@@ -1123,92 +1282,110 @@
       }
     },
     {
-      "story_id": "story_d5dde46a1466",
-      "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-      "url": "https://www.aibase.com/news/32508",
-      "primary_url": "https://www.aibase.com/news/32508",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_244a3e8cb4f1",
+      "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "primary_url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
-          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-          "url": "https://www.aibase.com/news/32508",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:31:59.530641Z"
+          "id": "fef613b3f69dc9996b2f158b96a0c19f9390d9c4",
+          "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T06:07:38.287000Z"
         },
         {
-          "id": "466f5861079ac9b7099e350bb686c21568b84079",
-          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-          "url": "https://www.aibase.com/zh/news/32508",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7b16b829f62b26d3dc0b371f746756a2b1f7f07f",
+          "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25% / OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T03:36:58Z"
+        },
+        {
+          "id": "17a54b6e0ddd3541e51544ad7fe32ef4082951a4",
+          "title": "OpenAI 减少了 GPT-6.2 的使用：Astra 达到极限的速度加快了 40%，Sol 的速度加快了 25% / OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "url": "https://news.ycombinator.com/item?id=50651117",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T03:36:58Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "hackernews",
+        "twitter.com"
       ],
       "items": [
         {
-          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
-          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-          "url": "https://www.aibase.com/news/32508",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:31:59.530641Z"
+          "id": "fef613b3f69dc9996b2f158b96a0c19f9390d9c4",
+          "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T06:07:38.287000Z"
         },
         {
-          "id": "466f5861079ac9b7099e350bb686c21568b84079",
-          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-          "url": "https://www.aibase.com/zh/news/32508",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7b16b829f62b26d3dc0b371f746756a2b1f7f07f",
+          "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25% / OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T03:36:58Z"
+        },
+        {
+          "id": "17a54b6e0ddd3541e51544ad7fe32ef4082951a4",
+          "title": "OpenAI 减少了 GPT-6.2 的使用：Astra 达到极限的速度加快了 40%，Sol 的速度加快了 25% / OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "url": "https://news.ycombinator.com/item?id=50651117",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T03:36:58Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5634,
+      "importance": 0.5634,
+      "importance_score": 0.5634,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7596,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9591,
+        "story_heat": 0.5
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-25T05:31:59.530641Z",
-      "latest_at": "2026-11-25T05:31:59.530641Z",
+      "earliest_at": "2026-11-26T03:36:58Z",
+      "latest_at": "2026-11-26T06:07:38.287000Z",
       "primary_item": {
-        "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
-        "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-        "url": "https://www.aibase.com/news/32508",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-25T05:31:59.530641Z",
-        "ai_score": 1.0,
+        "id": "fef613b3f69dc9996b2f158b96a0c19f9390d9c4",
+        "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "source": "twitter.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-26T06:07:38.287000Z",
+        "ai_score": 0.65,
         "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -1218,185 +1395,53 @@
       }
     },
     {
-      "story_id": "story_43311174327e",
-      "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-      "url": "https://www.proofatlas.ai/open-problems",
-      "primary_url": "https://www.proofatlas.ai/open-problems",
-      "source": "www.proofatlas.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2f1f96501c6e6a332d24d10e2b0fb3479620ff9d",
-          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "url": "https://www.proofatlas.ai/open-problems",
-          "source": "www.proofatlas.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T00:16:04.110000Z"
-        },
-        {
-          "id": "c40040614ee5679cfa639bccc6462ffe6083ebff",
-          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题 / Top open problems in mathematics ranked by LLM-assessed importance",
-          "url": "https://www.proofatlas.ai/open-problems",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-25T03:01:36Z"
-        },
-        {
-          "id": "dce750e123c89031f636f6a56a051f3c921fa9e4",
-          "title": "按法学硕士评估的重要性排名的最重要的数学开放问题 / Top open problems in mathematics ranked by LLM-assessed importance",
-          "url": "https://news.ycombinator.com/item?id=50637871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T03:01:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.proofatlas.ai"
-      ],
-      "items": [
-        {
-          "id": "2f1f96501c6e6a332d24d10e2b0fb3479620ff9d",
-          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "url": "https://www.proofatlas.ai/open-problems",
-          "source": "www.proofatlas.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T00:16:04.110000Z"
-        },
-        {
-          "id": "c40040614ee5679cfa639bccc6462ffe6083ebff",
-          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题 / Top open problems in mathematics ranked by LLM-assessed importance",
-          "url": "https://www.proofatlas.ai/open-problems",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-25T03:01:36Z"
-        },
-        {
-          "id": "dce750e123c89031f636f6a56a051f3c921fa9e4",
-          "title": "按法学硕士评估的重要性排名的最重要的数学开放问题 / Top open problems in mathematics ranked by LLM-assessed importance",
-          "url": "https://news.ycombinator.com/item?id=50637871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T03:01:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9956,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 40,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T03:01:36Z",
-      "latest_at": "2026-11-26T00:16:04.110000Z",
-      "primary_item": {
-        "id": "2f1f96501c6e6a332d24d10e2b0fb3479620ff9d",
-        "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-        "url": "https://www.proofatlas.ai/open-problems",
-        "source": "www.proofatlas.ai",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-26T00:16:04.110000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_dcdab6e7198e",
-      "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-      "url": "https://www.aibase.com/news/32507",
-      "primary_url": "https://www.aibase.com/news/32507",
+      "story_id": "story_65cbd851ed6c",
+      "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+      "url": "https://www.aibase.com/news/32537",
+      "primary_url": "https://www.aibase.com/news/32537",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
-          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-          "url": "https://www.aibase.com/news/32507",
+          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "url": "https://www.aibase.com/news/32537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "14a628ec152cf6e855fa8a273dcb5f6dfda8e4db",
-          "title": "Claude 生成的应用可以「装」进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-          "url": "https://www.aibase.com/zh/news/32507",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-26T09:01:06.506270Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
-          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-          "url": "https://www.aibase.com/news/32507",
+          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "url": "https://www.aibase.com/news/32537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "14a628ec152cf6e855fa8a273dcb5f6dfda8e4db",
-          "title": "Claude 生成的应用可以「装」进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-          "url": "https://www.aibase.com/zh/news/32507",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-26T09:01:06.506270Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7596,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1404,18 +1449,18 @@
       "enterprise_is_relevant": false,
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:31:59.530641Z",
-      "latest_at": "2026-11-25T05:31:59.530641Z",
+      "earliest_at": "2026-11-26T09:01:06.506270Z",
+      "latest_at": "2026-11-26T09:01:06.506270Z",
       "primary_item": {
-        "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
-        "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-        "url": "https://www.aibase.com/news/32507",
+        "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+        "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "url": "https://www.aibase.com/news/32537",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-25T05:31:59.530641Z",
+        "published_at": "2026-11-26T09:01:06.506270Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -1498,15 +1543,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5666,
-      "importance": 0.5666,
-      "importance_score": 0.5666,
+      "score": 0.5464,
+      "importance": 0.5464,
+      "importance_score": 0.5464,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9765,
+        "recency": 0.8644,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1611,15 +1656,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9654,
+        "recency": 0.8545,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
@@ -1644,6 +1689,82 @@
         "published_at": "2026-11-25T22:08:00.119000Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_212bcefc70db",
+      "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+      "url": "https://www.aibase.com/news/32538",
+      "primary_url": "https://www.aibase.com/news/32538",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
+          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "url": "https://www.aibase.com/news/32538",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:01:06.506270Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
+          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "url": "https://www.aibase.com/news/32538",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:01:06.506270Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T09:01:06.506270Z",
+      "latest_at": "2026-11-26T09:01:06.506270Z",
+      "primary_item": {
+        "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
+        "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+        "url": "https://www.aibase.com/news/32538",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-26T09:01:06.506270Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1705,19 +1826,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8852,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1736,288 +1857,6 @@
         "source": "Readhub · AI",
         "source_name": "TopHub",
         "published_at": null,
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_9f0fcd7e0643",
-      "title": "受人工智能驱动的剧烈波动令投资者措手不及，美股收盘走低",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bb27f8a845eac5e6bfc48884df148f1f0781481f",
-          "title": "受人工智能驱动的剧烈波动令投资者措手不及，美股收盘走低",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:08:00.158000Z"
-        },
-        {
-          "id": "bf6481376c954654ce24bffa939703274191237b",
-          "title": "纳斯达克100指数在“先抛后买”模式下重挫，人工智能引发的担忧加剧了跌幅",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T15:30:16.538000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "bb27f8a845eac5e6bfc48884df148f1f0781481f",
-          "title": "受人工智能驱动的剧烈波动令投资者措手不及，美股收盘走低",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:08:00.158000Z"
-        },
-        {
-          "id": "bf6481376c954654ce24bffa939703274191237b",
-          "title": "纳斯达克100指数在“先抛后买”模式下重挫，人工智能引发的担忧加剧了跌幅",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T15:30:16.538000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9654,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T15:30:16.538000Z",
-      "latest_at": "2026-11-25T22:08:00.158000Z",
-      "primary_item": {
-        "id": "bb27f8a845eac5e6bfc48884df148f1f0781481f",
-        "title": "受人工智能驱动的剧烈波动令投资者措手不及，美股收盘走低",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-25T22:08:00.158000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_2c182d109e7f",
-      "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
-      "url": "https://www.aibase.com/news/32504",
-      "primary_url": "https://www.aibase.com/news/32504",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
-          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
-          "url": "https://www.aibase.com/news/32504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "e8f5aafd790f32aafab9baaa7897ba6c15edbff6",
-          "title": "ShellBench 发布：GPT-6Astra 等先进 AI 模型日常任务失败率超三分之一",
-          "url": "https://www.aibase.com/zh/news/32504",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
-          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
-          "url": "https://www.aibase.com/news/32504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:31:59.530641Z"
-        },
-        {
-          "id": "e8f5aafd790f32aafab9baaa7897ba6c15edbff6",
-          "title": "ShellBench 发布：GPT-6Astra 等先进 AI 模型日常任务失败率超三分之一",
-          "url": "https://www.aibase.com/zh/news/32504",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7596,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 41,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T05:31:59.530641Z",
-      "latest_at": "2026-11-25T05:31:59.530641Z",
-      "primary_item": {
-        "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
-        "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
-        "url": "https://www.aibase.com/news/32504",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-25T05:31:59.530641Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_cffc2f91e377",
-      "title": "随着对人工智能的担忧加剧，美股进一步下跌 / US stocks fall further as fears over AI intensify",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "de0b69db032364dbf6e5b2a1559192cdec87283d",
-          "title": "随着对人工智能的担忧加剧，美股进一步下跌 / US stocks fall further as fears over AI intensify",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-25T21:43:18Z"
-        },
-        {
-          "id": "b8da97df650dac65ce720bb770d49d286767b3dd",
-          "title": "随着对人工智能的担忧加剧，美股进一步下跌",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T17:36:49.515000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "de0b69db032364dbf6e5b2a1559192cdec87283d",
-          "title": "随着对人工智能的担忧加剧，美股进一步下跌 / US stocks fall further as fears over AI intensify",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-25T21:43:18Z"
-        },
-        {
-          "id": "b8da97df650dac65ce720bb770d49d286767b3dd",
-          "title": "随着对人工智能的担忧加剧，美股进一步下跌",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T17:36:49.515000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9597,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T17:36:49.515000Z",
-      "latest_at": "2026-11-25T21:43:18Z",
-      "primary_item": {
-        "id": "de0b69db032364dbf6e5b2a1559192cdec87283d",
-        "title": "随着对人工智能的担忧加剧，美股进一步下跌 / US stocks fall further as fears over AI intensify",
-        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow",
-        "published_at": "2026-11-25T21:43:18Z",
         "ai_score": 0.65,
         "ai_label": "ai_general",
         "enterprise_score": 0,
