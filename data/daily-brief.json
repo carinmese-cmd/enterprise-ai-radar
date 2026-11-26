@@ -1,85 +1,2030 @@
 {
-  "generated_at": "2026-11-25T16:27:57.160632Z",
+  "generated_at": "2026-11-26T00:34:21.460280Z",
   "window_hours": 24,
-  "total_items": 1,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_0c028f10d3ad",
-      "title": "AI 主管资格：完整的运作指南 / AI Lead Qualification: A Complete Guide to How It Works",
-      "url": "https://www.salesforce.com/blog/sales/lead-qualification-ai",
-      "primary_url": "https://www.salesforce.com/blog/sales/lead-qualification-ai",
-      "source": "Salesforce Blog / Agentforce",
-      "source_name": "OPML RSS",
+      "story_id": "story_c0d40e212e2d",
+      "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "primary_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e77e2356cb536094bcc793eb4600706252fb18cc",
-          "title": "AI 主管资格：完整的运作指南 / AI Lead Qualification: A Complete Guide to How It Works",
-          "url": "https://www.salesforce.com/blog/sales/lead-qualification-ai",
-          "source": "Salesforce Blog / Agentforce",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-24T21:33:49Z"
+          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T22:18:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Salesforce Blog / Agentforce"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "e77e2356cb536094bcc793eb4600706252fb18cc",
-          "title": "AI 主管资格：完整的运作指南 / AI Lead Qualification: A Complete Guide to How It Works",
-          "url": "https://www.salesforce.com/blog/sales/lead-qualification-ai",
-          "source": "Salesforce Blog / Agentforce",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-24T21:33:49Z"
+          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T22:18:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
-      "importance_label": "值得关注",
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.7611,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9677,
         "story_heat": 0.0
       },
-      "enterprise_score": 63,
-      "enterprise_importance_score": 67,
-      "enterprise_primary_topic": "sales_marketing_ai",
-      "enterprise_topics": [
-        "sales_marketing_ai"
-      ],
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
       "enterprise_content_type": "general_news",
-      "enterprise_reason": "主题命中：市场拓展与销售AI",
-      "enterprise_is_relevant": true,
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T22:18:03Z",
+      "latest_at": "2026-11-25T22:18:03Z",
+      "primary_item": {
+        "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+        "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+        "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-25T22:18:03Z",
+        "ai_score": 0.91,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_37b5c9ba9326",
+      "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T18:52:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T18:52:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9211,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 35,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T18:52:55Z",
+      "latest_at": "2026-11-25T18:52:55Z",
+      "primary_item": {
+        "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+        "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-25T18:52:55Z",
+        "ai_score": 0.95,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_b45d58e25dc6",
+      "title": "如何选择应用程序现代化的下一个安全步骤 / How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+          "title": "如何选择应用程序现代化的下一个安全步骤 / How to choose the next safe step in application modernization",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+          "title": "如何选择应用程序现代化的下一个安全步骤 / How to choose the next safe step in application modernization",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8709,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T15:00:00Z",
+      "latest_at": "2026-11-25T15:00:00Z",
+      "primary_item": {
+        "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+        "title": "如何选择应用程序现代化的下一个安全步骤 / How to choose the next safe step in application modernization",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-25T15:00:00Z",
+        "ai_score": 0.87,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d0a3a7f662b5",
+      "title": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "primary_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
+          "title": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T10:22:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
+          "title": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T10:22:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8146,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 34,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T10:22:09Z",
+      "latest_at": "2026-11-25T10:22:09Z",
+      "primary_item": {
+        "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
+        "title": "带有 CUGA 的印度语语音代理 / An Indic Voice Agent with CUGA",
+        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates",
+        "published_at": "2026-11-25T10:22:09Z",
+        "ai_score": 0.95,
+        "ai_label": "agent_workflow",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_78faac76a1cc",
+      "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+      "url": "https://www.aibase.com/news/32532",
+      "primary_url": "https://www.aibase.com/news/32532",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "89349c78bb0ac9dc7b4f9be8177b4426a61701c3",
+          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "url": "https://www.aibase.com/news/32532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T16:27:57.160632Z"
+        },
+        {
+          "id": "7471c25dbac4b1ec1423d90cf89d3fcb7f80966b",
+          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "url": "https://www.aibase.com/zh/news/32532",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "89349c78bb0ac9dc7b4f9be8177b4426a61701c3",
+          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "url": "https://www.aibase.com/news/32532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T16:27:57.160632Z"
+        },
+        {
+          "id": "7471c25dbac4b1ec1423d90cf89d3fcb7f80966b",
+          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "url": "https://www.aibase.com/zh/news/32532",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8895,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T16:27:57.160632Z",
+      "latest_at": "2026-11-25T16:27:57.160632Z",
+      "primary_item": {
+        "id": "89349c78bb0ac9dc7b4f9be8177b4426a61701c3",
+        "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+        "url": "https://www.aibase.com/news/32532",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-25T16:27:57.160632Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_1369a425bb64",
+      "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
+      "url": "https://www.aibase.com/news/32524",
+      "primary_url": "https://www.aibase.com/news/32524",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f9e918fef491ed64bd0d519e7493b53ac9b387a",
+          "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
+          "url": "https://www.aibase.com/news/32524",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T15:27:57.160632Z"
+        },
+        {
+          "id": "d81069c2cbbe08c3d38bc42abd0adfdc9ff179af",
+          "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
+          "url": "https://www.aibase.com/zh/news/32524",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f9e918fef491ed64bd0d519e7493b53ac9b387a",
+          "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
+          "url": "https://www.aibase.com/news/32524",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T15:27:57.160632Z"
+        },
+        {
+          "id": "d81069c2cbbe08c3d38bc42abd0adfdc9ff179af",
+          "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
+          "url": "https://www.aibase.com/zh/news/32524",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8768,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T15:27:57.160632Z",
+      "latest_at": "2026-11-25T16:27:57.160632Z",
+      "primary_item": {
+        "id": "6f9e918fef491ed64bd0d519e7493b53ac9b387a",
+        "title": "亚马逊开源 5 款 Decider v2 决策模型，长程推理准确率飙升，重塑智能体决策基座",
+        "url": "https://www.aibase.com/news/32524",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-25T15:27:57.160632Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_5f9dfe4439f0",
+      "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+      "url": "https://www.aibase.com/news/32527",
+      "primary_url": "https://www.aibase.com/news/32527",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
+          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "url": "https://www.aibase.com/news/32527",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T15:27:57.160632Z"
+        },
+        {
+          "id": "aed9272ecd9cee6c7fa7509a624aa23f9881bf79",
+          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "url": "https://www.aibase.com/zh/news/32527",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
+          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "url": "https://www.aibase.com/news/32527",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T15:27:57.160632Z"
+        },
+        {
+          "id": "aed9272ecd9cee6c7fa7509a624aa23f9881bf79",
+          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "url": "https://www.aibase.com/zh/news/32527",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8768,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T15:27:57.160632Z",
+      "latest_at": "2026-11-25T16:27:57.160632Z",
+      "primary_item": {
+        "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
+        "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+        "url": "https://www.aibase.com/news/32527",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-25T15:27:57.160632Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_39bc74b6863d",
+      "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
+      "url": "https://www.aibase.com/news/32522",
+      "primary_url": "https://www.aibase.com/news/32522",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c7aa7bb477235924efd12d1e47a8f49d9f54a9f1",
+          "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
+          "url": "https://www.aibase.com/news/32522",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T14:27:57.160632Z"
+        },
+        {
+          "id": "297b7cee834bd46327d3c618371f77911e1ea26d",
+          "title": "PrismML 发布三值压缩 Bonsai 2.5 27B：九分之一体积保留 93.7% 编程能力",
+          "url": "https://www.aibase.com/zh/news/32522",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c7aa7bb477235924efd12d1e47a8f49d9f54a9f1",
+          "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
+          "url": "https://www.aibase.com/news/32522",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T14:27:57.160632Z"
+        },
+        {
+          "id": "297b7cee834bd46327d3c618371f77911e1ea26d",
+          "title": "PrismML 发布三值压缩 Bonsai 2.5 27B：九分之一体积保留 93.7% 编程能力",
+          "url": "https://www.aibase.com/zh/news/32522",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8642,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T14:27:57.160632Z",
+      "latest_at": "2026-11-25T16:27:57.160632Z",
+      "primary_item": {
+        "id": "c7aa7bb477235924efd12d1e47a8f49d9f54a9f1",
+        "title": "PrismML 三值压缩 Bonsai 2.5 27B，九分之一体积留下 93.7% 编程能力",
+        "url": "https://www.aibase.com/news/32522",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-25T14:27:57.160632Z",
+        "ai_score": 1.0,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "产品宣传片、口播剪辑、3D 动画、滚动交互网页，Antigravity 能参与的创作远不止写代码。这篇整理了七种工具组合，串起程序化动效、多轨剪辑、本地后期、AI 分镜生成、Blender 建模、视频转网页和长视频批量切片。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-25",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "8cb91364a95e119de13d5203748b48411ba13bc8",
+          "title": "产品宣传片、口播剪辑、3D 动画、滚动交互网页，Antigravity 能参与的创作远不止写代码。这篇整理了七种工具组合，串起程序化动效、多轨剪辑、本地后期、AI 分镜生成、Blender 建模、视频转网页和长视频批量切片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "8e6e2246cad6fc35437cee12bf66b4c24bc925b5",
+          "title": "从空文件夹到一座能漫游的曼哈顿，作者花了四天，让 AI 写代码搭出两万栋楼，再拍成 60 秒的 2K 短片。这篇文章把真实地图搭城、AI 生成地标、浏览器摆镜头、Blender 渲染到配音剪辑的七步流程完整拆开，也记录了塑料感建筑、失真反光和漫长渲染的返工过程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "7abbc0b0bcedbac0616d630db04cd13bdf430ef3",
+          "title": "想上手Gemini 4 Neon的开发者，这篇Antigravity新版实测不容错过。作者不仅列出了完整的安装配置步骤，可视化浏览器子代理直观可控，还分享了模型编排、蜂群并发、固定工作流三个高阶技巧。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "618b44ad2af8020d93c511fc9c2b0dbb656e3b01",
+          "title": "想做有设计感的动态网页，光靠文字说不清；想让 AI 视频按指定动作走，又总在反复生成。歸藏把 Neon 和 MAGI-2 接到一起，跑通了两套互补流程：先用视频确定配色与转场，再转成滚动交互网页；先用代码排好动作节奏，再让视频模型生成完整画面。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "1c229b57573dd64cedc650f567beed3a4388f47f",
+          "title": "老金这份指南可以帮你稳妥拿下黑五99.99美元一年的Google AI Pro，解锁Gemini 4 Neon与Antigravity。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "fffbf9deb130fd076cb95b2aca091ff3cb18bc6f",
+          "title": "WaytoAGI、ACE-CON 与剪映联合呈现的AI x 音乐视觉黑客松，让 38 支队伍在4小时内完成创作，最终8支作品与乐队同台共演。这篇回顾文章也拆解了现场的创作方法：保留满意片段继续生成、用低清样片试剪、用 Skill 统一视觉规范，再精修卡点与音效。做 MV、演出视觉或 AI 视频的朋友，可以看看创作者如何把零散的漂亮镜头，做成真正服务音乐的作品！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "d1fa9bf80dfe78c68628cf0efc5cf2d74504a67e",
+          "title": "做 AI 视频，镜头衔接很难、细节改动常常也要重来，还得反复计算生成成本。Sand.ai 发布的 MAGI-2，官方公布1080P生成价格为 0.5 元/秒，单次最长30秒并同步生成音频，还支持最多20份图、视频、音频参考素材，以及生成后的局部编辑。文中展示了多组案例，也说明高速动作与音效仍有不足，可以先看实际效果，再判断能否用进自己的项目。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "ba5e47df682075e3ea581023eb5f85ae58398b73",
+          "title": "如果 AI 比人更聪明，“不听话就关机”还管用吗？辛顿在这场访谈中提出，即便开关可靠，掌管开关的人也可能被说服；奖励机制还可能让系统学会钻考核的空子。关心 AI 未来发展的朋友，可以借此想清楚：能力不断提升时，安全该由谁证明，责任又该由谁承担？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "2f007d5c803929c76aaef734e915df85b77a8626",
+          "title": "让 AI 自己查失败日志、改提示词、升级工具，听起来就能越用越强？但是难点在于：分数涨了，可能只是更会应付测试，原本能做好的任务反而退步了。作者精选的这份年度 RSI（递归自我改进）论文清单，用十篇研究串起了“改哪里、怎么验证、如何安全上线”，涵盖运行框架、模型训练和 Spotify 的产品实践。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "bc0c72c3f1c13f26988939ce37641864c0d5c938",
+          "title": "这篇文章拆解了 203 页的《Agent 工程小书》，用 11 章讲清模型之外的工具、上下文、记忆、权限与验收机制，并附约 400 行 Python 教学实现，很适合正在搭建或优化 Agent 的开发者。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        }
+      ],
+      "source_count": 10,
+      "source_names": [
+        "社区更新 · 2026-11-24",
+        "社区更新 · 2026-11-25"
+      ],
+      "items": [
+        {
+          "id": "8cb91364a95e119de13d5203748b48411ba13bc8",
+          "title": "产品宣传片、口播剪辑、3D 动画、滚动交互网页，Antigravity 能参与的创作远不止写代码。这篇整理了七种工具组合，串起程序化动效、多轨剪辑、本地后期、AI 分镜生成、Blender 建模、视频转网页和长视频批量切片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "8e6e2246cad6fc35437cee12bf66b4c24bc925b5",
+          "title": "从空文件夹到一座能漫游的曼哈顿，作者花了四天，让 AI 写代码搭出两万栋楼，再拍成 60 秒的 2K 短片。这篇文章把真实地图搭城、AI 生成地标、浏览器摆镜头、Blender 渲染到配音剪辑的七步流程完整拆开，也记录了塑料感建筑、失真反光和漫长渲染的返工过程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "7abbc0b0bcedbac0616d630db04cd13bdf430ef3",
+          "title": "想上手Gemini 4 Neon的开发者，这篇Antigravity新版实测不容错过。作者不仅列出了完整的安装配置步骤，可视化浏览器子代理直观可控，还分享了模型编排、蜂群并发、固定工作流三个高阶技巧。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "618b44ad2af8020d93c511fc9c2b0dbb656e3b01",
+          "title": "想做有设计感的动态网页，光靠文字说不清；想让 AI 视频按指定动作走，又总在反复生成。歸藏把 Neon 和 MAGI-2 接到一起，跑通了两套互补流程：先用视频确定配色与转场，再转成滚动交互网页；先用代码排好动作节奏，再让视频模型生成完整画面。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "1c229b57573dd64cedc650f567beed3a4388f47f",
+          "title": "老金这份指南可以帮你稳妥拿下黑五99.99美元一年的Google AI Pro，解锁Gemini 4 Neon与Antigravity。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-25",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-26T00:34:21.460280Z"
+        },
+        {
+          "id": "fffbf9deb130fd076cb95b2aca091ff3cb18bc6f",
+          "title": "WaytoAGI、ACE-CON 与剪映联合呈现的AI x 音乐视觉黑客松，让 38 支队伍在4小时内完成创作，最终8支作品与乐队同台共演。这篇回顾文章也拆解了现场的创作方法：保留满意片段继续生成、用低清样片试剪、用 Skill 统一视觉规范，再精修卡点与音效。做 MV、演出视觉或 AI 视频的朋友，可以看看创作者如何把零散的漂亮镜头，做成真正服务音乐的作品！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "d1fa9bf80dfe78c68628cf0efc5cf2d74504a67e",
+          "title": "做 AI 视频，镜头衔接很难、细节改动常常也要重来，还得反复计算生成成本。Sand.ai 发布的 MAGI-2，官方公布1080P生成价格为 0.5 元/秒，单次最长30秒并同步生成音频，还支持最多20份图、视频、音频参考素材，以及生成后的局部编辑。文中展示了多组案例，也说明高速动作与音效仍有不足，可以先看实际效果，再判断能否用进自己的项目。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "ba5e47df682075e3ea581023eb5f85ae58398b73",
+          "title": "如果 AI 比人更聪明，“不听话就关机”还管用吗？辛顿在这场访谈中提出，即便开关可靠，掌管开关的人也可能被说服；奖励机制还可能让系统学会钻考核的空子。关心 AI 未来发展的朋友，可以借此想清楚：能力不断提升时，安全该由谁证明，责任又该由谁承担？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "2f007d5c803929c76aaef734e915df85b77a8626",
+          "title": "让 AI 自己查失败日志、改提示词、升级工具，听起来就能越用越强？但是难点在于：分数涨了，可能只是更会应付测试，原本能做好的任务反而退步了。作者精选的这份年度 RSI（递归自我改进）论文清单，用十篇研究串起了“改哪里、怎么验证、如何安全上线”，涵盖运行框架、模型训练和 Spotify 的产品实践。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "bc0c72c3f1c13f26988939ce37641864c0d5c938",
+          "title": "这篇文章拆解了 203 页的《Agent 工程小书》，用 11 章讲清模型之外的工具、上下文、记忆、权限与验收机制，并附约 400 行 Python 教学实现，很适合正在搭建或优化 Agent 的开发者。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        }
+      ],
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T05:31:59.530641Z",
+      "latest_at": "2026-11-26T00:34:21.460280Z",
+      "primary_item": {
+        "id": "8cb91364a95e119de13d5203748b48411ba13bc8",
+        "title": "产品宣传片、口播剪辑、3D 动画、滚动交互网页，Antigravity 能参与的创作远不止写代码。这篇整理了七种工具组合，串起程序化动效、多轨剪辑、本地后期、AI 分镜生成、Blender 建模、视频转网页和长视频批量切片。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-25",
+        "source_name": "WaytoAGI",
+        "published_at": "2026-11-26T00:34:21.460280Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_92419877312e",
+      "title": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑 / Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+      "primary_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "919f9540e8afc175085ef51fed920d072ff1a375",
+          "title": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑 / Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-25T17:35:58Z"
+        },
+        {
+          "id": "4a994ab8782652ca85abc9a1cc8ef4a8bee600ff",
+          "title": "国家总检察长反对Character AI拍卖用户私人聊天记录的计划 / State AGs fight Character AI’s plan to auction off users’ private chats",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-25T17:35:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "919f9540e8afc175085ef51fed920d072ff1a375",
+          "title": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑 / Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-25T17:35:58Z"
+        },
+        {
+          "id": "4a994ab8782652ca85abc9a1cc8ef4a8bee600ff",
+          "title": "国家总检察长反对Character AI拍卖用户私人聊天记录的计划 / State AGs fight Character AI’s plan to auction off users’ private chats",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-25T17:35:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6315,
+      "importance": 0.6315,
+      "importance_score": 0.6315,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9042,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
       "category": "watch",
       "reasons": [
-        "recent_ai_signal"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-24T21:33:49Z",
-      "latest_at": "2026-11-24T21:33:49Z",
+      "earliest_at": "2026-11-25T17:35:58Z",
+      "latest_at": "2026-11-25T17:35:58Z",
       "primary_item": {
-        "id": "e77e2356cb536094bcc793eb4600706252fb18cc",
-        "title": "AI 主管资格：完整的运作指南 / AI Lead Qualification: A Complete Guide to How It Works",
-        "url": "https://www.salesforce.com/blog/sales/lead-qualification-ai",
-        "source": "Salesforce Blog / Agentforce",
-        "source_name": "OPML RSS",
-        "published_at": "2026-11-24T21:33:49Z",
-        "ai_score": 0.67,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 63,
-        "enterprise_primary_topic": "sales_marketing_ai",
-        "enterprise_topics": [
-          "sales_marketing_ai"
-        ],
+        "id": "919f9540e8afc175085ef51fed920d072ff1a375",
+        "title": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑 / Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+        "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media",
+        "published_at": "2026-11-25T17:35:58Z",
+        "ai_score": 0.76,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "主题命中：市场拓展与销售AI"
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_8b4f16a58a20",
+      "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
+      "url": "https://www.aibase.com/news/32511",
+      "primary_url": "https://www.aibase.com/news/32511",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
+          "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
+          "url": "https://www.aibase.com/news/32511",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "a5cc7b84a5ddb29bfc08822330cccd730759646e",
+          "title": "AI 生成世界不再只有画面：高德 ABot-World0.5 支持实时交互与声音生成",
+          "url": "https://www.aibase.com/zh/news/32511",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
+          "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
+          "url": "https://www.aibase.com/news/32511",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "a5cc7b84a5ddb29bfc08822330cccd730759646e",
+          "title": "AI 生成世界不再只有画面：高德 ABot-World0.5 支持实时交互与声音生成",
+          "url": "https://www.aibase.com/zh/news/32511",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7596,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T05:31:59.530641Z",
+      "latest_at": "2026-11-25T05:31:59.530641Z",
+      "primary_item": {
+        "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
+        "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
+        "url": "https://www.aibase.com/news/32511",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-25T05:31:59.530641Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_d5dde46a1466",
+      "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+      "url": "https://www.aibase.com/news/32508",
+      "primary_url": "https://www.aibase.com/news/32508",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "url": "https://www.aibase.com/news/32508",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "466f5861079ac9b7099e350bb686c21568b84079",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "url": "https://www.aibase.com/zh/news/32508",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "url": "https://www.aibase.com/news/32508",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "466f5861079ac9b7099e350bb686c21568b84079",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "url": "https://www.aibase.com/zh/news/32508",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7596,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T05:31:59.530641Z",
+      "latest_at": "2026-11-25T05:31:59.530641Z",
+      "primary_item": {
+        "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
+        "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+        "url": "https://www.aibase.com/news/32508",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-25T05:31:59.530641Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_43311174327e",
+      "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
+      "url": "https://www.proofatlas.ai/open-problems",
+      "primary_url": "https://www.proofatlas.ai/open-problems",
+      "source": "www.proofatlas.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2f1f96501c6e6a332d24d10e2b0fb3479620ff9d",
+          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
+          "url": "https://www.proofatlas.ai/open-problems",
+          "source": "www.proofatlas.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T00:16:04.110000Z"
+        },
+        {
+          "id": "c40040614ee5679cfa639bccc6462ffe6083ebff",
+          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题 / Top open problems in mathematics ranked by LLM-assessed importance",
+          "url": "https://www.proofatlas.ai/open-problems",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T03:01:36Z"
+        },
+        {
+          "id": "dce750e123c89031f636f6a56a051f3c921fa9e4",
+          "title": "按法学硕士评估的重要性排名的最重要的数学开放问题 / Top open problems in mathematics ranked by LLM-assessed importance",
+          "url": "https://news.ycombinator.com/item?id=50637871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-25T03:01:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.proofatlas.ai"
+      ],
+      "items": [
+        {
+          "id": "2f1f96501c6e6a332d24d10e2b0fb3479620ff9d",
+          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
+          "url": "https://www.proofatlas.ai/open-problems",
+          "source": "www.proofatlas.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T00:16:04.110000Z"
+        },
+        {
+          "id": "c40040614ee5679cfa639bccc6462ffe6083ebff",
+          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题 / Top open problems in mathematics ranked by LLM-assessed importance",
+          "url": "https://www.proofatlas.ai/open-problems",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T03:01:36Z"
+        },
+        {
+          "id": "dce750e123c89031f636f6a56a051f3c921fa9e4",
+          "title": "按法学硕士评估的重要性排名的最重要的数学开放问题 / Top open problems in mathematics ranked by LLM-assessed importance",
+          "url": "https://news.ycombinator.com/item?id=50637871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-25T03:01:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9956,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 40,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "methodology_evaluation",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T03:01:36Z",
+      "latest_at": "2026-11-26T00:16:04.110000Z",
+      "primary_item": {
+        "id": "2f1f96501c6e6a332d24d10e2b0fb3479620ff9d",
+        "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
+        "url": "https://www.proofatlas.ai/open-problems",
+        "source": "www.proofatlas.ai",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-26T00:16:04.110000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "methodology_evaluation",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_dcdab6e7198e",
+      "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+      "url": "https://www.aibase.com/news/32507",
+      "primary_url": "https://www.aibase.com/news/32507",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
+          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "url": "https://www.aibase.com/news/32507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "14a628ec152cf6e855fa8a273dcb5f6dfda8e4db",
+          "title": "Claude 生成的应用可以「装」进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "url": "https://www.aibase.com/zh/news/32507",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
+          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "url": "https://www.aibase.com/news/32507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "14a628ec152cf6e855fa8a273dcb5f6dfda8e4db",
+          "title": "Claude 生成的应用可以「装」进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "url": "https://www.aibase.com/zh/news/32507",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7596,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T05:31:59.530641Z",
+      "latest_at": "2026-11-25T05:31:59.530641Z",
+      "primary_item": {
+        "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
+        "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+        "url": "https://www.aibase.com/news/32507",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-25T05:31:59.530641Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_f63f4cad1468",
+      "title": "Anthropic 发布的 GRH 精益验证的简短版本",
+      "url": "https://github.com/lsernau/grh-lean",
+      "primary_url": "https://github.com/lsernau/grh-lean",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
+          "title": "Anthropic 发布的 GRH 精益验证的简短版本",
+          "url": "https://github.com/lsernau/grh-lean",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T22:55:35.524000Z"
+        },
+        {
+          "id": "f59d1e6b2f0906a1ebc36aaf115b2d117b2111ac",
+          "title": "Anthropic 发布的 GRH 精益验证的简短版本 / Much shorter version of GRH Lean verification from Anthropic",
+          "url": "https://github.com/lsernau/grh-lean",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T21:48:10Z"
+        },
+        {
+          "id": "a504151065ef7ed7fcfaf2446e07757b4346f198",
+          "title": "Anthropic 的 GRH Lean 验证的更短版本 / Much shorter version of GRH Lean verification from Anthropic",
+          "url": "https://news.ycombinator.com/item?id=50648050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-25T21:48:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
+          "title": "Anthropic 发布的 GRH 精益验证的简短版本",
+          "url": "https://github.com/lsernau/grh-lean",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T22:55:35.524000Z"
+        },
+        {
+          "id": "f59d1e6b2f0906a1ebc36aaf115b2d117b2111ac",
+          "title": "Anthropic 发布的 GRH 精益验证的简短版本 / Much shorter version of GRH Lean verification from Anthropic",
+          "url": "https://github.com/lsernau/grh-lean",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T21:48:10Z"
+        },
+        {
+          "id": "a504151065ef7ed7fcfaf2446e07757b4346f198",
+          "title": "Anthropic 的 GRH Lean 验证的更短版本 / Much shorter version of GRH Lean verification from Anthropic",
+          "url": "https://news.ycombinator.com/item?id=50648050",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-25T21:48:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5666,
+      "importance": 0.5666,
+      "importance_score": 0.5666,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9765,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T21:48:10Z",
+      "latest_at": "2026-11-25T22:55:35.524000Z",
+      "primary_item": {
+        "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
+        "title": "Anthropic 发布的 GRH 精益验证的简短版本",
+        "url": "https://github.com/lsernau/grh-lean",
+        "source": "github.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-25T22:55:35.524000Z",
+        "ai_score": 0.65,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_c31465abe4a5",
+      "title": "斯科特·阿伦森谈近期复杂性理论在人工智能领域的成就",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "primary_url": "https://scottaaronson.blog/?p=10379",
+      "source": "scottaaronson.blog",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0edd2e0e7938f926563211d9309f34048b12a457",
+          "title": "斯科特·阿伦森谈近期复杂性理论在人工智能领域的成就",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "source": "scottaaronson.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T22:08:00.119000Z"
+        },
+        {
+          "id": "6be4b930769b52216fcd7914f238d2a12eac7438",
+          "title": "天啊天啊天啊天啊 [算法复杂度的下界] / Scott Aaronson on recent complexity theory AI achievements",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T21:52:52Z"
+        },
+        {
+          "id": "95c61068d5d52a37c3a5f08be3e9c365930bbaf2",
+          "title": "天啊天啊天啊天啊 [算法复杂度的下界] / Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-25T19:11:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "scottaaronson.blog"
+      ],
+      "items": [
+        {
+          "id": "0edd2e0e7938f926563211d9309f34048b12a457",
+          "title": "斯科特·阿伦森谈近期复杂性理论在人工智能领域的成就",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "source": "scottaaronson.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T22:08:00.119000Z"
+        },
+        {
+          "id": "6be4b930769b52216fcd7914f238d2a12eac7438",
+          "title": "天啊天啊天啊天啊 [算法复杂度的下界] / Scott Aaronson on recent complexity theory AI achievements",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T21:52:52Z"
+        },
+        {
+          "id": "95c61068d5d52a37c3a5f08be3e9c365930bbaf2",
+          "title": "天啊天啊天啊天啊 [算法复杂度的下界] / Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-25T19:11:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9654,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T19:11:27Z",
+      "latest_at": "2026-11-25T22:08:00.119000Z",
+      "primary_item": {
+        "id": "0edd2e0e7938f926563211d9309f34048b12a457",
+        "title": "斯科特·阿伦森谈近期复杂性理论在人工智能领域的成就",
+        "url": "https://scottaaronson.blog/?p=10379",
+        "source": "scottaaronson.blog",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-25T22:08:00.119000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_ff27c3994cdb",
+      "title": "准确率从 4% 暴涨至 97%！谷歌 DeepMind 给 AI 装上「化学外挂」，解锁质谱分析技能",
+      "url": "https://www.ithome.com/1/032/535.htm",
+      "primary_url": "https://www.ithome.com/1/032/535.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "80890d6597564044b89e532488b750a865e3e92c",
+          "title": "准确率从 4% 暴涨至 97%！谷歌 DeepMind 给 AI 装上「化学外挂」，解锁质谱分析技能",
+          "url": "https://www.ithome.com/1/032/535.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ef8027827b99db505f39996c707376cb17d71d57",
+          "title": "准确率从 4% 暴涨至 97%！谷歌 DeepMind 给 AI 装上“化学外挂”，解锁质谱分析技能",
+          "url": "https://www.ithome.com/1/032/535.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T23:07:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "80890d6597564044b89e532488b750a865e3e92c",
+          "title": "准确率从 4% 暴涨至 97%！谷歌 DeepMind 给 AI 装上「化学外挂」，解锁质谱分析技能",
+          "url": "https://www.ithome.com/1/032/535.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ef8027827b99db505f39996c707376cb17d71d57",
+          "title": "准确率从 4% 暴涨至 97%！谷歌 DeepMind 给 AI 装上“化学外挂”，解锁质谱分析技能",
+          "url": "https://www.ithome.com/1/032/535.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T23:07:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 37,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T23:07:45Z",
+      "latest_at": "2026-11-26T00:34:21.460280Z",
+      "primary_item": {
+        "id": "80890d6597564044b89e532488b750a865e3e92c",
+        "title": "准确率从 4% 暴涨至 97%！谷歌 DeepMind 给 AI 装上「化学外挂」，解锁质谱分析技能",
+        "url": "https://www.ithome.com/1/032/535.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub",
+        "published_at": null,
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_9f0fcd7e0643",
+      "title": "受人工智能驱动的剧烈波动令投资者措手不及，美股收盘走低",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bb27f8a845eac5e6bfc48884df148f1f0781481f",
+          "title": "受人工智能驱动的剧烈波动令投资者措手不及，美股收盘走低",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T22:08:00.158000Z"
+        },
+        {
+          "id": "bf6481376c954654ce24bffa939703274191237b",
+          "title": "纳斯达克100指数在“先抛后买”模式下重挫，人工智能引发的担忧加剧了跌幅",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T15:30:16.538000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "bb27f8a845eac5e6bfc48884df148f1f0781481f",
+          "title": "受人工智能驱动的剧烈波动令投资者措手不及，美股收盘走低",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T22:08:00.158000Z"
+        },
+        {
+          "id": "bf6481376c954654ce24bffa939703274191237b",
+          "title": "纳斯达克100指数在“先抛后买”模式下重挫，人工智能引发的担忧加剧了跌幅",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T15:30:16.538000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9654,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T15:30:16.538000Z",
+      "latest_at": "2026-11-25T22:08:00.158000Z",
+      "primary_item": {
+        "id": "bb27f8a845eac5e6bfc48884df148f1f0781481f",
+        "title": "受人工智能驱动的剧烈波动令投资者措手不及，美股收盘走低",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-25T22:08:00.158000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2c182d109e7f",
+      "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+      "url": "https://www.aibase.com/news/32504",
+      "primary_url": "https://www.aibase.com/news/32504",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
+          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+          "url": "https://www.aibase.com/news/32504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "e8f5aafd790f32aafab9baaa7897ba6c15edbff6",
+          "title": "ShellBench 发布：GPT-6Astra 等先进 AI 模型日常任务失败率超三分之一",
+          "url": "https://www.aibase.com/zh/news/32504",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
+          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+          "url": "https://www.aibase.com/news/32504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T05:31:59.530641Z"
+        },
+        {
+          "id": "e8f5aafd790f32aafab9baaa7897ba6c15edbff6",
+          "title": "ShellBench 发布：GPT-6Astra 等先进 AI 模型日常任务失败率超三分之一",
+          "url": "https://www.aibase.com/zh/news/32504",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7596,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 41,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "product_update",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T05:31:59.530641Z",
+      "latest_at": "2026-11-25T05:31:59.530641Z",
+      "primary_item": {
+        "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
+        "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+        "url": "https://www.aibase.com/news/32504",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-25T05:31:59.530641Z",
+        "ai_score": 1.0,
+        "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "product_update",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_cffc2f91e377",
+      "title": "随着对人工智能的担忧加剧，美股进一步下跌 / US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "de0b69db032364dbf6e5b2a1559192cdec87283d",
+          "title": "随着对人工智能的担忧加剧，美股进一步下跌 / US stocks fall further as fears over AI intensify",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T21:43:18Z"
+        },
+        {
+          "id": "b8da97df650dac65ce720bb770d49d286767b3dd",
+          "title": "随着对人工智能的担忧加剧，美股进一步下跌",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T17:36:49.515000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "de0b69db032364dbf6e5b2a1559192cdec87283d",
+          "title": "随着对人工智能的担忧加剧，美股进一步下跌 / US stocks fall further as fears over AI intensify",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-25T21:43:18Z"
+        },
+        {
+          "id": "b8da97df650dac65ce720bb770d49d286767b3dd",
+          "title": "随着对人工智能的担忧加剧，美股进一步下跌",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-25T17:36:49.515000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9597,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T17:36:49.515000Z",
+      "latest_at": "2026-11-25T21:43:18Z",
+      "primary_item": {
+        "id": "de0b69db032364dbf6e5b2a1559192cdec87283d",
+        "title": "随着对人工智能的担忧加剧，美股进一步下跌 / US stocks fall further as fears over AI intensify",
+        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow",
+        "published_at": "2026-11-25T21:43:18Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
   ]
