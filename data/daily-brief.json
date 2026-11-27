@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:10:39.190966Z",
+  "generated_at": "2026-11-27T02:18:05.523618Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8474,
-      "importance": 0.8474,
-      "importance_score": 0.8474,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8966,
+        "recency": 0.809,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
@@ -81,74 +81,93 @@
       }
     },
     {
-      "story_id": "story_c0d40e212e2d",
-      "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-      "primary_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_fba73f95fdd1",
+      "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+      "url": "https://www.aibase.com/news/32558",
+      "primary_url": "https://www.aibase.com/news/32558",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T22:18:03Z"
+          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "url": "https://www.aibase.com/news/32558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:18:05.523618Z"
+        },
+        {
+          "id": "f6f6a07a1dbfb5da3c69d1c0c13f20f68370d4d4",
+          "title": "Anthropic 面试不再考手写代码：AI 时代工程师价值改按「实际影响」称重",
+          "url": "https://www.aibase.com/zh/news/32558",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T22:18:03Z"
+          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "url": "https://www.aibase.com/news/32558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:18:05.523618Z"
+        },
+        {
+          "id": "f6f6a07a1dbfb5da3c69d1c0c13f20f68370d4d4",
+          "title": "Anthropic 面试不再考手写代码：AI 时代工程师价值改按「实际影响」称重",
+          "url": "https://www.aibase.com/zh/news/32558",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7397,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 33,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T22:18:03Z",
-      "latest_at": "2026-11-25T22:18:03Z",
+      "earliest_at": "2026-11-27T02:18:05.523618Z",
+      "latest_at": "2026-11-27T02:18:05.523618Z",
       "primary_item": {
-        "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-        "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-        "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-25T22:18:03Z",
-        "ai_score": 0.91,
+        "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+        "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+        "url": "https://www.aibase.com/news/32558",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-27T02:18:05.523618Z",
+        "ai_score": 1.0,
         "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
@@ -192,19 +211,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.816,
+        "recency": 0.7362,
         "story_heat": 0.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 34,
+      "enterprise_importance_score": 33,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -235,26 +254,26 @@
       }
     },
     {
-      "story_id": "story_621d4d2e1185",
-      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-      "url": "https://www.aibase.com/news/32555",
-      "primary_url": "https://www.aibase.com/news/32555",
+      "story_id": "story_fc02dd4c975e",
+      "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+      "url": "https://www.aibase.com/news/32561",
+      "primary_url": "https://www.aibase.com/news/32561",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "url": "https://www.aibase.com/news/32555",
+          "id": "5f5e3b7ca4b11e3442fcc0fe835307540e47c8b4",
+          "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "url": "https://www.aibase.com/news/32561",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T18:10:39.190966Z"
+          "published_at": "2026-11-27T02:18:05.523618Z"
         },
         {
-          "id": "8ffaa183187960b5c7eeb69894a566d083efacaa",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "url": "https://www.aibase.com/zh/news/32555",
+          "id": "fee2823699e2e3da474c47d9fd0470a32ef3b6c3",
+          "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "url": "https://www.aibase.com/zh/news/32561",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -268,18 +287,18 @@
       ],
       "items": [
         {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "url": "https://www.aibase.com/news/32555",
+          "id": "5f5e3b7ca4b11e3442fcc0fe835307540e47c8b4",
+          "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "url": "https://www.aibase.com/news/32561",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T18:10:39.190966Z"
+          "published_at": "2026-11-27T02:18:05.523618Z"
         },
         {
-          "id": "8ffaa183187960b5c7eeb69894a566d083efacaa",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "url": "https://www.aibase.com/zh/news/32555",
+          "id": "fee2823699e2e3da474c47d9fd0470a32ef3b6c3",
+          "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "url": "https://www.aibase.com/zh/news/32561",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -288,15 +307,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -312,15 +331,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T18:10:39.190966Z",
-      "latest_at": "2026-11-26T19:10:39.190966Z",
+      "earliest_at": "2026-11-27T02:18:05.523618Z",
+      "latest_at": "2026-11-27T02:18:05.523618Z",
       "primary_item": {
-        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-        "url": "https://www.aibase.com/news/32555",
+        "id": "5f5e3b7ca4b11e3442fcc0fe835307540e47c8b4",
+        "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+        "url": "https://www.aibase.com/news/32561",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-26T18:10:39.190966Z",
+        "published_at": "2026-11-27T02:18:05.523618Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_general",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_2ac6e6ab6505",
+      "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+      "url": "https://www.aibase.com/news/32559",
+      "primary_url": "https://www.aibase.com/news/32559",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
+          "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+          "url": "https://www.aibase.com/news/32559",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:18:05.523618Z"
+        },
+        {
+          "id": "b56588d581e77f2ccbfbc195a48103cd043ed810",
+          "title": "OpenAI 承认 GPT-6.2 计费算错：Astra 消耗快 40%、Sol 快 25%",
+          "url": "https://www.aibase.com/zh/news/32559",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
+          "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+          "url": "https://www.aibase.com/news/32559",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:18:05.523618Z"
+        },
+        {
+          "id": "b56588d581e77f2ccbfbc195a48103cd043ed810",
+          "title": "OpenAI 承认 GPT-6.2 计费算错：Astra 消耗快 40%、Sol 快 25%",
+          "url": "https://www.aibase.com/zh/news/32559",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T02:18:05.523618Z",
+      "latest_at": "2026-11-27T02:18:05.523618Z",
+      "primary_item": {
+        "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
+        "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+        "url": "https://www.aibase.com/news/32559",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-27T02:18:05.523618Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -331,103 +446,26 @@
       }
     },
     {
-      "story_id": "story_c01600d41603",
-      "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "url": "https://huggingface.co/blog/training-swarms",
-      "primary_url": "https://huggingface.co/blog/training-swarms",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
-          "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-          "url": "https://huggingface.co/blog/training-swarms",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-26T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
-          "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-          "url": "https://huggingface.co/blog/training-swarms",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-26T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7581,
-        "story_heat": 0.0
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 34,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T00:00:00Z",
-      "latest_at": "2026-11-26T00:00:00Z",
-      "primary_item": {
-        "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
-        "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-        "url": "https://huggingface.co/blog/training-swarms",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "published_at": "2026-11-26T00:00:00Z",
-        "ai_score": 0.98,
-        "ai_label": "agent_workflow",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_79ca40a374f4",
-      "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-      "url": "https://www.aibase.com/news/32556",
-      "primary_url": "https://www.aibase.com/news/32556",
+      "story_id": "story_b9302b648b40",
+      "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+      "url": "https://www.aibase.com/news/32562",
+      "primary_url": "https://www.aibase.com/news/32562",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
-          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "url": "https://www.aibase.com/news/32556",
+          "id": "9454983cee683bd1a649fd6b9da5455f1ef86a02",
+          "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "url": "https://www.aibase.com/news/32562",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T18:10:39.190966Z"
+          "published_at": "2026-11-27T02:18:05.523618Z"
         },
         {
-          "id": "3bc20fe2ca88633aa7e1254cb4a41b0f904bf2aa",
-          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "url": "https://www.aibase.com/zh/news/32556",
+          "id": "25bf22270f4a091a1fc3fa63ae32561eb612d4a3",
+          "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "url": "https://www.aibase.com/zh/news/32562",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -441,18 +479,18 @@
       ],
       "items": [
         {
-          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
-          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "url": "https://www.aibase.com/news/32556",
+          "id": "9454983cee683bd1a649fd6b9da5455f1ef86a02",
+          "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "url": "https://www.aibase.com/news/32562",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T18:10:39.190966Z"
+          "published_at": "2026-11-27T02:18:05.523618Z"
         },
         {
-          "id": "3bc20fe2ca88633aa7e1254cb4a41b0f904bf2aa",
-          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "url": "https://www.aibase.com/zh/news/32556",
+          "id": "25bf22270f4a091a1fc3fa63ae32561eb612d4a3",
+          "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "url": "https://www.aibase.com/zh/news/32562",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -461,15 +499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -485,17 +523,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T18:10:39.190966Z",
-      "latest_at": "2026-11-26T19:10:39.190966Z",
+      "earliest_at": "2026-11-27T02:18:05.523618Z",
+      "latest_at": "2026-11-27T02:18:05.523618Z",
       "primary_item": {
-        "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
-        "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-        "url": "https://www.aibase.com/news/32556",
+        "id": "9454983cee683bd1a649fd6b9da5455f1ef86a02",
+        "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+        "url": "https://www.aibase.com/news/32562",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-26T18:10:39.190966Z",
+        "published_at": "2026-11-27T02:18:05.523618Z",
         "ai_score": 1.0,
-        "ai_label": "ai_product_update",
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -504,26 +542,26 @@
       }
     },
     {
-      "story_id": "story_983a52a48c0f",
-      "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-      "url": "https://www.aibase.com/news/32549",
-      "primary_url": "https://www.aibase.com/news/32549",
+      "story_id": "story_8dbe0265bab1",
+      "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+      "url": "https://www.aibase.com/news/32557",
+      "primary_url": "https://www.aibase.com/news/32557",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "url": "https://www.aibase.com/news/32549",
+          "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
+          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "url": "https://www.aibase.com/news/32557",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "published_at": "2026-11-27T02:18:05.523618Z"
         },
         {
-          "id": "bb49f468149ceca57eaceec11e004dba98405156",
-          "title": "Anthropic CEO 驳「让渡自由意志」指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "url": "https://www.aibase.com/zh/news/32549",
+          "id": "1124b6e86fc44418495f67590ffe565f08bbe6cc",
+          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试「消耗额度」，把账单摊在你面前",
+          "url": "https://www.aibase.com/zh/news/32557",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -537,18 +575,18 @@
       ],
       "items": [
         {
-          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "url": "https://www.aibase.com/news/32549",
+          "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
+          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "url": "https://www.aibase.com/news/32557",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "published_at": "2026-11-27T02:18:05.523618Z"
         },
         {
-          "id": "bb49f468149ceca57eaceec11e004dba98405156",
-          "title": "Anthropic CEO 驳「让渡自由意志」指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "url": "https://www.aibase.com/zh/news/32549",
+          "id": "1124b6e86fc44418495f67590ffe565f08bbe6cc",
+          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试「消耗额度」，把账单摊在你面前",
+          "url": "https://www.aibase.com/zh/news/32557",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -557,115 +595,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 45,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "methodology_evaluation",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T09:01:06.506270Z",
-      "latest_at": "2026-11-26T09:01:06.506270Z",
-      "primary_item": {
-        "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-        "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-        "url": "https://www.aibase.com/news/32549",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-26T09:01:06.506270Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_product_update",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "methodology_evaluation",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_76c15d088541",
-      "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
-      "url": "https://www.aibase.com/news/32541",
-      "primary_url": "https://www.aibase.com/news/32541",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
-          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
-          "url": "https://www.aibase.com/news/32541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
-        },
-        {
-          "id": "c52ca508c64e9fa53f6de562def1bc5b9bb82a9c",
-          "title": "OpenAI 开测「私有推理」：模型运行时隔离企业数据，内部员工也无法查看",
-          "url": "https://www.aibase.com/zh/news/32541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
-          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
-          "url": "https://www.aibase.com/news/32541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
-        },
-        {
-          "id": "c52ca508c64e9fa53f6de562def1bc5b9bb82a9c",
-          "title": "OpenAI 开测「私有推理」：模型运行时隔离企业数据，内部员工也无法查看",
-          "url": "https://www.aibase.com/zh/news/32541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8636,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -677,15 +619,15 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T09:01:06.506270Z",
-      "latest_at": "2026-11-26T09:01:06.506270Z",
+      "earliest_at": "2026-11-27T02:18:05.523618Z",
+      "latest_at": "2026-11-27T02:18:05.523618Z",
       "primary_item": {
-        "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
-        "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
-        "url": "https://www.aibase.com/news/32541",
+        "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
+        "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+        "url": "https://www.aibase.com/news/32557",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-26T09:01:06.506270Z",
+        "published_at": "2026-11-27T02:18:05.523618Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
         "enterprise_score": 0,
@@ -756,56 +698,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-11-26T19:10:39.190966Z"
-        },
-        {
-          "id": "8cb91364a95e119de13d5203748b48411ba13bc8",
-          "title": "产品宣传片、口播剪辑、3D 动画、滚动交互网页，Antigravity 能参与的创作远不止写代码。这篇整理了七种工具组合，串起程序化动效、多轨剪辑、本地后期、AI 分镜生成、Blender 建模、视频转网页和长视频批量切片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "8e6e2246cad6fc35437cee12bf66b4c24bc925b5",
-          "title": "从空文件夹到一座能漫游的曼哈顿，作者花了四天，让 AI 写代码搭出两万栋楼，再拍成 60 秒的 2K 短片。这篇文章把真实地图搭城、AI 生成地标、浏览器摆镜头、Blender 渲染到配音剪辑的七步流程完整拆开，也记录了塑料感建筑、失真反光和漫长渲染的返工过程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "7abbc0b0bcedbac0616d630db04cd13bdf430ef3",
-          "title": "想上手Gemini 4 Neon的开发者，这篇Antigravity新版实测不容错过。作者不仅列出了完整的安装配置步骤，可视化浏览器子代理直观可控，还分享了模型编排、蜂群并发、固定工作流三个高阶技巧。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "618b44ad2af8020d93c511fc9c2b0dbb656e3b01",
-          "title": "想做有设计感的动态网页，光靠文字说不清；想让 AI 视频按指定动作走，又总在反复生成。歸藏把 Neon 和 MAGI-2 接到一起，跑通了两套互补流程：先用视频确定配色与转场，再转成滚动交互网页；先用代码排好动作节奏，再让视频模型生成完整画面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "1c229b57573dd64cedc650f567beed3a4388f47f",
-          "title": "老金这份指南可以帮你稳妥拿下黑五99.99美元一年的Google AI Pro，解锁Gemini 4 Neon与Antigravity。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
         }
       ],
-      "source_count": 11,
+      "source_count": 6,
       "source_names": [
-        "社区更新 · 2026-11-25",
         "社区更新 · 2026-11-26"
       ],
       "items": [
@@ -862,68 +758,23 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-11-26T19:10:39.190966Z"
-        },
-        {
-          "id": "8cb91364a95e119de13d5203748b48411ba13bc8",
-          "title": "产品宣传片、口播剪辑、3D 动画、滚动交互网页，Antigravity 能参与的创作远不止写代码。这篇整理了七种工具组合，串起程序化动效、多轨剪辑、本地后期、AI 分镜生成、Blender 建模、视频转网页和长视频批量切片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "8e6e2246cad6fc35437cee12bf66b4c24bc925b5",
-          "title": "从空文件夹到一座能漫游的曼哈顿，作者花了四天，让 AI 写代码搭出两万栋楼，再拍成 60 秒的 2K 短片。这篇文章把真实地图搭城、AI 生成地标、浏览器摆镜头、Blender 渲染到配音剪辑的七步流程完整拆开，也记录了塑料感建筑、失真反光和漫长渲染的返工过程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "7abbc0b0bcedbac0616d630db04cd13bdf430ef3",
-          "title": "想上手Gemini 4 Neon的开发者，这篇Antigravity新版实测不容错过。作者不仅列出了完整的安装配置步骤，可视化浏览器子代理直观可控，还分享了模型编排、蜂群并发、固定工作流三个高阶技巧。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "618b44ad2af8020d93c511fc9c2b0dbb656e3b01",
-          "title": "想做有设计感的动态网页，光靠文字说不清；想让 AI 视频按指定动作走，又总在反复生成。歸藏把 Neon 和 MAGI-2 接到一起，跑通了两套互补流程：先用视频确定配色与转场，再转成滚动交互网页；先用代码排好动作节奏，再让视频模型生成完整画面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
-        },
-        {
-          "id": "1c229b57573dd64cedc650f567beed3a4388f47f",
-          "title": "老金这份指南可以帮你稳妥拿下黑五99.99美元一年的Google AI Pro，解锁Gemini 4 Neon与Antigravity。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-26T00:34:21.460280Z"
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6516,
+      "importance": 0.6516,
+      "importance_score": 0.6516,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9022,
         "story_heat": 1.0
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -933,7 +784,7 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-26T00:34:21.460280Z",
+      "earliest_at": "2026-11-26T19:10:39.190966Z",
       "latest_at": "2026-11-26T19:10:39.190966Z",
       "primary_item": {
         "id": "53ea9f3a648105bd2792e773cd68aa6a78319755",
@@ -952,26 +803,26 @@
       }
     },
     {
-      "story_id": "story_51e2f1d1c883",
-      "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-      "url": "https://www.aibase.com/news/32553",
-      "primary_url": "https://www.aibase.com/news/32553",
+      "story_id": "story_7af64f3559d3",
+      "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+      "url": "https://www.aibase.com/news/32563",
+      "primary_url": "https://www.aibase.com/news/32563",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
-          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "url": "https://www.aibase.com/news/32553",
+          "id": "567f3ddf41d0c78be95f263595bee923d3cc411a",
+          "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "url": "https://www.aibase.com/news/32563",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "published_at": "2026-11-27T02:18:05.523618Z"
         },
         {
-          "id": "7d66d40d5e18431ba281af0c30de79ddb3966f4a",
-          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "url": "https://www.aibase.com/zh/news/32553",
+          "id": "52d7c7a042ffd900fb34c4c0ae72de330d35eed2",
+          "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "url": "https://www.aibase.com/zh/news/32563",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -985,18 +836,18 @@
       ],
       "items": [
         {
-          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
-          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "url": "https://www.aibase.com/news/32553",
+          "id": "567f3ddf41d0c78be95f263595bee923d3cc411a",
+          "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "url": "https://www.aibase.com/news/32563",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "published_at": "2026-11-27T02:18:05.523618Z"
         },
         {
-          "id": "7d66d40d5e18431ba281af0c30de79ddb3966f4a",
-          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "url": "https://www.aibase.com/zh/news/32553",
+          "id": "52d7c7a042ffd900fb34c4c0ae72de330d35eed2",
+          "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+          "url": "https://www.aibase.com/zh/news/32563",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1005,19 +856,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 43,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1029,17 +880,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T09:01:06.506270Z",
-      "latest_at": "2026-11-26T09:01:06.506270Z",
+      "earliest_at": "2026-11-27T02:18:05.523618Z",
+      "latest_at": "2026-11-27T02:18:05.523618Z",
       "primary_item": {
-        "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
-        "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-        "url": "https://www.aibase.com/news/32553",
+        "id": "567f3ddf41d0c78be95f263595bee923d3cc411a",
+        "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
+        "url": "https://www.aibase.com/news/32563",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-26T09:01:06.506270Z",
+        "published_at": "2026-11-27T02:18:05.523618Z",
         "ai_score": 1.0,
-        "ai_label": "infra_compute",
+        "ai_label": "industry_business",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1101,19 +952,19 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6407,
-      "importance": 0.6407,
-      "importance_score": 0.6407,
+      "score": 0.6239,
+      "importance": 0.6239,
+      "importance_score": 0.6239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9552,
+        "recency": 0.8618,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 41,
+      "enterprise_importance_score": 40,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1142,94 +993,129 @@
       }
     },
     {
-      "story_id": "story_2176634eeb85",
-      "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
-      "url": "https://www.aibase.com/news/32551",
-      "primary_url": "https://www.aibase.com/news/32551",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_19dd4641586d",
+      "title": "AI让自主托管重新变得有趣",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "primary_url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "janlukas.blog",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
-          "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
-          "url": "https://www.aibase.com/news/32551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "id": "92db19404cf7e4a88fdfc43db6354196e332d0d1",
+          "title": "AI让自主托管重新变得有趣",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "janlukas.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T02:07:37.097000Z"
         },
         {
-          "id": "26abc5a7e1912ef646d5cd3829b54830585adc0c",
-          "title": "上海 AI Lab 开源 Sage-Interaction，以 1.29 秒极致延迟重塑全双工交互新范式",
-          "url": "https://www.aibase.com/zh/news/32551",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
+          "title": "AI 让自主托管重新变得有趣",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "janlukas.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T23:27:36.973000Z"
+        },
+        {
+          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
+          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T21:47:45Z"
+        },
+        {
+          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
+          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
+          "url": "https://news.ycombinator.com/item?id=50660180",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T21:47:45Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "hackernews",
+        "janlukas.blog"
       ],
       "items": [
         {
-          "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
-          "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
-          "url": "https://www.aibase.com/news/32551",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "id": "92db19404cf7e4a88fdfc43db6354196e332d0d1",
+          "title": "AI让自主托管重新变得有趣",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "janlukas.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T02:07:37.097000Z"
         },
         {
-          "id": "26abc5a7e1912ef646d5cd3829b54830585adc0c",
-          "title": "上海 AI Lab 开源 Sage-Interaction，以 1.29 秒极致延迟重塑全双工交互新范式",
-          "url": "https://www.aibase.com/zh/news/32551",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
+          "title": "AI 让自主托管重新变得有趣",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "janlukas.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T23:27:36.973000Z"
+        },
+        {
+          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
+          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T21:47:45Z"
+        },
+        {
+          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
+          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
+          "url": "https://news.ycombinator.com/item?id=50660180",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T21:47:45Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5953,
+      "importance": 0.5953,
+      "importance_score": 0.5953,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8636,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.75
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-26T09:01:06.506270Z",
-      "latest_at": "2026-11-26T09:01:06.506270Z",
+      "earliest_at": "2026-11-26T21:47:45Z",
+      "latest_at": "2026-11-27T02:07:37.097000Z",
       "primary_item": {
-        "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
-        "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
-        "url": "https://www.aibase.com/news/32551",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-26T09:01:06.506270Z",
-        "ai_score": 1.0,
-        "ai_label": "ai_tech",
+        "id": "92db19404cf7e4a88fdfc43db6354196e332d0d1",
+        "title": "AI让自主托管重新变得有趣",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "source": "janlukas.blog",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-27T02:07:37.097000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1238,26 +1124,26 @@
       }
     },
     {
-      "story_id": "story_6394389d4f0c",
-      "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
-      "url": "https://www.aibase.com/news/32546",
-      "primary_url": "https://www.aibase.com/news/32546",
+      "story_id": "story_621d4d2e1185",
+      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+      "url": "https://www.aibase.com/news/32555",
+      "primary_url": "https://www.aibase.com/news/32555",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
-          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
-          "url": "https://www.aibase.com/news/32546",
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "url": "https://www.aibase.com/news/32555",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "published_at": "2026-11-26T18:10:39.190966Z"
         },
         {
-          "id": "2731a831da7691724695839276538c19e3d0f96d",
-          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
-          "url": "https://www.aibase.com/zh/news/32546",
+          "id": "8ffaa183187960b5c7eeb69894a566d083efacaa",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "url": "https://www.aibase.com/zh/news/32555",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1271,18 +1157,18 @@
       ],
       "items": [
         {
-          "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
-          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
-          "url": "https://www.aibase.com/news/32546",
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "url": "https://www.aibase.com/news/32555",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "published_at": "2026-11-26T18:10:39.190966Z"
         },
         {
-          "id": "2731a831da7691724695839276538c19e3d0f96d",
-          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
-          "url": "https://www.aibase.com/zh/news/32546",
+          "id": "8ffaa183187960b5c7eeb69894a566d083efacaa",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "url": "https://www.aibase.com/zh/news/32555",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1291,15 +1177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 0.8893,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1315,17 +1201,339 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T09:01:06.506270Z",
-      "latest_at": "2026-11-26T09:01:06.506270Z",
+      "earliest_at": "2026-11-26T18:10:39.190966Z",
+      "latest_at": "2026-11-26T19:10:39.190966Z",
       "primary_item": {
-        "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
-        "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
-        "url": "https://www.aibase.com/news/32546",
+        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "url": "https://www.aibase.com/news/32555",
         "source": "AIbase",
         "source_name": "AIbase",
-        "published_at": "2026-11-26T09:01:06.506270Z",
+        "published_at": "2026-11-26T18:10:39.190966Z",
         "ai_score": 1.0,
         "ai_label": "model_release",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_79ca40a374f4",
+      "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+      "url": "https://www.aibase.com/news/32556",
+      "primary_url": "https://www.aibase.com/news/32556",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "url": "https://www.aibase.com/news/32556",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T18:10:39.190966Z"
+        },
+        {
+          "id": "3bc20fe2ca88633aa7e1254cb4a41b0f904bf2aa",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "url": "https://www.aibase.com/zh/news/32556",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "url": "https://www.aibase.com/news/32556",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T18:10:39.190966Z"
+        },
+        {
+          "id": "3bc20fe2ca88633aa7e1254cb4a41b0f904bf2aa",
+          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+          "url": "https://www.aibase.com/zh/news/32556",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8893,
+        "story_heat": 0.25
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 42,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T18:10:39.190966Z",
+      "latest_at": "2026-11-26T19:10:39.190966Z",
+      "primary_item": {
+        "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
+        "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
+        "url": "https://www.aibase.com/news/32556",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-26T18:10:39.190966Z",
+        "ai_score": 1.0,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_82a13b62ffcb",
+      "title": "OpenAI 可能已进入成本控制模式",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+      "primary_url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+      "source": "micjm.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0f015da0e610d45312dc3979c7b685f605731b1f",
+          "title": "OpenAI 可能已进入成本控制模式",
+          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+          "source": "micjm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T21:19:40.867000Z"
+        },
+        {
+          "id": "d0269c8b181bcfe8aa20a949f645396d641c4ce0",
+          "title": "OpenAI 可能已进入成本控制模式 / OpenAI may be in cost control mode",
+          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T07:33:12Z"
+        },
+        {
+          "id": "ce747620b3533da66fbd6209a4708a8d737b2415",
+          "title": "OpenAI可能处于成本控制模式 / OpenAI may be in cost control mode",
+          "url": "https://news.ycombinator.com/item?id=50652527",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T07:33:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "micjm.com"
+      ],
+      "items": [
+        {
+          "id": "0f015da0e610d45312dc3979c7b685f605731b1f",
+          "title": "OpenAI 可能已进入成本控制模式",
+          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+          "source": "micjm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T21:19:40.867000Z"
+        },
+        {
+          "id": "d0269c8b181bcfe8aa20a949f645396d641c4ce0",
+          "title": "OpenAI 可能已进入成本控制模式 / OpenAI may be in cost control mode",
+          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T07:33:12Z"
+        },
+        {
+          "id": "ce747620b3533da66fbd6209a4708a8d737b2415",
+          "title": "OpenAI可能处于成本控制模式 / OpenAI may be in cost control mode",
+          "url": "https://news.ycombinator.com/item?id=50652527",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T07:33:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5583,
+      "importance": 0.5583,
+      "importance_score": 0.5583,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9307,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T07:33:12Z",
+      "latest_at": "2026-11-26T21:19:40.867000Z",
+      "primary_item": {
+        "id": "0f015da0e610d45312dc3979c7b685f605731b1f",
+        "title": "OpenAI 可能已进入成本控制模式",
+        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+        "source": "micjm.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-26T21:19:40.867000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_product_update",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_6f6a6b07f17a",
+      "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+      "primary_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+      "source": "techstackups.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
+          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "source": "techstackups.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T19:27:56.609000Z"
+        },
+        {
+          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
+          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T09:44:23Z"
+        },
+        {
+          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
+          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "url": "https://news.ycombinator.com/item?id=50653477",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T09:44:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "techstackups.com"
+      ],
+      "items": [
+        {
+          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
+          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "source": "techstackups.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T19:27:56.609000Z"
+        },
+        {
+          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
+          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T09:44:23Z"
+        },
+        {
+          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
+          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "url": "https://news.ycombinator.com/item?id=50653477",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T09:44:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5539,
+      "importance": 0.5539,
+      "importance_score": 0.5539,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.906,
+        "story_heat": 0.5
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 36,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T09:44:23Z",
+      "latest_at": "2026-11-26T19:27:56.609000Z",
+      "primary_item": {
+        "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
+        "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+        "source": "techstackups.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-26T19:27:56.609000Z",
+        "ai_score": 0.65,
+        "ai_label": "developer_tool",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1406,19 +1614,19 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5688,
-      "importance": 0.5688,
-      "importance_score": 0.5688,
+      "score": 0.5514,
+      "importance": 0.5514,
+      "importance_score": 0.5514,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9888,
+        "recency": 0.8921,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 37,
+      "enterprise_importance_score": 36,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1447,94 +1655,92 @@
       }
     },
     {
-      "story_id": "story_05ccc7cc9bcb",
-      "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-      "url": "https://www.aibase.com/news/32548",
-      "primary_url": "https://www.aibase.com/news/32548",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_50f5c4b995bf",
+      "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议",
+      "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
+      "primary_url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
-          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-          "url": "https://www.aibase.com/news/32548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "id": "6f0ec89b713ceceaefdf28d68d2205124cb974fc",
+          "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议",
+          "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T00:47:45.029000Z"
         },
         {
-          "id": "0316cd5485f75e6d73f25bcfc0372484281aa25a",
-          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-          "url": "https://www.aibase.com/zh/news/32548",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "034c791313ffc056ec53daa4f7cb24f2b0240352",
+          "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议 / What smart people are saying about an AI-assisted theory of quantum gravity",
+          "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-26T23:50:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
-          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-          "url": "https://www.aibase.com/news/32548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:01:06.506270Z"
+          "id": "6f0ec89b713ceceaefdf28d68d2205124cb974fc",
+          "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议",
+          "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T00:47:45.029000Z"
         },
         {
-          "id": "0316cd5485f75e6d73f25bcfc0372484281aa25a",
-          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-          "url": "https://www.aibase.com/zh/news/32548",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "034c791313ffc056ec53daa4f7cb24f2b0240352",
+          "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议 / What smart people are saying about an AI-assisted theory of quantum gravity",
+          "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-26T23:50:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
-      "importance_label": "行业动态",
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9785,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 42,
+      "enterprise_importance_score": 37,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
       "enterprise_reason": "未命中明确企业AI业务场景",
       "enterprise_is_relevant": false,
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-26T09:01:06.506270Z",
-      "latest_at": "2026-11-26T09:01:06.506270Z",
+      "earliest_at": "2026-11-26T23:50:35Z",
+      "latest_at": "2026-11-27T00:47:45.029000Z",
       "primary_item": {
-        "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
-        "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-        "url": "https://www.aibase.com/news/32548",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "published_at": "2026-11-26T09:01:06.506270Z",
-        "ai_score": 1.0,
-        "ai_label": "model_release",
+        "id": "6f0ec89b713ceceaefdf28d68d2205124cb974fc",
+        "title": "一位斯坦福大学物理学家放弃了一项由人工智能辅助提出的理论，该理论曾引发科学界争议",
+        "url": "https://www.businessinsider.com/stanford-physicist-openai-astra-quantum-gravity-smart-people-say-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing",
+        "published_at": "2026-11-27T00:47:45.029000Z",
+        "ai_score": 0.65,
+        "ai_label": "ai_general",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1543,67 +1749,68 @@
       }
     },
     {
-      "story_id": "story_d13b953c2793",
-      "title": "金价徘徊在15个月低点附近，交易员密切关注美联储政策走向及人工智能类股走势",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
+      "story_id": "story_6bac70b0e180",
+      "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+      "primary_url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "a34f36adda18d4ce2b7b1ef9f3ea8be246f6ed32",
-          "title": "金价徘徊在15个月低点附近，交易员密切关注美联储政策走向及人工智能类股走势",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T17:19:48.713000Z"
+          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T00:03:18Z"
         },
         {
-          "id": "ce09a74995f8bf2a1a43878462278727cf72d7e0",
-          "title": "黄金在遭遇重挫后震荡，交易员正评估美联储政策走向及对人工智能的担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T07:11:32.404000Z"
+          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "url": "https://news.ycombinator.com/item?id=50661218",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T00:03:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.bloomberg.com"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "a34f36adda18d4ce2b7b1ef9f3ea8be246f6ed32",
-          "title": "金价徘徊在15个月低点附近，交易员密切关注美联储政策走向及人工智能类股走势",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T17:19:48.713000Z"
+          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T00:03:18Z"
         },
         {
-          "id": "ce09a74995f8bf2a1a43878462278727cf72d7e0",
-          "title": "黄金在遭遇重挫后震荡，交易员正评估美联储政策走向及对人工智能的担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T07:11:32.404000Z"
+          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "url": "https://news.ycombinator.com/item?id=50661218",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T00:03:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9737,
+        "recency": 0.9681,
         "story_heat": 0.25
       },
       "enterprise_score": 0,
@@ -1617,17 +1824,93 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-26T07:11:32.404000Z",
-      "latest_at": "2026-11-26T17:19:48.713000Z",
+      "earliest_at": "2026-11-27T00:03:18Z",
+      "latest_at": "2026-11-27T00:03:18Z",
       "primary_item": {
-        "id": "a34f36adda18d4ce2b7b1ef9f3ea8be246f6ed32",
-        "title": "金价徘徊在15个月低点附近，交易员密切关注美联储政策走向及人工智能类股走势",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-26T17:19:48.713000Z",
+        "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
+        "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli",
+        "published_at": "2026-11-27T00:03:18Z",
         "ai_score": 0.65,
-        "ai_label": "ai_general",
+        "ai_label": "curated_hotlist",
+        "enterprise_score": 0,
+        "enterprise_primary_topic": null,
+        "enterprise_topics": [],
+        "enterprise_content_type": "general_news",
+        "enterprise_reason": "未命中明确企业AI业务场景"
+      }
+    },
+    {
+      "story_id": "story_000b666239e9",
+      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+      "url": "https://www.aibase.com/news/32560",
+      "primary_url": "https://www.aibase.com/news/32560",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "url": "https://www.aibase.com/news/32560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:18:05.523618Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "url": "https://www.aibase.com/news/32560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T02:18:05.523618Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "enterprise_score": 0,
+      "enterprise_importance_score": 43,
+      "enterprise_primary_topic": null,
+      "enterprise_topics": [],
+      "enterprise_content_type": "general_news",
+      "enterprise_reason": "未命中明确企业AI业务场景",
+      "enterprise_is_relevant": false,
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T02:18:05.523618Z",
+      "latest_at": "2026-11-27T02:18:05.523618Z",
+      "primary_item": {
+        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "url": "https://www.aibase.com/news/32560",
+        "source": "AIbase",
+        "source_name": "AIbase",
+        "published_at": "2026-11-27T02:18:05.523618Z",
+        "ai_score": 1.0,
+        "ai_label": "agent_workflow",
         "enterprise_score": 0,
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
@@ -1708,19 +1991,19 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8282,
+        "recency": 0.7473,
         "story_heat": 0.5
       },
       "enterprise_score": 0,
-      "enterprise_importance_score": 36,
+      "enterprise_importance_score": 35,
       "enterprise_primary_topic": null,
       "enterprise_topics": [],
       "enterprise_content_type": "general_news",
@@ -1745,307 +2028,6 @@
         "enterprise_primary_topic": null,
         "enterprise_topics": [],
         "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_620c989ebbb5",
-      "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限",
-      "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
-      "primary_url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a952ee8fb0bb52582d187aced6337401201de00f",
-          "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限",
-          "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T14:07:41.523000Z"
-        },
-        {
-          "id": "c0b29b38c09a5b067164f5f846872e0074d1ff8a",
-          "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限 / OpenAI's pricing mix-up means most users of its new AI models will hit limits faster",
-          "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-26T13:15:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "a952ee8fb0bb52582d187aced6337401201de00f",
-          "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限",
-          "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T14:07:41.523000Z"
-        },
-        {
-          "id": "c0b29b38c09a5b067164f5f846872e0074d1ff8a",
-          "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限 / OpenAI's pricing mix-up means most users of its new AI models will hit limits faster",
-          "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-26T13:15:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9297,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T13:15:01Z",
-      "latest_at": "2026-11-26T14:07:41.523000Z",
-      "primary_item": {
-        "id": "a952ee8fb0bb52582d187aced6337401201de00f",
-        "title": "OpenAI的定价失误意味着其新AI模型的大多数用户将更快达到使用上限",
-        "url": "https://www.businessinsider.com/openai-token-billing-cost-discount-mistake-sol-astra-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-26T14:07:41.523000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_64a870b6a927",
-      "title": "Moat：您的 OpenRouter 替代方案",
-      "url": "https://commandcode.ai/moat",
-      "primary_url": "https://commandcode.ai/moat",
-      "source": "commandcode.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "01140fd2dbfa741f02e805dba26cfef5eff3d6e0",
-          "title": "Moat：您的 OpenRouter 替代方案",
-          "url": "https://commandcode.ai/moat",
-          "source": "commandcode.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T12:15:39.579000Z"
-        },
-        {
-          "id": "14d0f5f1db53313868fef1700211f34bb4d39b70",
-          "title": "Moat：您的 OpenRouter 替代方案 / Moat: Your OpenRouter Replacement",
-          "url": "https://commandcode.ai/moat",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T06:32:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "commandcode.ai"
-      ],
-      "items": [
-        {
-          "id": "01140fd2dbfa741f02e805dba26cfef5eff3d6e0",
-          "title": "Moat：您的 OpenRouter 替代方案",
-          "url": "https://commandcode.ai/moat",
-          "source": "commandcode.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T12:15:39.579000Z"
-        },
-        {
-          "id": "14d0f5f1db53313868fef1700211f34bb4d39b70",
-          "title": "Moat：您的 OpenRouter 替代方案 / Moat: Your OpenRouter Replacement",
-          "url": "https://commandcode.ai/moat",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T06:32:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9049,
-        "story_heat": 0.25
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 36,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "general_news",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T06:32:48Z",
-      "latest_at": "2026-11-26T12:15:39.579000Z",
-      "primary_item": {
-        "id": "01140fd2dbfa741f02e805dba26cfef5eff3d6e0",
-        "title": "Moat：您的 OpenRouter 替代方案",
-        "url": "https://commandcode.ai/moat",
-        "source": "commandcode.ai",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-26T12:15:39.579000Z",
-        "ai_score": 0.65,
-        "ai_label": "ai_general",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "general_news",
-        "enterprise_reason": "未命中明确企业AI业务场景"
-      }
-    },
-    {
-      "story_id": "story_f63f4cad1468",
-      "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-      "url": "https://github.com/lsernau/grh-lean",
-      "primary_url": "https://github.com/lsernau/grh-lean",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:55:35.524000Z"
-        },
-        {
-          "id": "5a378a7800aa7879082998e91ae2ab4a9a007ad6",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T21:48:10Z"
-        },
-        {
-          "id": "a504151065ef7ed7fcfaf2446e07757b4346f198",
-          "title": "Anthropic 的 GRH Lean 验证的更短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "url": "https://news.ycombinator.com/item?id=50648050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T21:48:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:55:35.524000Z"
-        },
-        {
-          "id": "5a378a7800aa7879082998e91ae2ab4a9a007ad6",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T21:48:10Z"
-        },
-        {
-          "id": "a504151065ef7ed7fcfaf2446e07757b4346f198",
-          "title": "Anthropic 的 GRH Lean 验证的更短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "url": "https://news.ycombinator.com/item?id=50648050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T21:48:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7464,
-        "story_heat": 0.5
-      },
-      "enterprise_score": 0,
-      "enterprise_importance_score": 35,
-      "enterprise_primary_topic": null,
-      "enterprise_topics": [],
-      "enterprise_content_type": "product_update",
-      "enterprise_reason": "未命中明确企业AI业务场景",
-      "enterprise_is_relevant": false,
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T21:48:10Z",
-      "latest_at": "2026-11-25T22:55:35.524000Z",
-      "primary_item": {
-        "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
-        "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-        "url": "https://github.com/lsernau/grh-lean",
-        "source": "github.com",
-        "source_name": "Buzzing",
-        "published_at": "2026-11-25T22:55:35.524000Z",
-        "ai_score": 0.65,
-        "ai_label": "model_release",
-        "enterprise_score": 0,
-        "enterprise_primary_topic": null,
-        "enterprise_topics": [],
-        "enterprise_content_type": "product_update",
         "enterprise_reason": "未命中明确企业AI业务场景"
       }
     }
